@@ -223,18 +223,18 @@ def clean_text_to_markdown(text: str) -> str:
 
 def parse_blogger_xml(file_path: str, output_dir: str = "blog_posts", include_comments: bool = False):
     """
-    Parses the Blogger XML file and creates individual Markdown files for each entry.
-    - If include_comments=False, entries tagged with 'http://schemas.google.com/blogger/2008/kind#comment' are skipped.
-    - Each post includes YAML frontmatter with title, date, author, tags, draft status, and post ID.
+    Parses the Blogger XML file or Atom feed file and creates individual Markdown files for each entry.
+    Supports both the original Blogger export XML format and the newer Google Takeout Blogger 2018 feed.atom format.
     """
     # Parse the XML file
     tree = ET.parse(file_path)
     root = tree.getroot()
     
-    # Namespace handling
+    # Namespace handling for both formats
     namespaces = {
         'atom': 'http://www.w3.org/2005/Atom',
-        'app': 'http://purl.org/atom/app#'
+        'app': 'http://purl.org/atom/app#',
+        'blogger': 'http://schemas.google.com/blogger/2018'
     }
     
     # Find all <entry> tags
@@ -249,49 +249,88 @@ def parse_blogger_xml(file_path: str, output_dir: str = "blog_posts", include_co
         if entry_id_elem is None:
             continue
         entry_id_text = entry_id_elem.text or ''
+        entry_id = entry_id_text.split(':')[-1]  # Use the last part of the ID as the identifier
 
-        # Extract <category> terms (used for filtering and metadata)
-        categories = entry.findall('atom:category', namespaces)
-        category_terms = [cat.attrib.get('term', '') for cat in categories]
-        
-        # Identify entry kind using the scheme "http://schemas.google.com/g/2005#kind"
-        entry_kind = None
-        for cat in categories:
-            if cat.attrib.get('scheme') == 'http://schemas.google.com/g/2005#kind':
-                entry_kind = cat.attrib.get('term', '')
-                break
-        
-        # Fallback if entry_kind is missing (robustness for variant XML schemas)
-        if entry_kind is None:
-            if ".post-" in entry_id_text:
-                is_comment = any('blogger/2008/kind#comment' in term for term in category_terms)
-                if is_comment:
-                    entry_kind = 'http://schemas.google.com/blogger/2008/kind#comment'
-                else:
-                    entry_kind = 'http://schemas.google.com/blogger/2008/kind#post'
+        # Detect schema format
+        blogger_type_elem = entry.find('blogger:type', namespaces)
+        is_atom_2018 = blogger_type_elem is not None
+
+        if is_atom_2018:
+            blogger_type = blogger_type_elem.text or ''
+            
+            # Skip trashed entries
+            blogger_trashed_elem = entry.find('blogger:trashed', namespaces)
+            if blogger_trashed_elem is not None and blogger_trashed_elem.text:
+                continue
+
+            if blogger_type == 'COMMENT':
+                is_comment = True
+                if not include_comments:
+                    continue
+            elif blogger_type in ('POST', 'PAGE'):
+                is_comment = False
             else:
                 continue
 
-        # Process posts and comments, skip settings, templates, etc.
-        if entry_kind == 'http://schemas.google.com/blogger/2008/kind#comment':
-            is_comment = True
-            if not include_comments:
-                continue
-        elif entry_kind == 'http://schemas.google.com/blogger/2008/kind#post':
-            is_comment = False
-        else:
-            # Skip templates, settings, pages, etc.
-            continue
-
-        entry_id = entry_id_text.split(':')[-1]  # Use the last part of the ID as the identifier
-
-        # Check draft status using the correct 'app' namespace
-        is_draft = False
-        control = entry.find('app:control', namespaces)
-        if control is not None:
-            draft = control.find('app:draft', namespaces)
-            if draft is not None and draft.text == 'yes':
+            # Check draft status
+            is_draft = False
+            blogger_status_elem = entry.find('blogger:status', namespaces)
+            if blogger_status_elem is not None and blogger_status_elem.text == 'DRAFT':
                 is_draft = True
+
+            # Extract tags
+            categories = entry.findall('atom:category', namespaces)
+            filtered_tags = [cat.attrib.get('term', '') for cat in categories if cat.attrib.get('term')]
+            tags = ', '.join(filtered_tags) if filtered_tags else 'srbyte'
+        else:
+            # Extract <category> terms (used for filtering and metadata)
+            categories = entry.findall('atom:category', namespaces)
+            category_terms = [cat.attrib.get('term', '') for cat in categories]
+            
+            # Identify entry kind using the scheme "http://schemas.google.com/g/2005#kind"
+            entry_kind = None
+            for cat in categories:
+                if cat.attrib.get('scheme') == 'http://schemas.google.com/g/2005#kind':
+                    entry_kind = cat.attrib.get('term', '')
+                    break
+            
+            # Fallback if entry_kind is missing (robustness for variant XML schemas)
+            if entry_kind is None:
+                if ".post-" in entry_id_text:
+                    is_comment = any('blogger/2008/kind#comment' in term for term in category_terms)
+                    if is_comment:
+                        entry_kind = 'http://schemas.google.com/blogger/2008/kind#comment'
+                    else:
+                        entry_kind = 'http://schemas.google.com/blogger/2008/kind#post'
+                else:
+                    continue
+
+            # Process posts and comments, skip settings, templates, etc.
+            if entry_kind == 'http://schemas.google.com/blogger/2008/kind#comment':
+                is_comment = True
+                if not include_comments:
+                    continue
+            elif entry_kind in ('http://schemas.google.com/blogger/2008/kind#post', 'http://schemas.google.com/blogger/2008/kind#page'):
+                is_comment = False
+            else:
+                # Skip templates, settings, etc.
+                continue
+
+            # Check draft status using the correct 'app' namespace
+            is_draft = False
+            control = entry.find('app:control', namespaces)
+            if control is not None:
+                draft = control.find('app:draft', namespaces)
+                if draft is not None and draft.text == 'yes':
+                    is_draft = True
+
+            # Filter and clean category terms for tags
+            filtered_tags = []
+            for term in category_terms:
+                if not any(skip in term for skip in ['blogger/2008/kind', 'schemas.google.com']):
+                    filtered_tags.append(term)
+            
+            tags = ', '.join(filtered_tags) if filtered_tags else 'srbyte'
 
         # Extract title
         title_element = entry.find('atom:title', namespaces)
@@ -303,7 +342,6 @@ def parse_blogger_xml(file_path: str, output_dir: str = "blog_posts", include_co
         if published_element is not None and published_element.text:
             # Parse the date and format it as YYYY-MM-DD
             try:
-                # Blogger dates are in format: 2009-12-26T18:48:00.001-06:00
                 dt = datetime.datetime.fromisoformat(published_element.text.replace('Z', '+00:00'))
                 published_date = dt.strftime('%Y-%m-%d')
             except:
@@ -312,14 +350,6 @@ def parse_blogger_xml(file_path: str, output_dir: str = "blog_posts", include_co
         # Extract author
         author_element = entry.find('atom:author/atom:name', namespaces)
         author = author_element.text if author_element is not None else "Unknown"
-        
-        # Filter and clean category terms for tags
-        filtered_tags = []
-        for term in category_terms:
-            if not any(skip in term for skip in ['blogger/2008/kind', 'schemas.google.com']):
-                filtered_tags.append(term)
-        
-        tags = ', '.join(filtered_tags) if filtered_tags else 'srbyte'
 
         # Extract <content>
         content = entry.find('atom:content', namespaces)
