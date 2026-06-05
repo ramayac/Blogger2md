@@ -25,8 +25,7 @@ Todos los desarrolladores están tentados a cambiar los tipos de datos en algún
 1. Un desarrollador modifica un tipo de dato en la base de datos (o peor, una tabla entera... o varias). 2. El cambio probablemente provocara un error en mi código (ya no puedo compilar mi parte). 3. Esto implica que tengo que hacer cambios en mi código para que todo funciona como antes. 4. O tengo que esperar a que el desarrollador que modifico la base de datos haga un "Commit" de su código para que altere el mio... y ver si funciona con lo que el hizo. 5. Pueda que su "Commit" altere o no mi código. 6. Si no lo altera, y ahora YO tendré que ver que $%&&/$ altero el tipo, para que mi código funcione (¿cuanto tiempo perdí ya?). 7. Es posible también que el tipo diga después: "bueno, me equivoque, solo estaba probando...". 8. Ahora hay que regresar a la versión anterior del software, perder horas de cambios y ajustes, y realizar el proceso, cada vez que alguien disponga hacer el paso 1. Ademas desarrollar con una base de datos remota es LENTOOOOOOO...
 
 ![image](https://lh3.ggpht.com/Ramayac/SChunc-FvII/AAAAAAAAAs0/ltbMIa8a3HY/nerd1.jpg?imgmax=400)    
-"Imagen: Maldito
-desarrollador, ¡cambiaste todas las tablas sin avisar!"
+"Imagen: Maldito desarrollador, ¡cambiaste todas las tablas sin avisar!"
 
 Regla 2: Siempre ten una sola y respetada fuente para el esquema de tu base de datos (alguien se encarga de mantener y liberar la base de datos para todos).
 

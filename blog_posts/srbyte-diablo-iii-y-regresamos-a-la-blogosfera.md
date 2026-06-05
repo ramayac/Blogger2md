@@ -12,8 +12,7 @@ Así es, termina el ciclo y puedo agregar entradas nuevamente al blog, así que 
 Blizzard ya tiene una pagina de Diablo III en su sitio con un poco de información sobre el estilo de juego y algunas imágenes y videos del mismo:
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/SGep1fOghaI/AAAAAAAAAxg/LaQS1II3C2E/s400/diii.jpg)    
-"Imagen: captura de la
-pagina de Diablo III, en blizzard.com"
+"Imagen: captura de la pagina de Diablo III, en blizzard.com"
 
 Esta es la dirección del sitio:
 
@@ -21,7 +20,6 @@ Esta es la dirección del sitio:
 No duden en ver los videos (trailers)... estoy seguro que al "examinarlos", se recordaran de la pelicula Final Fantasy Spirit Within...
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SGeuKvOghcI/AAAAAAAAAxw/hN1cFp9yMsI/s400/d3pareceFFSW.jpg)    
-"Imagen: Parece que los
-cinematics de D3 tienen la calidad de 'Final Fantasy Spirit Within' yey! :)"
+"Imagen: Parece que los cinematics de D3 tienen la calidad de 'Final Fantasy Spirit Within' yey! :)"
 
 ¡Espero que les guste! Saludos.

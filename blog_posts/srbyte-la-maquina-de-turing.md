@@ -7,16 +7,14 @@ draft: false
 post_id: blog-3515952828243908885.post-4607928593943177246
 ---
 
-![image](https://upload.wikimedia.org/wikipedia/commons/b/b8/Alan_Turing_Memorial_Closer.jpg)     "Imagen de Memorial de Alan
-Turing"
+![image](https://upload.wikimedia.org/wikipedia/commons/b/b8/Alan_Turing_Memorial_Closer.jpg)     "Imagen de Memorial de Alan Turing"
 
 Alan Mathison Turing (23 de junio de 1912 - 7 de junio de 1954). Fue un matemático, científico de la informática, criptógrafo y filósofo inglés.
 
 Se le considera como uno de los padres de la ciencia de la computación. Su fenomenal contribución a este campo, es la formulación de los conceptos de algoritmo y computación con su invento, llamado la "Maquina de Turing".
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Turing_Machine.png/800px-Turing_Machine.png)    
-"Representación artística de una Maquina de
-Turing."
+"Representación artística de una Maquina de Turing."
 
 Si bien la máquina de Turing no es ficticia (puede ser construida), esta sirve más como un modelo extremadamente básico y abstracto de manipulación de símbolos, que a pesar de su relativa simplicidad, puede ser adaptada para simular la lógica de cualquier computadora que pueda ser construida.
 

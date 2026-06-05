@@ -12,8 +12,7 @@ Definitivamente, no hablo de cualquier sitio web. Esta es una lista "pura" y exc
 ¿Necesitas una manera sencilla de respaldar tu computadora? ¿Una nueva forma de descubrir música que se ajuste a tu humor y tus gusto? ¿O necesitas saber como limpiar o como funciona algo? ¿Y que tal si quieres reírte un rato?
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/R9qdPuJ25DI/AAAAAAAAAl8/PnSz8iNi630/s200/wired.jpg)    
-"Imagen: Vida alambrada
-digital"
+"Imagen: Vida alambrada digital"
 
 Pues para todo esto lector, existe un sitio que esta solo a un click de distancia. Aquí dejo una lista de sitios web super útiles, de los que quizás ni siquiera sabias que existen. Si tienes algún sitio que compartir (y YO se que si), deja el vinculo en los comentarios para agregarlos a esta lista (y seras debidamente agradecido).
 

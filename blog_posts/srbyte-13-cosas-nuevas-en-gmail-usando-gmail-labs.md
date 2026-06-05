@@ -12,15 +12,12 @@ Gmail Labs, es una lista gigante de "extensiones" o mas bien características ad
 Se asume, de este momento en adelante y por motivos de conveniencia, que usas tu cuenta con lenguaje Ingles: Pueda ser que Gmail aun no haya habilitado Gmail Labs en tu cuenta, verifica si tienes esta característica corroborando la existencia de la viñeta "Labs" en tus "Settings" :
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SHDm9fOgh2I/AAAAAAAAA1E/yRpZnrjpGks/s400/settings.jpg)    
-"Imagen: Viñeta Labs en las
-Settings de tu cuenta."
+"Imagen: Viñeta Labs en las Settings de tu cuenta."
 
 Si no lo tienes, pues puedes activarlo manualmente así:
 
-1. Ingresa a tu cuenta de Gmail 2. En la barra de direcciones coloca la siguiente linea: > href="https://mail.google.com/mail/?labs=1#settings">https://mail.google.com/mail/?labs=1#settings 3. Ahora verifica la existencia de la viñeta "Labs" en tus "Settings". Al usar cualquier característica de Gmail Labs, veras que en la esquina superior derecha, a un lado de tu nombre de usuario ( "xxxxxx@gmail.com" ) aparece un pequeño icono verde. Este actúa como un acceso directo a la viñeta "Labs" en tus "Settings".
-![image](https://bp0.blogger.com/_ayvorITawE4/SHDsWvOgh6I/AAAAAAAAA1k/KxK9u73GCyY/s400/hey+look.jpg)    
-"Imagen: Icono de
-Gmail Labs y Viñeta de "Labs" (Click para ver más grande)"
+1. Ingresa a tu cuenta de Gmail 2. En la barra de direcciones coloca la siguiente linea: > href="https://mail.google.com/mail/?labs=1#settings">https://mail.google.com/mail/?labs=1#settings 3. Ahora verifica la existencia de la viñeta "Labs" en tus "Settings". Al usar cualquier característica de Gmail Labs, veras que en la esquina superior derecha, a un lado de tu nombre de usuario ( "xxxxxx@gmail.com" ) aparece un pequeño icono verde. Este actúa como un acceso directo a la viñeta "Labs" en tus "Settings". ![image](https://bp0.blogger.com/_ayvorITawE4/SHDsWvOgh6I/AAAAAAAAA1k/KxK9u73GCyY/s400/hey+look.jpg)    
+"Imagen: Icono de Gmail Labs y Viñeta de "Labs" (Click para ver más grande)"
 
 ¡Y listo!, y ahora te preguntaras, ¿qué gano con esto?, bien, aquí esta una lista de extensiones del "Laboratorio" que puedes usar:
 
@@ -46,16 +43,14 @@ Muzzle:
 Con Muzzle, quito lo que para mi son molestos estados de "animo" (o de estatus) de la gente que tengo en mi chat box... si eres como yo: y no quieres saber que están escuchando tus contactos, donde están o que terminaron una relación sentimental de 8 años, pues esta extensión es para ti.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/SHDm9vOgh3I/AAAAAAAAA1M/oWSzmKzKooo/s400/muzzle.jpg)    
-"Imagen: Muzzle, para no ver
-lo que tus amigos llorones/emo ponen en su estado en el chat."
+"Imagen: Muzzle, para no ver lo que tus amigos llorones/emo ponen en su estado en el chat."
 
 Superstars:
 
 Lo bueno de Superstars es que puedo clasificar "visualmente" mis correos al colocarle otras imágenes (superstars) que son mas significativos que una simple estrellita, se pueden utilizar y seleccionar las siguientes imágenes:
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/SHDvoPOgh7I/AAAAAAAAA1s/lODxxd2qTIE/s400/estrellitadimetupuaj.jpg)    
-"Imagen: Estas son las
-estrellas que puedes seleccionar usar en tu correo."
+"Imagen: Estas son las estrellas que puedes seleccionar usar en tu correo."
 
 Lo único malo de Superstars es que aun no se puede filtrar/buscar por el tipo de "estrella" que uno le pone al correo, y que la asignación de la estrella para un correo es arcaica (dando clicks sucesivos para seleccionar la estrella correspondiente... y si te equivocas, comienzas de nuevo).
 
@@ -64,8 +59,7 @@ Signature tweaks:
 Con este te aseguras que tu firma este antes del texto de un correo que se contesta o re-envia...
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SHDyKfOgh8I/AAAAAAAAA10/NJKvFyY9Lbw/s400/signaturetweak.jpg)    
-"Imagen: Signature tweaks es
-definitivamente para gente obsesiva, como yo xD"
+"Imagen: Signature tweaks es definitivamente para gente obsesiva, como yo xD"
 
 Si bien no es un gran impacto visual o de rendimiento el que se obtiene, por lo menos son características que hacen la vida del usuario de Gmail sea ligeramente más agradable, y ademas, son pequeños secretos de los que te puedes jactar con tus amigos (entiéndase usuarios comunes jejeje).
 

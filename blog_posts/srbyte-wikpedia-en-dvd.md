@@ -14,8 +14,7 @@ Wikipedia, la enciclopedia online más popular (y libre), hará una incursión a
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RjiTWkK33wI/AAAAAAAAAVo/9mOgzvdlNnA/s400/Wikipedia05.JPG)    
 
-"Aspecto del Wikipedia
-on DVD edición Inglesa"
+"Aspecto del Wikipedia on DVD edición Inglesa"
 
 El CD, disponible por catorce dólares desde hoy en la web [wikipediaondvd.com](https://wikipediaondvd.com/), está dirigido a, por ejemplo, colegios que no disponen de acceso a internet. Y claro, tambien puede ser descargado. La fundación señaló que está planeando lanzar más CDs con más artículos y, en el futuro, añadirá más lenguajes. No es la primera vez que Wikipedia se escapa al mundo offline. Con anterioridad lanzó una versión en alemán, y se espera otra versión polaca en las próximas semanas.
 

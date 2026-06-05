@@ -18,8 +18,7 @@ En cuestión de minutos apareció [Victor](https://altahoradelanoche.blogspot.co
 
 Los bloggers se fueron sumando poco a poco a la reunión, llego [El Simio](https://elsimio.blogspot.com/) Cuyo singular sentido (flamer) del humor arranco carcajadas... especialmente cuando escribió el URL de su blog con @... Mas Vivo!
 
-![image](https://bp0.blogger.com/_ayvorITawE4/RiuCKlLpwhI/AAAAAAAAASM/oo3eVG0uWfI/s400/cuando+nos+movimos.jpg)    
-Fue necesario unir mesas y cambiarnos de lugar (todos debajo del canopi), luego llega [Oskar](https://comodecialaabuela.blogspot.com/), desde Acajutla, un señor con espíritu joven y alegre. Nos contó que quería llevar a su musa, su abuela (el blog de Oskar se llama "Como decía mi abuela") pero lastimosamente ella tenia un asunto más importante que atender... ¡ jugar Lotería !. Y los bloggers siguieron llegando, [Snipe](https://snipedia.blogspot.com/) y [Gabi Velis](https://gabivelis.blogspot.com/), luego llego [Carlos](https://ysfp.org/) bromeando que era de LPG... pero bien llevo ¡cámara y grabadora! Luego llego [Sir Woody](https://teotihua.org/blog), y al final [Hunnapuh](https://hunnapuh.blogcindario.com/) con uno de sus colaboradores [Jjmar.](https://hunnapuh.blogcindario.com/)
+![image](https://bp0.blogger.com/_ayvorITawE4/RiuCKlLpwhI/AAAAAAAAASM/oo3eVG0uWfI/s400/cuando+nos+movimos.jpg)     Fue necesario unir mesas y cambiarnos de lugar (todos debajo del canopi), luego llega [Oskar](https://comodecialaabuela.blogspot.com/), desde Acajutla, un señor con espíritu joven y alegre. Nos contó que quería llevar a su musa, su abuela (el blog de Oskar se llama "Como decía mi abuela") pero lastimosamente ella tenia un asunto más importante que atender... ¡ jugar Lotería !. Y los bloggers siguieron llegando, [Snipe](https://snipedia.blogspot.com/) y [Gabi Velis](https://gabivelis.blogspot.com/), luego llego [Carlos](https://ysfp.org/) bromeando que era de LPG... pero bien llevo ¡cámara y grabadora! Luego llego [Sir Woody](https://teotihua.org/blog), y al final [Hunnapuh](https://hunnapuh.blogcindario.com/) con uno de sus colaboradores [Jjmar.](https://hunnapuh.blogcindario.com/)
 
 ¿Y el manifiesto blogger?... Mmmm como que hasta que no se redacte mejor, no se va a implementar
 
@@ -29,7 +28,6 @@ Por otra parte, quedamos de acuerdo en muchas cosas... que faltan hacer. La idea
 
 La calma, la buena disposiciones, la alegría y el ingenio dominaron durante toda la reunión... ¡ah! y también "#beber"... ja ja!
 
-![image](https://bp2.blogger.com/_ayvorITawE4/RiuCaFLpwiI/AAAAAAAAASU/Ryp4a2LZQQE/s400/los+bloggers.jpg)    
-Aquí dejo la entrada de Snipe [¿Cuantos bloggers se necesitan para hacer un manifiesto?](https://snipedia.blogspot.com/2007/04/la-tertulia-v10-un-xito.html) , que fue redactada al momento de la reunión y en el que todos participamos. Y también vean la foto que Carlos tomo: [Foto censurada de bloggers Salvadoreños](https://ysfp.org/2007/04/22/reunion-blogger-y-llego-el-dia-5/). Fue un gusto conocerlos a todos, espero verlos nuevamente. Se cuidan y Dios los bendiga.
+![image](https://bp2.blogger.com/_ayvorITawE4/RiuCaFLpwiI/AAAAAAAAASU/Ryp4a2LZQQE/s400/los+bloggers.jpg)     Aquí dejo la entrada de Snipe [¿Cuantos bloggers se necesitan para hacer un manifiesto?](https://snipedia.blogspot.com/2007/04/la-tertulia-v10-un-xito.html) , que fue redactada al momento de la reunión y en el que todos participamos. Y también vean la foto que Carlos tomo: [Foto censurada de bloggers Salvadoreños](https://ysfp.org/2007/04/22/reunion-blogger-y-llego-el-dia-5/). Fue un gusto conocerlos a todos, espero verlos nuevamente. Se cuidan y Dios los bendiga.
 
 PD: Si! lo acepto, robe

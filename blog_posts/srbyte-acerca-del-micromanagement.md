@@ -22,18 +22,15 @@ Más o menos, las preguntas van así:
 Un "Si" a CUALQUIERA de estas preguntas, e inclusive un dudoso "tal vez",significa que posiblemente estas convirtiendo a tus empleados en:
 > "Micromanagement"
 > Zombies
-[Micromanagement](https://en.wikipedia.org/wiki/Micromanagement)
-o Micro-administración es un tipo de administración que consiste en que un líder (administrador) observa y controla detenidamente todo el trabajo de sus subordinados o empleados. Usualmente esta asociado con términos negativos, como en el artículo de ahora ^_^ Mi problema con el Micromanagement, como ya se expuso con el cuestionario de Katy Sierra, es que la gente que es micro-administrada, lentamente se convierten ende Zombies....
+[Micromanagement](https://en.wikipedia.org/wiki/Micromanagement) o Micro-administración es un tipo de administración que consiste en que un líder (administrador) observa y controla detenidamente todo el trabajo de sus subordinados o empleados. Usualmente esta asociado con términos negativos, como en el artículo de ahora ^_^ Mi problema con el Micromanagement, como ya se expuso con el cuestionario de Katy Sierra, es que la gente que es micro-administrada, lentamente se convierten ende Zombies....
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SY-Mnih_TmI/AAAAAAAAB48/w6BV266zlwE/s320/6a00d83451b44369e200e54f5d9d3b8834-800wi.jpg)    
-"La Función
-Zombie"
+"La Función Zombie"
 
 Claro, Zombies, la gente que esta bajo este particular yugo, eventualmente se convierten individuos que no pueden hacer nada más que lo que tienen planeado. Gente que no es pro-activa, que esta deprimida, que simplemente entra y sale del trabajo, sin el mas mínimo deseo de codificar bien, de aprender, de crecer como personas y profesionales... Ok, ok, no todos son así... pero sin lugar a dudas, mientras mas tiempo se pasa bajo esta "metodología", es mas factible que se termine así. Poco a poco, estas personas simplemente hacen lo que les dicen que hagan. Y así se enreda mas su trabajo, y tambien impacta a pobre infeliz que tenga que mantener el codigo que digito el zombie en cuestion. [Y ya saben que implica el código mal escrito](https://www.srbyte.com/2008/12/en-una-empresa-el-codigo-es-el-enemigo.html).
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SYdO0ORiQGI/AAAAAAAAB4s/98LVpeJHGfM/s320/micromanage.jpg)    
-"El Micromanagement, aplasta
-la actitud pro-activa de los individuos."
+"El Micromanagement, aplasta la actitud pro-activa de los individuos."
 
 Además, ¿quien quiere trabajar con Zombies? No se puede aprender mucho de ellos, lo que yo he aprendido es "pasar el rato". Yo, no quiero trabajar con personas que no son proactivas, o que no pueden decidir sobre lo que se hacer (o como se hace).
 
@@ -41,7 +38,6 @@ En simples y pocas palabras, Micromanagement sobre programadores o software deve
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SYdO0nOQe8I/AAAAAAAAB40/MeiOBtTIiKc/s320/2-19-08MicroTrap.jpg)    
 
-"Utilizar Micromanagement, se asocia con trampas para despedir
-a las personas."
+"Utilizar Micromanagement, se asocia con trampas para despedir a las personas."
 
 ¿Utilizan Micromanagement en tu trabajo? ¿Esta tu jefe obsesionado con este tipo de técnica?

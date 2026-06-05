@@ -46,10 +46,8 @@ Por el camino quedan ya [más de 300.000 resultados en Google](https://www.googl
 
 [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0) [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0) [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0) [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0) [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0) [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0) [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0)
 
-Camisas:
-![image](https://bp0.blogger.com/_ayvorITawE4/RjscWEK33yI/AAAAAAAAAV4/JAMN3wXmjyY/s400/09F91102b.jpg)    
-"Camisa con los 32
-dígitos"
+Camisas: ![image](https://bp0.blogger.com/_ayvorITawE4/RjscWEK33yI/AAAAAAAAAV4/JAMN3wXmjyY/s400/09F91102b.jpg)    
+"Camisa con los 32 dígitos"
 
 Nombres de dominio, noticias falsas con el contenido de la noticia verdadera, anuncios, etc, etc, etc... ¿Y si hay demanda contra Digg? Quizá alguien recuerde la polémica y decida ayudar a costear la ayuda legal (o quizás no) Eso si, esto ha dejado en claro quien manda...
 > Digg.com bienvenido a la

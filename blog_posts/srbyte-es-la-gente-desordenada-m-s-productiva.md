@@ -15,8 +15,7 @@ Traducción de Sr. Byte: "¿Eres un desordenado? Bien, eres mas productivo". Tod
 Un "caos organizado" te permite ser mas eficiente y productivo. El empeño que se "gasta" en ser organizado todos los días gasta dinero y tiempo, pero dejar que tu trabajo se quede ... como lo dejas, permite que se tenga (supuestamente) un mejor flujo de trabajo y permite cambiar de tareas "suavemente".
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/RgNJ1sDxhXI/AAAAAAAAANA/1SPDGaVNU9M/s400/253932597_a23322970f.jpg)    
-"Messy Room (Cuarto
-desordenado) por [PuyoDead](https://www.flickr.com/photos/puyo/253932597/)
+"Messy Room (Cuarto desordenado) por [PuyoDead](https://www.flickr.com/photos/puyo/253932597/)
 "
 
 En lo personal creo que el argumento es interesante (ligeramente ridículo, pero interesante), y va en contra de todo lo que se nos enseña. Y vos que opinas?... [lee el articulo completo aquí](https://www.extremetech.com/article2/0,1697,2105584,00.asp).

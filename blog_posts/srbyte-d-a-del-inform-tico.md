@@ -35,8 +35,7 @@ Acordate que por eso: estudiar en grupo es mejor y más divertido, y que hacer "
 
 La informática, en si misma, sin programadores, sin usuarios, sin bloggers, sin gente bayunca que atesta sus paginas de Hi5 con miles de tonterías, y sin los que sueña con cambiar el fondo de su pagina en FaceBook, pues seria terriblemente aburrida (a mi ya me dan risa).
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/Ssqucyv7EcI/AAAAAAAACL4/HUU0aHTr7tA/s320/spamFB.png)    ¡FaceBook
-Spam!
+![image](https://3.bp.blogspot.com/_ayvorITawE4/Ssqucyv7EcI/AAAAAAAACL4/HUU0aHTr7tA/s320/spamFB.png)    ¡FaceBook Spam!
 
 La informática, sin gente, se convierte en simples unos y ceros, "sentados" en un disco duro, inertes.
 

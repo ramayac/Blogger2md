@@ -11,8 +11,7 @@ Si necesitas aprender algo rápido, o recordar como se realiza una tarea especif
 
 Hoja de referencia para Photoshop CS3 ([Mac](https://www.customguide.com/pdf/photoshopmac-quick-reference-cs3.pdf), [Windows](https://www.customguide.com/pdf/photoshop-quick-reference-cs3.pdf))
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/STa4KCyQpFI/AAAAAAAAByA/_D5_Q-vT7Jc/s320/30-02_quick_reference_card.png)    Combinacion de Teclas para Adobe® Photoshop® CS4 ([Mac](https://morris-photographics.com/photoshop/shortcuts/downloads/PSCS4_Keyboard_Shortcuts_Mac.pdf),
-[Windows](https://morris-photographics.com/photoshop/shortcuts/downloads/PSCS4_Keyboard_Shortcuts_PC.pdf))
+![image](https://1.bp.blogspot.com/_ayvorITawE4/STa4KCyQpFI/AAAAAAAAByA/_D5_Q-vT7Jc/s320/30-02_quick_reference_card.png)    Combinacion de Teclas para Adobe® Photoshop® CS4 ([Mac](https://morris-photographics.com/photoshop/shortcuts/downloads/PSCS4_Keyboard_Shortcuts_Mac.pdf), [Windows](https://morris-photographics.com/photoshop/shortcuts/downloads/PSCS4_Keyboard_Shortcuts_PC.pdf))
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/STa4JlzSonI/AAAAAAAABx4/LMxGTDvUyV0/s320/30-01_cs4_keyboard_shortcuts.png)  
 
@@ -41,11 +40,9 @@ InDesign).
 #### ![image](https://3.bp.blogspot.com/_ayvorITawE4/STa4v4Un4YI/AAAAAAAAByo/awhPSZNbYcg/s320/30-18_fireworks_cs3_quick.png)    
 [Grafico de colores con su valor en HTML (CMYK, RGB Hex)](https://logoorange.com/color/color-codes-chart.php)
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/STa4vzBJQTI/AAAAAAAAByw/g2Ygkph1rQI/s320/30-21_color_codes_matching.png)    
-[Tamaño estándar de Banners Web](https://www.designerstoolbox.com/designresources/banners/)
+![image](https://1.bp.blogspot.com/_ayvorITawE4/STa4vzBJQTI/AAAAAAAAByw/g2Ygkph1rQI/s320/30-21_color_codes_matching.png)     [Tamaño estándar de Banners Web](https://www.designerstoolbox.com/designresources/banners/)
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/STa57G4RTNI/AAAAAAAABy4/X8BOLhddQlc/s320/30-29_standard_web_banners.png)    
-El articulo original con los 40 Cheat Sheets se encuentra en [SixRevisions](https://sixrevisions.com/):
+![image](https://2.bp.blogspot.com/_ayvorITawE4/STa57G4RTNI/AAAAAAAABy4/X8BOLhddQlc/s320/30-29_standard_web_banners.png)     El articulo original con los 40 Cheat Sheets se encuentra en [SixRevisions](https://sixrevisions.com/):
 
 > href="https://sixrevisions.com/graphics-design/40-useful-cheat-sheets-for-designers/">https://sixrevisions.com/graphics-design/40-useful-cheat-sheets-for-designers/
 Espero que les sirvan, ¡saludos!

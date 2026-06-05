@@ -13,15 +13,11 @@ Ahora van las fotos de las carcasas modificadas, área también conocida como "M
 
 "El Increíble Hulk":
 
-![image](https://farm4.static.flickr.com/3199/2983742873_9e9e012d3c.jpg)  
-Hecho por El Salvadoreño: Oscar Segovia.
+![image](https://farm4.static.flickr.com/3199/2983742873_9e9e012d3c.jpg)   Hecho por El Salvadoreño: Oscar Segovia.
 
-Eh... un carro:
-![image](https://farm4.static.flickr.com/3181/2983744891_a55b6fec3c.jpg)  
+Eh... un carro: ![image](https://farm4.static.flickr.com/3181/2983744891_a55b6fec3c.jpg)  
 
-El que mas se robaba las miradas eran, este:
-![image](https://farm4.static.flickr.com/3020/2983744187_5f290f0b55.jpg)  
-... posee un sistema de refrigeración liquida, sinceramente se me caía la baba al verlo.
+El que mas se robaba las miradas eran, este: ![image](https://farm4.static.flickr.com/3020/2983744187_5f290f0b55.jpg)   ... posee un sistema de refrigeración liquida, sinceramente se me caía la baba al verlo.
 
 ![image](https://farm4.static.flickr.com/3162/2983743403_d2da55396d.jpg)  
 

@@ -11,11 +11,9 @@ post_id: blog-3515952828243908885.post-6118714536713522919
 " también se ve involucrada. En la inaguración de las Olimpiadas de Beijin ocurrió un BSOD en el famoso "Nido de Pájaro"... ¿No me creen?, he aquí las pruebas:
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SKGTYpRxiUI/AAAAAAAABDs/Ofd8aRJeGM8/s320/bsod1.jpg)    
-"Click para ver más
-grande"
+"Click para ver más grande"
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SKGTY5VY5CI/AAAAAAAABD0/Y-Ma9IzchOw/s320/bsod_nest_main2.jpg)    
-"Click para ver más
-grande"
+"Click para ver más grande"
 
 Lo que no entiendo es: ¿Que rayos hace un proyector, a esa altura, en el Nido de Pájaro?... ¿habrán leído el articulo de este blog y ese es un tributo? ja ja, si solo una imagen existiera, pues claro que seriamos más que escépticos, pero en un evento con tanta gente, y con tantas cámaras digitales - afortunadamente - se suman otros ángulos de dicho problema. Ah, y la [NBC broadcast](https://www.nbc.com/) ya confirmo lo sucedido. Pueden encontrar más fotos y detalles de este particular problema en estos sitios: [Power Apple Forum (China, fotos originales)](https://forum.powerapple.com/modules.php?name=forum&file=viewtopic&forum=62&topic=23034&start=0), [RiverCool live space blog](https://rivercoolcool.spaces.live.com/blog/cns%21D6F05428A2B8CB48%211570.entry) y en [Gizmodo](https://gizmodo.com/5035456/blue-screen-of-death-strikes-birds-nest-during-opening-ceremonies-torch-lighting#c7158273). ¿Y que harías tu si te sucediera este problema?

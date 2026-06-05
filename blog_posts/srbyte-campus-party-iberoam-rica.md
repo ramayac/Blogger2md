@@ -7,9 +7,7 @@ draft: false
 post_id: blog-3515952828243908885.post-3337212284997880618
 ---
 
-![image](https://farm4.static.flickr.com/3184/2965247835_e6e2fee441.jpg)    Como ya habrán leído, en más [de](https://feedproxy.google.com/%7Er/damrnetblog/%7E3/-3I3AfV6Boo/campus-party-iberoamerica-preparativos-finales)
-[algún](https://www.aeromental.com/2008/10/26/fotos-y-videos-de-como-se-organiza-el-campus-party-iberoamerica-en-san-salvador/) blog o en los periódicos, este martes muchos Salvadoreños y extranjeros tendremos el honor de asistir a este increíble evento. ¿Qué es el Campus Party?
-[Citando al sitio oficial](https://iberoamerica.campus-party.org/index.php/elevento.html):
+![image](https://farm4.static.flickr.com/3184/2965247835_e6e2fee441.jpg)    Como ya habrán leído, en más [de](https://feedproxy.google.com/%7Er/damrnetblog/%7E3/-3I3AfV6Boo/campus-party-iberoamerica-preparativos-finales) [algún](https://www.aeromental.com/2008/10/26/fotos-y-videos-de-como-se-organiza-el-campus-party-iberoamerica-en-san-salvador/) blog o en los periódicos, este martes muchos Salvadoreños y extranjeros tendremos el honor de asistir a este increíble evento. ¿Qué es el Campus Party? [Citando al sitio oficial](https://iberoamerica.campus-party.org/index.php/elevento.html):
 
 > 'Campus Party es
 > reconocida como el mayor evento de tecnología, ocio electrónico y cultura digital en red del
@@ -31,8 +29,7 @@ Los contenidos vienen representados en forma de ponencias magistrales, presentac
 
 Para los interesados de este evento y los curiosos, hay una cuenta en [YouTube](https://es.youtube.com/campusparty) y [Flickr](https://www.flickr.com/photos/campuspartyiberoamerica/), y puedes seguir los últimos detalles del evento en su Twitter ([@cpiberoamerica](https://twitter.com/cpiberoamerica)). Les dejo un vídeo donde se explica qué es Campus Party y qué ediciones se han celebrado durante el año 2008 (México, Colombia, El Salvador):
 
-"Video: Campus Party
-Iberoamérica"
+"Video: Campus Party Iberoamérica"
 
 También les comparto la agenda del evento:
 

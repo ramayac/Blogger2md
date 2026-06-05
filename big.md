@@ -11,11 +11,9 @@ post_id: blog-3515952828243908885.post-8334987840556348617
 
 Este viernes a las 12 del medio día, exactamente, a las 12:34:56 asistiremos por primera y única vez en el siglo a la secuencia perfecta de dígitos 12:34:56 7/8/9.
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SnxniE_t7gI/AAAAAAAACIE/os4JZU0LPds/s200/linux-y2k-unix.jpg)    Estas secuencias...
-o mejor dicho, curiosidades de juegos de números, siempre me sacan una sonrisa, e inmediatamente me hacen pensar en el famoso bug del milenio, ¿recuerdan al infame Y2K bug? No fue tan malo como muchos creían, más que todo porque el error estaba asociado a como se muestra la informacion, y no con su funcionalidad interna. Al final, todo mundo sobrevivió ese problemita. Pero hay un problema similar y vigente llamado Y2K38, que afecta a los sistemas sistemas de la familia Unix, y este bug es mucho más difícil de resolver. Una solucion practica es migrar a un sistema operativo, que use una representación de tiempo de 64 bits, sin embargo el problema persiste en sistemas de 32 bits. ¿Y quien usa sistemas de 32 bits?... los dispositivos móviles y pequeños reproductores de música.
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SnxniE_t7gI/AAAAAAAACIE/os4JZU0LPds/s200/linux-y2k-unix.jpg)    Estas secuencias... o mejor dicho, curiosidades de juegos de números, siempre me sacan una sonrisa, e inmediatamente me hacen pensar en el famoso bug del milenio, ¿recuerdan al infame Y2K bug? No fue tan malo como muchos creían, más que todo porque el error estaba asociado a como se muestra la informacion, y no con su funcionalidad interna. Al final, todo mundo sobrevivió ese problemita. Pero hay un problema similar y vigente llamado Y2K38, que afecta a los sistemas sistemas de la familia Unix, y este bug es mucho más difícil de resolver. Una solucion practica es migrar a un sistema operativo, que use una representación de tiempo de 64 bits, sin embargo el problema persiste en sistemas de 32 bits. ¿Y quien usa sistemas de 32 bits?... los dispositivos móviles y pequeños reproductores de música.
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/Snxm6d3aCsI/AAAAAAAACH8/gzoyt8PT_cc/s320/Year_2038_problem.gif)    
-Bien, pero seamos realistas, al paso que va la industria, para el 2025 espero que ya todos tengamos más 64 bits, y los dispositivos moviles probablemente también vayan por ese camino. Asi que, por ese lado estamos moderadamente seguros. Pero... el verdadero problema, esta en el software.
+![image](https://2.bp.blogspot.com/_ayvorITawE4/Snxm6d3aCsI/AAAAAAAACH8/gzoyt8PT_cc/s320/Year_2038_problem.gif)     Bien, pero seamos realistas, al paso que va la industria, para el 2025 espero que ya todos tengamos más 64 bits, y los dispositivos moviles probablemente también vayan por ese camino. Asi que, por ese lado estamos moderadamente seguros. Pero... el verdadero problema, esta en el software.
 
 El tiempo en la computadora/ordenador...
 
@@ -51,15 +49,12 @@ Gmail Labs, es una lista gigante de "extensiones" o mas bien características ad
 Se asume, de este momento en adelante y por motivos de conveniencia, que usas tu cuenta con lenguaje Ingles: Pueda ser que Gmail aun no haya habilitado Gmail Labs en tu cuenta, verifica si tienes esta característica corroborando la existencia de la viñeta "Labs" en tus "Settings" :
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SHDm9fOgh2I/AAAAAAAAA1E/yRpZnrjpGks/s400/settings.jpg)    
-"Imagen: Viñeta Labs en las
-Settings de tu cuenta."
+"Imagen: Viñeta Labs en las Settings de tu cuenta."
 
 Si no lo tienes, pues puedes activarlo manualmente así:
 
-1. Ingresa a tu cuenta de Gmail 2. En la barra de direcciones coloca la siguiente linea: > href="https://mail.google.com/mail/?labs=1#settings">https://mail.google.com/mail/?labs=1#settings 3. Ahora verifica la existencia de la viñeta "Labs" en tus "Settings". Al usar cualquier característica de Gmail Labs, veras que en la esquina superior derecha, a un lado de tu nombre de usuario ( "xxxxxx@gmail.com" ) aparece un pequeño icono verde. Este actúa como un acceso directo a la viñeta "Labs" en tus "Settings".
-![image](https://bp0.blogger.com/_ayvorITawE4/SHDsWvOgh6I/AAAAAAAAA1k/KxK9u73GCyY/s400/hey+look.jpg)    
-"Imagen: Icono de
-Gmail Labs y Viñeta de "Labs" (Click para ver más grande)"
+1. Ingresa a tu cuenta de Gmail 2. En la barra de direcciones coloca la siguiente linea: > href="https://mail.google.com/mail/?labs=1#settings">https://mail.google.com/mail/?labs=1#settings 3. Ahora verifica la existencia de la viñeta "Labs" en tus "Settings". Al usar cualquier característica de Gmail Labs, veras que en la esquina superior derecha, a un lado de tu nombre de usuario ( "xxxxxx@gmail.com" ) aparece un pequeño icono verde. Este actúa como un acceso directo a la viñeta "Labs" en tus "Settings". ![image](https://bp0.blogger.com/_ayvorITawE4/SHDsWvOgh6I/AAAAAAAAA1k/KxK9u73GCyY/s400/hey+look.jpg)    
+"Imagen: Icono de Gmail Labs y Viñeta de "Labs" (Click para ver más grande)"
 
 ¡Y listo!, y ahora te preguntaras, ¿qué gano con esto?, bien, aquí esta una lista de extensiones del "Laboratorio" que puedes usar:
 
@@ -85,16 +80,14 @@ Muzzle:
 Con Muzzle, quito lo que para mi son molestos estados de "animo" (o de estatus) de la gente que tengo en mi chat box... si eres como yo: y no quieres saber que están escuchando tus contactos, donde están o que terminaron una relación sentimental de 8 años, pues esta extensión es para ti.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/SHDm9vOgh3I/AAAAAAAAA1M/oWSzmKzKooo/s400/muzzle.jpg)    
-"Imagen: Muzzle, para no ver
-lo que tus amigos llorones/emo ponen en su estado en el chat."
+"Imagen: Muzzle, para no ver lo que tus amigos llorones/emo ponen en su estado en el chat."
 
 Superstars:
 
 Lo bueno de Superstars es que puedo clasificar "visualmente" mis correos al colocarle otras imágenes (superstars) que son mas significativos que una simple estrellita, se pueden utilizar y seleccionar las siguientes imágenes:
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/SHDvoPOgh7I/AAAAAAAAA1s/lODxxd2qTIE/s400/estrellitadimetupuaj.jpg)    
-"Imagen: Estas son las
-estrellas que puedes seleccionar usar en tu correo."
+"Imagen: Estas son las estrellas que puedes seleccionar usar en tu correo."
 
 Lo único malo de Superstars es que aun no se puede filtrar/buscar por el tipo de "estrella" que uno le pone al correo, y que la asignación de la estrella para un correo es arcaica (dando clicks sucesivos para seleccionar la estrella correspondiente... y si te equivocas, comienzas de nuevo).
 
@@ -103,8 +96,7 @@ Signature tweaks:
 Con este te aseguras que tu firma este antes del texto de un correo que se contesta o re-envia...
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SHDyKfOgh8I/AAAAAAAAA10/NJKvFyY9Lbw/s400/signaturetweak.jpg)    
-"Imagen: Signature tweaks es
-definitivamente para gente obsesiva, como yo xD"
+"Imagen: Signature tweaks es definitivamente para gente obsesiva, como yo xD"
 
 Si bien no es un gran impacto visual o de rendimiento el que se obtiene, por lo menos son características que hacen la vida del usuario de Gmail sea ligeramente más agradable, y ademas, son pequeños secretos de los que te puedes jactar con tus amigos (entiéndase usuarios comunes jejeje).
 
@@ -147,8 +139,7 @@ Todos los desarrolladores están tentados a cambiar los tipos de datos en algún
 1. Un desarrollador modifica un tipo de dato en la base de datos (o peor, una tabla entera... o varias). 2. El cambio probablemente provocara un error en mi código (ya no puedo compilar mi parte). 3. Esto implica que tengo que hacer cambios en mi código para que todo funciona como antes. 4. O tengo que esperar a que el desarrollador que modifico la base de datos haga un "Commit" de su código para que altere el mio... y ver si funciona con lo que el hizo. 5. Pueda que su "Commit" altere o no mi código. 6. Si no lo altera, y ahora YO tendré que ver que $%&&/$ altero el tipo, para que mi código funcione (¿cuanto tiempo perdí ya?). 7. Es posible también que el tipo diga después: "bueno, me equivoque, solo estaba probando...". 8. Ahora hay que regresar a la versión anterior del software, perder horas de cambios y ajustes, y realizar el proceso, cada vez que alguien disponga hacer el paso 1. Ademas desarrollar con una base de datos remota es LENTOOOOOOO...
 
 ![image](https://lh3.ggpht.com/Ramayac/SChunc-FvII/AAAAAAAAAs0/ltbMIa8a3HY/nerd1.jpg?imgmax=400)    
-"Imagen: Maldito
-desarrollador, ¡cambiaste todas las tablas sin avisar!"
+"Imagen: Maldito desarrollador, ¡cambiaste todas las tablas sin avisar!"
 
 Regla 2: Siempre ten una sola y respetada fuente para el esquema de tu base de datos (alguien se encarga de mantener y liberar la base de datos para todos).
 
@@ -187,8 +178,7 @@ Si necesitas aprender algo rápido, o recordar como se realiza una tarea especif
 
 Hoja de referencia para Photoshop CS3 ([Mac](https://www.customguide.com/pdf/photoshopmac-quick-reference-cs3.pdf), [Windows](https://www.customguide.com/pdf/photoshop-quick-reference-cs3.pdf))
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/STa4KCyQpFI/AAAAAAAAByA/_D5_Q-vT7Jc/s320/30-02_quick_reference_card.png)    Combinacion de Teclas para Adobe® Photoshop® CS4 ([Mac](https://morris-photographics.com/photoshop/shortcuts/downloads/PSCS4_Keyboard_Shortcuts_Mac.pdf),
-[Windows](https://morris-photographics.com/photoshop/shortcuts/downloads/PSCS4_Keyboard_Shortcuts_PC.pdf))
+![image](https://1.bp.blogspot.com/_ayvorITawE4/STa4KCyQpFI/AAAAAAAAByA/_D5_Q-vT7Jc/s320/30-02_quick_reference_card.png)    Combinacion de Teclas para Adobe® Photoshop® CS4 ([Mac](https://morris-photographics.com/photoshop/shortcuts/downloads/PSCS4_Keyboard_Shortcuts_Mac.pdf), [Windows](https://morris-photographics.com/photoshop/shortcuts/downloads/PSCS4_Keyboard_Shortcuts_PC.pdf))
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/STa4JlzSonI/AAAAAAAABx4/LMxGTDvUyV0/s320/30-01_cs4_keyboard_shortcuts.png)  
 
@@ -217,11 +207,9 @@ InDesign).
 #### ![image](https://3.bp.blogspot.com/_ayvorITawE4/STa4v4Un4YI/AAAAAAAAByo/awhPSZNbYcg/s320/30-18_fireworks_cs3_quick.png)    
 [Grafico de colores con su valor en HTML (CMYK, RGB Hex)](https://logoorange.com/color/color-codes-chart.php)
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/STa4vzBJQTI/AAAAAAAAByw/g2Ygkph1rQI/s320/30-21_color_codes_matching.png)    
-[Tamaño estándar de Banners Web](https://www.designerstoolbox.com/designresources/banners/)
+![image](https://1.bp.blogspot.com/_ayvorITawE4/STa4vzBJQTI/AAAAAAAAByw/g2Ygkph1rQI/s320/30-21_color_codes_matching.png)     [Tamaño estándar de Banners Web](https://www.designerstoolbox.com/designresources/banners/)
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/STa57G4RTNI/AAAAAAAABy4/X8BOLhddQlc/s320/30-29_standard_web_banners.png)    
-El articulo original con los 40 Cheat Sheets se encuentra en [SixRevisions](https://sixrevisions.com/):
+![image](https://2.bp.blogspot.com/_ayvorITawE4/STa57G4RTNI/AAAAAAAABy4/X8BOLhddQlc/s320/30-29_standard_web_banners.png)     El articulo original con los 40 Cheat Sheets se encuentra en [SixRevisions](https://sixrevisions.com/):
 
 > href="https://sixrevisions.com/graphics-design/40-useful-cheat-sheets-for-designers/">https://sixrevisions.com/graphics-design/40-useful-cheat-sheets-for-designers/
 Espero que les sirvan, ¡saludos!
@@ -239,40 +227,7 @@ post_id: blog-3515952828243908885.post-8655197723403623517
 
 Vía [WebDesignReport](https://www.webdesignerdepot.com/) me encuentro con esta buenísima colección de Wallpapers listos para alegrar hasta el mas opaco y aburrido de los escritorios. Los dejo con mi selección de favoritos (quince) y con el vinculo al artículo. Sin ningún orden en particular:
 
-[Descarga Aquí](https://www.abduzeedo.com/%7Eabduzeed/25-fantastic-deviant-wallpapers)
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SSwfEL-XPuI/AAAAAAAABdI/hTv_2RBQd9g/s320/231.png)    
-[Descarga Aquí](https://69efan69.deviantart.com/art/Trippy-Wallpaper-97734018)
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SSwfD_MmJyI/AAAAAAAABdA/fVAhmvs8K3E/s320/161.png)    
-[Descarga Aquí](https://ionboy.deviantart.com/art/Kaze-Wallpaper-81766468)
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SSwfD2_broI/AAAAAAAABc4/yIYxgsAykqI/s320/141.png)    
-[Descarga Aquí](https://mixmasterangel.deviantart.com/art/wallpaper-69777061)
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SSwfDj6HFhI/AAAAAAAABcw/jsnfuPDLV9I/s320/11.png)    
-[Descarga Aquí](https://nithilien.deviantart.com/art/Starsfield-Rainbow-wallpaper-88081480)
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SSwfDEBQqDI/AAAAAAAABco/gqTRfnRkYkc/s320/9.png)    
-[Descarga Aquí](https://emciem.deviantart.com/art/The-PolyGuana-Wallpaper-45476256)
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SSwewppEU3I/AAAAAAAABcg/bSLH091jJOU/s320/61.png)    
-[Descarga Aquí](https://mat3jko.deviantart.com/art/ART-wallpaper-85766858)
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SSwev4XB3HI/AAAAAAAABcY/X_gvt2madNY/s320/51.png)    
-Para los fans de Daft Punk! :)
-[Descarga Aquí](https://customize.org/wallpapers/48503)
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SSwevkvt_xI/AAAAAAAABcQ/iAmzVQ4mJEc/s320/40.png)    
-Para niños, y algunos adultos ^_^
-[Descarga Aquí](https://anjilyoshi.deviantart.com/art/Rainbow-Sugar-Splash-85568400)
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SSwevSzYMbI/AAAAAAAABcI/hxHdZOcboDs/s320/37.png)    Para los "Music
-Lovers"
-[Descarga Aquí](https://fastnfurious.deviantart.com/art/Rainbow-Square-62963723)
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SSweuxtKjbI/AAAAAAAABcA/tsqkcz2gMj0/s320/38.png)    Me recuerda a Tron
-y a los títulos de intro de SuperMan 1
-[Descarga Aquí](https://www.abduzeedo.com/%7Eabduzeed/wallpaper-week-1)
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SSweO0DyDLI/AAAAAAAABb4/whBVWllkzYc/s320/311.png)    
-[Descarga Aquí](https://www.abduzeedo.com/%7Eabduzeed/wallpaper-week-31)
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SSweOkI2hGI/AAAAAAAABbw/2GmXjVdZGqE/s320/221.png)    
-[Descarga Aquí](https://firetongue8.deviantart.com/art/Inspire-wallpaper-95176146)
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SSweOVAO8bI/AAAAAAAABbo/5f2NpsN_Ihc/s320/17.png)    
-[Descarga Aquí](https://velitchko.deviantart.com/art/Color-wallpaper-99593269)
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SSweOJwsHKI/AAAAAAAABbg/TX27K5oW66E/s320/131.png)    
-[Descarga Aquí](https://fixedys.deviantart.com/art/Fractal-Delight-Wallpaper-Pack-97629594)
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SSweN0GfZvI/AAAAAAAABbY/0JrwoKdrZJI/s320/112.png)    
+[Descarga Aquí](https://www.abduzeedo.com/%7Eabduzeed/25-fantastic-deviant-wallpapers) ![image](https://2.bp.blogspot.com/_ayvorITawE4/SSwfEL-XPuI/AAAAAAAABdI/hTv_2RBQd9g/s320/231.png)     [Descarga Aquí](https://69efan69.deviantart.com/art/Trippy-Wallpaper-97734018) ![image](https://4.bp.blogspot.com/_ayvorITawE4/SSwfD_MmJyI/AAAAAAAABdA/fVAhmvs8K3E/s320/161.png)     [Descarga Aquí](https://ionboy.deviantart.com/art/Kaze-Wallpaper-81766468) ![image](https://1.bp.blogspot.com/_ayvorITawE4/SSwfD2_broI/AAAAAAAABc4/yIYxgsAykqI/s320/141.png)     [Descarga Aquí](https://mixmasterangel.deviantart.com/art/wallpaper-69777061) ![image](https://4.bp.blogspot.com/_ayvorITawE4/SSwfDj6HFhI/AAAAAAAABcw/jsnfuPDLV9I/s320/11.png)     [Descarga Aquí](https://nithilien.deviantart.com/art/Starsfield-Rainbow-wallpaper-88081480) ![image](https://3.bp.blogspot.com/_ayvorITawE4/SSwfDEBQqDI/AAAAAAAABco/gqTRfnRkYkc/s320/9.png)     [Descarga Aquí](https://emciem.deviantart.com/art/The-PolyGuana-Wallpaper-45476256) ![image](https://1.bp.blogspot.com/_ayvorITawE4/SSwewppEU3I/AAAAAAAABcg/bSLH091jJOU/s320/61.png)     [Descarga Aquí](https://mat3jko.deviantart.com/art/ART-wallpaper-85766858) ![image](https://3.bp.blogspot.com/_ayvorITawE4/SSwev4XB3HI/AAAAAAAABcY/X_gvt2madNY/s320/51.png)     Para los fans de Daft Punk! :) [Descarga Aquí](https://customize.org/wallpapers/48503) ![image](https://2.bp.blogspot.com/_ayvorITawE4/SSwevkvt_xI/AAAAAAAABcQ/iAmzVQ4mJEc/s320/40.png)     Para niños, y algunos adultos ^_^ [Descarga Aquí](https://anjilyoshi.deviantart.com/art/Rainbow-Sugar-Splash-85568400) ![image](https://4.bp.blogspot.com/_ayvorITawE4/SSwevSzYMbI/AAAAAAAABcI/hxHdZOcboDs/s320/37.png)    Para los "Music Lovers" [Descarga Aquí](https://fastnfurious.deviantart.com/art/Rainbow-Square-62963723) ![image](https://4.bp.blogspot.com/_ayvorITawE4/SSweuxtKjbI/AAAAAAAABcA/tsqkcz2gMj0/s320/38.png)    Me recuerda a Tron y a los títulos de intro de SuperMan 1 [Descarga Aquí](https://www.abduzeedo.com/%7Eabduzeed/wallpaper-week-1) ![image](https://4.bp.blogspot.com/_ayvorITawE4/SSweO0DyDLI/AAAAAAAABb4/whBVWllkzYc/s320/311.png)     [Descarga Aquí](https://www.abduzeedo.com/%7Eabduzeed/wallpaper-week-31) ![image](https://3.bp.blogspot.com/_ayvorITawE4/SSweOkI2hGI/AAAAAAAABbw/2GmXjVdZGqE/s320/221.png)     [Descarga Aquí](https://firetongue8.deviantart.com/art/Inspire-wallpaper-95176146) ![image](https://2.bp.blogspot.com/_ayvorITawE4/SSweOVAO8bI/AAAAAAAABbo/5f2NpsN_Ihc/s320/17.png)     [Descarga Aquí](https://velitchko.deviantart.com/art/Color-wallpaper-99593269) ![image](https://3.bp.blogspot.com/_ayvorITawE4/SSweOJwsHKI/AAAAAAAABbg/TX27K5oW66E/s320/131.png)     [Descarga Aquí](https://fixedys.deviantart.com/art/Fractal-Delight-Wallpaper-Pack-97629594) ![image](https://1.bp.blogspot.com/_ayvorITawE4/SSweN0GfZvI/AAAAAAAABbY/0JrwoKdrZJI/s320/112.png)    
 
 Que gusto ver fondos de pantalla así, un verdadero festín visual. Visita la pagina con las selección original de 40 Wallpapers:
 
@@ -299,32 +254,24 @@ Pero bien, no quiero hablarles de configuraciones mágicas del Wine (la mayoría
 
 Así que si son fans del genero RTS y del software libre, esto es lo que les recomiendo:
 
-1) Warzone 2100
-[Warzone 2100](https://www.junauza.com/2008/06/linux-got-game-warzone-2100.html) originalmente fue producido (en 1999) para Windows y el PlayStation, pero en el
-2004, el código fuente y todos sus datos multimedia fueron liberados bajo la amada GNU General Public License. Warzone 2100 esta disponible como paquete precompilado para tu distro preferida. Es ligeramente exigente, tiene gráficos aceptables y es completamente en 3D, como pueden ver en la captura:
+1) Warzone 2100 [Warzone 2100](https://www.junauza.com/2008/06/linux-got-game-warzone-2100.html) originalmente fue producido (en 1999) para Windows y el PlayStation, pero en el 2004, el código fuente y todos sus datos multimedia fueron liberados bajo la amada GNU General Public License. Warzone 2100 esta disponible como paquete precompilado para tu distro preferida. Es ligeramente exigente, tiene gráficos aceptables y es completamente en 3D, como pueden ver en la captura:
 
 ![image](https://4.bp.blogspot.com/_UqUwVPikChs/SMerpDyqwmI/AAAAAAAAFFM/IdZO59fTfjo/s400/warzone.jpg)    
 "Captura Warzone 2100"[https://wz2100.net/](https://wz2100.net/)
 
-2) Glest
-[Glest](https://glest.org/) es un
-excelente juego en 3D multiplataforma desarrollado por un equipo de Españoles. El ambiente del juego recuerda a la edad media, y tiene dos facciones únicamente (Mágica y Tecnológica), pero lo genial de Glest, es que puedes añadir facciones personalizadas al juego, muchas de estas las pueden encontrar en la gran comunidad que constantemente esta creando nuevos mapas, unidades y facciones para usar en el juego.
+2) Glest [Glest](https://glest.org/) es un excelente juego en 3D multiplataforma desarrollado por un equipo de Españoles. El ambiente del juego recuerda a la edad media, y tiene dos facciones únicamente (Mágica y Tecnológica), pero lo genial de Glest, es que puedes añadir facciones personalizadas al juego, muchas de estas las pueden encontrar en la gran comunidad que constantemente esta creando nuevos mapas, unidades y facciones para usar en el juego.
 
 ![image](https://4.bp.blogspot.com/_UqUwVPikChs/SMerpTkB5rI/AAAAAAAAFFU/wTVddqZ1kxw/s400/glest.jpg)    
-"Captura de
-Glest"[https://glest.org/en/](https://glest.org/en/)
+"Captura de Glest"[https://glest.org/en/](https://glest.org/en/)
 
-3) Bos Wars
-[Bos Wars](https://www.boswars.org/) tiene
-estilo futurista y es multiplataforma también. El proyecto comenzó en el 2004 por Tina Petersenand, el líder actual del proyecto es François Beerten. El motor del juego esta escrito completamente en C++  atado a [las librerías SDL](https://www.libsdl.org/), y utiliza [Lua como lenguaje script](https://www.lua.org/). Lo confuso (para mi) al comenzar a jugar Bos Wars es la lógica de economía variable en el juego. Hay dos recursos en el juego, energía y magma. La energía se produce por medio de plantas (de energía), y el magma se obtiene de los "puntos calientes" (hot spots). El control de largas partes del mapa crea un potencial para aumentar el rendimiento de tu economía. Y ahí esta el detalle, es claro que si controlas más del mapa, se posee una mejor economía, lo que te obliga psicologicamente a acaparar todo lo que se pueda siempre con una buena estrategia en mente. Bos Wars crea un juego totalmente original y bastante bueno, que recuerda a títulos de "similar aspecto" como como WarCraft II y AOE.
+3) Bos Wars [Bos Wars](https://www.boswars.org/) tiene estilo futurista y es multiplataforma también. El proyecto comenzó en el 2004 por Tina Petersenand, el líder actual del proyecto es François Beerten. El motor del juego esta escrito completamente en C++  atado a [las librerías SDL](https://www.libsdl.org/), y utiliza [Lua como lenguaje script](https://www.lua.org/). Lo confuso (para mi) al comenzar a jugar Bos Wars es la lógica de economía variable en el juego. Hay dos recursos en el juego, energía y magma. La energía se produce por medio de plantas (de energía), y el magma se obtiene de los "puntos calientes" (hot spots). El control de largas partes del mapa crea un potencial para aumentar el rendimiento de tu economía. Y ahí esta el detalle, es claro que si controlas más del mapa, se posee una mejor economía, lo que te obliga psicologicamente a acaparar todo lo que se pueda siempre con una buena estrategia en mente. Bos Wars crea un juego totalmente original y bastante bueno, que recuerda a títulos de "similar aspecto" como como WarCraft II y AOE.
 
 ![image](https://4.bp.blogspot.com/_UqUwVPikChs/SMerpeoFypI/AAAAAAAAFFc/SPB6e9M7uR8/s400/boswars-2.4-0.jpg)    
 "Captura de Bos Wars"[https://www.boswars.org/](https://www.boswars.org/)
 
 4) Globulation 2
 
-[Globulation 2](https://www.globulation2.org/) es una interesante propuesta
-para un RTS, que reduce el micro manejo de unidades (click y asignar tarea) al automatizar las mismas a tareas especificas de recoleccion, reparacion, ataque, defensa, etc, de acuerdo a las necesidades del usuario. En otras palabras, solo creas unidades, y dibujas areas en el mapa, y las unidades dinamicamente trataran de satisfacer estas necesidades lo mejor que pueden. Es interesante, innovador, posee una buena inteligencia artificial, juegos multiplayer y  editor de mapas y lenguaje script y gráficos aceptables... pero les advierto que se siente lento, este es un tipo de juego para las personas que se "ponen a hacer casitas" en Age of Empires.
+[Globulation 2](https://www.globulation2.org/) es una interesante propuesta para un RTS, que reduce el micro manejo de unidades (click y asignar tarea) al automatizar las mismas a tareas especificas de recoleccion, reparacion, ataque, defensa, etc, de acuerdo a las necesidades del usuario. En otras palabras, solo creas unidades, y dibujas areas en el mapa, y las unidades dinamicamente trataran de satisfacer estas necesidades lo mejor que pueden. Es interesante, innovador, posee una buena inteligencia artificial, juegos multiplayer y  editor de mapas y lenguaje script y gráficos aceptables... pero les advierto que se siente lento, este es un tipo de juego para las personas que se "ponen a hacer casitas" en Age of Empires.
 
 ![image](https://4.bp.blogspot.com/_UqUwVPikChs/SMerpiDMpCI/AAAAAAAAFFk/LvLDdNbhhos/s400/globu2.jpg)  
 
@@ -360,30 +307,25 @@ El ejemplo mas claro de esto es todo lo que nos ofrece Google como por ejemplo l
 Aun así, algunas veces solo se ofrecen versiones reducidas o recortadas de estos servicios, de manera que si el usuario desea usarlos de una manera mas profesional o contar con mas recursos, debe pagar por ello. A continuación mostramos una lista de servicios los cuales, aunque poseen una version gratuita, valdría la pena pagar por la versión completa de los mismos.
 
 - Una cuenta Pro de Flickr
-![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SMMwPVm9vPI/AAAAAAAADVs/JN6rD-NAhlg/s400/imgPost1.jpg)    
-Flickr, el servicio mas popular para almacenar, publicar y compartir fotografías e imágenes ofrece un servicio gratuito en el cual tenemos un limite de cargas mensuales de fotografías de 100MB (10 MB por foto), 3 álbumes y la posibilidad de visualizar las 200 imágenes mas recientes. Todo esto y mas se ofrece de forma ilimitada por un costo de $24.95 anuales. Yo considero que vale la pena pagar por este servicio.
+![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SMMwPVm9vPI/AAAAAAAADVs/JN6rD-NAhlg/s400/imgPost1.jpg)     Flickr, el servicio mas popular para almacenar, publicar y compartir fotografías e imágenes ofrece un servicio gratuito en el cual tenemos un limite de cargas mensuales de fotografías de 100MB (10 MB por foto), 3 álbumes y la posibilidad de visualizar las 200 imágenes mas recientes. Todo esto y mas se ofrece de forma ilimitada por un costo de $24.95 anuales. Yo considero que vale la pena pagar por este servicio.
 
 Alternativas: Picasa web albums ofrece una capacidad de 1GB de almacenamiento de fotografías y últimamente han implementado un muy inteligente y útil algoritmo de reconocimiento facial para poder aplicarles etiquetas y asociarlos con tus contactos de GMail, aunque a los usuarios al parecer no les parece tan intuitiva la interfaz y eso le ha restado popularidad.
 
 - Una suscripción a Last.fm
-![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SMMwtKrLiFI/AAAAAAAADV0/5uOOOYRPthE/s400/imgPost2.png)    
-Last.fm, la mas popular red social orientada a escuchar, descubrir y compartir música, ofrece servicios de escuchar estaciones en base a etiquetas o artistas similares, marcarlos como favoritos, agregarlos a nuestra librería personal, visualizar estadísticas de la música que escuchamos, conocer a personas con gustos musicales similares a los nuestros, etc. de forma gratuita lo cual es suficiente para pasar toda una tarde descubriendo nuevos artistas o tal vez, hasta sustituir por completo a nuestro reproductor de música. Por un costo de $3 mensuales, puedes deshacerte de la publicidad, obtener mas prioridad en el tráfico de tu estación, escuchar tus propias listas de reproducción, un trato VIP, entre otras cosas. Lamentablemente no permite escuchar exactamente el track que deseas aunque esperan pronto crear una suscripción especial con esta característica.
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SMMwtKrLiFI/AAAAAAAADV0/5uOOOYRPthE/s400/imgPost2.png)     Last.fm, la mas popular red social orientada a escuchar, descubrir y compartir música, ofrece servicios de escuchar estaciones en base a etiquetas o artistas similares, marcarlos como favoritos, agregarlos a nuestra librería personal, visualizar estadísticas de la música que escuchamos, conocer a personas con gustos musicales similares a los nuestros, etc. de forma gratuita lo cual es suficiente para pasar toda una tarde descubriendo nuevos artistas o tal vez, hasta sustituir por completo a nuestro reproductor de música. Por un costo de $3 mensuales, puedes deshacerte de la publicidad, obtener mas prioridad en el tráfico de tu estación, escuchar tus propias listas de reproducción, un trato VIP, entre otras cosas. Lamentablemente no permite escuchar exactamente el track que deseas aunque esperan pronto crear una suscripción especial con esta característica.
 
 Alternativas: Jamendo, Maganatune y [los demas mencionados en este post](https://www.srbyte.com/2008/07/musica-legalmente-gratuita.html) que publicamos hace un tiempo son alternativas con música legalmente gratuita lo cual nos permite hacer mas cosas con lo que escuchamos, como descargarlas o escuchar exactamente lo que queremos. La desventaja es que no poseen tanto contenido como last.fm y la gente suele preferir escuchar a los artistas comerciales, los cuales ofrecen su contenido con copyrights por lo que no podrían ser publicados con todas las bondades que nos ofrece este sitio y esto les resta popularidad.
 
 - Saldo para hablar por Skype
-![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SMMxnqhX39I/AAAAAAAADWM/Tgq_2llOS1s/s400/imgPost3.jpg)    
-Un servicio de telefonía por IP con muy buena calidad que incluye ademas videollamadas y mensajería instantánea, cuyo cliente esta soportado por Linux y MacOS nos permite disfrutar de sus servicios de manera gratuita por lo menos entre usuarios de Skype. La verdadera importancia de este servicio es la capacidad de realizar llamadas locales e internacionales, enviar SMS, recibir llamadas mediante un numero telefónico on-line, utilizando ademas un teléfono IP para no tener que estar frente a la PC realizando las llamadas, todo esto por un costo mensual de $10.29 o comprando Crédito Skype.
+![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SMMxnqhX39I/AAAAAAAADWM/Tgq_2llOS1s/s400/imgPost3.jpg)     Un servicio de telefonía por IP con muy buena calidad que incluye ademas videollamadas y mensajería instantánea, cuyo cliente esta soportado por Linux y MacOS nos permite disfrutar de sus servicios de manera gratuita por lo menos entre usuarios de Skype. La verdadera importancia de este servicio es la capacidad de realizar llamadas locales e internacionales, enviar SMS, recibir llamadas mediante un numero telefónico on-line, utilizando ademas un teléfono IP para no tener que estar frente a la PC realizando las llamadas, todo esto por un costo mensual de $10.29 o comprando Crédito Skype.
 
 Alternativas: Skype no posee muchos competidores que se encuentren a su altura, pero podríamos mencionar a Google Talk y Gizmo Project.
 
 - Una cuenta premium para rapidshare o megaupload
-![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SMMxW16QjQI/AAAAAAAADWE/dYYHglBfkt8/s400/imgPost4.png)    
-Estos sitios, los cuales se han vuelto populares en estos últimos añios, permiten a los usuarios subir archivos de forma anónima obteniendo un vinculo para poder compartirlo con otras personas y que estas tengan acceso a la descarga. El hosting de dicho archivo es temporal y se elimina después de un corto periodo de tiempo. Las personas que utilizan regularmente estos servicios y aprovechan todo lo que les permite hacer, disfrutaran mas de una cuenta premium la cual aumenta hasta 2GB el tamañio máximo de archivos a subir, te provee de un espacio personal de 500GB, Inicio instantáneo de las descargas y capacidad ilimitada de ancho de banda. Todo por un costo variable dependiendo del tiempo que deseemos mantener la cuenta. Por ej. $9.95 mensuales.
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SMMxW16QjQI/AAAAAAAADWE/dYYHglBfkt8/s400/imgPost4.png)     Estos sitios, los cuales se han vuelto populares en estos últimos añios, permiten a los usuarios subir archivos de forma anónima obteniendo un vinculo para poder compartirlo con otras personas y que estas tengan acceso a la descarga. El hosting de dicho archivo es temporal y se elimina después de un corto periodo de tiempo. Las personas que utilizan regularmente estos servicios y aprovechan todo lo que les permite hacer, disfrutaran mas de una cuenta premium la cual aumenta hasta 2GB el tamañio máximo de archivos a subir, te provee de un espacio personal de 500GB, Inicio instantáneo de las descargas y capacidad ilimitada de ancho de banda. Todo por un costo variable dependiendo del tiempo que deseemos mantener la cuenta. Por ej. $9.95 mensuales.
 
 - Una Cuenta Premium de WordPress
-![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SMNa_4-9b-I/AAAAAAAADWc/03MBRbyUSB4/s400/postImg7.png)    Si deseas publicar
-artículos en un blog, tienes varias alternativas: puedes obtener uno gratuito por medio de blogger así como este blog, puedes comprar espacio en un servidor y crear manualmente tus paginas web, ademas también puedes usar el código fuente de un CMS como wordpress, joomla o drupal o puedes pagar los exuberantes precios de TypePad. Dentro de estas opciones, la que mas opciones te ofrece libre de costos es la que te proporciona blogger, ya que wordpress también te ofrece una alternativa pero es bastante restrictiva en cuanto lo que puedes hacer con el blog.
+![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SMNa_4-9b-I/AAAAAAAADWc/03MBRbyUSB4/s400/postImg7.png)    Si deseas publicar artículos en un blog, tienes varias alternativas: puedes obtener uno gratuito por medio de blogger así como este blog, puedes comprar espacio en un servidor y crear manualmente tus paginas web, ademas también puedes usar el código fuente de un CMS como wordpress, joomla o drupal o puedes pagar los exuberantes precios de TypePad. Dentro de estas opciones, la que mas opciones te ofrece libre de costos es la que te proporciona blogger, ya que wordpress también te ofrece una alternativa pero es bastante restrictiva en cuanto lo que puedes hacer con el blog.
 
 Cuando ya hay dinero de por medio, personalmente preferiría inclinarme por wordpress ya que te ofrece precios accesibles y un pago por cada opción que deseas y no un plan que incluya a todas. Por ejemplo, un costo de $10 anuales por tu propio dominio .com o $15 anuales por la capacidad de modificar tu plantilla CSS.
 
@@ -406,8 +348,7 @@ Les presento una lista de 5 vídeos virales del 2008 (y que también son favorit
 
 1. Where the Hell is Matt? (Donde diablos esta Matt?)
 
-[Matt Harding](https://www.wherethehellismatt.com/) es un
-diseñador de videojuegos de 32 años quien renuncio a su trabajo en el 2003 para viajar por Asia. Durante este recorrido, se grabo haciendo un exótico... baile (?). El clip de video se popularizo y llamo la atención de "Stride Gum", que decidió patrocinar dos mas de sus viajes. En el vídeo mostrado, Matt visita 42 países, en un periodo de 14 meses e invita a los "locales" a unirse a la diversión.
+[Matt Harding](https://www.wherethehellismatt.com/) es un diseñador de videojuegos de 32 años quien renuncio a su trabajo en el 2003 para viajar por Asia. Durante este recorrido, se grabo haciendo un exótico... baile (?). El clip de video se popularizo y llamo la atención de "Stride Gum", que decidió patrocinar dos mas de sus viajes. En el vídeo mostrado, Matt visita 42 países, en un periodo de 14 meses e invita a los "locales" a unirse a la diversión.
 
 2. Western Spaghetti
 
@@ -419,8 +360,7 @@ Sabemos que es muy difícil domesticar un animal salvaje, pero si podemos ganar 
 
 4. Super Mario Rescues The Princess (Super Mario Rescata a la Princesa)
 
-Mario al fin vence a sus enemigos y rescata a la mujer que tanto tiempo ha tratado de salvar. Lamentablemente, la princesa no esta muy impresionada por lo que ve. Directo de la mente de Seth MacFarlane, creador de los populares Family Guy y American Dad, surge este corto animado que seguro sacara mas de alguna carcajada a los "viejos" que jugaron Super Mario. Más cortos animados con el sello de MacFarlane, en su canal de Youtube:
-[https://www.youtube.com/user/SethComedy](https://www.youtube.com/user/SethComedy)
+Mario al fin vence a sus enemigos y rescata a la mujer que tanto tiempo ha tratado de salvar. Lamentablemente, la princesa no esta muy impresionada por lo que ve. Directo de la mente de Seth MacFarlane, creador de los populares Family Guy y American Dad, surge este corto animado que seguro sacara mas de alguna carcajada a los "viejos" que jugaron Super Mario. Más cortos animados con el sello de MacFarlane, en su canal de Youtube: [https://www.youtube.com/user/SethComedy](https://www.youtube.com/user/SethComedy)
 > href="https://www.youtube.com/user/SethComedy">https://www.youtube.com/user/SethComedy
 
 5. Reportero Iraquí lanza Zapato a George Bush
@@ -445,34 +385,22 @@ A todos nos ha pasado que alguna vez dejamos las llaves dentro de la casa/autom�
 Nuestra memoria cada vez se deteriora y especialmente si no la ejercitamos con regularidad por lo que muchos optan por utilizar herramientas que nos ayuden a recordar las cosas que tenemos que hacer. Estas herramientas pueden ser desde [post-its](https://es.wikipedia.org/wiki/Postit), libretas de apuntes, agendas físicas/electrónicas hasta secretarias o asistentes personales. Como decía nuestro viejo amigo Albert: ["No te guardes en la cabeza aquello que te quepa en el bolsillo"](https://www.sabidurias.com/cita/es/2646/albert-einstein/no-guardes-nunca-en-la-cabeza-aquello-que-te-quepa-en-un-bolsillo).
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SM9O1BHTgdI/AAAAAAAADXk/NqA4eFllmwo/s400/einstein3.jpg)    
-"Si, lo se. Era un genio.
-Pero aun así se me olvidaban las cosas"
+"Si, lo se. Era un genio. Pero aun así se me olvidaban las cosas"
 
-Para los que pasamos mas tiempo frente a una computadora que haciendo cualquier otra actividad, especialmente si contamos con Internet, podemos hacer uso de una serie de servicios que nos permiten recordar todas las cosas que tenemos que hacer de manera muy útil, fácil y desde cualquier lugar donde exista una pc conectada a la red de redes. Entre los servicios mas populares se encuentran los siguientes:
-[https://www.rememberthemilk.com/](https://www.rememberthemilk.com/)
-[Remember the milk:](https://www.rememberthemilk.com/)
-![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SM9W0SgKtHI/AAAAAAAADXs/RjTFNo3Eptk/s400/rtm1.jpg)    Este sitio se lleva
-el primer lugar de entre los reminders/to-do lists que he probado. Te da todas las opciones que necesitas en una cuenta gratuita, con una interfaz web un tanto complicada pero con clientes para escritorio/móviles bastante fáciles de utilizar.
+Para los que pasamos mas tiempo frente a una computadora que haciendo cualquier otra actividad, especialmente si contamos con Internet, podemos hacer uso de una serie de servicios que nos permiten recordar todas las cosas que tenemos que hacer de manera muy útil, fácil y desde cualquier lugar donde exista una pc conectada a la red de redes. Entre los servicios mas populares se encuentran los siguientes: [https://www.rememberthemilk.com/](https://www.rememberthemilk.com/) [Remember the milk:](https://www.rememberthemilk.com/) ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SM9W0SgKtHI/AAAAAAAADXs/RjTFNo3Eptk/s400/rtm1.jpg)    Este sitio se lleva el primer lugar de entre los reminders/to-do lists que he probado. Te da todas las opciones que necesitas en una cuenta gratuita, con una interfaz web un tanto complicada pero con clientes para escritorio/móviles bastante fáciles de utilizar.
 
 Puedes clasificar las tareas, asignarles prioridades, relacionarlas con un lugar en el mapa usando ubicaciones personalizadas en Google Maps y utilizar muchas formas de recibir recordatorios como por ejemplo el correo electrónico, mensajería instantánea (msn, gtalk, etc), [twitter](https://twitter.com/rtm), sms, etc. Es una lástima que en este así como en otros servicios, las componías telefónicas salvadoreñas no ofrezcan la posibilidad de aprovechar estos servicios vía telefonía móvil. [Acá](https://www.rememberthemilk.com/services/) podrás encontrar una lista de servicios web con los que actualmente se integra y además las aplicaciones cliente que puedes utilizar para ver y administrar tus tareas sin necesidad de entrar al sitio
 
-[Evernote:](https://www.evernote.com/)
-![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SM9X6hnym5I/AAAAAAAADX0/V2B-zW49pnM/s400/evernote.gif)    Evernote es un
-servicio beta gratuito que tiene poco tiempo de estar en el web pero que poco a poco va adquiriendo popularidad debido a su gran utilidad. Este servicio viene acompañado de una serie de aplicaciones para escritorio y móviles las cuales te permiten capturar información como texto, vínculos e imágenes, almacenarlos en forma de marcadores y etiquetarlos para poder encontrarlos después, cuando desees volver a ver esa información.
+[Evernote:](https://www.evernote.com/) ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SM9X6hnym5I/AAAAAAAADX0/V2B-zW49pnM/s400/evernote.gif)    Evernote es un servicio beta gratuito que tiene poco tiempo de estar en el web pero que poco a poco va adquiriendo popularidad debido a su gran utilidad. Este servicio viene acompañado de una serie de aplicaciones para escritorio y móviles las cuales te permiten capturar información como texto, vínculos e imágenes, almacenarlos en forma de marcadores y etiquetarlos para poder encontrarlos después, cuando desees volver a ver esa información.
 
 Considérenlo como un [delicious](https://delicious.com/) que no solo almacena hipervínculos, sino que extrae información mas variada del web. Hablando de delicious, también te permite la posibilidad de importar los marcadores que tengas en dicha cuenta.
 
-[Passpack:](https://www.passpack.com/)
-![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SM9Z9v2WHnI/AAAAAAAADX8/JaokrB0fGtQ/s400/passpack.jpg)    
-Passpack es un servicio del web que te permite almacenar todas las contraseñas que utilices para acceder a las cuentas de usuario que posees. Lo que mas me llama la atención de este servicio es su facilidad de uso, el hecho de ser gratuito y los niveles de seguridad que poseen, empezando porque te permiten crear un mensaje personalizado al entrar para prevenir el [phishing](https://es.wikipedia.org/wiki/Phishing), el tener que hacer clic en un cuadro aleatorio de entre una lista para comprobar que no eres un bot, doble contraseña de acceso y el hecho de poseer su propio certificado válido, para la encriptación SSL. Otra ventaja es que te permiten iniciar sesión con tu cuenta de OpenID.
+[Passpack:](https://www.passpack.com/) ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SM9Z9v2WHnI/AAAAAAAADX8/JaokrB0fGtQ/s400/passpack.jpg)     Passpack es un servicio del web que te permite almacenar todas las contraseñas que utilices para acceder a las cuentas de usuario que posees. Lo que mas me llama la atención de este servicio es su facilidad de uso, el hecho de ser gratuito y los niveles de seguridad que poseen, empezando porque te permiten crear un mensaje personalizado al entrar para prevenir el [phishing](https://es.wikipedia.org/wiki/Phishing), el tener que hacer clic en un cuadro aleatorio de entre una lista para comprobar que no eres un bot, doble contraseña de acceso y el hecho de poseer su propio certificado válido, para la encriptación SSL. Otra ventaja es que te permiten iniciar sesión con tu cuenta de OpenID.
 
 ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SM9ck1LamII/AAAAAAAADYE/_XQCWaE95aU/s400/passpackcertificate.jpg)    
-"Vista de la comprobación
-del certificado de PassPack"
+"Vista de la comprobación del certificado de PassPack"
 
-[Jott:](https://jott.com/)
-![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SM9dbeaMMCI/AAAAAAAADYM/fW6sXj32r_Q/s400/logo_beta.gif)    
-Jott es un servicio muy parecido a remember the milk pero con la variante que te permite agregar eventos, tareas y citas mediante llamadas telefónicas. Jott posee un mecanismo de reconocimiento de voz el cual convierte tu mensaje de voz en texto, enviándolo a su respectivo destinatario en forma de correo electrónico o a tu propia cuenta de Jott.
+[Jott:](https://jott.com/) ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SM9dbeaMMCI/AAAAAAAADYM/fW6sXj32r_Q/s400/logo_beta.gif)     Jott es un servicio muy parecido a remember the milk pero con la variante que te permite agregar eventos, tareas y citas mediante llamadas telefónicas. Jott posee un mecanismo de reconocimiento de voz el cual convierte tu mensaje de voz en texto, enviándolo a su respectivo destinatario en forma de correo electrónico o a tu propia cuenta de Jott.
 
 Posee además sus propias aplicaciones de escritorio desde la cual también podrás agregar recordatorios en forma de texto además de integrarse con dispositivos móviles como el iPhone o con otras aplicaciones como Outlook. Se integra también con otros servicios como Google Calendar, Twitter, Amazon, Blogger, Facebook, etc. Lamentablemente al igual que otros servicios, no es posible utilizarlos con las compañías salvadoreñas aunque nuestros lectores de otros lados de Latinoamérica y Europa posiblemente si puedan hacerlo ya que Jott ofrece soporte para las compañías móviles mas populares fuera de EEUU.
 
@@ -515,8 +443,7 @@ Y no es de extrañarnos, con [Firefox 3.5](https://www.srbyte.com/2009/06/usar-f
 
 Justo como IE ofrece el modo de "Navegación en Privado" (InPrivate Browsing), Mozilla Firefox 3.5 tiene tiene el modo de "Navegación Privada". Una vez que esta modalidad esta activada, el usuario puede visitar cualquier sitio y no quedara NINGUN rastro de la visita a este sitio, eso quiere decir que no quedan: cookies, archivos temporales, información de búsqueda y de formularios.
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SlDQj-RtGcI/AAAAAAAACGQ/zGcnaLHK6Hk/s320/firefox-private.jpg)    
-Pero mas alla de esa característica, si un usuario quiere eliminar rastros de donde ha estado (y no entro en la modalidad de Navegación Privada) entonces, puede utilizar la característica "Olvidate de este sitio". Esta eliminara toda la información asociada con ese sitio web.
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SlDQj-RtGcI/AAAAAAAACGQ/zGcnaLHK6Hk/s320/firefox-private.jpg)     Pero mas alla de esa característica, si un usuario quiere eliminar rastros de donde ha estado (y no entro en la modalidad de Navegación Privada) entonces, puede utilizar la característica "Olvidate de este sitio". Esta eliminara toda la información asociada con ese sitio web.
 
 3. Soporte Multimedia: Como Firefox 3.5 soporta la etiqueta HTML 5 de elementos de audio y video, los usuarios pueden ver videos y escuchar música directamente en la pagina web, sin la necesidad de usar un algo externo (Windows Media Player, Totem, Adobe Flash).
 
@@ -552,8 +479,7 @@ post_id: blog-3515952828243908885.post-4901145087790093994
 Si estabas buscando un fondo de pantalla (Wallpaper) relacionado a [FireFox](https://srbyte.blogspot.com/2008/07/el-guiness-record-de-firefox-3.html), pues estas son buenas noticias para ti. Los amigos del blog [Hongkiat](https://www.hongkiat.com/), han recolectado 70 fondos de pantalla (los mejorcitos) alusivos a [FireFox,](https://srbyte.blogspot.com/2008/07/el-guiness-record-de-firefox-3.html) para que adornes tu escritorio. Espero que les gusten, hagan click en la imagen para ir a la página:
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/SHqP7POgiVI/AAAAAAAAA40/45mlWEyD_VA/s400/beautiful-firefox.png)    
-"Click en la imagen para ver
-los 70 wallpapers"
+"Click en la imagen para ver los 70 wallpapers"
 
 ---
 
@@ -569,66 +495,32 @@ post_id: blog-3515952828243908885.post-7725267303473764154
 Ok, ya tienes tu cuenta de [Twitter](https://twitter.com/), ya [te logramos convencer](https://www.srbyte.com/2008/09/y-para-qu-te-puede-servir-twitter.html) de que la abrieras, ¿Y ahora no sabes a quien "seguir"? ¿Y sientes que tu Twitter es "aburrido"?... Voy a compartir una lista de personas o sitios que hacen que mi Twitter sea interesante, y que lo vuelve un poco (solo un poco) productivo.
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SMpxRLIcC4I/AAAAAAAABPo/q9R9izgtvYY/s200/Aquiensigo.twitter.ramayac.png)    
-"Gente que sigo en
-Twitter."
+"Gente que sigo en Twitter."
 
 A continuación, listo cinco categorías y cinco twitters (o más) en cada una, espero que les sirva:
 
-Comentarios y Opiniones sobre Tecnología:
-[@Scobleizer](https://twitter.com/Scobleizer)
-[@stevetubel](https://twitter.com/steverubel)
-[@thomashawk](https://twitter.com/thomashawk)
-[@leolaporte](https://twitter.com/leolaporte)
-[@chrispirillo](https://twitter.com/chrispirillo)
+Comentarios y Opiniones sobre Tecnología: [@Scobleizer](https://twitter.com/Scobleizer) [@stevetubel](https://twitter.com/steverubel) [@thomashawk](https://twitter.com/thomashawk) [@leolaporte](https://twitter.com/leolaporte) [@chrispirillo](https://twitter.com/chrispirillo)
 
-[@srbyte](https://twitter.com/srbyte) (¡No podemos faltar en tu twitter!
-)
+[@srbyte](https://twitter.com/srbyte) (¡No podemos faltar en tu twitter! )
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SMp1bMDV0LI/AAAAAAAABPw/YA6qssvqX3M/s320/srbyte.twitter.png)    
-"¡Siguenos en
-Twiiiteeeeer!"
+"¡Siguenos en Twiiiteeeeer!"
 
 Sitios de Noticias de Tecnología:
 
-[@technorati](https://twitter.com/technorati)
-[@ZDNetBlogs](https://twitter.com/ZDNetBlogs)
-[@alt1040](https://twitter.com/alt1040)
-[@slashdot](https://twitter.com/slashdot)
-[@sourceforge](https://twitter.com/sourceforge)
+[@technorati](https://twitter.com/technorati) [@ZDNetBlogs](https://twitter.com/ZDNetBlogs) [@alt1040](https://twitter.com/alt1040) [@slashdot](https://twitter.com/slashdot) [@sourceforge](https://twitter.com/sourceforge)
 
 Sitios de Noticias de BitTorrent (BitTorrent Trackers):
 
-[@tpb](https://twitter.com/tpb)
-[@isohunt](https://twitter.com/isohunt)
-[@mininova](https://twitter.com/mininova)
-[@torrentfreak](https://twitter.com/torrentfreak)
-[@torrentnewsfeed](https://twitter.com/torrentnewsfeed) (Algo
-desactualizado...)
+[@tpb](https://twitter.com/tpb) [@isohunt](https://twitter.com/isohunt) [@mininova](https://twitter.com/mininova) [@torrentfreak](https://twitter.com/torrentfreak) [@torrentnewsfeed](https://twitter.com/torrentnewsfeed) (Algo desactualizado...)
 
 "Personalidades":
 
-[@darthvader](https://twitter.com/darthvader)
-[@tinybuddah](https://twitter.com/tinybuddah)
-[@zefrank](https://twitter.com/zefrank)
-[@migueldeicaza](https://twitter.com/migueldeicaza)
-[@barackobama](https://twitter.com/BarakObama)
+[@darthvader](https://twitter.com/darthvader) [@tinybuddah](https://twitter.com/tinybuddah) [@zefrank](https://twitter.com/zefrank) [@migueldeicaza](https://twitter.com/migueldeicaza) [@barackobama](https://twitter.com/BarakObama)
 
 Twitters (que también son Bloggers) Salvadoreños:
 
-[@dubsnipe](https://twitter.com/dubsnipe)
-[@u2fan87](https://twitter.com/u2fan87)
-[@damejiar](https://twitter.com/damejiar)
-[@carlostrio](https://twitter.com/carlostrio)
-[@queith](https://twitter.com/queith)
-... y por ser el mes de la patria, pondré unos cuantos más Twitters Salvadoreños:
-[@lesliee](https://twitter.com/lesliee)
-[@drakedalfa](https://twitter.com/drakedalfa)
-[@rafaelmonge](https://twitter.com/rafaelmonge)
-[@robertux](https://twitter.com/robertux)
-[@wenvane](https://twitter.com/wenvane)
-[@dantrax](https://twitter.com/dantrax)
-[@kassiu5](https://twitter.com/kassiu5)
-[@rodriguex](https://twitter.com/rodriguex)
+[@dubsnipe](https://twitter.com/dubsnipe) [@u2fan87](https://twitter.com/u2fan87) [@damejiar](https://twitter.com/damejiar) [@carlostrio](https://twitter.com/carlostrio) [@queith](https://twitter.com/queith) ... y por ser el mes de la patria, pondré unos cuantos más Twitters Salvadoreños: [@lesliee](https://twitter.com/lesliee) [@drakedalfa](https://twitter.com/drakedalfa) [@rafaelmonge](https://twitter.com/rafaelmonge) [@robertux](https://twitter.com/robertux) [@wenvane](https://twitter.com/wenvane) [@dantrax](https://twitter.com/dantrax) [@kassiu5](https://twitter.com/kassiu5) [@rodriguex](https://twitter.com/rodriguex)
 
 También hay Twitters programadores, que solo pasa hablando de .NET, Java o Python, el único inconveniente es encontrarlos. Lo que si me da curiosidad, es saber si hay Twitters que comenten sobre Fútbol o que sean: Psicólogos o Arquitectos o Médicos.
 
@@ -652,8 +544,7 @@ post_id: blog-3515952828243908885.post-4246375429280817480
 
 Un viejo amigo, renovado: El navegador más querido de todos, acaba de ser liberado en su nueva versión, y este incluye características que Mozilla espera (y que seguramente así será) ayuden a Firefox a separarse de sus rivales.
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SkpHy0FyOfI/AAAAAAAACFo/lRjcT3VlwmI/s320/firefoxWordMarkVertical.png)    
-En el centro de Firefox, esta el nuevo motor de ejecución de Javascript, [TraceMonkey](https://wiki.mozilla.org/JavaScript:TraceMonkey), que aumenta el rendimiento de las aplicaciones que hacen uso extensivo de librerías o frameworks como [jQuery, Dojo, etc...](https://www.srbyte.com/2009/06/tu-sitio-compatible-en-todos-los.html), como Gmail, Google Reader, FaceBook, YouTube, entre otros, y que por supuesto, nos hará muy felices. De acuerdo al sitio de Mozilla, Firefox 3.5 es dos veces mas rápido que Firefox 3, y diez veces mas veloz que Firefox 2...
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SkpHy0FyOfI/AAAAAAAACFo/lRjcT3VlwmI/s320/firefoxWordMarkVertical.png)     En el centro de Firefox, esta el nuevo motor de ejecución de Javascript, [TraceMonkey](https://wiki.mozilla.org/JavaScript:TraceMonkey), que aumenta el rendimiento de las aplicaciones que hacen uso extensivo de librerías o frameworks como [jQuery, Dojo, etc...](https://www.srbyte.com/2009/06/tu-sitio-compatible-en-todos-los.html), como Gmail, Google Reader, FaceBook, YouTube, entre otros, y que por supuesto, nos hará muy felices. De acuerdo al sitio de Mozilla, Firefox 3.5 es dos veces mas rápido que Firefox 3, y diez veces mas veloz que Firefox 2...
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SkpMZZPbpLI/AAAAAAAACF4/d-qUoFNkP4Q/s320/performance-chart.png)    
 
@@ -662,15 +553,13 @@ Firefox para todo... Firefox 3.5, permitirá a sus usuarios editar imágenes dig
 Firefox también incluye la habilitad de reproducir vídeos directamente en el navegador, sin la necesidad de visores o reproductores de terceros. Claro, no nos hagamos ilusiones aun, porque los formatos que vídeos o audio que Firefox 3.5 reproduce nativamente son el formato libre Ogg Theora ([Xiph.org](https://www.xiph.org/)).
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SkpHzNzQhrI/AAAAAAAACFw/hf-EUFr7dtw/s320/OggVorbis-BLOGARJONA.png)    
-"Dígale hola al sustituto de
-MP4 y MP3... ojalá"
+"Dígale hola al sustituto de MP4 y MP3... ojalá"
 
 Como una compañía de código abierto, Mozilla apunta a darle a las personas tecnologías basadas en estándares abiertos, para que, también los usuarios estén conscientes de estos, y le den más relevancia a los mismos. Al final, una red con estándares y tecnologías abiertas enriquecen el ecosistema de la red.
 
 Les comparto el vídeo de las nuevas características de FireFox 3.5:
 
-"Lo nuevo en Firefox
-3.5" Como pueden ver, se avecinan muy buenos tiempos para las aplicaciones Web, y para el contenido multimedia, y que bueno que sea un producto Open Source el que esta elevando el estandar. Ahora ya pueden dejar de usar [Google Chrome](https://www.srbyte.com/2008/09/navegador-web-de-google.html) (porque la única excusa de muchos para usarlo, era la velocidad), y olvidarte completamente de IE 8 (¿¿¿por qué diablos usas IE8???), y comenzar a usar un navegador web de verdad....
+"Lo nuevo en Firefox 3.5" Como pueden ver, se avecinan muy buenos tiempos para las aplicaciones Web, y para el contenido multimedia, y que bueno que sea un producto Open Source el que esta elevando el estandar. Ahora ya pueden dejar de usar [Google Chrome](https://www.srbyte.com/2008/09/navegador-web-de-google.html) (porque la única excusa de muchos para usarlo, era la velocidad), y olvidarte completamente de IE 8 (¿¿¿por qué diablos usas IE8???), y comenzar a usar un navegador web de verdad....
 
 > Descarga Firefox 3.5 aquí: href="https://es-ar.www.mozilla.com/es-AR/">https://es-ar.www.mozilla.com/es-AR/
 >
@@ -749,18 +638,15 @@ Más o menos, las preguntas van así:
 Un "Si" a CUALQUIERA de estas preguntas, e inclusive un dudoso "tal vez",significa que posiblemente estas convirtiendo a tus empleados en:
 > "Micromanagement"
 > Zombies
-[Micromanagement](https://en.wikipedia.org/wiki/Micromanagement)
-o Micro-administración es un tipo de administración que consiste en que un líder (administrador) observa y controla detenidamente todo el trabajo de sus subordinados o empleados. Usualmente esta asociado con términos negativos, como en el artículo de ahora ^_^ Mi problema con el Micromanagement, como ya se expuso con el cuestionario de Katy Sierra, es que la gente que es micro-administrada, lentamente se convierten ende Zombies....
+[Micromanagement](https://en.wikipedia.org/wiki/Micromanagement) o Micro-administración es un tipo de administración que consiste en que un líder (administrador) observa y controla detenidamente todo el trabajo de sus subordinados o empleados. Usualmente esta asociado con términos negativos, como en el artículo de ahora ^_^ Mi problema con el Micromanagement, como ya se expuso con el cuestionario de Katy Sierra, es que la gente que es micro-administrada, lentamente se convierten ende Zombies....
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SY-Mnih_TmI/AAAAAAAAB48/w6BV266zlwE/s320/6a00d83451b44369e200e54f5d9d3b8834-800wi.jpg)    
-"La Función
-Zombie"
+"La Función Zombie"
 
 Claro, Zombies, la gente que esta bajo este particular yugo, eventualmente se convierten individuos que no pueden hacer nada más que lo que tienen planeado. Gente que no es pro-activa, que esta deprimida, que simplemente entra y sale del trabajo, sin el mas mínimo deseo de codificar bien, de aprender, de crecer como personas y profesionales... Ok, ok, no todos son así... pero sin lugar a dudas, mientras mas tiempo se pasa bajo esta "metodología", es mas factible que se termine así. Poco a poco, estas personas simplemente hacen lo que les dicen que hagan. Y así se enreda mas su trabajo, y tambien impacta a pobre infeliz que tenga que mantener el codigo que digito el zombie en cuestion. [Y ya saben que implica el código mal escrito](https://www.srbyte.com/2008/12/en-una-empresa-el-codigo-es-el-enemigo.html).
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SYdO0ORiQGI/AAAAAAAAB4s/98LVpeJHGfM/s320/micromanage.jpg)    
-"El Micromanagement, aplasta
-la actitud pro-activa de los individuos."
+"El Micromanagement, aplasta la actitud pro-activa de los individuos."
 
 Además, ¿quien quiere trabajar con Zombies? No se puede aprender mucho de ellos, lo que yo he aprendido es "pasar el rato". Yo, no quiero trabajar con personas que no son proactivas, o que no pueden decidir sobre lo que se hacer (o como se hace).
 
@@ -768,8 +654,7 @@ En simples y pocas palabras, Micromanagement sobre programadores o software deve
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SYdO0nOQe8I/AAAAAAAAB40/MeiOBtTIiKc/s320/2-19-08MicroTrap.jpg)    
 
-"Utilizar Micromanagement, se asocia con trampas para despedir
-a las personas."
+"Utilizar Micromanagement, se asocia con trampas para despedir a las personas."
 
 ¿Utilizan Micromanagement en tu trabajo? ¿Esta tu jefe obsesionado con este tipo de técnica?
 
@@ -789,27 +674,22 @@ Este día, Junio 30, es el día que Microsoft comienza la fase de retirada de Wi
 La partida de Billy G. (Bill Gates) marca un pivote en la historia de esa compañía, de ahora en adelante nos referiremos a este punto como la era "Post Gates", y a Microsoft Corporation, podríamos llamarlo: "Microsoft 2.0" (si, si, [como el libro](https://www.amazon.com/Microsoft-2-0-Plans-Relevant-Post-Gates/dp/0470191384)).
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/SGj-uvOghgI/AAAAAAAAAyQ/Zd7zQDfUkv0/s400/msft20.jpg)    
-"Imagen: Microsoft comienza
-una nueva era..."
+"Imagen: Microsoft comienza una nueva era..."
 
 Por una parte, me da tristeza que retiren XP del mercado, no porque me guste, sino porque poco a poco la mayoría de usuarios, tendrán que usar Vista (o lo que venga), un sistema operativo que ni siquiera tiene una GUI bien unificada.
 
 NO, la GUI de Vista NO ESTA UNIFICADA, ¿no me creen?, aquí hay algunos ejemplos:
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/SGj-tvOghdI/AAAAAAAAAx4/TDAAycfOyjU/s400/menucrap.jpg)    
-"Imagen: ¡No hay menú para
-acceder a los contactos, ni a las descargas!"
+"Imagen: ¡No hay menú para acceder a los contactos, ni a las descargas!"
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/SGj-t_OgheI/AAAAAAAAAyA/K-FinzZjGrM/s400/nohayvistapreviaAERO.jpg)    
-"Imagen: No hay vista previa
-del tema AERO"
+"Imagen: No hay vista previa del tema AERO"
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SGj-ufOghfI/AAAAAAAAAyI/dNbl96M1SDM/s400/agregarfuentes.jpg)    
-"Imagen: Este es el SUPER
-moderno cuadro de dialogo para agregar fuentes al sistema,¿ notan los iconos tipo windows 95 y la disposición moderna y nada confusa de la dichosa ventana?"
+"Imagen: Este es el SUPER moderno cuadro de dialogo para agregar fuentes al sistema,¿ notan los iconos tipo windows 95 y la disposición moderna y nada confusa de la dichosa ventana?"
 
-Y pueden ver mas inconsistencias (y agregar las suyas) aquí:
-[https://www.istartedsomething.com/taskforce/](https://www.istartedsomething.com/taskforce/)
+Y pueden ver mas inconsistencias (y agregar las suyas) aquí: [https://www.istartedsomething.com/taskforce/](https://www.istartedsomething.com/taskforce/)
 > style="font-size:130%;"> href="https://www.istartedsomething.com/taskforce/">https://www.istartedsomething.com/taskforce/
 ... son un poco más de 800 inconsistencias de diseño de interfaz en todo el sistema, sin contar otro tipo de errores y particularidades. ¿Y por esto la gente paga más de $120 USD?
 
@@ -883,8 +763,7 @@ post_id: blog-3515952828243908885.post-7956897426457783639
 ---
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/STZTI66AbZI/AAAAAAAAE1I/2xBoNuvM_wk/s400/dollar_crisis.png)    
-"Oh no! Me
-devalúo"
+"Oh no! Me devalúo"
 
 Hoy en día, tomando en cuenta los tiempos de crisis económica que existen y el futuro incierto que se avecina, es hora de tener un poco mas de conciencia sobre la manera de como y en que gastamos nuestro dinero para que no se nos acabe en productos innecesarios, valorando el esfuerzo que debimos realizar para adquirirlo.
 
@@ -892,22 +771,15 @@ Unos hacen cuentas en papel, otros usan hojas de cálculo o programas que se ins
 
 Para ello, existe una serie de aplicaciones basadas en el web que te permiten realizar las tareas antes mencionadas. Desde los mas simples hasta los pesos pesados de las finanzas, desde los minimalistas hasta los orientados al web 2.0 mencionamos los siguientes (cabe destacar que todas son gratuitas):
 
-ExpenseView ([link](https://www.expenseview.com/))
-![image](https://4.bp.blogspot.com/_jH77WNrMVRA/STbLgWbuEpI/AAAAAAAAE1Q/u1TmwYjNXvk/s400/expenseview.png)    Expenseview es una
-sencilla herramienta (aún beta) en la cual puedes ir registrando periódicamente cuales son tus ingresos y egresos de efectivo para saber en qué te gastas todo el dinero y cuales son tus fuentes de ingreso mas frecuentes o como dicen popularmente como llegar a fin de mes. Basta registrarse en el sitio e ir agregando cada uno de los ingresos/gastos los cuales al final se pueden comparar totalizados en varios periodos de forma gráfica.
+ExpenseView ([link](https://www.expenseview.com/)) ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/STbLgWbuEpI/AAAAAAAAE1Q/u1TmwYjNXvk/s400/expenseview.png)    Expenseview es una sencilla herramienta (aún beta) en la cual puedes ir registrando periódicamente cuales son tus ingresos y egresos de efectivo para saber en qué te gastas todo el dinero y cuales son tus fuentes de ingreso mas frecuentes o como dicen popularmente como llegar a fin de mes. Basta registrarse en el sitio e ir agregando cada uno de los ingresos/gastos los cuales al final se pueden comparar totalizados en varios periodos de forma gráfica.
 
-Mint ([link](https://www.mint.com/))
-![image](https://4.bp.blogspot.com/_jH77WNrMVRA/STbMm89YSTI/AAAAAAAAE1Y/NuV-_PFQegk/s400/mint.jpg)    Mint es una
-herramienta un poco mas profesional, pero con una fresca y muy amigable apariencia. Se sincroniza con tu cuenta bancaria (no disponible para los bancos de El Salvador, lamentablemente) o mediante tu cuenta de PayPal de manera que no tengas que ingresar manualmente tus ingresos/egresos y tu estado de cuenta. Desde mint también podras realizar pagos y recibir noticias de los movimientos de tu cuenta, revisándolos desde cualquier computadora conectada a la nube de Internet o desde tu iPhone. La seguridad de tu cuenta en mint esta respaldada por VeriSign, TRUSTe y mcAfee secure por lo que puedes estar tranquilo por la confidencialidad de tu información bancaria.
+Mint ([link](https://www.mint.com/)) ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/STbMm89YSTI/AAAAAAAAE1Y/NuV-_PFQegk/s400/mint.jpg)    Mint es una herramienta un poco mas profesional, pero con una fresca y muy amigable apariencia. Se sincroniza con tu cuenta bancaria (no disponible para los bancos de El Salvador, lamentablemente) o mediante tu cuenta de PayPal de manera que no tengas que ingresar manualmente tus ingresos/egresos y tu estado de cuenta. Desde mint también podras realizar pagos y recibir noticias de los movimientos de tu cuenta, revisándolos desde cualquier computadora conectada a la nube de Internet o desde tu iPhone. La seguridad de tu cuenta en mint esta respaldada por VeriSign, TRUSTe y mcAfee secure por lo que puedes estar tranquilo por la confidencialidad de tu información bancaria.
 
-Buxfer ([link](https://buxfer.com/))
-![image](https://4.bp.blogspot.com/_jH77WNrMVRA/STbRozgQ9PI/AAAAAAAAE1g/5ET_Y0_gyIY/s400/buxfer.jpg)    
-Buxfer es casi tan profesional como mint, pero se orienta más al web 2.0 y a la administración colaborativa. Te permite crear una nueva cuenta sin necesidad de recordar un nuevo usuario/contraseña sino que te brinda la facilidad de usar una cuenta de OpenID. Al igual que mint, permite sincronizar cuentas bancarias y tarjetas de crédito, realizar pagos desde el sitio y recibir notificaciones vía telefonía móvil. Puedes agregar todo tipo de transacciones como préstamos, donaciones, pagos, etc. y asignárselas a algún miembro de tu grupo de usuarios de buxfer, haciéndolo responsable de esa transacción. Lo recomiendo personalmente para el trabajo en equipo administrando el presupuesto de un proyecto o tareas similares. Respaldado por VeriSign.
+Buxfer ([link](https://buxfer.com/)) ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/STbRozgQ9PI/AAAAAAAAE1g/5ET_Y0_gyIY/s400/buxfer.jpg)     Buxfer es casi tan profesional como mint, pero se orienta más al web 2.0 y a la administración colaborativa. Te permite crear una nueva cuenta sin necesidad de recordar un nuevo usuario/contraseña sino que te brinda la facilidad de usar una cuenta de OpenID. Al igual que mint, permite sincronizar cuentas bancarias y tarjetas de crédito, realizar pagos desde el sitio y recibir notificaciones vía telefonía móvil. Puedes agregar todo tipo de transacciones como préstamos, donaciones, pagos, etc. y asignárselas a algún miembro de tu grupo de usuarios de buxfer, haciéndolo responsable de esa transacción. Lo recomiendo personalmente para el trabajo en equipo administrando el presupuesto de un proyecto o tareas similares. Respaldado por VeriSign.
 
 Yahoo! Finance ([link](https://finance.yahoo.com/))
 
-![image](https://2.bp.blogspot.com/_jH77WNrMVRA/STbTSv7T42I/AAAAAAAAE1o/aADJUR84XzI/s400/yahoofinance.gif)    Yahoo! finance es
-toda una herramienta financiera para cualquier empresario o ejecutivo interesado en la bolsa de valores. Disponible desde tu cuenta de Yahoo!, puedes tener a la mano desde las estadísticas de los mercados mundiales hasta un conversor on-line de monedas, consejos de inversión, préstamos, etc.
+![image](https://2.bp.blogspot.com/_jH77WNrMVRA/STbTSv7T42I/AAAAAAAAE1o/aADJUR84XzI/s400/yahoofinance.gif)    Yahoo! finance es toda una herramienta financiera para cualquier empresario o ejecutivo interesado en la bolsa de valores. Disponible desde tu cuenta de Yahoo!, puedes tener a la mano desde las estadísticas de los mercados mundiales hasta un conversor on-line de monedas, consejos de inversión, préstamos, etc.
 
 ---
 
@@ -921,8 +793,7 @@ post_id: blog-3515952828243908885.post-8103715126442289826
 ---
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RwzyBFmN2bI/AAAAAAAAAgo/UP4azpHUO_o/s320/work_bandwidth.jpg)    
-"Estoy seguro de que muchos
-de nosotros usaríamos esta camisa..."
+"Estoy seguro de que muchos de nosotros usaríamos esta camisa..."
 
 Como ya saben muchos "linuxeros", en GNU\Linux NO es necesario formatear y re-instalar el sistema operativo para obtener las características mas novedosas. Basta con usar las herramientas que el mismo sistema facilita, como en Debian (y todas sus variantes) por ejemplo, para cambiar a una mejor versión:
 
@@ -934,8 +805,7 @@ Una de las cosas que mas me gusta hacer, es hacer una actualización del sistema
 Y ese programa del que les hablo es trickle y trickled (daemon de trickle). Trickle se encarga de limitar (pero como tu la limitas, tu administras ;) el uso de ancho de banda de "subida" y "bajada" de una aplicación que le especifiquemos.
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/Rwzw-lmN2aI/AAAAAAAAAgg/MIIGtUo8v-o/s320/masanchobanda.jpg)    
-"¡Usa más Ancho de
-Banda!"
+"¡Usa más Ancho de Banda!"
 
 Digamos que usted tiene una conexión de 256 Kbps, y necesita actualizar el sistema, pero también quiere leer todos los post de este blog ;) entonces se haría lo siguiente:
 
@@ -975,8 +845,7 @@ Da la casualidad que por razones de la vida, recientemente me topé con un famos
 Les ruego que no busquen la repuesta en internet, tómense su tiempo. También les sugiero que lo consideren como un problema de sudoku, solamente que en lugar de números posees características parcialmente relacionadas. Yo utilicé esa lógica para resolverlo, en realidad existen muchas (Ahhhhh, tenía que salir a relucir mi ego. No podía quedarme sin mencionar que yo lo había resuelto en 35 min., jajaja).
 
 ![image](https://bp3.blogger.com/_jH77WNrMVRA/R6qxGO__NOI/AAAAAAAAAgk/2cXbnD2sVG0/s320/Albert_Einstein_Head.jpg)    
-"Mi querido amigo Albert.
-Seguramente estaría diciendo: Con que te crees capaz de resolver mi acertijo ah? A ver, inténtalo."
+"Mi querido amigo Albert. Seguramente estaría diciendo: Con que te crees capaz de resolver mi acertijo ah? A ver, inténtalo."
 
 He aquí el problema en cuestión:
 
@@ -986,8 +855,7 @@ La pregunta es: ¿Quién tiene un pez?
 
 Hechos · El británico vive en la casa roja · El sueco tiene un perro · El danés bebe té · La casa verde está a la izquierda de la casa blanca · El propietario de la casa verde bebe café · La persona que fuma Pall Mall cría pájaros · La persona que vive en la casa amarilla fuma Dunhill · El propietario de la casa de en medio bebe leche · El noruego vive en la primera casa · El hombre que fuma Blends vive al lado del propietario de un gato · El dueño del caballo vive al lado del hombre que fuma Dunhill · El fumador de Bluemasters bebe cerveza · El alemán fuma Prince · El noruego vive al lado de la casa azul · El fumador de Blends tiene un vecino que bebe agua
 
-[la mayoría elabora una tabla en cuya primera
-columna escribe las características: "Casa, Nacionalidad, Bebida, Cigarros, Mascota" e intenta rellenar las filas correspondientes a cada característica con lo que cada uno supone que es la relación correcta, hasta a encontrar al dueño del bendito pez]
+[la mayoría elabora una tabla en cuya primera columna escribe las características: "Casa, Nacionalidad, Bebida, Cigarros, Mascota" e intenta rellenar las filas correspondientes a cada característica con lo que cada uno supone que es la relación correcta, hasta a encontrar al dueño del bendito pez]
 
 ¡Algunos llegaron al colmo de escribir programas en C++ o Lisp para resolver el acertijo! Eso si ya sobrepasa mis limites. Si quieren ver el código, búsquen los links en [el artículo de la wikipedia relacionado con el acertijo](https://en.wikipedia.org/wiki/Zebra_Puzzle), en las referencias finales del mismo.
 
@@ -1024,8 +892,7 @@ post_id: blog-3515952828243908885.post-2498931069158811361
 El jueves, el amigo [@Saulopassos](https://twitter.com/saulopassos) me comenta sobre la siguiente noticia: Microsoft y Nokia forman una alianza global para diseñar, desarrollar y comercializar soluciones móviles de productividad. Aja... wow!. Microsoft y Nokia estan colaborando para llevar Microsoft Office Mobile, además de software y servicios asociados de comunicación y colaboración a los teléfonos inteligentes de Nokia.
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SodUAzyHA1I/AAAAAAAACJI/_DeuIh1afOo/s320/nokia-microsoft-logo-aug.jpg)    
-"Sin
-comentarios"
+"Sin comentarios"
 
 La noticia personalmente me resulta interesante. Por un lado, los telefonos Nokia son buenos, aunque por experiencia propia el software deja mucho que desear; y por otro lado, pienso en Microsoft incursionando aun más en la psique del usuario común, y casi inmediatamente se formula en mi mente la interrogante: ¿Y por que no usaron OpenOffice? si el Software Libre tiene potencial! ... ¿o no?
 
@@ -1056,8 +923,7 @@ Antes de adentrarnos en el tema, poblare su mente con parte del anuncio oficial 
 Siento estrictamente objetivos, y desde el punto de vista de negocios, si eres Nokia, te conviene tener MS Office en tus productos principalmente porque: Nokia es el fabricante de Smart Phones más grande del mundo. Lamentablemente no podemos utilizar un [Mobile OpenOffice.org](https://mooo.dev.java.net/)... porque simplemente NO existe es funcional. Y aunque MS Office aun no se ha portado totalmente a [Symbian OS](https://en.wikipedia.org/wiki/Symbian_OS) (el SO de los telefonos Nokia), es solo cuestión de tiempo para que Microsoft tenga su producto ejecutándose en Symbian. Seamos realistas, Nokia no va a GASTAR en migrar OpenOffice.org a Symbian, porque no hay nada que "migrar", seria la elaboración de un producto TOTALMENTE nuevo, escrito desde cero.
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SodT-UTz3RI/AAAAAAAACIo/hGxVWVU-B5c/s320/Collabaration-of-Two-Giants-Nokia-and-Microsoft-Form-Alliance.jpg)    
-"MS Office en mi SmartPhone
-= $$$ para MS y Nokia"
+"MS Office en mi SmartPhone = $$$ para MS y Nokia"
 
 ¿Ahora pregunto? Valdrá la pena, desde el punto de vista de negocio, contratar un equipo de programadores, para que realicen tan magna tarea? ... no, realmente no vale la pena. Es más lógica la INVERSIÓN en una alianza entre la gigante empresa de Software, que ya tienen toda la infraestructura, el equipo, los programadores con la experiencia y la marca, y hasta quizas tienen casi listo el producto.
 
@@ -1068,14 +934,12 @@ Como dice el párrafo del anuncio:
 > Nokia."
 ¿Tiene sentido? claro que si, y no solo eso, sino que tambien es una alianza natural. Yo tengo el hardware, y tu le pones el software. En las grandes ligas, las empresas se miden y se juntan pensando en atributos (filosofía, estilo de codificación, licencias, ideales, lenguajes) que van mas allá del software y del hardware, y se adentran, a ese terrible y brutal territorio llamado Marketing...
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SodUApYUCaI/AAAAAAAACJA/acC2-uQ6iOc/s320/MarketingEvil.jpg)    
-Pero no me atrevo a hablar de Marketing, porque es como hablar en la [lengua de Mordor](https://en.wikipedia.org/wiki/Black_Speech). Mejor me aviento a resumir este negocio en tres atributos excepcionales: Marca, Mercado y Experiencia (Trayectoria), y como el lector ya sabe, estas empresas tienen mucho de lo mencionado.
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SodUApYUCaI/AAAAAAAACJA/acC2-uQ6iOc/s320/MarketingEvil.jpg)     Pero no me atrevo a hablar de Marketing, porque es como hablar en la [lengua de Mordor](https://en.wikipedia.org/wiki/Black_Speech). Mejor me aviento a resumir este negocio en tres atributos excepcionales: Marca, Mercado y Experiencia (Trayectoria), y como el lector ya sabe, estas empresas tienen mucho de lo mencionado.
 
 Estos son atributos en los que, como desarrolladores de software, no se nos cruzan mucho por la mente (al menos, no a mi) pero que son factores determinantes para que el software que produces, o en el que trabajas, llegue a millones de usuarios y genere también millones de dolares. ¿Y saben que es lo mas increíble? Estos atributos también se aplican y existen en el mundo del software libre. Usemos un ejemplo real y perfecto, el popular navegador web: [Mozilla Firefox](https://es-ar.www.mozilla.com/es-AR/).
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SodT-tW7L_I/AAAAAAAACIw/9B-V6dWI5vY/s320/firefox-logo.png)    
-"Todos amamos Firefox
-:)"
+"Todos amamos Firefox :)"
 
 Marca: Si te muestran una imagen de un "zorro" rojo ([es un oso en realidad](https://en.wikipedia.org/wiki/Red_Panda)) sobre un mundo, inmediatamente piensas en Firefox. Eso, es marca. Y como bien saben el trabajo de Mozilla Foundation, llega a millones de personas en todo el mundo, sin generar muchos millones de dolares.
 
@@ -1091,8 +955,7 @@ Mercado:
 Nokia maneja un mercado de usuario que se apoyan en la tecnología como extensión de productividad, Microsoft naturalmente desea incursionar en el mercado móvil, y Nokia quiere un bono adicional para sus telefonos, lo que se traduce en amplitud de mercado para ambos.
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SodT_JwARSI/AAAAAAAACI4/TND37Dab67o/s320/mail_for_exchange_inbox_lowres.jpg)    
-"Algunos de los modelos más
-populares de telefonos móviles de Nokia"
+"Algunos de los modelos más populares de telefonos móviles de Nokia"
 
 El mercado de Firefox son los clientes inconformes y enojados que Internet Explorer 5 y 6 produjo en la época de la Web 1.0 y principios de la web 2.0, un mercado que asciende a más 1,596 millones de internautas (fuente: [Internet World Stats](https://www.internetworldstats.com/stats.htm)).
 
@@ -1126,8 +989,7 @@ Así como en esta ocasión, muchas veces nos ocurre que necesitamos de alguna he
 Para facilitarnos la vida, podemos hacer uso de un sitio web creado especialmente para ello: Open Source Alternatives ([osalt.com](https://www.osalt.com/))
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SQcUIaUdPGI/AAAAAAAADfQ/HVAg7K64hCk/s400/osalt.png)    
-"Captura del Sitio osalt.com
-mostrando las alternativas Open Source al Anime Studio"
+"Captura del Sitio osalt.com mostrando las alternativas Open Source al Anime Studio"
 
 Este sitio funciona como un directorio de aplicaciones con licencia comercial en el cual se registra además una lista de programas con funciones equivalentes pero con una licencia de código abierto o también llamada Open Source. Además, le permite también a los usuarios sugerir o proponer otras aplicaciones que no estén listadas en el sitio, tanto las de licencia comercial como sus contrapartes de código abierto.
 
@@ -1143,8 +1005,7 @@ post_id: blog-3515952828243908885.post-3667254230756861856
 ---
 
 ![image](https://bp0.blogger.com/_jH77WNrMVRA/R8bj23l5lyI/AAAAAAAAAlQ/a5Y0eNrXNUI/s320/gimp-splash-2.4.png)    
-"Pantalla de Inicio del
-Gimp, en la versión 2.4 "
+"Pantalla de Inicio del Gimp, en la versión 2.4 "
 
 Hace poco me enteraba leyendo en las noticias que Google desea patrocinar un proyecto más de Codeweavers, empresa detrás de wine, el popular emulador de aplicaciones Windows bajo Linux. Entre los proyectos que Google patrocina actualmente esta el soporte para la emulación de Picasa y Dragon Naturally Speaking sobre Linux.
 
@@ -1170,11 +1031,9 @@ Aca les dejo un vídeo de un SpeedDrawing elaborado con el GIMP:
 
 "Speed Drawing con el GIMP"
 
-[1]Las curvas Bézier son herramientas útiles de modelado,
-compuestas por curvas paramétricas generada a partir de puntos o líneas de control en cada una de sus secciones o puntas. El tamaño, posición y dirección de cada una de estas líneas de control definen la forma de la curva.
+[1]Las curvas Bézier son herramientas útiles de modelado, compuestas por curvas paramétricas generada a partir de puntos o líneas de control en cada una de sus secciones o puntas. El tamaño, posición y dirección de cada una de estas líneas de control definen la forma de la curva.
 
-[2]Una API es una interfaz de
-programación o una librería de funciones o de objetos que un programa o un sistema operativo provee para que otros programas puedan hacer uso de sus servicios sin necesidad que un usuario final tenga que interactuar con su interfaz original, si es que este la posee.
+[2]Una API es una interfaz de programación o una librería de funciones o de objetos que un programa o un sistema operativo provee para que otros programas puedan hacer uso de sus servicios sin necesidad que un usuario final tenga que interactuar con su interfaz original, si es que este la posee.
 
 ---
 
@@ -1188,8 +1047,7 @@ post_id: blog-3515952828243908885.post-3748190492575017915
 ---
 
 ![image](https://bp1.blogger.com/_jH77WNrMVRA/SAEvRfKZm6I/AAAAAAAAA1M/hkz74Zr66r8/s320/netbeans6.JPG)    
-"Splash Screen o Pantalla
-Inicial del Netbeans 6.0"
+"Splash Screen o Pantalla Inicial del Netbeans 6.0"
 
 Continuando con la saga de alternativas libres para satisfacer cualquier tipo de necesidades de software, esta vez me refiero a [Netbeans](https://www.netbeans.org/), el [IDE](https://es.wikipedia.org/wiki/Entorno_de_desarrollo_integrado) de programación de Sun Microsystems principalmente orientado al desarrollo de aplicaciones en el lenguaje Java.
 
@@ -1200,8 +1058,7 @@ Una de las mas importantes ventajas de Java es la muy conocida ejecución de apl
 Además de la capacidad para desarrollar aplicaciones Java, posee complementos para la ayuda en el desarrollo en otros lenguajes como C/C++, Ruby y PHP, un muy completo editor de esquemas XML, un editor [WYSIWYG](https://es.wikipedia.org/wiki/Wysiwyg) para aplicaiones web (Visual Web Pack), un servidor Tomcat integrado, asistentes para la conexión a bases de datos de MySql y Postgres, Editor de Diagramas UML, entre otros.
 
 ![image](https://bp1.blogger.com/_jH77WNrMVRA/SAE1RfKZm7I/AAAAAAAAA1U/bI7s_dCYJLU/s320/visualDesigner.png)    
-"Edición WYSIWYG de una
-aplicación web JSP con el Visual Web Pack"
+"Edición WYSIWYG de una aplicación web JSP con el Visual Web Pack"
 
 Entre los IDEs comparables con este, se encuentra el Visual Studio, la suite de Microsoft para el desarrollo de software para la plataforma .Net, el cual no es ni libre ni gratuito, mucho menos la única opción para desarrollar este tipo de aplicaciones.
 
@@ -1209,8 +1066,7 @@ Un entorno comparable, que puede ahora ser reemplazado por el Netbeans 6.0 es el
 
 Se los recomiendo para cualquiera que desee usar entornos libres multiplataforma para desarrollar aplicaciones en Java, C, C++, PHP o Ruby. He aqui un video de creacion de aplicaciones mediante los asistentes que el entorno provee:
 
-"Netbeans
-6.0"
+"Netbeans 6.0"
 
 ---
 
@@ -1235,15 +1091,13 @@ Existen muchos programas, en ese sistema tan trillado que todo mundo conoce, que
 Pero... en el mundo (cada vez más y más grande) del Software Libre existe, el mejor reproductor (sin lugar a dudas) de música, estamos hablando (evidentemente) de Amarok.
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RgaR4sDxhYI/AAAAAAAAANI/GyafMf7JSCE/s400/Amarok-icon.png)    
-"Amarok significa lobo en
-[Inuktitut](https://es.wikipedia.org/wiki/Inuktitut)
+"Amarok significa lobo en [Inuktitut](https://es.wikipedia.org/wiki/Inuktitut)
 "
 
 Amarok ademas de ser un reproductor de audio, soporta de forma directa varios servicios de Internet y opciones especializadas para los melómanos que tienen grandes colecciones de música (como yo). Aún así, resulta muy fácil de usar a pesar de todo lo que permite hacer.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/RgaYpcDxhZI/AAAAAAAAANQ/fNdaqLn6uAM/s320/lfm_001.jpg)    
-"Escuchando stream de radio
-de Last.fm"
+"Escuchando stream de radio de Last.fm"
 
 Algunas de las características de Amarok son:
 
@@ -1268,8 +1122,7 @@ Como todo buen proyecto de software libre, Amarok disfruta de un amplio equipo d
 
 Amarok es multiplataforma (por usar las librerias QT de TrollTech), pero nadie se ha dado la tarea de compilarlo para M$ Windows o Mac OS X. ¿Por qué?... pues Amarok es TAN bueno, que llama a nuevos usuarios al mundo del Software Libre. Y ya el usuario estando en ese mundo, no quiere regresar (¿y quien quiere?). El Sr. Byte recomienda Amarok y les promete que no se van a arrepentir de usarlo.
 
-![image](https://bp0.blogger.com/_ayvorITawE4/Rgaat8DxhaI/AAAAAAAAANY/W3l6E9wM_ro/s400/happytux.png)    Dejo la pagina para
-ver [algunas capturas de pantalla](https://amarok.kde.org/d/en/index.php?q=gallery&g2_itemId=103) de la pagina oficial de Amarok.
+![image](https://bp0.blogger.com/_ayvorITawE4/Rgaat8DxhaI/AAAAAAAAANY/W3l6E9wM_ro/s400/happytux.png)    Dejo la pagina para ver [algunas capturas de pantalla](https://amarok.kde.org/d/en/index.php?q=gallery&g2_itemId=103) de la pagina oficial de Amarok.
 
 ---
 
@@ -1287,8 +1140,7 @@ Un miembro del equipo de desarrollo de [Amarok](https://srbyte.blogspot.com/2007
 Desde hace pocos días ya es posible ejecutar Amarok2, el maravilloso reproductor de música del entorno KDE tan popular en los sistemas GNU \ Linux, en Windows. Concretamente lo que se logrado es compilar y ejecutar Amarok2, que es la versión de desarrollo, o inestable, que los programadores del software libre siempre ponen a disposición de programadores y testers para su prueba.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/RkiEM0K335I/AAAAAAAAAWw/9gmkiEaVrN0/s400/amarok_win1.jpg)    
-"Amarok 2 en
-Windows!"
+"Amarok 2 en Windows!"
 
 Todo esto ha sido posible gracias al increíble trabajo emprendido por el desarrollador del equipo de Amarok Dan Meltzer, que paso (solamente) dos días depurando el código para compilar Amarok 2 nativamente en Windows. Básicamente la mayoría del código de Amarok ya era multiplataforma y "portable" a otros sistemas casi sin cambios. Esto demuestra (nuevamente) el beneficio de desarrollo de aplicaciones con librerías multiplataforma como QT de Trolltech (los mismos desarrolladores del navegador Opera). Lo interesante de esta compilación es que ofrece casi las mismas funciones que la versión original, exceptuando alguna limitación como la búsqueda de ficheros multimedia en dispositivos USB, algo que el equipo de desarrollo promete corregir cuanto antes. Y claro, ya cuando lo hayan hecho, prometen poner a disposición de todos la versión funcional compilada.
 
@@ -1307,8 +1159,7 @@ post_id: blog-3515952828243908885.post-6699059275021219764
 
 La semana pasada, el servidor de Source Control ([Subversion](https://www.srbyte.com/2008/03/programemos-mejor-subversion.html)) en donde se encuentran alojados todos los proyectos informáticos de la empresa comienzo a presentar problemas SERIOS de rendimientos. Con problemas serios me refiero a tardar 2 o 3 minutos para realizar un commit de 13 Kbs...
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SllZggQ5M3I/AAAAAAAACGo/YTVlvOYxmsM/s320/subversion_logo-200x173.png)    
-Todo esto comenzó a suceder justo en el momento en el que tres de los proyectos principales se estaban convirtiendo a TAGS ("Estable") y se comenzó a realizar un control mas minucioso de los commits realizados (se realizo lock en el main branch de los mismos). Así que la cosa se puso bastante seria cuando de un momento a otro, el rendimiento de este servidor, que se ha mantenido estable y confiable disminuyo, y en un momento, hasta se pensó que había "tronado", justo como trono el servidor CVS que le antecedía.
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SllZggQ5M3I/AAAAAAAACGo/YTVlvOYxmsM/s320/subversion_logo-200x173.png)     Todo esto comenzó a suceder justo en el momento en el que tres de los proyectos principales se estaban convirtiendo a TAGS ("Estable") y se comenzó a realizar un control mas minucioso de los commits realizados (se realizo lock en el main branch de los mismos). Así que la cosa se puso bastante seria cuando de un momento a otro, el rendimiento de este servidor, que se ha mantenido estable y confiable disminuyo, y en un momento, hasta se pensó que había "tronado", justo como trono el servidor CVS que le antecedía.
 
 Como nunca había visto el dichoso servidor, pues me decidí a buscar en donde se encontraba, así como buscar al responsable del mantenimiento del mismo, o al menos al que había configurado el SubVersion ahí, y realizar la típica sesión de preguntas de novato curioso (de buena intención, pero molestas), y de paso como ya había leido de un problema similar en el servidor SVN del código de KDE, que es al menos, unas 10 veces mayor que el de la empresa, sabia "mas o menos" que decir/mencionar/sugerir para la mejora del problema. Resulta que el administrador mas inmediato de la maquina es un amigo ([RobMV](https://robmv.com/)), así que le comente la situación, y mas o menos la conversación se dio similar a esto:
 
@@ -1323,8 +1174,7 @@ Como nunca había visto el dichoso servidor, pues me decidí a buscar en donde s
 > virtual).
 Resulta que el servidor REAL (Sun Blade Server con 16 GB, y dos procesadores Intel Xeon de 3 GHz c/u) había pasado recientemente por una "reasignación de recursos" para TODAS (al menos 13) las máquinas virtuales que en el se ejecutan, para mejorar asi el rendimiento de otras máquinas [virtuales](https://es.wikipedia.org/wiki/Virtualizaci%C3%B3n)...
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SllZgwBr3sI/AAAAAAAACGw/AxJsGdslEjY/s320/virtualizacion.jpg)    
-El "Blade", posee 3 niveles de prioridades en las que resuelve o "cede" el uso del procesador para cada máquina virtual. El servidor SVN estaba en la prioridad más baja. Ademas, la memoria RAM del servidor SVN se redujo de 1 GB a 512 MB. Y para colmo el servidor SVN se ejecuta en nada mas y nada menos que Windows 2003 Server.... Ah!!!! con razón esta lento.
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SllZgwBr3sI/AAAAAAAACGw/AxJsGdslEjY/s320/virtualizacion.jpg)     El "Blade", posee 3 niveles de prioridades en las que resuelve o "cede" el uso del procesador para cada máquina virtual. El servidor SVN estaba en la prioridad más baja. Ademas, la memoria RAM del servidor SVN se redujo de 1 GB a 512 MB. Y para colmo el servidor SVN se ejecuta en nada mas y nada menos que Windows 2003 Server.... Ah!!!! con razón esta lento.
 
 La solución inmediata, fue reasignar la prioridad al servidor, a un nivel de prioridad "alto" (nivel de producción), y santo remedio... No digo que no funciono, pero creo que si alguien tiene algun problema similar, existen más opciones para solventar el problema. Creo firmemente, que ese mismo servidor SVN puede ejecutarse perfectamente en esas condiciones, y con mejores resultados que como lo hacia antes.
 
@@ -1336,8 +1186,7 @@ Si bien Windows 2003 Server, es bastante estable, cualquier experto puede concor
 Para las máquinas virtuales, siempre hay que usar una regla de oro:
 > Usa un sistema operativo OPTIMIZADO para
 > máquinas virtuales.
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SllbyxmroEI/AAAAAAAACHI/nTGSFCS7WpM/s320/vmware-player-ubuntu-install-1.png)    
-Un PERFECTO ejemplo de esto: [Ubuntu Server Edition JeOS](https://www.ubuntu.com/products/whatisubuntu/serveredition/jeos) (que se pronuncia como jugo en Ingles: "Juice"). Beneficios inmediatos de usar JeOS son:
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SllbyxmroEI/AAAAAAAACHI/nTGSFCS7WpM/s320/vmware-player-ubuntu-install-1.png)     Un PERFECTO ejemplo de esto: [Ubuntu Server Edition JeOS](https://www.ubuntu.com/products/whatisubuntu/serveredition/jeos) (que se pronuncia como jugo en Ingles: "Juice"). Beneficios inmediatos de usar JeOS son:
 
 - Mejor rendimiento en el mismo "hardware" comparado a un sistema operativo completo no optimizado.
 - Menos espacio en disco
@@ -1345,8 +1194,7 @@ Un PERFECTO ejemplo de esto: [Ubuntu Server Edition JeOS](https://www.ubuntu.com
 Sistemas operativos como Ubuntu Jeos están afinados, de manera que aprovechen el máximo rendimiento de productos como VMware y KVM, lo que se traduce en mas eficiencia para escenarios de virtualización mayores.
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SllbD-T71UI/AAAAAAAACHA/YtGBpiTEunk/s320/365x230.jpg)    
-"JeOS = núcleo de SO {Kernel, Drives, Login} + Mínimo Mantenimiento + Mínimo "user
-space tools""
+"JeOS = núcleo de SO {Kernel, Drives, Login} + Mínimo Mantenimiento + Mínimo "user space tools""
 
 Si la idea es "sacarle" el jugo a los equipos actuales, y mejorar el rendimiento sin incurrir en gastos por la "crisis", entonces hay que hacer conciencia sobre soluciones que usen Software Libre, y ofrecerlo como una opción REALISTA a los problemas informáticos empresariales.
 
@@ -1396,8 +1244,7 @@ post_id: blog-3515952828243908885.post-1084603112247587829
 
 Este medio día, me tope con la triste noticia de que Gustavo Gutierrez ([@flugus](https://twitter.com/flugus)) falleció. Gustavo es el fundador de los estudios [Happy Punk Panda](https://happypunkpanda.com/).
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/StfEcTYytUI/AAAAAAAACM4/ZCmAAWE-HlE/s320/hpp.home01_r2_c3.gif)    Happy Punk Panda (HPP), se dedica al diseño de
-sitios Web, a la animación (2D y 3D) y multimedia en general. Uno de sus proyectos más ambiciosos: "[La Leyenda de la Carreta Bruja](https://www.facebook.com/home.php?#/carretabruja?ref=ts)
+![image](https://1.bp.blogspot.com/_ayvorITawE4/StfEcTYytUI/AAAAAAAACM4/ZCmAAWE-HlE/s320/hpp.home01_r2_c3.gif)    Happy Punk Panda (HPP), se dedica al diseño de sitios Web, a la animación (2D y 3D) y multimedia en general. Uno de sus proyectos más ambiciosos: "[La Leyenda de la Carreta Bruja](https://www.facebook.com/home.php?#/carretabruja?ref=ts)
 ", fue el que me hizo ver el espiritu emprededor de Gustavo y del equipo de HPP.
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/StfEbsVpbsI/AAAAAAAACMo/vLbBOua5qjo/s320/carreta.jpg)     [https://laleyendadelacarretabruja.com/](https://laleyendadelacarretabruja.com/)
@@ -1405,8 +1252,7 @@ sitios Web, a la animación (2D y 3D) y multimedia en general. Uno de sus proyec
 Conocí a Gustavo el año pasado, en la Campus Party Iberoamericana, y hace poco comenzamos a hablar un poco mas seguido. Sinceramente, puedo decir que es de las pocas personas (al menos en El Salvador) que admiro. Dedicado, honesto, proactivo y trabajador son caracteristicas que lo definian, a el y a su equipo. Espero sinceramente, que el equipo de Happy Punk Panda no se desanime, que sigan con su trabajo como siempre, y que no dejen a Gito Gito (la mascota) sin familia...
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/StfEb5sCEPI/AAAAAAAACMw/pDz1t72DtPc/s320/HAPPY_PUNK_PANDA_3D_by_flugus.jpg)    
-"Gito
-Gito"
+"Gito Gito"
 
 Este blog se une al luto de Happy Punk Panda, y oramos por la familia y amigos de Gustavo para resignarce ante la perdida. "Te fuiste
 
@@ -1427,10 +1273,7 @@ Revolucionando el software con NeXTSTEP un sistema operativo orientado a objetos
 
 Mejorando nuevamente el mercado de las computadoras personales con la iMac:
 
-![image](https://bp0.blogger.com/_ayvorITawE4/RdOcH6SA95I/AAAAAAAAAGU/TLQeSTmuRVU/s400/SteveiMac.jpg)    
-Entreteniendo nuestra vida con el ya famoso iPod (mejor que el Zune, pero sumamente restrictivo):
-![image](https://bp3.blogger.com/_ayvorITawE4/RdOdLqSA97I/AAAAAAAAAGk/bMosdnNVBpA/s200/ipodu2.JPG)    Y continuando con
-su revolución, Apple se supera así mismo una vez mas, con el lanzamiento de un nuevo invento... el [iPhone:](https://www.apple.com/iphone/)
+![image](https://bp0.blogger.com/_ayvorITawE4/RdOcH6SA95I/AAAAAAAAAGU/TLQeSTmuRVU/s400/SteveiMac.jpg)     Entreteniendo nuestra vida con el ya famoso iPod (mejor que el Zune, pero sumamente restrictivo): ![image](https://bp3.blogger.com/_ayvorITawE4/RdOdLqSA97I/AAAAAAAAAGk/bMosdnNVBpA/s200/ipodu2.JPG)    Y continuando con su revolución, Apple se supera así mismo una vez mas, con el lanzamiento de un nuevo invento... el [iPhone:](https://www.apple.com/iphone/)
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RdOTiqSA94I/AAAAAAAAAGM/YOhh_id6O5M/s400/indexhero20070109.jpg)    
 
@@ -1472,8 +1315,7 @@ Realmente no entiendo, ¿para que enseñan Access en las Universidades?. Creo si
 Muchos desarrolladores (Salvadoreños al menos) estarán pensando en que Access es "bueno" para sistemas sencillos que necesitan bases de datos pequeñas. La respuesta a eso, es NO. Permitanme explicarles: Microsoft Access utiliza un modulo de acceso a datos llamado Microsoft JET. Las siglas JET significan: Joint Engine Technology, el sucesor de esta tecnología fue primero MSDE (Microsoft Desktop Engine) y este, a su vez, fue sucedido por SQL Server 2005 Express y recientemente en el SQL Server 2005 Compact Edition.
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SLLRZnumzlI/AAAAAAAABIw/FWHCXzyz570/s320/200px-MicrosoftJet.gif)    
-"Guía del programador de
-JET"
+"Guía del programador de JET"
 
 Desde un punto de vista tecnológico: [JET es considerado como una tecnologia desfazada por Microsoft](https://msdn.microsoft.com/en-us/library/ms810810.aspx#mdac%20technologies%20road%20map%20old_topic9). Es más, JET ya no se distribuye con la ultima versión de MDAC (Microsoft Data Access Components). Sin embargo, JET sigue siendo el motor de bases de datos de Microsoft Access 2007 y lo seguirá hasta el fin de los tiempos (o hasta que decidan cambiarlo). ¿Comprenden ahora en problema?
 
@@ -1482,14 +1324,12 @@ Desde un punto de vista tecnológico: [JET es considerado como una tecnologia de
 Sin mencionar el común problema, que las bases de datos tienen un limite de 2GB de capacidad. Tal parece que algunas personas desean enseñar los principios fundamentales de la creación de bases de datos relacionales (normalización, integridad referencial, etc...) utilizando Microsoft Access... es ridículo.
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SLLRZzTfnZI/AAAAAAAABJA/UEfZQDqtY_s/s320/WhySoftwareSucks.jpg)    
-"¿Por qué enseñan software
-que apesta?"
+"¿Por qué enseñan software que apesta?"
 
 ¿Como se soluciona este problema? Utilizando herramientas reales de desarrollo. En vez de gastar dinero en licencias (si es que lo gastan) de Microsoft Office 2007, se recomienda usar [SQL Server 2005 Express](https://www.microsoft.com/sql/editions/express/default.mspx) para este propósito. Y si lo que les gusta de Access, es que pueden elaborar bases de datos de forma gráfica, entonces usen: SQL Server 2005 Management Studio Express, que les permitir hacer exactamente lo mismo. Ambas herramientas son "freeware", se pueden descargar sin cargo alguno, se pueden redistribuir sin problemas de licencias y, por experiencia personal, es lo suficientemente sencillo para que cualquiera lo use. Y si están pensando en bases de datos portables, rápidas y sin limites de tamaño, piensen en alternativas libres como: [SQLite](https://www.sqlite.org/) y [Apache Derby](https://db.apache.org/derby/quick_start.html).
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SLLRZuN8P2I/AAAAAAAABI4/-js5AEs2CMM/s320/SQLite.gif)    
-"SQLite es la solución a los
-problemas de bases de datos portables"
+"SQLite es la solución a los problemas de bases de datos portables"
 
 Yo use Access con VB 6.0, y desde entonces me propuse no contaminar mi mente nunca más con ese tipo de "soluciones informáticas", y claro, estoy arrepentido de haberlo usado, jaja. Y tu: ¿alguna vez utilizaste Access para desarrollar Software?
 
@@ -1507,27 +1347,22 @@ post_id: blog-3515952828243908885.post-464786498374165856
 Como [mencione hace unos días](https://www.srbyte.com/2009/06/search-wars.html), ya hace rato que Microsoft libero: [Bing](https://www.blogger.com/www.bing.com), su nuevo motor de búsqueda, para tener mayor oportunidad de competir con el Gran Blanco, pero Bing realmente no me pareció nada innovador o revolucionario, hasta que leí ([en el blog de Bing](https://www.bing.com/community/blogs/search/archive/2009/06/12/safe-search-update.aspx)) como manejan en contenido "explicito". La idea es tan simple y tan lógica, que me extraña que hasta a Google se le haya pasado por alto.
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SjgVpm0gNTI/AAAAAAAACCA/b2AhmScDtu4/s320/searchmarketing.jpg)    
-"¿Qué es lo que hace a
-Google exitoso?"
+"¿Qué es lo que hace a Google exitoso?"
 
 Verán, el contenido explicito es un tema bastante delicado: en las empresas e instituciones de gobierno provoca perdida de tiempo y gasto de recursos, y en el peor de los casos (y sin mucho exagerar) incluso hasta involucrar demandas al personal (inmoralidad), y se termina con gente ofendida y otros perdiendo su empleo, y en las instituciones educativas, pues terminamos con alumnos expulsados. Se espera que los empleados/estudiantes, utilicen las herramientas que se les prestan, en este caso Internet, para que aumenten su productividad, no para que se pongan a ver "nalgas" en la hora del almuerzo.
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SjgXmtBCHBI/AAAAAAAACCY/_HYvfauVHss/s320/worry+man+safe+search+BLOG.jpg)    
-Si bien Google, trae integrado un filtro de seguridad de navegación ([Safe Search Filtering](https://www.google.com/support/websearch/bin/answer.py?hl=en&answer=35892)) por defecto, este no es lo suficientemente sofisticado para filtrar el contenido explicito, y evitar que al hacer búsquedas maliciosas en Google Images aparezcan personas con "poca ropa".
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SjgXmtBCHBI/AAAAAAAACCY/_HYvfauVHss/s320/worry+man+safe+search+BLOG.jpg)     Si bien Google, trae integrado un filtro de seguridad de navegación ([Safe Search Filtering](https://www.google.com/support/websearch/bin/answer.py?hl=en&answer=35892)) por defecto, este no es lo suficientemente sofisticado para filtrar el contenido explicito, y evitar que al hacer búsquedas maliciosas en Google Images aparezcan personas con "poca ropa".
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SjgXmWox8-I/AAAAAAAACCQ/L6DkEFFvFmc/s320/worry+man+chinese+safe+search+ROK.jpg)    
-Añadamos a esto, la dificultad de los filtros de contenidos, que por muy elaborados que sean, son simplemente programas de listas negras que no son capaces de reconocer el contenido que es apto para que un niño vea, o un trabajador en una empresa. ¿A que se ve, entonces obligado a hacer un administrador de la red interna de una empresa? A bloquear sitios web maliciosos, y dominios como images.google.com... Ahora bien, no tengo problema con que se bloqueen dominios (e IPs) que inciten a la "[concupiscencia](https://es.wikipedia.org/wiki/Concupiscencia) de la carne" (je je), pero que bloqueen images.google.com ... eso no es una solución elegante, aunque no queda otra opción.
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SjgXmWox8-I/AAAAAAAACCQ/L6DkEFFvFmc/s320/worry+man+chinese+safe+search+ROK.jpg)     Añadamos a esto, la dificultad de los filtros de contenidos, que por muy elaborados que sean, son simplemente programas de listas negras que no son capaces de reconocer el contenido que es apto para que un niño vea, o un trabajador en una empresa. ¿A que se ve, entonces obligado a hacer un administrador de la red interna de una empresa? A bloquear sitios web maliciosos, y dominios como images.google.com... Ahora bien, no tengo problema con que se bloqueen dominios (e IPs) que inciten a la "[concupiscencia](https://es.wikipedia.org/wiki/Concupiscencia) de la carne" (je je), pero que bloqueen images.google.com ... eso no es una solución elegante, aunque no queda otra opción.
 
 ¿Qué hace Bing, diferente de Google para manejar este contenido? (y de paso facilitar el bloqueo del mismo), simple, ademas de que Bing, tiene filtro de contenidos (por cualquier cosa), también se encargaron de mover todo el contenido realmente explicito, a su propio dominio: explicit.bing.com ...
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SjgVpY9F8KI/AAAAAAAACBw/rCjFCLKhdzM/s320/article-0-051FF510000005DC-850_468x313.jpg)    
-"¿Cómo se vera la portada de
-explicit.bing.com ?"
+"¿Cómo se vera la portada de explicit.bing.com ?"
 
 ¿Qué tendría que hacer ahora un administrador de red? solo agregar explicit.bing.com a su lista "negra", y con eso se soluciona el problema de los empleados o estudiantes viendo nalgas en su trabajo/institución educativa. E inclusive en el hogar, los que tienen hijos pequeños, no creo que estos, se encuentren con contenido no apto para la edad que tienen...
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SjgYSBt8HDI/AAAAAAAACCg/ct4Dc7KlwR8/s320/kids-computers.jpg)    
-Para este incomodo problema, esta es la solución mas elegante, lógica y beneficiosa que existe actualmente. Jamas pensé que pudiera escribir algo así, pero hay que reconocerlo:
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SjgYSBt8HDI/AAAAAAAACCg/ct4Dc7KlwR8/s320/kids-computers.jpg)     Para este incomodo problema, esta es la solución mas elegante, lógica y beneficiosa que existe actualmente. Jamas pensé que pudiera escribir algo así, pero hay que reconocerlo:
 
 > Google tienes que aprender la lección de Bing
 > (Microsoft).
@@ -1546,8 +1381,7 @@ post_id: blog-3515952828243908885.post-5295736787456130382
 
 Les presento el poder de la creatividad con un poco de comunes creativos (de los que tanto les he hablado... bueno, escrito).
 
-![image](https://bp2.blogger.com/_ayvorITawE4/RfQNGcU_3XI/AAAAAAAAAKw/6-dx9ItT4u8/s400/games-for-the-brain.jpg)    
-En la pagina de [Games for the Brain](https://www.gamesforthebrain.com/) se ha publicado un nuevo juego, divertido claro, que usa fotos bajo una licencia Creative Commons que estan alojadas en Flickr. Son 200 imagenes cortadas en pequeños cuadros, que en vez de ser deslizados para formar una imagen completa, se rotan dandoles click a cada cuadrito hasta que este en su posicion correcta. ¿Sencillo?... la mayor parte si, pero como cualquier rompecabezas, se tiene que ser cuidadoso cuando se trabaja con el "fondo" de la imagen, en donde la diferencia entre los cuadros no es tan grande. Sino... se van en la "chicahuita".
+![image](https://bp2.blogger.com/_ayvorITawE4/RfQNGcU_3XI/AAAAAAAAAKw/6-dx9ItT4u8/s400/games-for-the-brain.jpg)     En la pagina de [Games for the Brain](https://www.gamesforthebrain.com/) se ha publicado un nuevo juego, divertido claro, que usa fotos bajo una licencia Creative Commons que estan alojadas en Flickr. Son 200 imagenes cortadas en pequeños cuadros, que en vez de ser deslizados para formar una imagen completa, se rotan dandoles click a cada cuadrito hasta que este en su posicion correcta. ¿Sencillo?... la mayor parte si, pero como cualquier rompecabezas, se tiene que ser cuidadoso cuando se trabaja con el "fondo" de la imagen, en donde la diferencia entre los cuadros no es tan grande. Sino... se van en la "chicahuita".
 
 Es la perfecta muestra del poder de las licencias Creative Commons. En vez de tomar 200 fotos por su cuenta, el creador hizo su juego usando imagenes libres de todo el mundo, alojadas en Flickr.
 
@@ -1571,27 +1405,23 @@ La hermosura de [un monitor o pantalla LCD](https://srbyte.blogspot.com/2007/03/
 Gracias a Dios, aparentemente se pueden arreglar los pixeles trabados en un monitor LCD, una solución esta en el sitio web [Killdeadpixel](https://killdeadpixel.com/).
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/R7ZTC7TZHXI/AAAAAAAAAi8/r-V1wnjsXaM/s320/killpixelweb.jpg)    
-"Captura de pantalla:
-Killdeadpixel.com"
+"Captura de pantalla: Killdeadpixel.com"
 
 Killdeadpixel "destraba" los pixeles al mostrar una imagen que puede ser "arrastrada" al área del problema, la imagen es de alto contraste y tiene una animación constante y veloz, que seguramente causara un buen número de ataques de epilepsia...
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/R7ZVh7TZHZI/AAAAAAAAAjM/XVGz20NHptM/s400/180px-Battling_seizure_Robots.jpg)    
-"Imagen: Simpsons con Ataque
-de Epilepsia [1]"
+"Imagen: Simpsons con Ataque de Epilepsia [1]"
 
 Killdeadpixel posee ademas una psicodélica imagen de 800x600 ó 1024x784 pixeles que puede ser empleado en un modo de pantalla completa para atacar mas agresivamente el problema. Si eso aun no funciona, pues existe una útil aplicación que se puede usar llamada [JScreenFix](https://www.jscreenfix.com/#JScreenFix). JScreenFix también cumple con su cometido al destrabar los pixeles mostrando imágenes aleatorias de verde azul y rojo en alto contraste y de manera hipnótica.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/R7ZUm7TZHYI/AAAAAAAAAjE/3g-t5gRLKd0/s320/jscreenfix.png)    
-"Captura Pantalla: Applet
-JScreenFix"
+"Captura Pantalla: Applet JScreenFix"
 
 El sitio web de JScreenFix, ademas, [ofrece vídeos para destrabar pixeles](https://www.jscreenfix.com/video.php) en dispositivos con pantallas LCD, como: iPods, Telefonos Moviles, Play Station Portatiles, reproductores DVD portátiles, etc. Espero que, si tienen el problema del pixel trabado como en mi caso, este post sirva para que puedan solucionarlo.
 
 ¡Saludos!
 
-[1] Los Simpsons viendo el programa de TV: "Battling Seizure
-Robots", capitulo "Thirty Minutes over Tokyo". Creado por Matt Groening, todos los derechos reservados.
+[1] Los Simpsons viendo el programa de TV: "Battling Seizure Robots", capitulo "Thirty Minutes over Tokyo". Creado por Matt Groening, todos los derechos reservados.
 
 ---
 
@@ -1649,8 +1479,7 @@ post_id: blog-3515952828243908885.post-8700356741849167237
 El blog del Sr. Byte tiene el gusto de dar la bienvenida a Roberto Linares, un nuevo autor que se añade a este Blog. Gracias de antemano Roberto por la ayuda...
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/R6SD_dp6J5I/AAAAAAAAAiw/52G6tfWKDEQ/s320/sa.jpg)    
-"Imagen: Super
-Amigos."
+"Imagen: Super Amigos."
 
 Ahora falta que ver que los demas
 
@@ -1691,20 +1520,16 @@ post_id: blog-3515952828243908885.post-1729185054356572499
 El equipo de "Peach Open Movie Project" (creadores de "Elephant's Dream") nos regalen un nuevo cortometraje animado 100% en Blender.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/SEVwscUIhRI/AAAAAAAAAuM/Rfehtpthk4Y/s400/BigBuckBunny.jpg)    
-"Big Buck
-Bunny"
+"Big Buck Bunny"
 
-[Big Buck Bunny](https://www.bigbuckbunny.org/) nos cuenta la historia de un
-conejo gigante y muy ... eh... ¿amable?, con un corazón definitivamente más grande que él mismo. Cuando un soleado día tres ardillas (que parecen salidas de Los Sopranos) lo molestan, pues, el conejo deja de ser tan amable y se convierte en algo que va más acorde a su tamaño. En típica revancha a cual mas estilo animado, Buck (el conejo) prepara una venganza de los más cómica.
+[Big Buck Bunny](https://www.bigbuckbunny.org/) nos cuenta la historia de un conejo gigante y muy ... eh... ¿amable?, con un corazón definitivamente más grande que él mismo. Cuando un soleado día tres ardillas (que parecen salidas de Los Sopranos) lo molestan, pues, el conejo deja de ser tan amable y se convierte en algo que va más acorde a su tamaño. En típica revancha a cual mas estilo animado, Buck (el conejo) prepara una venganza de los más cómica.
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/SEVwssUIhSI/AAAAAAAAAuU/d09ifPBrw38/s400/buck.jpg)    
-"Buck, con sus rivales
-Gimera, Frank y Ricky."
+"Buck, con sus rivales Gimera, Frank y Ricky."
 
 Con un presupuesto de 150,000 Euros (como 240,000 USD) el equipo Peach nos demuestra nuevamente el poder de Blender, y la calidad que las herramientas Open Source pueden alcanzar. Los dejo con el corto animado, espero que les guste tanto como a mi:
 
-Pueden visitar el sitio web, con galería y la página para descargar el corto aquí:
-[> https://www.bigbuckbunny.org](https://www.bigbuckbunny.org/)¡Bendiciones!
+Pueden visitar el sitio web, con galería y la página para descargar el corto aquí: [> https://www.bigbuckbunny.org](https://www.bigbuckbunny.org/)¡Bendiciones!
 
 ---
 
@@ -1732,12 +1557,9 @@ draft: false
 post_id: blog-3515952828243908885.post-8205011244286664646
 ---
 
-![image](https://bp1.blogger.com/_ayvorITawE4/Rf62CsU_3bI/AAAAAAAAALo/_QyRSjVFftQ/s400/bittorrent_logo.gif)    BitTorrent es un protocolo de comunicación diseñado
-para el intercambio de archivos entre iguales (osea peer to peer o P2P), y no solo eso, su creador (el programador estadounidense) Bram Cohen también codifico el cliente principal de bittorrent (el programa con el que te conectas con la red de bittorrent, por eso el nombre de cliente). El programa está escrito en el lenguaje de programación Python y distribuido bajo la [licencia MIT](https://es.wikipedia.org/wiki/Licencia_MIT). Esta es la magia de Bittorrent:
+![image](https://bp1.blogger.com/_ayvorITawE4/Rf62CsU_3bI/AAAAAAAAALo/_QyRSjVFftQ/s400/bittorrent_logo.gif)    BitTorrent es un protocolo de comunicación diseñado para el intercambio de archivos entre iguales (osea peer to peer o P2P), y no solo eso, su creador (el programador estadounidense) Bram Cohen también codifico el cliente principal de bittorrent (el programa con el que te conectas con la red de bittorrent, por eso el nombre de cliente). El programa está escrito en el lenguaje de programación Python y distribuido bajo la [licencia MIT](https://es.wikipedia.org/wiki/Licencia_MIT). Esta es la magia de Bittorrent:
 
-![image](https://bp2.blogger.com/_ayvorITawE4/Rf6r_8U_3ZI/AAAAAAAAALY/RSPe-GYyKgw/s400/Torrentcomp_small.gif)    
-"BitTorrent reduce enormemente la carga en el
-servidor, ya que los usuarios generalmente descargan los archivos entre ellos, no del servidor. Como muestran las barras coloreadas debajo de cada cliente, el archivo es descargado en un orden aleatorio, en lugar de llevar un orden secuencial." fuente: Wikipedia español (18 marzo 2007)
+![image](https://bp2.blogger.com/_ayvorITawE4/Rf6r_8U_3ZI/AAAAAAAAALY/RSPe-GYyKgw/s400/Torrentcomp_small.gif)     "BitTorrent reduce enormemente la carga en el servidor, ya que los usuarios generalmente descargan los archivos entre ellos, no del servidor. Como muestran las barras coloreadas debajo de cada cliente, el archivo es descargado en un orden aleatorio, en lugar de llevar un orden secuencial." fuente: Wikipedia español (18 marzo 2007)
 
 El párrafo anterior, en español quiere decir que bittorrent DISTRIBUYE la carga (esta carga es la conexión de internet) en todas las personas que DEMANDAN un archivo (de música, un libro o una copia pirata de windows... Oops!), y lo hace forzando, a todos los que descargan un archivo, a compartirlo también con otros que lo demanden. Todo este concepto, cabe perfectamente en una sola frase:
 
@@ -1747,8 +1569,7 @@ El párrafo anterior, en español quiere decir que bittorrent DISTRIBUYE la carg
 - Pedro: Quiero bajar todos los capítulos de los Pitufos, ¿donde los puedo bajar?
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/Rf6098U_3aI/AAAAAAAAALg/N2nF_venEnQ/s400/21784_clip_image002.jpg)    
-"Pitufo socialista, dedicado a Daniel :)
-ja!"
+"Pitufo socialista, dedicado a Daniel :) ja!"
 
 - Pablo: Bajalos de bittorrent.
 - Pedro: ¿Y eso como es...?
@@ -1778,10 +1599,8 @@ Aquí Pedro busca lo que necesita y luego...
 
 4. Y finalmente Bajar el/los archivo/s que quiere. Se abre el archivo .torrent con el cliente que tengamos y nos ponemos a bajar los archivos. Este es un proceso que depende de:
 
-1. Tamaño del archivo (un libro de Shakespeare que es "pequeño", o hasta un DVD mas de 3.0 GB!) 2. Cuanta gente tiene este archivo COMPLETO (seeders), esta es la característica más importante. 3. Cuanta gente esta bajando este archivo (leechers)
-![image](https://bp2.blogger.com/_ayvorITawE4/Rf62u8U_3cI/AAAAAAAAALw/SmQaomYyL9s/s400/bittorrentanimationcp0.gif)    
-"Así se ""ve"" (dale click) el proceso de
-compartir archivos en Bittorrent"
+1. Tamaño del archivo (un libro de Shakespeare que es "pequeño", o hasta un DVD mas de 3.0 GB!) 2. Cuanta gente tiene este archivo COMPLETO (seeders), esta es la característica más importante. 3. Cuanta gente esta bajando este archivo (leechers) ![image](https://bp2.blogger.com/_ayvorITawE4/Rf62u8U_3cI/AAAAAAAAALw/SmQaomYyL9s/s400/bittorrentanimationcp0.gif)    
+"Así se ""ve"" (dale click) el proceso de compartir archivos en Bittorrent"
 
 Para entender mejor esta jerga pueden ver la [terminología de bittorrent en la wikipedia](https://es.wikipedia.org/wiki/Bittorrent#Terminolog.C3.ADa). De esta manera nuestro amigo Pedro puede bajar TODOS los capítulos de los Pitufos para recordar sus buenos tiempos... por eso ¡todo mundo ama bittorrent! Espero les haya servido, hasta la próxima!
 
@@ -1797,8 +1616,7 @@ post_id: blog-3515952828243908885.post-7492151323197734901
 ---
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SY2XJ_rHcOI/AAAAAAAAFpQ/Xk2NAJVOjBo/s400/Bitwise+2009.png)    
-"Logo del Bitwise, concurso
-online de programacion"
+"Logo del Bitwise, concurso online de programacion"
 
 Cada año desde el 2001, el instituto de ciencia y tecnología de Kharagpur en la India, organiza un concurso online de programación abierto para todo el mundo de forma gratuita. Acá tendras que demostrar tus habilidades desarrollando soluciones a una serie de algoritmos matemáticos en un lapso de 12 horas, ya sea que participes solo o como un equipo.
 
@@ -1825,9 +1643,7 @@ draft: false
 post_id: blog-3515952828243908885.post-3183870948219965687
 ---
 
-![image](https://blogactionday.s3.amazonaws.com/banners/Badge_300x160.jpg)    
-"Banner
-Promocional del Blog Action Day"
+![image](https://blogactionday.s3.amazonaws.com/banners/Badge_300x160.jpg)     "Banner Promocional del Blog Action Day"
 
 Como parte de la campa﻿ña del Blog Action Day, el Sr Byte también se une a la causa para hacer conciencia a todos los lectores y bloggers para que hagamos ruido en la web, para que enfaticemos temas de importancia mundial y los tratemos desde nuestros blogs, como una manera de hacer conciencia en la sociedad y encontrar problemas a dichas situaciones.
 
@@ -1869,16 +1685,14 @@ Un blog, también conocido como weblog o [cuaderno de bitácora](https://es.wiki
 Y existen tantos blogs y la gente escribe tantas cosas en ellos, que es dificil decidir si es locura o creatividad, arte o garabatos, humor o sarcasmo...
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/RiY8xne2e9I/AAAAAAAAARU/ubUELvLYel0/s320/421934061_075233b186.jpg)    
-"Al final, cada loco con su
-tema... :) "
+"Al final, cada loco con su tema... :) "
 
 Bloggin, que es el nombre anglo para la actividad de publicar información en un "blog", y cuando esta palabra se adapta al español (porque nadie quiere decir bitácora en vez de blog) se deforma y convierte en: blogear, blogger, blogeando entre otros... al fin y al cabo un efecto más de la globalización.
 
 Bloggear (publicar artículos en un blog) es una tendencia explosiva que esta llegando a todas las sociedades del mundo y es también una moda para millones de personas. De acuerdo con recientes estadísticas del sitio Technorati (que es un blog tracker, es decir un sitio web que se encarga de seguirle la pista a cada publicación de blogs que estén suscritos a el) la blogosfera se ha duplicado por los últimos tres años.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/RiY6kHe2e8I/AAAAAAAAARM/75GpZxNE3vA/s400/masthead.png)    
-"Logo de
-Technorati.com"
+"Logo de Technorati.com"
 
 En números equivale a 175,000 blogs nuevos cada día en el mundo. En promedio se publican 1.6 millones de artículos por día, o 18.6 artículos por segundo. Technorati mantiene la pista de mas de 71 millones de blogs suscritos a su servicio. Y como ellos dicen:
 > Más de
@@ -1922,8 +1736,7 @@ draft: false
 post_id: blog-3515952828243908885.post-8603404223804770676
 ---
 
-![image](https://bp2.blogger.com/_jH77WNrMVRA/R7sRQHl5llI/AAAAAAAAAjI/bF5IkYDIqR8/s320/dgnm.gif)    
-Al parecer en estos tiempos a un blog se le pueden dar usos inimaginables, y es que ahora Javier Pocasangre, alias Xpoks se decidió a crear un blog con el objetivo de clasificar y calificar a los demás blogs de la comunidad salvadoreña. Ya casi todos han sido agregados a la lista y como que han sido clasificados en grupos pero no se cuales han sido los parámetros para esa agrupación. Creo que fue el orden en que los fue recopilando para agregarlos a la lista general.
+![image](https://bp2.blogger.com/_jH77WNrMVRA/R7sRQHl5llI/AAAAAAAAAjI/bF5IkYDIqR8/s320/dgnm.gif)     Al parecer en estos tiempos a un blog se le pueden dar usos inimaginables, y es que ahora Javier Pocasangre, alias Xpoks se decidió a crear un blog con el objetivo de clasificar y calificar a los demás blogs de la comunidad salvadoreña. Ya casi todos han sido agregados a la lista y como que han sido clasificados en grupos pero no se cuales han sido los parámetros para esa agrupación. Creo que fue el orden en que los fue recopilando para agregarlos a la lista general.
 
 Por supuesto, sin dudarlo, este blog fue uno de los primeros en ser agregados a la mencionada lista. La noticia cayó como un comentario completamente fuera de lugar pero igual la noticia se hizo llegar a estos autores (o sea, Rodrigo y yo).
 
@@ -1949,8 +1762,7 @@ Como algunos sabrán, firefox posee integrado por defecto el buscador de Google 
 Esto me permitio darme cuenta que Google le da mas importancia a la popularidad que a la relevancia de los resultados de la busqueda. Como? pues recuerdo que hace meses cometia los errores de digitar "gamil" o "gmal" en lugar de "gmail" en mi barra de direcciones, lo cual obviamente me redireccionaba a gamil.com y pensaba en lo afortunados que eran los dueños de ese blog al recibir tantas visitas de todos los que se equivocaban al intentar ingresar a su cuenta de GMail.
 
 ![image](https://bp1.blogger.com/_jH77WNrMVRA/SEzh5vENhZI/AAAAAAAAA5I/1Xo5jqL4LTk/s320/ShotGamil.png)    
-"Screenshot del panel derecho del sitio web de
-Gamil"
+"Screenshot del panel derecho del sitio web de Gamil"
 
 Al parecer era tan común el error, que los dueños de Gamil hasta se tomaron la molestia de incluir una explicación indicando que tal vez llegaron a su sitio por equivocación al escribir mal "gmail".
 
@@ -1990,16 +1802,13 @@ El Pintor checoslovaco Jeremiah Palecek ha creado estas calcomanías de error de
 eso es tener sentido del humor :) Y además son del tamaño adecuado para pegar en esos molestos anuncios de Vista Wow que espero nunca ver en El Salvador...
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RglNx57huUI/AAAAAAAAAOY/2Nk6fdeuAUA/s400/vistasticker.jpg)    
-"Imagen de Vista Wow con
-mensaje de error añadido"
+"Imagen de Vista Wow con mensaje de error añadido"
 
 En todo caso si eso llegara a suceder... no molestaría ver esas calcomanías encima del anuncio y OJO, no es que el Sr. Byte apoye actos de vandalismo, simplemente... SE VEN BIEN JUNTOS ¿NO CREEN?.
 
-[Da click aquí para ver el articulo original](https://jeremiahpalecek.blogspot.com/2007/03/windows-vista-is-here-wow-im-so-excited.html) (en ingles) y en la imagen para conseguir
-la "plantilla" de las calcomanías para papel tamaño A4.
+[Da click aquí para ver el articulo original](https://jeremiahpalecek.blogspot.com/2007/03/windows-vista-is-here-wow-im-so-excited.html) (en ingles) y en la imagen para conseguir la "plantilla" de las calcomanías para papel tamaño A4.
 
-![image](https://bp3.blogger.com/_ayvorITawE4/RglQw57huVI/AAAAAAAAAOg/j7I0m-PXFRE/s400/windows_vista_multiple.jpg)    
-fuente
+![image](https://bp3.blogger.com/_ayvorITawE4/RglQw57huVI/AAAAAAAAAOg/j7I0m-PXFRE/s400/windows_vista_multiple.jpg)     fuente
 
 ---
 
@@ -2013,8 +1822,7 @@ post_id: blog-3515952828243908885.post-7954172961803422846
 ---
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SORVn4D7NqI/AAAAAAAADZk/mSklzdp0Jek/s400/java_beautiful_logo.jpg)    
-"Logotipo de Java,
-incrustado en una taza de cafe con coffee art"
+"Logotipo de Java, incrustado en una taza de cafe con coffee art"
 
 Las aplicaciones de Java son muy características por su capacidad de ser ejecutadas en diversos sistemas operativos sin la necesidad de modificar el código o de incluir algún otro tipo de librerías externas, ya que lo único que se necesita es tener instalada la apropiada maquina virtual de Java en dicho sistema donde desea ejecutarse.
 
@@ -2023,8 +1831,7 @@ Estas aplicaciones hacen uso de la librería llamada Swing para poder mostrar su
 Porque? pues porque al igual que lo metálico, luce demasiado frío y liso, un tanto cuadrado y quizá des actualizado. Me recuerda un poco a los temas visuales que venían incluidos en las primeras versiones de Linux.
 
 ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SORSfGtE6lI/AAAAAAAADZc/gpkMWMS9qrA/s400/java_metal_combined.jpg)    
-"Netbeans 6 y aplicaciones
-Java con apariencia Metal, corriendo en tres diferentes sistemas operativos: Debian GNU Linux con Compiz/Emerald, Windows Vista y Mac OS. (Clic para agrandar)"
+"Netbeans 6 y aplicaciones Java con apariencia Metal, corriendo en tres diferentes sistemas operativos: Debian GNU Linux con Compiz/Emerald, Windows Vista y Mac OS. (Clic para agrandar)"
 
 La ventaja de este tema es que luce igual en todos los sistemas operativos donde se ejecute y, según he leído, lo diseñaron de esta forma para no ocupar tantos recursos de la PC en la interfaz, la desventaja es que no se integra con la apariencia que posea el sistema operativo. Como se puede comprobar en la imagen anterior, esta interfaz no combina con ninguna de las apariencias de los tres principales sistemas operativos en los que se probó, GNU/Linux, Windows Vista y Mac OS.
 
@@ -2036,28 +1843,22 @@ Entre las librerías que cambian la apariencia (también llamado Look and Feel) 
 URL: [https://substance.dev.java.net/](https://substance.dev.java.net/) Nombre: org.jvnet.substance.skin.SubstanceOfficeSilver2007LookAndFeel Descripción: Posee varios temas con diferentes formas y combinaciones de colores. Permite cambiar también el borde de la ventana.
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SORkAeulVxI/AAAAAAAADZ0/2n-k-vmH6iU/s400/java_substance.jpg)    
-"Apariencia de una
-Aplicación Java con Look & Feel Substance"
+"Apariencia de una Aplicación Java con Look & Feel Substance"
 
 - Nimbus:
 URL: [https://nimbus.dev.java.net/](https://nimbus.dev.java.net/) Nombre: org.jdesktop.swingx.plaf.nimbus.NimbusLookAndFeel Descripción: Apariencia con esquinas redondeadas y relieves. No cambia el borde de la ventana. Colores suaves. No posee temas adicionales.
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SORkVURFR3I/AAAAAAAADZ8/Z-5aWoPstvM/s400/java_nimbus.jpg)    
-"Apariencia de una
-Aplicación Java con Look & Feel Nimbus"
+"Apariencia de una Aplicación Java con Look & Feel Nimbus"
 
 - Quaqua
 URL: [https://quaqua.dev.java.net/](https://quaqua.dev.java.net/) Nombre: ch.randelshofer.quaqua.QuaquaLookAndFeel Descripción: Apariencia al estilo Mac OS. Único tema incluido y si adapta el borde de la ventana al tema aunque no aplica las esquinas redondeadas en todos los sistemas operativos donde es ejecutado.
 
-![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SORkuqNhF5I/AAAAAAAADaE/qkyPlTAap-M/s400/java_quaqua.jpg)    
-"Apariencia de
-una Aplicación Java con Look & Feel Quaqua"
+![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SORkuqNhF5I/AAAAAAAADaE/qkyPlTAap-M/s400/java_quaqua.jpg)     "Apariencia de una Aplicación Java con Look & Feel Quaqua"
 
 - Nimrod
-URL: [https://personales.ya.com/nimrod/index-en.html](https://personales.ya.com/nimrod/index-en.html) Nombre: com.nilo.plaf.nimrod.NimRODLookAndFeel Descripción: Unico tema pero las combinaciones de colores y transparencias son configurables. No modifica el borde de la ventana.
-![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SORsuRgTA4I/AAAAAAAADaM/nV0J-WVkmd4/s400/java_nimrod.jpg)    
-"Apariencia de una
-Aplicacion Java con Look & Feel Nimrod"
+URL: [https://personales.ya.com/nimrod/index-en.html](https://personales.ya.com/nimrod/index-en.html) Nombre: com.nilo.plaf.nimrod.NimRODLookAndFeel Descripción: Unico tema pero las combinaciones de colores y transparencias son configurables. No modifica el borde de la ventana. ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SORsuRgTA4I/AAAAAAAADaM/nV0J-WVkmd4/s400/java_nimrod.jpg)    
+"Apariencia de una Aplicacion Java con Look & Feel Nimrod"
 
 Para aplicar cualquiera de estos temas a nuestras aplicaciones, simplemente hay que descargar el .jar del Look & Feel que deseamos y ubicarlo en la carpeta de nuestro proyecto para después agregarlo a la librería del mismo. Luego, en el constructor de cada una de las clases que componen la vista de cada FrameView o JFrame agregar las siguiente lineas:
 
@@ -2082,15 +1883,11 @@ Ahora van las fotos de las carcasas modificadas, área también conocida como "M
 
 "El Increíble Hulk":
 
-![image](https://farm4.static.flickr.com/3199/2983742873_9e9e012d3c.jpg)  
-Hecho por El Salvadoreño: Oscar Segovia.
+![image](https://farm4.static.flickr.com/3199/2983742873_9e9e012d3c.jpg)   Hecho por El Salvadoreño: Oscar Segovia.
 
-Eh... un carro:
-![image](https://farm4.static.flickr.com/3181/2983744891_a55b6fec3c.jpg)  
+Eh... un carro: ![image](https://farm4.static.flickr.com/3181/2983744891_a55b6fec3c.jpg)  
 
-El que mas se robaba las miradas eran, este:
-![image](https://farm4.static.flickr.com/3020/2983744187_5f290f0b55.jpg)  
-... posee un sistema de refrigeración liquida, sinceramente se me caía la baba al verlo.
+El que mas se robaba las miradas eran, este: ![image](https://farm4.static.flickr.com/3020/2983744187_5f290f0b55.jpg)   ... posee un sistema de refrigeración liquida, sinceramente se me caía la baba al verlo.
 
 ![image](https://farm4.static.flickr.com/3162/2983743403_d2da55396d.jpg)  
 
@@ -2212,9 +2009,7 @@ draft: false
 post_id: blog-3515952828243908885.post-3337212284997880618
 ---
 
-![image](https://farm4.static.flickr.com/3184/2965247835_e6e2fee441.jpg)    Como ya habrán leído, en más [de](https://feedproxy.google.com/%7Er/damrnetblog/%7E3/-3I3AfV6Boo/campus-party-iberoamerica-preparativos-finales)
-[algún](https://www.aeromental.com/2008/10/26/fotos-y-videos-de-como-se-organiza-el-campus-party-iberoamerica-en-san-salvador/) blog o en los periódicos, este martes muchos Salvadoreños y extranjeros tendremos el honor de asistir a este increíble evento. ¿Qué es el Campus Party?
-[Citando al sitio oficial](https://iberoamerica.campus-party.org/index.php/elevento.html):
+![image](https://farm4.static.flickr.com/3184/2965247835_e6e2fee441.jpg)    Como ya habrán leído, en más [de](https://feedproxy.google.com/%7Er/damrnetblog/%7E3/-3I3AfV6Boo/campus-party-iberoamerica-preparativos-finales) [algún](https://www.aeromental.com/2008/10/26/fotos-y-videos-de-como-se-organiza-el-campus-party-iberoamerica-en-san-salvador/) blog o en los periódicos, este martes muchos Salvadoreños y extranjeros tendremos el honor de asistir a este increíble evento. ¿Qué es el Campus Party? [Citando al sitio oficial](https://iberoamerica.campus-party.org/index.php/elevento.html):
 
 > 'Campus Party es
 > reconocida como el mayor evento de tecnología, ocio electrónico y cultura digital en red del
@@ -2236,8 +2031,7 @@ Los contenidos vienen representados en forma de ponencias magistrales, presentac
 
 Para los interesados de este evento y los curiosos, hay una cuenta en [YouTube](https://es.youtube.com/campusparty) y [Flickr](https://www.flickr.com/photos/campuspartyiberoamerica/), y puedes seguir los últimos detalles del evento en su Twitter ([@cpiberoamerica](https://twitter.com/cpiberoamerica)). Les dejo un vídeo donde se explica qué es Campus Party y qué ediciones se han celebrado durante el año 2008 (México, Colombia, El Salvador):
 
-"Video: Campus Party
-Iberoamérica"
+"Video: Campus Party Iberoamérica"
 
 También les comparto la agenda del evento:
 
@@ -2292,17 +2086,13 @@ Aca les traemos una muestra de las bellezas que tuvimos el honor de conocer dura
 
 Ademas les presentamos otros robots que se hicieron presente en el evento el dia de hoy:
 
-"Robot Movil de
-Seis Patas"
+"Robot Movil de Seis Patas"
 
-"Brazo Mecanico con Multiples Articulaciones Para Funcionar
-Como un Brazo Humano"
+"Brazo Mecanico con Multiples Articulaciones Para Funcionar Como un Brazo Humano"
 
-"Robot Asistente Para el Manejo de Desechos
-Solidos"
+"Robot Asistente Para el Manejo de Desechos Solidos"
 
-"Robot Con Multiples Articulaciones Faciales Simulando los
-Gestos Humanos del Habla"
+"Robot Con Multiples Articulaciones Faciales Simulando los Gestos Humanos del Habla"
 
 ---
 
@@ -2319,11 +2109,9 @@ A continuación mostramos un slideshow resumiendo las charlas del día Miércole
 
 Aparte de estas charlas, tuvimos la oportunidad de presenciar un par de Case Moddings. En estos moddings, se utilizaron piezas minimalistas como las utilizadas en laptops pero incrustadas en cubos de material transparente para tomar una apariencia similar a las Mac Mini
 
-"Case Modding - Parte
-1"
+"Case Modding - Parte 1"
 
-"Case Modding - Parte
-2"
+"Case Modding - Parte 2"
 
 ---
 
@@ -2340,8 +2128,7 @@ Este es un grupo de fotografías variadas de la Campus Party:
 
 Campus Party en general:
 
-![image](https://farm4.static.flickr.com/3033/2981620703_6d9bab9522_b.jpg)  
-Fotografía panorámica por [Edwingraf](https://www.flickr.com/photos/photosivar/), todos los derechos reservados.
+![image](https://farm4.static.flickr.com/3033/2981620703_6d9bab9522_b.jpg)   Fotografía panorámica por [Edwingraf](https://www.flickr.com/photos/photosivar/), todos los derechos reservados.
 
 Vista desde la tarima: ![image](https://farm4.static.flickr.com/3142/2985295440_fbf7e20ccc.jpg?v=0)  
 
@@ -2380,12 +2167,9 @@ post_id: blog-3515952828243908885.post-2708636742182743041
 
 A pocos minutos de comenzar, queremos compartir el evento de innaguracion de la Campus Party, esperamos que les guste:
 
-[https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party) [https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party) [https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party) [https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party) [https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party)
-"Campus Party
-en Vivo."
+[https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party) [https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party) [https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party) [https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party) [https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party](https://www.justin.tv/widgets/jtv_player.swf?channel=campus_party) "Campus Party en Vivo."
 
-Visiten el canal de Justin.tv de la Campus Party Iberoamerica haciendo click en:
-[https://es.justin.tv/campus_party](https://es.justin.tv/campus_party)
+Visiten el canal de Justin.tv de la Campus Party Iberoamerica haciendo click en: [https://es.justin.tv/campus_party](https://es.justin.tv/campus_party)
 > href="https://es.justin.tv/campus_party">https://es.justin.tv/campus_party
 
 ---
@@ -2499,11 +2283,9 @@ post_id: blog-3515952828243908885.post-3951194780353313481
 ---
 
 ![image](https://bp0.blogger.com/_jH77WNrMVRA/SG7niUUr6FI/AAAAAAAAA6I/-sM5ONrzbVY/s320/learn_how_to_type_fast_fastest_typist_typing.jpg)    
-"Es cierto que a veces
-quisiera tener cuatro o mas manos, pero esto es exagerar"
+"Es cierto que a veces quisiera tener cuatro o mas manos, pero esto es exagerar"
 
-[CASE](https://es.wikipedia.org/wiki/Herramienta_CASE) son las siglas de
-Computer Aided Software Engineering lo cual se refiere a una serie de herramientas de software que ayudan al programador y/o analista a planear/diseñar/desarrollar su proyecto. Esto le permite su usuario ahorrarse tiempo y dolores de cabeza con tareas automatizadas como el cronograma de actividades, el diseño de diagramas [UML](https://es.wikipedia.org/wiki/Uml), [refactoring](https://es.wikipedia.org/wiki/Refactorizaci%C3%B3n), entre otros.
+[CASE](https://es.wikipedia.org/wiki/Herramienta_CASE) son las siglas de Computer Aided Software Engineering lo cual se refiere a una serie de herramientas de software que ayudan al programador y/o analista a planear/diseñar/desarrollar su proyecto. Esto le permite su usuario ahorrarse tiempo y dolores de cabeza con tareas automatizadas como el cronograma de actividades, el diseño de diagramas [UML](https://es.wikipedia.org/wiki/Uml), [refactoring](https://es.wikipedia.org/wiki/Refactorizaci%C3%B3n), entre otros.
 
 Los problemas surgen cuando estas herramientas les son enseñadas a los estudiantes de primeros años de ingenieria y estos se malacostumbran al uso de ellas y se vuelven haraganes para escribir el codigo, por lo que pasan por alto las bases necesarias. O sea, es necesario hacerlo a mano para entender bien el proceso.
 
@@ -2515,8 +2297,7 @@ Si los desarrolladores utilizan unicamente herramientas asistidas de los [entorn
 
 Y que les pareceria programar de esta forma?:
 
-"Entorno de desarrollo en
-tres dimensiones"
+"Entorno de desarrollo en tres dimensiones"
 
 ---
 
@@ -2535,8 +2316,7 @@ Entremos ya en materia. El día de hoy hablaremos de uno de los géneros cinemat
 
 En ocasiones sucede que cuando se menciona el término de ciencia ficción, lo primero que nos viene a la mente son entes mitad humanos mitad mecánicos, grandes computadoras con mentalidad propia, ciudades perfectas... En fin, una visión futurista espectacularmente tecnológica.
 
-![image](https://2.bp.blogspot.com/_JbB9KsZ238w/SqXLTSOFaEI/AAAAAAAAAUk/-q8drfB6MHI/s320/cifi1.jpg)  
-Aún con una forma rústica, ¡los robots sí que nos facilitarían la vida!
+![image](https://2.bp.blogspot.com/_JbB9KsZ238w/SqXLTSOFaEI/AAAAAAAAAUk/-q8drfB6MHI/s320/cifi1.jpg)   Aún con una forma rústica, ¡los robots sí que nos facilitarían la vida!
 
 No obstante, la ciencia ficción no es un género de reciente explotación. Alrededor de 1900 ya se hacían algunos esfuerzos por hacer producciones que echaran a volar la imaginación, dar un toque de magia y recrear situaciones que en la realidad serían casi imposibles. Un ejemplo de ello es el corto [Viaje a la Luna](https://es.wikipedia.org/wiki/Viaje_a_la_luna) del francés George Méliès.
 
@@ -2565,14 +2345,11 @@ post_id: blog-3515952828243908885.post-2154685893459932339
 
 Introducción: Esta película tiene muchas cosas que hacen que valga la pena verla, la actuación de Ellen Page (Juno), un soundrack que calza a la perfección en toda la película, la hermosa dirección de Jason Reitman, pero sobre todas las cosas, creo que el valor de la película radica en la calidad del guion. Es la escritora [Cody Diablo,](https://diablocody.blogspot.com/) quien con su talento, hace que esta película se convierta en una obra de arte del cine independiente, capaz de sumir en el más profundo entretenimiento a cualquiera.
 
-"Video:
-Juno, avance."
+"Video: Juno, avance."
 
-![image](https://www.reelmovienews.com/images/gallery/the-juno-movie-poster_292x410.jpg)    Sinopsis: Se
-cuenta la historia de Juno, una audaz pre-adolescente cuyo aburrimiento no la lleva a comprar en el "Mall". En vez de eso, termina haciendo un viaje a los brazos de su mejor amigo Paulie Bleeker. Cuando Juno descubre que esta embarazada, se ve forzada a crecer - aunque no parece así al principio - y encontrar una pareja de padres adoptivos que brinden los cuidados que ella no podrá dar a su pequeño.
+![image](https://www.reelmovienews.com/images/gallery/the-juno-movie-poster_292x410.jpg)    Sinopsis: Se cuenta la historia de Juno, una audaz pre-adolescente cuyo aburrimiento no la lleva a comprar en el "Mall". En vez de eso, termina haciendo un viaje a los brazos de su mejor amigo Paulie Bleeker. Cuando Juno descubre que esta embarazada, se ve forzada a crecer - aunque no parece así al principio - y encontrar una pareja de padres adoptivos que brinden los cuidados que ella no podrá dar a su pequeño.
 
-"Canción
-de la película Juno: Anyone Else But You"
+"Canción de la película Juno: Anyone Else But You"
 
 Comentario Final: La relación de Juno con sus padres es una de las mejores cosas en la película. Al fin veo en una película un par de padres que demuestra un amor genuino al respetar las decisiones que ella toma. Juno no solo es una película ingeniosa, encantadora y divertida, también es muy ilusa y fácil - y afronta un problema frecuente y difícil entre los adolescentes - pero en medio de todo, es una película con final memorable. El cine fue hecho para películas como Juno.
 
@@ -2595,8 +2372,7 @@ Introducción: Con PAPRIKA, el director Satoshi Kon (también director de TOKYO 
 
 "Video Trailer Paprika."
 
-![image](https://bp0.blogger.com/_ayvorITawE4/R7cXTrTZHaI/AAAAAAAAAjU/6RkkQQjifog/s320/paprika.jpg)    Sinopsis: Paprika es una adaptación de una historia
-escrita por el aclamado escritor Yasutaka Tsutsui. En un futuro no muy distante, un grupo de científicos desarrolla un nuevo tratamiento de psicoterapia llamado PT, que coincide con la invención de un dispositivo llamado "DC Mini". El "DC Mini" permite entrar en los sueños de un sujeto de prueba y explorar el extraño y fantástico mundo de la mente inconsciente y en el proceso solucionar los problemas del individuo. Pero un día el "DC Mini" se pierde, y su desaparición obliga al equipo de científicos a buscar al terrorista que esta invadiendo desconsideradamente el ultimo santuario de la privacidad humana, el mundo de los sueños. El terrorista "ataca" al equipo de científicos creadores del "DC Mini", incrustando sueños psicóticos y abundantes en delirios de grandeza, que termina en la mezcla de la realidad y la fantasía, provocando a las victimas la locura y luego, la muerte. ¿Quien podrá moverse entre este mundo de confusión, en donde la realidad y los sueños se mezclan, para evitar que la tragedia siga, y así proteger nuestros sueños?
+![image](https://bp0.blogger.com/_ayvorITawE4/R7cXTrTZHaI/AAAAAAAAAjU/6RkkQQjifog/s320/paprika.jpg)    Sinopsis: Paprika es una adaptación de una historia escrita por el aclamado escritor Yasutaka Tsutsui. En un futuro no muy distante, un grupo de científicos desarrolla un nuevo tratamiento de psicoterapia llamado PT, que coincide con la invención de un dispositivo llamado "DC Mini". El "DC Mini" permite entrar en los sueños de un sujeto de prueba y explorar el extraño y fantástico mundo de la mente inconsciente y en el proceso solucionar los problemas del individuo. Pero un día el "DC Mini" se pierde, y su desaparición obliga al equipo de científicos a buscar al terrorista que esta invadiendo desconsideradamente el ultimo santuario de la privacidad humana, el mundo de los sueños. El terrorista "ataca" al equipo de científicos creadores del "DC Mini", incrustando sueños psicóticos y abundantes en delirios de grandeza, que termina en la mezcla de la realidad y la fantasía, provocando a las victimas la locura y luego, la muerte. ¿Quien podrá moverse entre este mundo de confusión, en donde la realidad y los sueños se mezclan, para evitar que la tragedia siga, y así proteger nuestros sueños?
 
 "Video: Principio película Paprika."
 
@@ -2617,13 +2393,9 @@ post_id: blog-3515952828243908885.post-1106342298065289833
 
 Introducción: La cantidad de sangre que brota en este film, lo convierte en un musical no apto para el débil de corazón o del estomago. Aunque la receta de humor negro, producción y música, la hace mas llevadera, lo que hará que los fans del director Tim Burton salgan cantando de las salas de cine después de verla.
 
-"Video: Trailer de Sweeney
-Todd"
-![image](https://bp1.blogger.com/_ayvorITawE4/R-FkGEiioLI/AAAAAAAAAmE/l-Eqnzx724U/s320/sweeney2007.jpg)    Sinopsis: En Sweeney Todd, contamos con la sexta
-colaboración del director Tim Burton y Johnny Depp, este ultimo interpretando a Benjamin Barker (conocido por Sweeney Todd), un barbero falsamente apresado y condenado por el Juez Turpin. Sweeney, después de dejar la prisión, regresa a la ciudad de Londres, solo para conocer que su esposa se envenena y su hija esta cautiva. Mientras elabora el plan de su venganza color rubí, Sweeney se una con la Señora Lovett (Helena Bonham Carter), y mientras Sweeney mata "caza" a los clientes que desean una rasurada, su nueva compañera de trabajo convierte los cuerpos en deliciosos panecillos de carne. Mmmmmm!, dicen que la carne humana tiene buen sabor ;) Pero el Juez Turpin aun vive, y el endemoniado barbero tiene sed de venganza.
+"Video: Trailer de Sweeney Todd" ![image](https://bp1.blogger.com/_ayvorITawE4/R-FkGEiioLI/AAAAAAAAAmE/l-Eqnzx724U/s320/sweeney2007.jpg)    Sinopsis: En Sweeney Todd, contamos con la sexta colaboración del director Tim Burton y Johnny Depp, este ultimo interpretando a Benjamin Barker (conocido por Sweeney Todd), un barbero falsamente apresado y condenado por el Juez Turpin. Sweeney, después de dejar la prisión, regresa a la ciudad de Londres, solo para conocer que su esposa se envenena y su hija esta cautiva. Mientras elabora el plan de su venganza color rubí, Sweeney se una con la Señora Lovett (Helena Bonham Carter), y mientras Sweeney mata "caza" a los clientes que desean una rasurada, su nueva compañera de trabajo convierte los cuerpos en deliciosos panecillos de carne. Mmmmmm!, dicen que la carne humana tiene buen sabor ;) Pero el Juez Turpin aun vive, y el endemoniado barbero tiene sed de venganza.
 
-"Video: Canción Epiphany de
-la película Sweeney Todd" Comentario Final: Aunque sea un musical, en donde todos cantan "bien", por algunos instantes... solo por unos cuantos instantes, esta película se vuelve ligeramente soporífera. Pero el elenco y la música se encargan de rescatarte de un potencial aburrimiento. Quizás lo mas impactante es que; como el publico esta TAN acostumbrado a las ridículas cantidades de sangre que se ocupan en tanta película mediocre, quizás eso le roba un poco de la emotividad a las vividas y resaltantes escenas de degollamiento que toman lugar más seguido de lo que uno deseara (y quizás no tanto como algún par de enfermos quisieran, jaja). Johnny Depp resalta se consolida nuevamente como el anti-héroe. Macabra, cómica e ingeniosa, Sweeney Todd se eleva a películas de culto como Ed Wood y Edward Scissor Hands. Pero no puedo dejar de pensar en que resume lo mejor y lo peor de Tim Burton. Aun así, para los amantes del genero y los fans, es una obligación verla.
+"Video: Canción Epiphany de la película Sweeney Todd" Comentario Final: Aunque sea un musical, en donde todos cantan "bien", por algunos instantes... solo por unos cuantos instantes, esta película se vuelve ligeramente soporífera. Pero el elenco y la música se encargan de rescatarte de un potencial aburrimiento. Quizás lo mas impactante es que; como el publico esta TAN acostumbrado a las ridículas cantidades de sangre que se ocupan en tanta película mediocre, quizás eso le roba un poco de la emotividad a las vividas y resaltantes escenas de degollamiento que toman lugar más seguido de lo que uno deseara (y quizás no tanto como algún par de enfermos quisieran, jaja). Johnny Depp resalta se consolida nuevamente como el anti-héroe. Macabra, cómica e ingeniosa, Sweeney Todd se eleva a películas de culto como Ed Wood y Edward Scissor Hands. Pero no puedo dejar de pensar en que resume lo mejor y lo peor de Tim Burton. Aun así, para los amantes del genero y los fans, es una obligación verla.
 
 ---
 
@@ -2642,54 +2414,45 @@ A continuación les dejamos los widgets para poder escucharlos desde acá y abaj
 
 Clase 1:
 
-[Descarga como OGG](https://www.archive.org/download/Consultoria-Clase1/Consultoria-Clase1.ogg)
-[Descarga como MP3](https://www.archive.org/download/Consultoria-Clase1/Consultoria-Clase1_64kb.mp3)
+[Descarga como OGG](https://www.archive.org/download/Consultoria-Clase1/Consultoria-Clase1.ogg) [Descarga como MP3](https://www.archive.org/download/Consultoria-Clase1/Consultoria-Clase1_64kb.mp3)
 
 Clase 2:
 
-[Descarga como OGG](https://www.archive.org/download/Consultoria-Clase2/Consultoria-Clase2.ogg)
-[Descarga como MP3](https://www.archive.org/download/Consultoria-Clase2/Consultoria-Clase2_64kb.mp3)
+[Descarga como OGG](https://www.archive.org/download/Consultoria-Clase2/Consultoria-Clase2.ogg) [Descarga como MP3](https://www.archive.org/download/Consultoria-Clase2/Consultoria-Clase2_64kb.mp3)
 
 Clase 3:
 
-[Descarga como OGG](https://www.archive.org/download/Consultoria-Clase3/Consultoria-Clase3.ogg)
-[Descarga como MP3](https://www.archive.org/download/Consultoria-Clase3/Consultoria-Clase3_64kb.mp3)
+[Descarga como OGG](https://www.archive.org/download/Consultoria-Clase3/Consultoria-Clase3.ogg) [Descarga como MP3](https://www.archive.org/download/Consultoria-Clase3/Consultoria-Clase3_64kb.mp3)
 
 Update 1: Agregadas además las clases No. 4 y 5:
 
 Clase 4:
 
-[Descarga como OGG](https://www.archive.org/download/Consultoria-Clase4/Consultoria-Clase4.ogg)
-[Descarga como MP3](https://www.archive.org/download/Consultoria-Clase4/Consultoria-Clase4_64kb.mp3)
+[Descarga como OGG](https://www.archive.org/download/Consultoria-Clase4/Consultoria-Clase4.ogg) [Descarga como MP3](https://www.archive.org/download/Consultoria-Clase4/Consultoria-Clase4_64kb.mp3)
 
 Clase 5:
 
-[Descarga como OGG](https://www.archive.org/download/Consultoria-Clase5/Consultoria-Clase5.ogg)
-[Descarga como MP3](https://www.archive.org/download/Consultoria-Clase5/Consultoria-Clase5_64kb.mp3)
+[Descarga como OGG](https://www.archive.org/download/Consultoria-Clase5/Consultoria-Clase5.ogg) [Descarga como MP3](https://www.archive.org/download/Consultoria-Clase5/Consultoria-Clase5_64kb.mp3)
 
 Update 2: Agregada la clase No. 6:
 
 Clase 6:
 
-[Descarga como OGG](https://www.archive.org/download/Consultoria-Clase6/Consultoria-Clase6.ogg)
-[Descarga como MP3](https://www.archive.org/download/Consultoria-Clase6/Consultoria-Clase6_64kb.mp3)
+[Descarga como OGG](https://www.archive.org/download/Consultoria-Clase6/Consultoria-Clase6.ogg) [Descarga como MP3](https://www.archive.org/download/Consultoria-Clase6/Consultoria-Clase6_64kb.mp3)
 
 Update 3: Agregadas las clases de la No. 7 a la No. 9:
 
 Clase 7:
 
-[Descarga como OGG](https://www.archive.org/download/Consultoria-Clase7/Consultoria-Clase7.ogg)
-[Descarga como MP3](https://www.archive.org/download/Consultoria-Clase7/Consultoria-Clase7_64kb.mp3)
+[Descarga como OGG](https://www.archive.org/download/Consultoria-Clase7/Consultoria-Clase7.ogg) [Descarga como MP3](https://www.archive.org/download/Consultoria-Clase7/Consultoria-Clase7_64kb.mp3)
 
 Clase 8:
 
-[Descarga como OGG](https://www.archive.org/download/Consultoria-Clase8/Consultoria-Clase8.ogg)
-[Descarga como MP3](https://www.archive.org/download/Consultoria-Clase8/Consultoria-Clase8_64kb.mp3)
+[Descarga como OGG](https://www.archive.org/download/Consultoria-Clase8/Consultoria-Clase8.ogg) [Descarga como MP3](https://www.archive.org/download/Consultoria-Clase8/Consultoria-Clase8_64kb.mp3)
 
 Clase 9:
 
-[Descarga como OGG](https://www.archive.org/download/Consultoria-Clase9/Consultoria-Clase9.ogg)
-[Descarga como MP3](https://www.archive.org/download/Consultoria-Clase9/Consultoria-Clase9_64kb.mp3)
+[Descarga como OGG](https://www.archive.org/download/Consultoria-Clase9/Consultoria-Clase9.ogg) [Descarga como MP3](https://www.archive.org/download/Consultoria-Clase9/Consultoria-Clase9_64kb.mp3)
 
 Un agradecimiento al Ing. Rodolfo Duque por darnos la autorización de grabar y publicar las clases, con el fin de facilitarnos el estudio de la cátedra de Consultoría Profesional y ojala sirva como un incentivo para que en otras
 
@@ -2705,8 +2468,7 @@ post_id: blog-3515952828243908885.post-9135386661346630577
 ---
 
 ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SOwl2YzPRtI/AAAAAAAADa8/y-BTMA8eyLg/s400/spyware.jpg)    
-"No es necesario ser
-paranoicos para aceptar que nos pueden vigilar y hasta controlar desde las paginas web que visitamos"
+"No es necesario ser paranoicos para aceptar que nos pueden vigilar y hasta controlar desde las paginas web que visitamos"
 
 Recientemente, dos investigadores de ha.ckers.org [Robert "RSnake" Hansen](https://ha.ckers.org/blog/about) y [Jeremiah Grossman](https://jeremiahgrossman.blogspot.com/2004/11/my-resume.html) [publicaron noticias](https://ha.ckers.org/blog/20080915/clickjacking/) acerca de un problema de vulnerabilidad el cual afecta a todos los navegadores web de la actualidad y que podría monitorear y controlar la actividad de un usuario en un sitio web especifico. Hasta el momento ningún navegador del web se encuentra exento, por lo menos no los que todo mundo utiliza ya que es un problema relativamente reciente, no esta directamente relacionado con javascript y no es tan fácil de solucionar con un simple parche o actualización de los mismos. Los únicos que no se ven afectados por este grave problema son [lynx](https://es.wikipedia.org/wiki/Lynx_%28navegador%29), [Links](https://links.sourceforge.net/), [w3m](https://w3m.sourceforge.net/) y similares.
 
@@ -2720,8 +2482,7 @@ Dicho de otra forma, imaginemos un cristal (opacidad 0) con algo debajo, intenta
 
 ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SOwmR9EVLQI/AAAAAAAADbE/6rbwdlaYOlQ/s400/clickjacking.png)    
 
-"Imagen que ejemplifica las dos capas invisibles que puede tener un sitio web: la
-capa que vemos y la capa con la que realmente interactuamos"
+"Imagen que ejemplifica las dos capas invisibles que puede tener un sitio web: la capa que vemos y la capa con la que realmente interactuamos"
 
 Ahora imaginemos que cargamos en el iFrame una página de noticias, como meneame, fresqui, o digg, lo volvemos transparente, y debajo metemos un botón que diga: haz clic aquí, posicionándolo justo exactamente debajo de donde aparece el botón para votar a la noticia, dentro de la página de noticias. Cuando el usuario haga clic en nuestro botón, que está debajo del iFrame transparente, justo donde está el botón para votar de la web de noticias que hay cargada dentro del iFrame, hará clic en el botón votar de la pagina que hay dentro del iFrame.
 
@@ -2731,13 +2492,11 @@ Como habíamos mencionado, no es tan fácil como agregar un parche o actualizar 
 
 - Opera: Vayanse a la pagina opera:config y deshabiliten la opción iFrames.
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SOwiQqaf4eI/AAAAAAAADas/YxB-EONTMXc/s400/ClickJakingOperaConfig.png)    
-"Captura de pantalla de
-Opera, mostrando la pagina de configuracion donde se deshabilitan los iFrames"
+"Captura de pantalla de Opera, mostrando la pagina de configuracion donde se deshabilitan los iFrames"
 
 - Firefox: Instalar el plugin ([complemento, add-on o como le quieran llamar](https://www.srbyte.com/2008/07/qu-es-un-complementoadd-on-de-firefox.html)) llamado [NoScript](https://noscript.net/getit) el cual, al igual que el plugin [FlashBlock](https://www.srbyte.com/2008/10/flashblock-complemento-de-firefox.html) que te bloquea los elementos Flash de una pagina, este te permite bloquear una gran cantidad de tipos de contenido de una pagina, entre estos, los scripts, animaciones flash, aplicaciones Java y por supuesto, iFrames.
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SOwkk3zufcI/AAAAAAAADa0/gt9GEyJiKqA/s400/ClickJackingFirefoxConfig.png)    
-"Captura de pantalla de Firefox, mostrando en su
-barra de estado la informacion de bloqueos de NoScript y en una ventana emergente, la configuracion del NoScript y donde se deshabilitan los iFrames"
+"Captura de pantalla de Firefox, mostrando en su barra de estado la informacion de bloqueos de NoScript y en una ventana emergente, la configuracion del NoScript y donde se deshabilitan los iFrames"
 
 - Internet Explorer Safari y Chrome: Resignense a estar vulnerables, esperen a que los fabricantes encuentren una solución o cambien de navegador.
 
@@ -2753,11 +2512,9 @@ post_id: blog-3515952828243908885.post-6355890823443189582
 ---
 
 ![image](https://bp0.blogger.com/_jH77WNrMVRA/SH2Q3udDjkI/AAAAAAAAByg/-wIXCfvrhp4/s400/twitter.jpg)    
-"Logotipo de
-Twitter"
+"Logotipo de Twitter"
 
-[Twitter](https://twitter.com/), y
-el [microblogging](https://es.wikipedia.org/wiki/Microblogging) en general, es una tendencia que se ha puesto de moda en los últimos meses hasta el punto de quizá, ser preferidos como alternativas a algunos blogs o programas de mensajería instantánea. Su idea es facilitarle la vida al usuario de forma que pueda compartir su información de la forma mas simple y rápida posible en no más de 140 caracteres.
+[Twitter](https://twitter.com/), y el [microblogging](https://es.wikipedia.org/wiki/Microblogging) en general, es una tendencia que se ha puesto de moda en los últimos meses hasta el punto de quizá, ser preferidos como alternativas a algunos blogs o programas de mensajería instantánea. Su idea es facilitarle la vida al usuario de forma que pueda compartir su información de la forma mas simple y rápida posible en no más de 140 caracteres.
 
 Parte de su popularidad y acogida por parte de los usuarios se debe a la diversidad de formas que existen de tuitear, actualizar tu estado, contarle al mundo lo que estas haciendo o como quieras llamarle a lo que quieras escribir en el.
 
@@ -2766,38 +2523,32 @@ Entre estas formas tenemos:
 Via web: La mas común de todas es haciéndolo desde la misma pagina de twitter.
 
 ![image](https://bp3.blogger.com/_jH77WNrMVRA/SH2cWGLUktI/AAAAAAAAByo/BCddi62QU5g/s400/fromweb.png)    
-"Twiteando desde la
-Web"
+"Twiteando desde la Web"
 
 TwitterFox: Este es un plugin ([add-on, complemento](https://srbyte.blogspot.com/2008/07/qu-es-un-complementoadd-on-de-firefox.html), o como le quieran llamar) para firefox el cual permite agregar múltiples cuentas de usuario de twitter, actualizar y mostrar las actualizaciones de la gente que seguimos en un cuadro emergente en la esquina inferior de la ventana de firefox. Para evitar la adicción y la sobrecarga de los servidores de twitter, automáticamente se ajusta para no permitir más de veinte actualizaciones por hora.
 
 ![image](https://bp3.blogger.com/_jH77WNrMVRA/SH2gXSYrewI/AAAAAAAAByw/79DXf-5-Euo/s400/TwitterFoxTabs.gif)    
-"Vista previa de la interfaz
-de TwitterFox"
+"Vista previa de la interfaz de TwitterFox"
 
 Twhirl: Este es un cliente creado usando Adobe Air (¡lo cual lo vuelve multiplataforma!), el cual nos permite recibir nuestras actualizaciones sin necesidad de tener abierto el navegador. Permite múltiples cuentas y muestra una extensa cantidad de información sobre las actualizaciones, además de ciertas estadísticas. Trae embebidas funcionalidades para postear una imagen en [TwitPic](https://twitpic.com/) y para acortar URLs, usando cualquiera de los servicios existentes, además de una serie de skins para personalizarlo.
 
 ![image](https://bp2.blogger.com/_jH77WNrMVRA/SH2hZ0fIt9I/AAAAAAAABy4/3Q9Vm8MsMzg/s400/ewan_twhirl_caps.jpg)    
-"Vista previa de
-Twhirl"
+"Vista previa de Twhirl"
 
 Tweetr: Este es otro cliente de escritorio basado en Adobe Air, el cual se destaca por su simplicidad (esto significa un ahorro de memoria). Entre sus características especiales están la capacidad de capturar/enviar fotografías desde una cámara web y subir/enviar archivos de un máximo de 10Mb mediante arrastrar y soltar.
 
 ![image](https://bp2.blogger.com/_jH77WNrMVRA/SH2leukdcMI/AAAAAAAABzA/e7Jgl-9T1UM/s400/tweetr.jpg)    
-"Interfaz de
-Teetr"
+"Interfaz de Teetr"
 
 TweetDeck: Otro cliente de escritorio basado en Adobe Air, cuya particularidad reside en la capacidad de mostrar múltiples columnas de información en las cuales se pueden organizar los contactos en grupos, resultados de búsquedas, repplies, etc.
 
 ![image](https://bp2.blogger.com/_jH77WNrMVRA/SH2nYzF0FAI/AAAAAAAABzI/Bd2-QuUtJbs/s400/TweetDeck.png)    
-"Vista previa del
-TweetDeck"
+"Vista previa del TweetDeck"
 
 Digsby: Digsby es uno de mis favoritos clientes de mensajería instantánea ya que, siguiendo la tendencia, incorpora múltiples protocolos (como aim, msn, yahoo, gtalk, ...) y los combina con actualizaciones de las bandejas de correo y redes sociales como facebook, myspace y por supuesto, Twitter. Debido a todo lo que permite hacer, este programa consume gran cantidad de memoria RAM, pero si tienes la suficiente, vale la pena instalarlo. Lamentablemente aun no se encuentra disponible para Mac o Linux pero según el sitio, estas versiones están por salir.
 
 ![image](https://bp1.blogger.com/_jH77WNrMVRA/SH2pMwCvdAI/AAAAAAAABzQ/5ZAUDgSIhLY/s400/social_2.png)    
-"Vista previa de la interfaz
-de Digsby, mostrando las actualizaciones de Twitter"
+"Vista previa de la interfaz de Digsby, mostrando las actualizaciones de Twitter"
 
 Existen muchos mas clientes para actualizar el twitter y seguir el estado de tus contactos, acá les he presentado los que he tenido la oportunidad de utilizar y los que me han llamado la atención por sus características. Algún otro que quieran mencionar?
 
@@ -2805,8 +2556,7 @@ Si realmente eres un fanático de twitter, tal vez te interese revisar los [wall
 
 Que tal un fan videoclip?:
 
-"Asi como este, hay muchos otros homenajes a Twitter, hechos por
-fans"
+"Asi como este, hay muchos otros homenajes a Twitter, hechos por fans"
 
 ---
 
@@ -2834,8 +2584,7 @@ post_id: blog-3515952828243908885.post-3527604076687658038
 
 QA (Quality Assurance) consiste en, como su nombre lo indica, probar un producto, para este caso software, y asegurarnos de que se mantiene en [el estándar de usabilidad](https://www.srbyte.com/2009/03/pruebas-de-uso-usability-test.html), que es aceptable el rendimiento del mismo, entre otros. Mas información sobre [QA en la Wikipedia](https://en.wikipedia.org/wiki/Quality_assurance). Tener un trabajo como QA, no es tarea fácil: es repetitivo, y hay que conseguir un paraguas por la lluvia de bandeades que le caen a uno (por lado de los usuarios, y por el lado de los desarrolladores). Podemos concluir que un QA (también les dicen Ingenieros de Pruebas/Calidad) esta en un desfavorable punto intermedio entre los programadores que no se equivocan y los usuarios que tienen "manitas mágicas" para arruinar software.
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SgS9qgmRZUI/AAAAAAAAB9Y/dfcrKpRL3UQ/s320/qa-analyst-performance-testing.jpg)    
-Supongo que muchos estudiantes de carreras afines a la computación comienzan trabajando como digitadores o como Ingenieros de Pruebas. Por esta misma razón, uno espera que cuando un Ingeniero de Pruebas notifique un defecto, este sea realmente provocado por la aplicación, sin embargo encontré este caso en [SeverlaGolb](https://severlagolb.blogspot.com/2009/03/inexplicable.html) que me parece particularmente preocupante. A lo que añaden, con toda la razón del mundo:
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SgS9qgmRZUI/AAAAAAAAB9Y/dfcrKpRL3UQ/s320/qa-analyst-performance-testing.jpg)     Supongo que muchos estudiantes de carreras afines a la computación comienzan trabajando como digitadores o como Ingenieros de Pruebas. Por esta misma razón, uno espera que cuando un Ingeniero de Pruebas notifique un defecto, este sea realmente provocado por la aplicación, sin embargo encontré este caso en [SeverlaGolb](https://severlagolb.blogspot.com/2009/03/inexplicable.html) que me parece particularmente preocupante. A lo que añaden, con toda la razón del mundo:
 
 > "lo curioso del caso es que esta persona es un graduado de la href="https://www.uca.edu.sv/">Universidad Centroamericana "José Simeón Cañas",
 > empiezo a dudar sentirme muy orgulloso el graduarme de la misma universidad pues este
@@ -2844,14 +2593,12 @@ Supongo que muchos estudiantes de carreras afines a la computación comienzan tr
 A lo que voy, es que... ¿cuanto conocimiento de informática hay que tener para estar en un puesto de QA? Si un Licenciado de la UCA no es capaz de distinguir entre un error y una característica de un complemento de Firefox, estamos perdidos.... totalmente perdidos, como este pobre perrito:
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SgTDZaBL9TI/AAAAAAAAB9o/ZPU8DkEi-gE/s320/funny-dog-cartoon-lost-puppy.jpg)    
-"Atrapado en las nalgas de
-la ingornacia"
+"Atrapado en las nalgas de la ingornacia"
 
 Es el nivel de desconocimiento lo que me deja anonadado, con gente que puede reportar literalmente cualquier cosa: desde dar diez clics seguidos sobre un botón web o un vinculo (y que esto produzca un error), hasta reportar que es un "error" que solo se permitan números en un campo de "código postal".... y que esta gente exija y demande que se ponga tal cual y como esta en los documentos de especificación: que los campos de código postal permita letras. RIDÍCULO(en caso de que no lo sepan, no hay códigos postales con letras, vea la [lista completa de códigos postales de Douglas Boynton](https://www.quine.org/zip-all-00001.html)) Se supone, que van a certificar que una aplicación funcione correctamente, todo esto, sin desafiar las leyes del sentido común y la simple lógica.
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SgS9q4pkFqI/AAAAAAAAB9g/TU0W15nrK_Y/s320/quality.jpg)    
-"La carrera por la calidad,
-no tiene meta.... así que técnicamente es una marcha hacia la muerte."
+"La carrera por la calidad, no tiene meta.... así que técnicamente es una marcha hacia la muerte."
 
 El punto es que quiero que me cuenten: ¿A cuantos de ustedes les ha tocado vivir una experiencia similar a esta?, ¿Y si eres un "Ingeniero de Pruebas", has visto casos similares?, ¿Que es lo mínimo que deben saber un Ingeniero de Pruebas?
 
@@ -2868,40 +2615,34 @@ post_id: blog-3515952828243908885.post-4615110713523624372
 
 Como ya saben, gracias a ustedes (y al panel de jurados) somos ganadores en categoría de blogs para el certamen de premiaron de sitios web: Arroba de Oro. Quería comentarles un poco lo que nos pareció el evento, así que, sin mas preámbulo les dejamos con estas pequeñas entradas...
 
-Seminario y Lectura de Nominados (Miércoles 15 de Octubre 2008)
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SQCcFjy5JEI/AAAAAAAABW4/w-9WRMjzoDk/s320/hpim1733.jpg)    
-"Salón Presidente 4 en el
-Sheraton."
+Seminario y Lectura de Nominados (Miércoles 15 de Octubre 2008) ![image](https://2.bp.blogspot.com/_ayvorITawE4/SQCcFjy5JEI/AAAAAAAABW4/w-9WRMjzoDk/s320/hpim1733.jpg)    
+"Salón Presidente 4 en el Sheraton."
 
 Lo bueno, lo malo y lo "fail"....
 
 Lo bueno: Instalaciones: El evento se celebra en el Hotel Sheraton Presidente, excelentes instalaciones, espaciosas, con aire acondicionado y unos baños muy bonitos (jaja).
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SQCd6IA_CmI/AAAAAAAABXI/SPd0-mBA_No/s320/hpim1736.jpg)    
-"Mejores instalaciones no se
-podrían desear."
+"Mejores instalaciones no se podrían desear."
 
 Comida: bocas frías y bebidas (con o sin alcohol), también muy buenas.
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SQCcF5EnioI/AAAAAAAABXA/2eJooAfCmbg/s320/hpim1735.jpg)    
-"La comida, esperando
-pacientemente a ser devorada vorazmente por los asistentes"
+"La comida, esperando pacientemente a ser devorada vorazmente por los asistentes"
 
 La gente: Se conoce a gente que esta en las mismas iniciativas (internet, negocios, diseño, programación, desarrollo), lo mejor es que es una audiencia muy variada y eso enriquece mucho la experiencia general del evento.
 
 Testimonios: Se dieron testimonios de personas que fueron afectadas por la premiación en el certamen, algo así como casos de éxito. La primera en pasar fue la dueña de [https://www.palomitaselsalvador.com.sv](https://www.palomitaselsalvador.com.sv/) que es un sitio dedicado al diseño y confección de vestidos para niñas...
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SQCd6pyNdbI/AAAAAAAABXQ/PUO4eFLZ_2M/s320/hpim1741.jpg)    
-"Al a izquierda la dueña de
-'Palomitas El Salvador'"
+"Al a izquierda la dueña de 'Palomitas El Salvador'"
 
 Lo interesante es que ella (la dueña) comenzó con la idea de una tienda virtual - o al menos eso quería - y luego, por haber ganado varias Arrobas de Oro, se sintió con la "obligación" de abrir un local físico para ofrecer sus productos. Comento también sus planes de expansión y en definitiva, es una historia de éxito.
 
 El segundo testimonio fue de una niña de 10 años, llamada: Karen. Ella tiene un sitio web propio (no recuerdo cual es, luego lo pongo) dedicado a comentar tips de seguridad de los niños en Internet...
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SQCd60lA6EI/AAAAAAAABXY/AZx1kjk0Ltw/s320/hpim1743.jpg)    
-"A la izquierda, Karen de 10
-años con sitio web."
+"A la izquierda, Karen de 10 años con sitio web."
 
 ... ¿ya le vieron el vestidito?, ¿a que no adivinan quién se lo "dio"?... si, la dueña de Palomitas El Salvador le hizo el vestido a la niña, ese es espíritu de negocio.
 
@@ -2913,16 +2654,13 @@ También llego una representante del sitio [https://www.casasroble.com/](https:/
 
 Seminario: Las charlas (algunas) fueron muy entretenidas y hasta educativas. Y en una, hasta mostraron este vídeo:
 
-"El peor día de mi
-vida" Personalidades: Asisten varias "personalidades" Salvadoreñas, como: el Lic. Fabricio Altamirano (prácticamente el dueño de El Diario de Hoy); y también llego la actual Ministra de Educación: Licda. Darlyn Meza.
+"El peor día de mi vida" Personalidades: Asisten varias "personalidades" Salvadoreñas, como: el Lic. Fabricio Altamirano (prácticamente el dueño de El Diario de Hoy); y también llego la actual Ministra de Educación: Licda. Darlyn Meza.
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SQCrg_B1DhI/AAAAAAAABX4/iArUROqSTuQ/s320/hpim1778.jpg)    
-"Lic. Fabricio
-Altamirano"
+"Lic. Fabricio Altamirano"
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SQCrhKE4EaI/AAAAAAAABYA/CvjVzEPSPkU/s320/hpim1783.jpg)    
-"Licda. Darlyn
-Meza"
+"Licda. Darlyn Meza"
 
 Certificado: Tanto los votos, como la decisión de los jueces, es certificada por la compañía [BDO](https://www.bdo.com/) y se mantiene como máximo secreto; un detalle muy profesional.
 
@@ -2932,30 +2670,25 @@ Lo malo: El expositor de Microsoft comento que IE 8 era el primer navegador que 
 "). Existen tres versiones de Acid, siendo las mas significativas Acid 2 y Acid 3. Acid 2 lo pasan los navegadores más importantes, [pruebenlo ustedes mismos dando click aquí](https://www.webstandards.org/files/acid2/test.html). Cuando un navegador pasa la prueba de Acid 2 se ve así:
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SQCcFY_aDFI/AAAAAAAABWw/SB-ZxdZHwFY/s320/referenceacid2.png)    
-"Exito en el Acid Test
-2"
+"Exito en el Acid Test 2"
 
 Y cuando pasa la prueba de Acid 3 se ve así:
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SQCcFDjlCkI/AAAAAAAABWo/Erin66GsAik/s320/acidtest3.png)    
-"Éxito en el Acid Test
-3"
+"Éxito en el Acid Test 3"
 
 Lo que me molesto, es que el expositor tuvo el descaro de mostrar una prueba de Acid 2 de IE 8 vs Firefox 2 (FF2 no pasaba Acid2, FF3 si), la comparación adecuada debería ser IE 8 vs Firefox 3.0. Y para aclarar Safari 4 beta fue el primer navegador que ha pasado la prueba de Acid3...
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SQCvxaVDVTI/AAAAAAAABYQ/YBhh_Gv1upM/s320/acid3.png)    
-"Safari 4 Beta pasa la
-prueba de Acid3 en Abril de este año."
+"Safari 4 Beta pasa la prueba de Acid3 en Abril de este año."
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SQCcFEUi5UI/AAAAAAAABWg/kA6J-PSvWpU/s320/acidtest2maje.png)    
-"IceWeasel 3.0.3 (Firefox
-para Debian Linux) pasa el Acid Test 2"
+"IceWeasel 3.0.3 (Firefox para Debian Linux) pasa el Acid Test 2"
 
 Y también dijo que Silverlight corre "de lo lindo" en Linux y en Mac OS X... otro "dato erróneo", Silverlight solo se instala bien en Windows. Si queres Silverlight en Linux, hay que usar [Moonlight](https://www.mono-project.com/Moonlight); la versión libre de Silverlight desarrollada por Novell. Y en Mac OS X, no tengo claro si funciona bien Silverlight 1.0 o hasta el 2.0. Espero que alguien deje el comentario aclarando.
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SQCd7ve8H7I/AAAAAAAABXo/2kXYkWo1jMA/s320/hpim1752.jpg)    
-"Exponente de
-Microsoft."
+"Exponente de Microsoft."
 
 Casi solo me sentí aludido por los "datos erróneos" mencionados por el presentador de Microsoft ¿Por qué será?... pero aparte de esos detalles, estuvo bien.
 
@@ -2967,8 +2700,7 @@ Lo "fail" (errores, regadas y demás):
 - Se suponen que tenían que mostrar dos vídeos hechos por elsalvador.com sobre los testimonios de éxito, los de la Señora de Palomitas El Salvador y el de la niña de 10 años, pero el vídeo de la niña no funcionó, parece que no tenían los codecs para reproducir el vídeo... Windows Media Player fail.
 - Pero lo mejor se lo lleva una diapositiva que queriendo hacer referencia a la apariencia y sensación de las paginas Web, es decir, el "Look and Feel" pero en vez de eso puso: "Look and Fill" ... fail total.
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SQCrgoXoyJI/AAAAAAAABXw/3K3BW7qXQ2c/s320/lookandfill.png)    
-"Look and 'Fill'...
-fail."
+"Look and 'Fill'... fail."
 
 Y bien, eso es todo con respecto al evento de lectura de nominados, luego pondremos la segunda parte. ¡Saludos!
 
@@ -2993,11 +2725,9 @@ En estos días, ya que tuvimos que estudiar para Recursos Humanos y como no me l
 
 - Google: Qué se puede decir de la empresa numero uno en la lista de las 100 mejores empresas donde trabajar de la [revista Fortune](https://money.cnn.com/magazines/fortune/bestcompanies/2008/snapshots/1.html)? No se ni por dónde empezar así que mejor vean un par de vídeos que lo explican:
 
-"Google, Una de las empresas
-que mejor trata a sus empleados"
+"Google, Una de las empresas que mejor trata a sus empleados"
 
-"La Empresa No. 1 de la
-revista Fortune"
+"La Empresa No. 1 de la revista Fortune"
 
 ---
 
@@ -3014,8 +2744,7 @@ Para atender las crecientes necesidades de los programadores, que tratan de mant
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SwS-mUkMBkI/AAAAAAAACOk/hY-KI2fQ37c/s320/struts2-merger2.png)    
 
-"Struts 2 es otro
-exitoso proyecto de Apache.org"
+"Struts 2 es otro exitoso proyecto de Apache.org"
 
 En el lugar donde trabajo, no utilizan un Web Frameworks en el proyecto en el que me encuentro, algo que por supuesto, reduce enormemente la productividad, trauma y molesta... mucho, realmente mucho. Supongo que en varias empresas sucedera lo mismo, si es ese el caso, es una lastima, porque estan perdiendo el tiempo reinventando la rueda. Y recordemos que en las empresas, el tiempo es dinero.
 
@@ -3035,8 +2764,7 @@ El primero consiste en una encuesta realizada por [Kimberly McClintock](https://
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SwS-nBS0M8I/AAAAAAAACOs/pI7VCuD7Pzw/s320/openxava.jpeg)    
 
-"OpenXava: El framework que te hace los CRUD
-automáticamente"
+"OpenXava: El framework que te hace los CRUD automáticamente"
 
 Y el segundo, consiste en una matriz comparativa de frameworks que utilizan la amena combinación de JSF + Ajax, esta matriz resulta de lo mas útil para los que están en la prisa de justificar porque usar uno u otro producto para un proyecto, así que recomiendo mucho que visiten la [JSFMatrix](https://www.jsfmatrix.net/).
 
@@ -3097,16 +2825,13 @@ draft: false
 post_id: blog-3515952828243908885.post-4865367397803288776
 ---
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SpPqtpn-5wI/AAAAAAAACJ4/wqwxUXL9svQ/s200/firefox.png)    Hace ya buen rato,
-nos pidieron el favor de poner una lista de [complementos que recomendamos para Firefox](https://www.srbyte.com/2008/07/qu-es-un-complementoadd-on-de-firefox.html). Así que, sin mucha fanfarria, aquí esta la colección oficial de complementos de Firefox que siempre me salva la vida:
-[https://addons.mozilla.org/es-ES/firefox/collection/srbyte](https://addons.mozilla.org/es-ES/firefox/collection/srbyte)
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SpPqtpn-5wI/AAAAAAAACJ4/wqwxUXL9svQ/s200/firefox.png)    Hace ya buen rato, nos pidieron el favor de poner una lista de [complementos que recomendamos para Firefox](https://www.srbyte.com/2008/07/qu-es-un-complementoadd-on-de-firefox.html). Así que, sin mucha fanfarria, aquí esta la colección oficial de complementos de Firefox que siempre me salva la vida: [https://addons.mozilla.org/es-ES/firefox/collection/srbyte](https://addons.mozilla.org/es-ES/firefox/collection/srbyte)
 > href="https://addons.mozilla.org/es-ES/firefox/collection/srbyte">https://addons.mozilla.org/es-ES/firefox/collection/srbyte
 UPDATE: Actualice la lista, de acuerdo a las sugerencias en los comentarios :)
 
 Si alguno de ustedes quiere sugerir otro complemento, NO DUDEN en dejarlo en los comentarios, y con gusto lo agregamos. Y como seguramente alguien se lo esta preguntado, pues la característica de las "colecciones de complementos" en el sitio de complementos de Mozilla, es relativamente nueva, y nos asiste en la magna tarea de seguirle la pista a nuestros complementos favoritos...
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SpPqi7dIkbI/AAAAAAAACJw/muyPc6a36eY/s320/logo-collections-220x270.png)    
-Lo mas interesante de esto, es que esta utilidad te mantiene unido con tus complementos y recopilatorios favoritos de varias maneras:
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SpPqi7dIkbI/AAAAAAAACJw/muyPc6a36eY/s320/logo-collections-220x270.png)     Lo mas interesante de esto, es que esta utilidad te mantiene unido con tus complementos y recopilatorios favoritos de varias maneras:
 
 Accede a tus recopilatorios desde Firefox Los recopilatorios que marques como favoritos en el [directorio de recopilatorios](https://addons.mozilla.org/es-ES/firefox/pages/collector) aparecerán en un lugar especial del administrador de complementos. Podrás estar al día y ver el contenido de cada recopilatorio.
 
@@ -3116,8 +2841,7 @@ Recibe avisos El recopilador te avisará cuando uno de tus recopilatorios favori
 
 Claro, todas estas características se proveen únicamente a los usuarios registrados al sitio mencionado. Resulta bastante útil si se anda experimentando o si estas muy pendiente de las ultimas versiones de tus complementos.
 
-También les comparto la lista "Editors Picks" de complementos (muy buena):
-[https://addons.mozilla.org/es-ES/firefox/collections/editors_picks](https://addons.mozilla.org/es-ES/firefox/collections/editors_picks)
+También les comparto la lista "Editors Picks" de complementos (muy buena): [https://addons.mozilla.org/es-ES/firefox/collections/editors_picks](https://addons.mozilla.org/es-ES/firefox/collections/editors_picks)
 > href="https://addons.mozilla.org/es-ES/firefox/collections/editors_picks">https://addons.mozilla.org/es-ES/firefox/collections/editors_picks
 Nuevamente, si alguno de ustedes quiere sugerir otro complemento, NO DUDEN en dejarlo en los comentarios, y con gusto lo agregamos. Saludos!
 
@@ -3135,8 +2859,7 @@ post_id: blog-3515952828243908885.post-374203369363987302
 Como desarrollador ocasional de software, me he aventurado en el área de la producción de software a la medida, para un par de individuos. Como muchos desarrolladores, me encuentro con el terrible y repetitivo paradigma de ser un: Programador-DBA-Diseñador-Tester, lo cual, siempre termina siendo un dolor de cabeza. Pero aunque sea un dolor de cabeza, no podemos negar que es una realidad que a todo estudiante de alguna carrera afín de la informática termina haciendo para conseguir un par de $$$ extra.
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SIqZ2Ow7KEI/AAAAAAAAA78/8C8xjBlcxaw/s400/hidden.png)    
-"Arrrgh!, que asco de GUI...
-x_x"
+"Arrrgh!, que asco de GUI... x_x"
 
 La teoría nos dice por ejemplo que un Programador NO debe hacer trabajo de diseño de la GUI del programa, pero la practica y la realidad (no mucha gente capaz en el medio) nos enseña que podemos hacer un poquito de todo tomando ciertas medidas, que en mi opinión son necesarias para mantener la cordura en todo el proceso de desarrollo de software.
 
@@ -3145,44 +2868,37 @@ Así que sin más retrasos, les presento una lista de consejos prácticos - que 
 1. Planea entrevistas, visitas y un par de meses para entregar el software. Planea entrevistas con las personas que utilizaran el software y visitarlos varias veces al mes, la idea detrás de esto es saber cuanto conocimiento tienen la o las personas que usaran tu programa. Deberías de ser capaz de contestar estas preguntas de tus clientes: ¿Qué tipo de usuario es? ¿Es un usuario común, avanzado o un PowerUser? ¿Qué sistema operativo prefiere/utiliza?
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/SIqYKQ9kScI/AAAAAAAAA7M/Wn9saslUCnY/s400/prospectiveboss1kopie.jpg)    
-"Conoce a tu cliente para
-atender sus necesidades informáticas."
+"Conoce a tu cliente para atender sus necesidades informáticas."
 
 2. No esperes que tu cliente cambie de sistema operativo solo por tu programa. Pedir que tu cliente cambie de sistema operativo solo porque tu programa usa "cron", es desconsiderado y poco profesional. Puedes recomendar que cambie de sistema, pero no lo cambies solo porque si. Si eso sucede, implica que como profesional tienes que hacerte cargo de que la mingración sea 100% satisfactoria, sin excusas.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/SIqYLOvaaII/AAAAAAAAA7k/RSdfX37bokU/s400/hypnoGuy.jpg)    
-"Trata de no atentar contra
-la comodidad del usuario."
+"Trata de no atentar contra la comodidad del usuario."
 
 3. Utiliza Frameworks y herramientas de desarrollo populares. Utiliza .NET, Java SDK, RoR, etc. No te quedes con lenguajes o entornos de desarrollo desfazados como VB 6.0, Delphi 7.0 ó VisualFoxPro, se practico y ¡mantente al tanto de las herramientas que te hacen la vida más fácil! Al menos deberías de usar/conocer lo basico: Unit Testing, Code Coverage, Source Version Control, Automated Build/Deployment. Si no sabes que es nada de eso, más te vale comenzar a aprender, porque son herramientas que te ahorraran tiempo.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/SIqYK-_9z7I/AAAAAAAAA7c/X0EBkG1PvSI/s400/800px-Framework_complexity_of_the_Pater_Noster_lighthouse.jpg)    
-"Utilizar un framework hará
-que tu trabajo sea más rápido."
+"Utilizar un framework hará que tu trabajo sea más rápido."
 
 4. No reinventar la rueda. Si algo ya esta hecho, es software libre (opensource) y lo entiendes, entonces: tomalo, modifícalo y usalo. Y reconoce al autor del código que usaste.
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SIqZ165cqGI/AAAAAAAAA70/2iuHJXCglF8/s400/wheel3.jpg)    
-"Solo puedes mejorar la
-rueda... ¿Para que re-inventarla?"
+"Solo puedes mejorar la rueda... ¿Para que re-inventarla?"
 
 5. Concentrate en solucionar solo lo que prometiste. Imagina que estas haciendo un programa tipo Agenda. Y de pronto se te ocurre que te gustaría que envié mensajes a celulares y correos electrónicos que sirvan de notificaciones... si no te lo pidieron NO lo hagas. Si agregas constantemente características a tu programa: terminaras con un "Frankenware".
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/SIqZ1_nZeyI/AAAAAAAAA7s/v2DmlP-v-6A/s400/candy.jpg)    
-"No pierdas de vista tu
-objetivo (vivan las 3D manías)"
+"No pierdas de vista tu objetivo (vivan las 3D manías)"
 
 6. Busca la simplicidad y el minimalismo. Ingeniate para que tu GUI sea sencilla y clara. Ejemplos de simplicidad es el iPod, el iPhone y la pagina principal de Google.
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SIqYKqxp5ZI/AAAAAAAAA7U/HHY62yvX2Hk/s400/yourproduct.jpg)    
-"La imagen lo dice todo, haz
-click para verla más grande."
+"La imagen lo dice todo, haz click para verla más grande."
 
 7. Si puedes construye librerías/controles propios y ¡compartelos!. Crea una serie de librerías/controles personales que te ayuden a realizar tu trabajo más rápido y asegurate de compartirlo, ya sea con el mundo o con algún colega. Esto te servirá para madurar como programador y mejorar la legibilidad y el estilo de tu código.
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/SIqZ2IGlk6I/AAAAAAAAA8E/533pNeWrxs4/s400/security-padlock.jpg)    
-"Un programador celoso no es
-un buen programador."
+"Un programador celoso no es un buen programador."
 
 También comparte tus experiencias, a más de alguien le pueden servir :) Y tú, ¿que tipo de experiencias has tenido como desarrollador de software?
 
@@ -3197,8 +2913,7 @@ draft: false
 post_id: blog-3515952828243908885.post-7279915234354871735
 ---
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/ShgNiqf9JII/AAAAAAAAB-o/4bapq8QIRoY/s200/cookie-bite-web.jpg)    Las cookies son
-pequeños bits de informacion textual, que un servidor web (o un contenedor de aplicaciones) envía a un navegador cliente para identificarlo; el navegador luego retorna esa informacion (esos bits de informacion textual) cuando se visita nuevamente ese sitio web o dominio. Haciendo que el servidor lea informacion que se le había enviado previamente a un cliente, la aplicación web puede proveer a sus visitantes, con unas cuantas conveniencias que se describen a continuación:
+![image](https://2.bp.blogspot.com/_ayvorITawE4/ShgNiqf9JII/AAAAAAAAB-o/4bapq8QIRoY/s200/cookie-bite-web.jpg)    Las cookies son pequeños bits de informacion textual, que un servidor web (o un contenedor de aplicaciones) envía a un navegador cliente para identificarlo; el navegador luego retorna esa informacion (esos bits de informacion textual) cuando se visita nuevamente ese sitio web o dominio. Haciendo que el servidor lea informacion que se le había enviado previamente a un cliente, la aplicación web puede proveer a sus visitantes, con unas cuantas conveniencias que se describen a continuación:
 
 Identificar a un usuario durante una sesión de comercio electrónico: Si alguna vez te pusiste a curiosear Amazon.com, o alguna otra tienda en linea, ya sabrás sobre la metáfora del carrito de compras (Shopping Cart) que se puso tan de moda con el "[e-Commerce](https://en.wikipedia.org/wiki/Electronic_commerce)
 ", en el que el usuario selecciona un ítem, lo añade a su carrito, y sigue comprando, justo como cuando se visita el super mercado. Como las conexiones [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol) se cierran luego de que cada pagina se envía ([HTTP es Stateless](https://www.yafla.com/dennisforbes/-Web-Apps-Suck-Because-HTTP-is-Stateless-/-Web-Apps-Suck-Because-HTTP-is-Stateless-.html)), cuando el usuario selecciona un nuevo ítem para su carrito, ¿como sabe la tienda que el es ese mismo usuario que puso el ítem anterior en su carrito?... simple, con las cookies. Es mas, las cookies son tan útiles que los Java Servlets tienen API especifico para manejarlas.
@@ -3206,24 +2921,21 @@ Identificar a un usuario durante una sesión de comercio electrónico: Si alguna
 Evitar autenticarte constantemente: Muchos sitios web grandes, requieren que te registres para utilizar sus servicios (Twitter, SlideShare, Facebook, Yahoo! Mail, etc), seria muuuuuy inconveniente, cada vez que el usuario realiza una acción (cambiar de pagina por ejemplo) preguntar constantemente el usuario y la contraseña a un usuario si ya se autentico al ingresar por primera vez. Las cookies se utilizan como parte de una solución (de baja seguridad) en la cual, se le puede dar informacion de autenticación al usuario (ID, llave de identificación, tiempo que vive la sesión, etc, nunca las contraseñas o números de tarjetas de crédito) luego de que este ingreso correctamente al sistema, luego cuando el usuario realiza una acción en el sitio, esta informacion se envia al servidor y este busca esa identificación para determinar si pertenece a ese usuario y si esta autenticado correctamente.
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/ShgMqYG1FFI/AAAAAAAAB-Y/J31ve8aaKQg/s320/cookie-monster-20080603-133713.jpg)    
-"De vez en cuando es bueno
-borrar las cookies."
+"De vez en cuando es bueno borrar las cookies."
 
 Personalizar un sitio: iGoogle es un ejemplo perfecto de la personalización de un sitio. iGoogle, entre otras cosas, usa una cookie para "recordar" que widgets le agregaste, cuantas pestañas tienes, etc...
 
 Publicidad personalizada: Un motor de búsqueda, como Google, puede mantener una pista de las preferencias de un usuario a lo largo del tiempo, de esta forma, la publicidad que se le muestra a ese usuario, estará enfocada a sus preferencias de busqueda. Esa es la magia de AdSense, AdWords, y de la [infame cookie de Google](https://www.google-watch.org/cgi-bin/cookie.htm).
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/ShgMql54LiI/AAAAAAAAB-g/aF4AS4sxhUI/s320/google_cookie.jpg)    
-"Un mundo
-Google nos vigila."
+"Un mundo Google nos vigila."
 
 Proveer características convenientes a los usuarios y valor añadido al dueño del sitio es el propósito de las cookies. Y a pesar de algunos individuos paranoicos, las cookies no son una amenaza seria (por si mismas) a la seguridad de los usuarios finales.
 
 Consideraciones sobre la seguridad de las cookies: Las cookies no se "interpretan" o ejecutan en un sistema, por lo que no se puede insertar virus en ellas para comprometer la integridad de un sistema. Los navegadores generalmente solo aceptan 20 cookies por sitio, además un navegador nunca poseerá más de 300 cookies en total, y cada cookie esta limitada a un tamaño de 4 KB, así que no se pueden usar para llenar el disco duro de un cliente (especialmente con el tamaño de los discos duros modernos).
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/ShgMp6n6N1I/AAAAAAAAB-I/g8QmyRDGb7g/s320/cookie-monster.jpg)    
-"300 cookies... 1
-usuario."
+"300 cookies... 1 usuario."
 
 Sin embargo, aunque las cookies no presentan una amenaza a la seguridad, si pueden presentar una seria amenaza a la privacidad. Pero más que culpa de la cookie en si, los problemas de privacidad radican en programadores con practicas poco seguras (como meter informacion de tarjetas de crédito en una cookie, ese SI que es un problema).
 
@@ -3244,8 +2956,7 @@ draft: false
 post_id: blog-3515952828243908885.post-3828441697870849947
 ---
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SQ3kAhTuM9I/AAAAAAAABZo/fLlVnlcbr9c/s320/120px-Ooo_impress.svg.png)    Nota: este articulo trata sobre sugerir ideas constructivas y
-ofrecer advertencias sobre lo que no se debe hacer al momento de realizar una presentación. Aquí les comparto una lista de ideas que he recopilado por experiencia personal; espero sugerencias y comentarios.
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SQ3kAhTuM9I/AAAAAAAABZo/fLlVnlcbr9c/s320/120px-Ooo_impress.svg.png)    Nota: este articulo trata sobre sugerir ideas constructivas y ofrecer advertencias sobre lo que no se debe hacer al momento de realizar una presentación. Aquí les comparto una lista de ideas que he recopilado por experiencia personal; espero sugerencias y comentarios.
 
 Cosas que NO debes hacer en una presentación: 1. Colocar información personal o profesional en la presentación. Realmente no necesito leer todo tu currículo en una diapositiva. Si eres importante (realmente importante), alguien me lo hará saber (porque alguien te presentara o hablaran de ti). Usualmente, basta con tu nombre al principio de la presentación, y al final de la misma la información de contacto. Recuerda siempre que la presentación no se trata de ti y tus muchos logros, se trata de un tema especifico que intentas dar a conocer.
 
@@ -3283,9 +2994,7 @@ Dejo una lista de cuatro cosas que todo desarrollador web debe saber, también q
 - Ayuda reduciendo código HTML/texto, lo que implica menor tiempo de carga.
 - Permite mostrar el principal contenido del sitio mientras las imágenes o gráficos en general cargan de manera paralela.
 
-2. El buen rendimiento del sitio es obligatorio...
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SQH1xIeLWTI/AAAAAAAABYg/BtwEGD0NXiU/s320/compress_files_icon.jpg)    En la etapa de
-desarrollo de un sitio web, los desarrolladores usualmente no se preocupan mucho por los tiempos de carga y "round trip" (lo que tarda la información del sitio en llegar al cliente y lo que tarda en regresar). Ahora el buen rendimiento de un sitio web es una parte integral en el desarrollo web (y claro, en cualquier tipo de desarrollo de software). Algunas cosas que se deben de considerar en la etapa de planeación del proyecto o de desarrollo del mismo son:
+2. El buen rendimiento del sitio es obligatorio... ![image](https://3.bp.blogspot.com/_ayvorITawE4/SQH1xIeLWTI/AAAAAAAABYg/BtwEGD0NXiU/s320/compress_files_icon.jpg)    En la etapa de desarrollo de un sitio web, los desarrolladores usualmente no se preocupan mucho por los tiempos de carga y "round trip" (lo que tarda la información del sitio en llegar al cliente y lo que tarda en regresar). Ahora el buen rendimiento de un sitio web es una parte integral en el desarrollo web (y claro, en cualquier tipo de desarrollo de software). Algunas cosas que se deben de considerar en la etapa de planeación del proyecto o de desarrollo del mismo son:
 
 - Minimiza, une y comprime los archivos de CSS y que contengan JavaScript; a esta técnica se le llama: [Compresion HTTP](https://www.google.com/search?num=30&hl=en&safe=active&client=iceweasel-a&rls=org.debian%3Aen-US%3Aunofficial&q=http+compression&btnG=Search&aq=f&oq=) (que hace uso de Content Encoding y Transfer Encoding).
 - Usa CSS Sprites, que consiste en crear un solo archivo con todas las imágenes que se necesitan en la pagina, y luego, se extraen indicando la posición de cada una. Un ejemplo sencillo es esta imagen que cualquiera puede encontrar entre los recursos que utiliza Gmail:[https://4.bp.blogspot.com/_ayvorITawE4/SQH2J5MJxgI/AAAAAAAABYo/dyRVZJxmHOo/s1600-h/gmail-icons_ns2a.png](https://4.bp.blogspot.com/_ayvorITawE4/SQH2J5MJxgI/AAAAAAAABYo/dyRVZJxmHOo/s1600-h/gmail-icons_ns2a.png) ![image](https://4.bp.blogspot.com/_ayvorITawE4/SQH2J5MJxgI/AAAAAAAABYo/dyRVZJxmHOo/s320/gmail-icons_ns2a.png)    
@@ -3294,16 +3003,11 @@ desarrollo de un sitio web, los desarrolladores usualmente no se preocupan mucho
 - Coloca todas las inclusiones de CSS al principio de los archivos HTML, y todos los JavaScripts justo al final, y evita tener CSS y JavaScript en medio del código de la página.
 - Si trabajas en una empresa grande, procura utilizar CDN (Content Delivery Network), es decir: tener varios servidores dedicados a un contenido en especifico, como solo imágenes, animaciones flash, streaming de vídeo, etc. O tener varios para diferentes áreas geográficas (usando mirrors, GeoIP, etc).
 
-3. Diseño amigable para los buscadores...
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SQH1wkFeY3I/AAAAAAAABYY/9Xj2h2To2FY/s320/548130658_b776b25bf6.jpg)    En vez de pensar
-constantemente en SEO (Search Engine Optimization), hay que detenerse un poco y hacer que el contenido del sitio web, sea fácilmente indexable por los buscadores más populares. Ya no hay que esperar a un "experto" para que realice esas sugerencias, es ahora una obligación extra de desarrollador web preocuparse porque todo el sitio sea "amigable" para el web crawler (el programa que indexa el contenido de los sitios web). Dos cosas que puedes practicar en tus sitios para hacerlos más amigables para los buscadores son:
+3. Diseño amigable para los buscadores... ![image](https://4.bp.blogspot.com/_ayvorITawE4/SQH1wkFeY3I/AAAAAAAABYY/9Xj2h2To2FY/s320/548130658_b776b25bf6.jpg)    En vez de pensar constantemente en SEO (Search Engine Optimization), hay que detenerse un poco y hacer que el contenido del sitio web, sea fácilmente indexable por los buscadores más populares. Ya no hay que esperar a un "experto" para que realice esas sugerencias, es ahora una obligación extra de desarrollador web preocuparse porque todo el sitio sea "amigable" para el web crawler (el programa que indexa el contenido de los sitios web). Dos cosas que puedes practicar en tus sitios para hacerlos más amigables para los buscadores son:
 
 - Usa los atributos alt y title en las etiquetas de las imágenes y de vinculos.
 - Usa el atributo rel=nofollow cuando sea aplicable.
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SQH5P36KMuI/AAAAAAAABYw/7dDd_IL7fxI/s320/pcweenies_1039.jpg)    4. Usa MVC
-...
-[MVC](https://en.wikipedia.org/wiki/Model-view-controller) (Model-View-Controller) es una "arquitectura" (de
-código) para cualquier aplicación general, aplicación web o sitio web. MVC consiste en separar la presentación del sitio (View) de la lógica del negocio (Model) y el control (Controller) de las dos anteriores. Es decir: separar el sitio o aplicación en capas, siempre que sea posible o aplicable, y que se tenga el tiempo para hacerlo.
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SQH5P36KMuI/AAAAAAAABYw/7dDd_IL7fxI/s320/pcweenies_1039.jpg)    4. Usa MVC ... [MVC](https://en.wikipedia.org/wiki/Model-view-controller) (Model-View-Controller) es una "arquitectura" (de código) para cualquier aplicación general, aplicación web o sitio web. MVC consiste en separar la presentación del sitio (View) de la lógica del negocio (Model) y el control (Controller) de las dos anteriores. Es decir: separar el sitio o aplicación en capas, siempre que sea posible o aplicable, y que se tenga el tiempo para hacerlo.
 
 Y tu, ¿Qué otras cosas crees que debería de saber un Desarrollador Web? ¿Quieres que hablemos de algún tema especifico? ¡deja tu opinión!
 
@@ -3318,8 +3022,7 @@ draft: false
 post_id: blog-3515952828243908885.post-5208485811875435100
 ---
 
-![image](https://bp3.blogger.com/_ayvorITawE4/RerR9_lE_DI/AAAAAAAAAKg/FEAfxIsT-gI/s400/cconmyhead.jpg)    La semana pasada
-fue liberada la versión 3.0 de la licencia [Creative Commons](https://creativecommons.org/) para contenido generado por usuarios (es decir que todo trabajo creado por nosotros puede ser protegido por esta licencia). Los miles de cambios y mejoras que este equipo de personas a hecho se ha centralizado en aclarar terminología de las licencias existentes anteriores. Desde el principio de la Creative Commons en 2002, el lenguaje de las licencias se ha basado siempre en las leyes de copyright (derechos de autor) de los Estados Unidos y en una naturaleza genérica a leyes no especificas a algun pais en particular. Entonces si alguien del Pulgarcito de América quería usar la licencia CC (Creative Commons), tenia que ser "portada" conforme a las leyes de El Salvador... Ooooops! El núcleo de la licencia CC se ha portado a mas de 30 países o "jurisdicciones" hasta la fecha. La solución para la nueva licencia fue separar el viejo núcleo genérico en ["Unported"](https://creativecommons.org/licenses/by-sa/3.0/) (Sin portar) y una licencia separada especifica para los [Estados Unidos](https://creativecommons.org/licenses/by-sa/3.0/us/).
+![image](https://bp3.blogger.com/_ayvorITawE4/RerR9_lE_DI/AAAAAAAAAKg/FEAfxIsT-gI/s400/cconmyhead.jpg)    La semana pasada fue liberada la versión 3.0 de la licencia [Creative Commons](https://creativecommons.org/) para contenido generado por usuarios (es decir que todo trabajo creado por nosotros puede ser protegido por esta licencia). Los miles de cambios y mejoras que este equipo de personas a hecho se ha centralizado en aclarar terminología de las licencias existentes anteriores. Desde el principio de la Creative Commons en 2002, el lenguaje de las licencias se ha basado siempre en las leyes de copyright (derechos de autor) de los Estados Unidos y en una naturaleza genérica a leyes no especificas a algun pais en particular. Entonces si alguien del Pulgarcito de América quería usar la licencia CC (Creative Commons), tenia que ser "portada" conforme a las leyes de El Salvador... Ooooops! El núcleo de la licencia CC se ha portado a mas de 30 países o "jurisdicciones" hasta la fecha. La solución para la nueva licencia fue separar el viejo núcleo genérico en ["Unported"](https://creativecommons.org/licenses/by-sa/3.0/) (Sin portar) y una licencia separada especifica para los [Estados Unidos](https://creativecommons.org/licenses/by-sa/3.0/us/).
 
 Si ya estas protegiendo tu trabajo bajo las magnificas alas de la licencia CC, deberías de tomar un tiempo para ver las nuevas licencias. Pero si no has visto nunca una licencia CC, te aseguro que no hay mejor tiempo como AHORA. Para conocer mas acerca de esta licencia da [click aquí.](https://rodrigoamaya.blogspot.com/2007/03/qu-es-creative-commons.html)
 
@@ -3364,8 +3067,7 @@ Acordate que por eso: estudiar en grupo es mejor y más divertido, y que hacer "
 
 La informática, en si misma, sin programadores, sin usuarios, sin bloggers, sin gente bayunca que atesta sus paginas de Hi5 con miles de tonterías, y sin los que sueña con cambiar el fondo de su pagina en FaceBook, pues seria terriblemente aburrida (a mi ya me dan risa).
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/Ssqucyv7EcI/AAAAAAAACL4/HUU0aHTr7tA/s320/spamFB.png)    ¡FaceBook
-Spam!
+![image](https://3.bp.blogspot.com/_ayvorITawE4/Ssqucyv7EcI/AAAAAAAACL4/HUU0aHTr7tA/s320/spamFB.png)    ¡FaceBook Spam!
 
 La informática, sin gente, se convierte en simples unos y ceros, "sentados" en un disco duro, inertes.
 
@@ -3431,17 +3133,14 @@ post_id: blog-3515952828243908885.post-6610721532722882957
 No se cuan seguido les sucede, pero en mi caso es muy frecuente que personas se me acercan (o me contactan por mail) con preguntas que se pueden encontrar fácilmente en Google. Para mi no es una inconveniencia contestar, creo que el reto es que las personas aprendan por si mismas a buscar lo que necesitan, y que aprendan a buscar lo que necesitan.
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SSTWqQgCd2I/AAAAAAAABao/U74jBqKLz1I/s320/dt041206.gif)    
-"Al igual que a
-[Dilbert](https://www.dilbert.com/), ¡las preguntas obvias te pueden dejar ciego!"
+"Al igual que a [Dilbert](https://www.dilbert.com/), ¡las preguntas obvias te pueden dejar ciego!"
 
 Pues si a ustedes les molesta que la gente te pregunte cosas como: ¿Y donde esta el blog de el Sr. Byte? o ¿Como cambio mi fondo de pantalla?, he encontrado la herramienta ideal para "enseñarle" a estos individuos que, verdaderamente, la información esta en la punta de tus dedos. Les hablo de nada más y nada menos que de:
 
 > " href="https://letmegooglethatforyou.com/">Let me Google that for you" ó Dejame
 > Googlear (buscar) eso para ti
-La pagina es de lo mas simple y muy fácil de usar: se digita en un cuadro de texto lo que se desea buscar (lo que la otra persona NO sabe como hacer), y luego aparece un vinculo que se comparte a dicho individuo... este vinculo redirecciona a una pequeña animación que muestra que tan "difícil" es buscar lo que quieres, y finalmente te envia a google mostrándote los resultados.
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SSTXWVZ4t_I/AAAAAAAABa4/O91eIHYm5Hs/s320/sooohard.png)    
-"¿Y eso fue
-difícil?"
+La pagina es de lo mas simple y muy fácil de usar: se digita en un cuadro de texto lo que se desea buscar (lo que la otra persona NO sabe como hacer), y luego aparece un vinculo que se comparte a dicho individuo... este vinculo redirecciona a una pequeña animación que muestra que tan "difícil" es buscar lo que quieres, y finalmente te envia a google mostrándote los resultados. ![image](https://4.bp.blogspot.com/_ayvorITawE4/SSTXWVZ4t_I/AAAAAAAABa4/O91eIHYm5Hs/s320/sooohard.png)    
+"¿Y eso fue difícil?"
 
 ¿Genial no?, para demostrar su funcionalidad respondamos a las preguntas anteriores:
 
@@ -3451,9 +3150,7 @@ Si bien parece una broma ligeramente pesada al principio, realmente creo que es 
 
 Y hablando de búsquedas, hace algún tiempo, Robertux escribió sobre las "Técnicas de Búsqueda en Google" ([parte I](https://www.srbyte.com/2008/02/tcnicas-de-bsqueda-en-google-parte-i.html) y [parte II](https://www.srbyte.com/2008/02/tcnicas-de-bsqueda-en-google-parte-ii.html)), si aún tienen dudas sobre como utilizar duda, o quieren refinar la calidad de sus busquedas, no duden en darle una (o varias) leídas.
 
-Visita el sitio oficial de esta graciosa herramienta en:
-[> https://letmegooglethatforyou.com/](https://letmegooglethatforyou.com/)¿Y
-a ti qué tipo de preguntas te hacen que estas seguro que cualquiera puede encontrar en Google? (¿y que te sacan de quicio?) ... Si, comparte tu frustracion, ¡queremos saber que preguntas te hacen!
+Visita el sitio oficial de esta graciosa herramienta en: [> https://letmegooglethatforyou.com/](https://letmegooglethatforyou.com/)¿Y a ti qué tipo de preguntas te hacen que estas seguro que cualquiera puede encontrar en Google? (¿y que te sacan de quicio?) ... Si, comparte tu frustracion, ¡queremos saber que preguntas te hacen!
 
 ---
 
@@ -3473,8 +3170,7 @@ El calculo (sencillo) es una habilidad natural del ser humano. Así como los cue
 El ábaco, hecho por los babilonios (en el 2400 antes de Cristo) y popularizado por los chinos, es un instrumento de ayuda de calculo, que atiende a la necesidad del ser humano para manejar cantidades numéricas enormes.
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RsRbMvK3CcI/AAAAAAAAAbo/a1ADB_7A-QM/s320/abaco.JPG)    
-"Imagen de un
-ábaco"
+"Imagen de un ábaco"
 
 La necesidad de automatizar el calculo y aumentar la velocidad del mismo, fue la que impulso a muchas personas a imaginar un aparato (maquina?) que se encargara de atender esta necesidad.
 
@@ -3483,30 +3179,26 @@ Y vaya que lo hicieron, en 1623 Wilhelm Shickard comienza la era del calculo aut
 Mas tarde un hombre llamado Gottfried Wilhelm von Leibniz descubrió la conveniencia de usar un sistema binario en vez de uno decimal (1679), el sistema binario es la base de toda computadora moderna. A Leibniz se le conoce popular mente como el padre del "bit y del calculo".
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RsRcEvK3CfI/AAAAAAAAAcA/9hcVs7Ekoi4/s320/Gottfried_Wilhelm_von_Leibniz.jpg)    
-"Retrato de Gottfried
-Wilhelm von Leibniz"
+"Retrato de Gottfried Wilhelm von Leibniz"
 
 Si, padre del calculo, Leibniz perfecciono la notación matemática de la integración y de las derivadas, notaciones que todo mundo usa hoy en día. Aunque muchas personas dirán que el padre del calculo es Isaac Newton, pues el problema es que el Sr. Newton reclamo que lo había inventado el calculo antes, a pesar de no haberlo publicado. En todo caso, como Isaac Newton era presidente de la Real Sociedad... el resto es historia. Si querías saber a quien agradecer por las integrales y las derivadas en matemática, pues agradecerlo a Leibniz.
 
 Muchos ya estarán pensado: ¿y Blaise Pascal? ¿y la Pascalina?.... Pues para responder a esas preguntas, Blaise Pascal invento la segunda maquina calculadora, llamada después la Pascalina o "Arithmetique", y lo hizo en 1645, 22 años después de Shickard. Lo siento por los profesores de informática que creían lo contrario (ja ja).
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RsRbjvK3CdI/AAAAAAAAAbw/EtFmlKfwrbA/s320/Blaise_Pascal.jpeg)    
-"Retrato de Blaise
-Pascal"
+"Retrato de Blaise Pascal"
 
 Un avance importante de la Pascalina con el "reloj calculador": es que la Pascalina manejaba números decimales y el "reloj calculador" solo números enteros. Quizás por eso es mas popular... pero no deja de ser la segunda.
 
 Mas tarde (mucho mas tarde, casi 100 años después) aparece un señor ingles, matemático, filosofo, ingeniero mecánico que tuvo la brillante idea de una computadora programable. Este prolífico individuo era nada menos que Charles Babbage.
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/RsRbyPK3CeI/AAAAAAAAAb4/x8Q6wKXE-YI/s320/CharlesBabbage.jpg)    
-"Retrato de Charles
-Babbage"
+"Retrato de Charles Babbage"
 
 Algo muy interesante acerca de "Charlie", es que su maquina diferencial nunca pudo ser construida por completo. Pero en 1991, el museo de ciencias de Londres construyo, usando los planos originales de Babbage, una maquina diferencial completa y funcional con materiales similares a los disponibles en el siglo 19.
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RsRccvK3CgI/AAAAAAAAAcI/tWcB8W259i4/s320/diferencial.jpg)    
-"Maquina diferencial de
-Babbage"
+"Maquina diferencial de Babbage"
 
 En 1935, Konrad Suze construye la primera maquina controlada por programas... su creación es la Z1, que no funciono tan bien que digamos pero después hizo la Z2 y luego en 1941 la exitosa Z3. Ademas Suze creo Plankalkuel para su serie de computadoras, Plankalkuel fué el primer lenguaje de alto nivel. FORTRAN apareció una década más tarde.
 
@@ -3524,8 +3216,7 @@ post_id: blog-3515952828243908885.post-430860281738037604
 Dado el amor que tiene Michael Dell's (CEO de Dell) por Ubuntu ([Feisty Fawn](https://www.engadget.com/2007/04/19/ubuntu-7-04-feisty-fawn-released/), específicamente) y el anuncio anterior instalar [GNU\Linux en laptops Dell y computadoras de escritorio](https://srbyte.blogspot.com/2007/03/dell-y-gnulinux.html). Al parecer el grito de los "linuxeros" fue escuchado (y fue muy fuerte), para que Dell ofreciera Linux pre instalado en sus sistemas. Solo se espera que Dell anuncie que Ubuntu sea la distribución de preferencia de la compañía. ¿Y cuando comenzaremos a ver esas computadoras (mas baratas, seguras y estables) con Ubuntu? Parece que sera una opción para modelos selectos para consumidores, y sera cuestión de semanas para ver esa opción en el pedido de computadoras.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/Rjf6BEK33qI/AAAAAAAAAU4/RghdBbLNOW4/s400/ubuntu-dell-laptop.jpg)    
-"GNU\Linux en todos los
-escritorios ya no es un sueño"
+"GNU\Linux en todos los escritorios ya no es un sueño"
 
 No es esta, solamente una buena noticia para el mundo, sino que también afecta en gran medida a El Salvador... nuestra economía no permite comprar sistemas operativos (que solo son "bonitos") con exorbitantes y (muy) ridículos precios de licencias. Quiero un sistema que pueda instalar en todas las computadoras que me den ganas.
 
@@ -3579,8 +3270,7 @@ Claro el tipo tiene que ver como se las ingenia para que el poco dinero que se a
 Otro ejemplo de esto son los Infocentros... ¿por qué siguen con Windows 98? Pues no tienen $ para actualizar Hardware y más licencias de Ventanas XP. ¿Y por que no usan GNU\linux? ... pues simplemente por idiotas. No quieren entender que GNU\Linux puede ser tanto o mas fácil de instalar, administrar y usar en las computadoras, y que no necesitan actualizar el hardware para tener una computadora funcional y con un sistema operativo "moderno".
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/RjgH80K33sI/AAAAAAAAAVI/iXz5VUqpfoQ/s200/MaxLinuxPenguin.jpg)    
-"Es mucho pedir que los Infocentros dejen de
-usar Ventanas 98 y usen GNU\Linux"
+"Es mucho pedir que los Infocentros dejen de usar Ventanas 98 y usen GNU\Linux"
 
 ¿Y que se hace para cambiar ese panorama?.... Eventos como FLISOL y Linux Lan Party, cursos de Software Libre en las Universidades, capacitaciones de OpenOffice 2.0 entre otras cosas. Pero esto no es suficiente...
 
@@ -3598,8 +3288,7 @@ draft: false
 post_id: blog-3515952828243908885.post-7551184420322490235
 ---
 
-![image](https://bp1.blogger.com/_ayvorITawE4/Rg2UE_TPf6I/AAAAAAAAAPQ/w-I3tKN81rM/s400/dell-tux-linux.jpg)    La compañía Dell,
-que para el bien tecnológico y lingüístico de muchos salvadoreños ha puesto Call Center en el país, esta escuchando a miles de pedidos directos de sus clientes hechos en su gran campaña publicitaria IdeaStorm. Al parecer, cerca del [70% de los participantes pidieron un sistema GNU/Linux preinstalado](https://www.engadget.com/2007/03/07/dell-customers-root-for-linux-option/) en las PC que Dell vende. Asi que GNU/Linux pronto estará pre-instalado en las computadoras de escritorio y portátiles de Dell... hurra!. La pregunta ahora es... ¿Cuanto dinero ganara Dell vendiendo computadoras con Software Libre? (¿se ahorran en Microsoft Tax?), las cosas se están poniendo interesantes. Falta un poco de tiempo para ver estas hermosas computadoras (sin Microsoft Windows) en el mercado, ya que Dell tiene que capacitar a sus técnicos en el uso/instalación de las distribuciones que se usen (GNU/Linux capable) y ademas tiene que dar soporte para todo (o la mayoría) del hardware de Dell.
+![image](https://bp1.blogger.com/_ayvorITawE4/Rg2UE_TPf6I/AAAAAAAAAPQ/w-I3tKN81rM/s400/dell-tux-linux.jpg)    La compañía Dell, que para el bien tecnológico y lingüístico de muchos salvadoreños ha puesto Call Center en el país, esta escuchando a miles de pedidos directos de sus clientes hechos en su gran campaña publicitaria IdeaStorm. Al parecer, cerca del [70% de los participantes pidieron un sistema GNU/Linux preinstalado](https://www.engadget.com/2007/03/07/dell-customers-root-for-linux-option/) en las PC que Dell vende. Asi que GNU/Linux pronto estará pre-instalado en las computadoras de escritorio y portátiles de Dell... hurra!. La pregunta ahora es... ¿Cuanto dinero ganara Dell vendiendo computadoras con Software Libre? (¿se ahorran en Microsoft Tax?), las cosas se están poniendo interesantes. Falta un poco de tiempo para ver estas hermosas computadoras (sin Microsoft Windows) en el mercado, ya que Dell tiene que capacitar a sus técnicos en el uso/instalación de las distribuciones que se usen (GNU/Linux capable) y ademas tiene que dar soporte para todo (o la mayoría) del hardware de Dell.
 
 ¿No sería lindo ver drivers Dell completamente Open Source? GNU/Linux en todos los escritorios, ya no es un sueño, es una realidad, ahí vamos ;)
 
@@ -3616,13 +3305,10 @@ post_id: blog-3515952828243908885.post-7144242287170066197
 
 Advertencia: este post contiene lenguaje Geek !!!
 
-Si, leíste bien el titulo: uno de los sitios de tracker (privados) de archivos .torrent más populares esta de vuelta, nada más y nada menos que... Demonoid:
-[> https://www.demonoid.com/](https://www.demonoid.com/) Habilitaron
-el sitio desde el 11 de abril, pero hasta ahora esta funcionando todo adecuadamente, para los usuarios que estaban en el sistema, pueden loguearse con el mismo nombre de usuario y contraseña que tenían. El sitio estaba de baja desde el 9 de Noviembre de 2007, ya era hora de que regresara, sinceramente, me hacia falta :)
+Si, leíste bien el titulo: uno de los sitios de tracker (privados) de archivos .torrent más populares esta de vuelta, nada más y nada menos que... Demonoid: [> https://www.demonoid.com/](https://www.demonoid.com/) Habilitaron el sitio desde el 11 de abril, pero hasta ahora esta funcionando todo adecuadamente, para los usuarios que estaban en el sistema, pueden loguearse con el mismo nombre de usuario y contraseña que tenían. El sitio estaba de baja desde el 9 de Noviembre de 2007, ya era hora de que regresara, sinceramente, me hacia falta :)
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/SAYMhd2wnsI/AAAAAAAAAro/pfP-2Az_nRk/s400/demonoid.jpg)    
-"Imagen: Logo
-Demonoid"
+"Imagen: Logo Demonoid"
 
 Quizás la única mala noticia, es que "Deimos", el admin del sitio, ya no tiene tiempo para liderar la administración del sitio, debido a asuntos personales y quizas por todo ese lio legal con la CRIA.
 
@@ -3648,22 +3334,19 @@ Y este termino es especialmente frecuente al usar frameworks, que de tan "robust
 Este "atributo" (Obsoleto) que se le da al código fuente, se especifica cuando una clase, función o API ha perdido su importancia, y tiene tan poca importancia que no debería de ser usada en lo absoluto, y probablemente deje de existir en un futuro cercano.
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SeeJgLxA_aI/AAAAAAAAB8w/5af8X0SFFMg/s320/deprecated.png)    
-"Java Doc que muestra una
-función marcada como 'Deprecated' (Obsoleta)"
+"Java Doc que muestra una función marcada como 'Deprecated' (Obsoleta)"
 
 La necesidad de marcar una función, clase, API... código en general, como obsoleto, surge del desarrollo natural del código, para adaptarse constantemente a las nuevas tecnologías, mejoras de lógica, etc...
 
 Supongamos que tienes una librería muy popular, y cada 3 meses liberas una versión nueva. Y en cada versión nueva, añades funcionalidad adicional y modificas metodos, y reescribes otros. Como tu librería es muy popular, tienes que mantener cierta compatibilidad con las versiones anteriores, y por esa razón tienes que mantener código viejo... porque tienes que darle tiempo a los developers que migren su código y comiencen a usar las novedades que has añadido a tu código. Y claro, tu no quieres que los developers sigan usando los metodos antiguas, que solo mantienes por motivos de compatibilidad, entonces la solución, es marcar el metodo, clases, o código en general, como obsoleto. ¿Útil no?
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SeeJf2h4X8I/AAAAAAAAB8o/xNILZn9x-U4/s320/deprecated-javascript.png)    
-"¿Cuantos developers tendrán
-el 'honor' de marcar como obsoleto el codigo de alguien más?"
+"¿Cuantos developers tendrán el 'honor' de marcar como obsoleto el codigo de alguien más?"
 
 Como ven, la actividad de marcar clases, métodos, etc... como obsoleto, resuelve muchos problemas. Las clases existentes que usan el API antiguo continúan trabajando bien, pero el compilador reconoce y avisa sobre los elementos marcados como obsoletos. Además, marcar el código fuente como obsoleto, es una responsabilidad que todo BUEN programador debe asumir, especialmente: cuando se trabaja en equipo, y cuando muchos developers usan el código que tu haces...
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SepztXhuXbI/AAAAAAAAB84/BBaaqbTf0iY/s320/take_responsability_card-p137699379057593903q6k5_400.jpg)    
-"Un buen programador,
-siempre se hace responsable del código que escribe."
+"Un buen programador, siempre se hace responsable del código que escribe."
 
 En Java la etiqueta @deprecated, marca como obsoleto el código que le sigue, vean el [Java API Documentator Generator (JavaDoc)](https://java.sun.com/j2se/1.5.0/docs/tooldocs/windows/javadoc.html) para más información sobre como usar esta etiqueta en su código. Y claro no solo esta la etiqueta @deprecated, también esta el tipo de "annotation" [Deprecated](https://java.sun.com/j2se/1.5.0/docs/api/java/lang/Deprecated.html). Y finalmente les comparto esta útil página, que tiene información de "[Cuando y Como" marcar como obsoleto el codigo fuente](https://java.sun.com/j2se/1.5.0/docs/guide/javadoc/deprecation/deprecation.html).
 
@@ -3682,30 +3365,26 @@ draft: false
 post_id: blog-3515952828243908885.post-6191280296556684679
 ---
 
-![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SPL8VhxKCSI/AAAAAAAADcU/ZczDJlYXCIA/s400/postbanner.png)    
-"El lienzo de un diseñador web es la pantalla de su monitor"
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SPL8VhxKCSI/AAAAAAAADcU/ZczDJlYXCIA/s400/postbanner.png)     "El lienzo de un diseñador web es la pantalla de su monitor"
 
 Hay muchas y muy variadas herramientas e IDEs que te permiten diseñar/desarrollar tu sitio web de manera que luzca y funcione exactamente como deseas con un par de simples clics pero al final de cuentas, son los navegadores del web quienes tienen la ultima palabra a la hora de decidir como lucirá y se comportara finalmente tu sitio. Estos navegadores, por cierto, son muy quisquillosos respecto a las funcionalidades que puedes implementar ya que ninguno de ellos soporta los estándares del web al 100% sino que utilizan sus propios estándares por lo que posiblemente tu sitio no se vea ni funcione igual en todos los navegadores.
 
 Los desarrolladores del web que utilizan [Mozilla Firefox](https://www.srbyte.com/2008/07/el-guiness-record-de-firefox-3.html) y sus derivados(Iceweasel, Floc, etc) han de estar familiarizados con el muy popular [add-on](https://www.srbyte.com/2008/07/qu-es-un-complementoadd-on-de-firefox.html) llamado Firebug y también con el Web Developer Toolbar, los cuales nos permiten editar el código de nuestro sitio directamente desde el navegador, por lo que sabremos en el momento los resultados de los cambios que realizamos en dicho codigo. De esta manera, podríamos re alinear DIVs que aparecen fuera de lugar, cambiar el color de fondo de un elemento, revisar en que linea de código se produjo un error de Javascript o que datos se han enviado por los HTTP Headers vía Ajax, solo por mencionar algunas de sus utilidades.
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SPLgWAdkArI/AAAAAAAADcE/vjkhwGdluPE/s400/firebug_srbyte.png)    
-"Editando el CSS del sitio
-del sr byte con Firebug"
+"Editando el CSS del sitio del sr byte con Firebug"
 
 Lo lamentable es que no todo mundo utiliza Mozilla Firefox sino que la gran mayoría de usuarios Windows suelen navegar desde Internet Explorer así como la gente de Mac utiliza Safari, otros tantos que se sienten cómodos con [Opera](https://www.blogger.com/www.srbyte.com/2007/09/opera-una-nueva-experiencia.html) y los que recientemente han empezado a probar [Google Chrome](https://www.srbyte.com/2008/09/navegador-web-de-google.html). Esto significa (y lo menciono porque a mi me ocurrió) que si alineamos nuestro sitio perfectamente en Firefox, posiblemente se vea horriblemente mal en los demás navegadores y no tenemos nada que nos permita hacer lo mismo que con Firefox en el resto de navegadores.
 
 Debido a esta situación fue que descubrí que al parecer, Internet Explorer también cuenta con [un conjunto de add-ons](https://www.ieaddons.com/en/) para personalizarlo un poco, aunque no son tan conocidos ni usados como los de Firefox. Entre estos add-ons, casualmente existe uno Developer Tooblar, el cual es muy similar en funcionamiento al Firebug aunque no es tan completo ya que nada mas nos permite inspeccionar el codigo HTML de nuestra pagina y de los elementos de la misma, ademas de mostrarnos el CSS que ha sido aplicado a dichos elementos.
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SPLkVs1zqnI/AAAAAAAADcM/7o7309Dc8Bo/s400/ie_devtoolbar_srbyte.PNG)    
-"Observando (porque es lo unico que se puede hacer) el codigo HTML y
-el CSS del sitio del sr byte con IE Developer Toolbar"
+"Observando (porque es lo unico que se puede hacer) el codigo HTML y el CSS del sitio del sr byte con IE Developer Toolbar"
 
 Ya que el add-on antes mencionado no nos permite editar el Javascript del sitio, podemos hacer uso del Microsoft Script Debugger para tal efecto. Por cierto, este programa es lanzado cada vez que se encuentra un error en el Javascript de una pagina, una vez que hallas elegido la opcion de utilizarlo como debugger en el cuadro de dialogo que te aparece al momento de producirse el error.
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SPLajb3eVXI/AAAAAAAADbk/Pa2u2imRmFA/s400/ms_script_debugger.gif)    
-"Apariencia del editor MS
-Script Debugger"
+"Apariencia del editor MS Script Debugger"
 
 ---
 
@@ -3729,16 +3408,14 @@ Antes de darme cuenta que existía la filosofía de desarrollo Ágil, llegue a p
 Una de las mas grandes frustraciones al desarrollar software es tener que trabajar en proyectos grandes y separarlos en pequeñas piezas. Usualmente en el principio, se comienza el proyecto con un gran impulso y entusiasmo, y muchas granas de programar. Eventualmente se llega a la mitad del proyecto, y con ella, algunas partes muy aburridas, y antes de que te des cuenta, te estas aburriendo.
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SPzj8oe7sSI/AAAAAAAABWA/_uEtG_4fE08/s320/agile+development+-+surprise.jpg)    
-"Ultimamente asi me siento
-al trabajar en un proyecto de software."
+"Ultimamente asi me siento al trabajar en un proyecto de software."
 
 El aburrimiento viene de la mano con muchos "amigos"... pánico, desesperación; seguido de noches completas dedicadas al proyecto, a código desordenado, ganas de golpear gente, etc. En pocas palabras, a estas alturas, ya se tiene deseos de tirar el proyecto a la basura; o peor aún, terminarlo solo por salir del mismo. Es un circulo vicioso :P
 
 Concepto de Ágil: La idea es planear el desarrollo del software para número X determinado de semanas. Luego, separas ese tiempo en pequeñas secciones de tiempo antes de comenzar a programar, de esta forma es mas fácil responder ante las siempre cambiantes tecnologías o demandas del cliente. A la unión de semanas destinadas a resolver las diferentes partes del proyecto se le llama "iteración". Hacia el final de cada iteración, se procura obtener un producto que el equipo se ha comprometido a "entregar". Con tu equipo de desarrollo rompes el plan de tiempo en pequeños proyectos. Y luego personalmente (y si se puede: para cada desarrollador) se rompe el proyecto en tareas, que duran entre medio día y un tercio de día. También se trata de tener pequeñas reuniones diarias con todo el equipo para discutir como va el proyecto: adelantos, atrasos o si existe algo que entorpece el avance del mismo y merece ser eliminado, etc. Ágil se puede combinar con Scrum y XP, lo que nos da un sin fin de permutaciones para todos los gustos del equipo de desarrollo.
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SPzj8wsfCVI/AAAAAAAABWQ/QY3wFsVBbC0/s320/poleover.jpg)    
-"¡El desarrollo Agil te hace
-'ágil'!"
+"¡El desarrollo Agil te hace 'ágil'!"
 
 Beneficio: Aparte de ordenar el proyecto y mejorar el control y fomentar la comunicación entre los miembros del equipo, Ágil ayuda psicologicamente al desarrollador a concentrarse en tareas especificas, es decir: una tarea que hacer hoy, no un sistema entero. Eso es lo bonito de Ágil me levanto, hago solo una cosa importante, y luego sigo con mi vida.
 
@@ -3746,8 +3423,7 @@ Beneficio: Aparte de ordenar el proyecto y mejorar el control y fomentar la comu
 Mañana tendré algo más que hacer, otra tarea diferente, y ademas, mis compañeros de equipo me pueden ayudar al tener reuniones periódicas, etc... realmente es un alivio trabajar así en un equipo. Hablaremos de Ágil y mas beneficios y su filosofía y el manifiesto, más adelante, por el momento, me despido.
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SPzj8htEROI/AAAAAAAABWI/07v4wsAvGtE/s320/DocumentationontheMove.jpg)    
-"La victoria espera en la
-punta de tus dedos."
+"La victoria espera en la punta de tus dedos."
 
 ¿Crees que podrías trabajar con la filosofía de Desarrollo Ágil?
 
@@ -3789,9 +3465,7 @@ draft: false
 post_id: blog-3515952828243908885.post-6726524978148075221
 ---
 
-En televisión, cortina o cortinilla se le denomina al breve video que apertura y cierra un programa, un segmento o una cápsula dentro de la programación de una televisiora. Este recurso es utilizado no sólo para la respectiva identificación de los elementos sino también, para sentar un espacio o "aire"- como suele llamársele- entre la pauta programativa del medio y captar la atención del espectador.
-![image](https://4.bp.blogspot.com/_JbB9KsZ238w/SV2QVmNKmlI/AAAAAAAAASU/Z70nOMOU0hs/s320/history.jpg)    
-La duración de las cortinas no debe exceder de entre 5 a 15 segundos para programas cortos, cápsulas o segmentos. Sin embargo, para programas completos, ya sean noticieros, entrevistas, series, promocionales institucionales o programáticos, el tiempo puede ser entre 10 segundos hasta 1 minuto. El tiempo de duración también puede variar de la intención comunicativa de los productores.
+En televisión, cortina o cortinilla se le denomina al breve video que apertura y cierra un programa, un segmento o una cápsula dentro de la programación de una televisiora. Este recurso es utilizado no sólo para la respectiva identificación de los elementos sino también, para sentar un espacio o "aire"- como suele llamársele- entre la pauta programativa del medio y captar la atención del espectador. ![image](https://4.bp.blogspot.com/_JbB9KsZ238w/SV2QVmNKmlI/AAAAAAAAASU/Z70nOMOU0hs/s320/history.jpg)     La duración de las cortinas no debe exceder de entre 5 a 15 segundos para programas cortos, cápsulas o segmentos. Sin embargo, para programas completos, ya sean noticieros, entrevistas, series, promocionales institucionales o programáticos, el tiempo puede ser entre 10 segundos hasta 1 minuto. El tiempo de duración también puede variar de la intención comunicativa de los productores.
 
 Una cortina bien elaborada busca captar la atención del espectador, de manera que éste sienta curiosidad por el programa y desee verlo. Sin embargo, existen cortinas muy buenas que para nada coinciden con el contenido del programa al que preceden. Es así como muchas veces vemos promocionales muy buenos, pero el programa en sí no lo es tanto.
 
@@ -3824,34 +3498,27 @@ Algunos mitos típicos acerca de los geeks:
 
 - Un geek es persona de actos torpes, baja capacidad social, aislado.
 
-![image](https://bp3.blogger.com/_jH77WNrMVRA/R_PLLfa91QI/AAAAAAAAA0U/vKWJPJ59xig/s320/24-em-cross.png)    Falso: En realidad un geek no necesariamente tiene
-problemas con su actividad social ni es una persona aislada. Los geeks, a diferencia de los nerds, son personas mas bien extravagantes y extrovertidas que aunque gozan de cierta afición por la ciencia (orientada a la tecnología), nada mas hacen uso de ella para diversión y ocio.
+![image](https://bp3.blogger.com/_jH77WNrMVRA/R_PLLfa91QI/AAAAAAAAA0U/vKWJPJ59xig/s320/24-em-cross.png)    Falso: En realidad un geek no necesariamente tiene problemas con su actividad social ni es una persona aislada. Los geeks, a diferencia de los nerds, son personas mas bien extravagantes y extrovertidas que aunque gozan de cierta afición por la ciencia (orientada a la tecnología), nada mas hacen uso de ella para diversión y ocio.
 
 - Un geek suele ser una persona muy inteligente y con capacidades especiales para la ciencia
-![image](https://bp3.blogger.com/_jH77WNrMVRA/R_PLLfa91QI/AAAAAAAAA0U/vKWJPJ59xig/s320/24-em-cross.png)    Falso: En la actualidad, se le puede atribuir el
-término geek a cualquiera que haga uso del Internet o la tecnología en su vida diaria como una afición, sin necesidad de saber detalles técnicos de los mismos.
+![image](https://bp3.blogger.com/_jH77WNrMVRA/R_PLLfa91QI/AAAAAAAAA0U/vKWJPJ59xig/s320/24-em-cross.png)    Falso: En la actualidad, se le puede atribuir el término geek a cualquiera que haga uso del Internet o la tecnología en su vida diaria como una afición, sin necesidad de saber detalles técnicos de los mismos.
 
 - Un geek es una persona que descuida su apariencia personal, suele vestirse de forma no tan casual.
 
-![image](https://bp2.blogger.com/_jH77WNrMVRA/R_PO4Pa91RI/AAAAAAAAA0c/ra_2tlc-4o4/s320/24-em-check.png)    Cierto: La mayoría hasta suele utilizar atuendos
-que definen la tecnología que usan y hasta se ha vuelto una forma de comercio: las playeras geek. Estas exhiben mensajes como "I'm blogging this", "You looked better on MySpace", "No, I will not fix your computer", etc. y otras pues hasta vienen incluidas con sus gadgets como el detector de señal Wi-Fi". Una de mis favoritas es esta:
+![image](https://bp2.blogger.com/_jH77WNrMVRA/R_PO4Pa91RI/AAAAAAAAA0c/ra_2tlc-4o4/s320/24-em-check.png)    Cierto: La mayoría hasta suele utilizar atuendos que definen la tecnología que usan y hasta se ha vuelto una forma de comercio: las playeras geek. Estas exhiben mensajes como "I'm blogging this", "You looked better on MySpace", "No, I will not fix your computer", etc. y otras pues hasta vienen incluidas con sus gadgets como el detector de señal Wi-Fi". Una de mis favoritas es esta:
 
 ![image](https://bp2.blogger.com/_jH77WNrMVRA/R_QZu_a91TI/AAAAAAAAA0s/TEHMCU3Vj30/s320/Top+10+T-Shirts+need_laid_2.jpg)    
-"Camisa con un Mensaje Geek
-(Traducción: If you can read this you really need to get laid)"
+"Camisa con un Mensaje Geek (Traducción: If you can read this you really need to get laid)"
 
 - La mayoría de geeks son hombres
-![image](https://bp2.blogger.com/_jH77WNrMVRA/R_PO4Pa91RI/AAAAAAAAA0c/ra_2tlc-4o4/s320/24-em-check.png)    Cierto: Son pocas las mujeres aficionadas a la
-tecnología aunque su numero se incrementa con el paso del tiempo, como lo demuestra la imagen anterior, si existen mujeres geek pero como ya lo habia mencionado en [un post](https://srbyte.blogspot.com/2008/02/existen-las-mujeres-geek-o.html), estas a veces no son muy comunes.
+![image](https://bp2.blogger.com/_jH77WNrMVRA/R_PO4Pa91RI/AAAAAAAAA0c/ra_2tlc-4o4/s320/24-em-check.png)    Cierto: Son pocas las mujeres aficionadas a la tecnología aunque su numero se incrementa con el paso del tiempo, como lo demuestra la imagen anterior, si existen mujeres geek pero como ya lo habia mencionado en [un post](https://srbyte.blogspot.com/2008/02/existen-las-mujeres-geek-o.html), estas a veces no son muy comunes.
 
 - A los geeks se les dificulta conseguir pareja, debido a su timidez
-![image](https://bp3.blogger.com/_jH77WNrMVRA/R_PLLfa91QI/AAAAAAAAA0U/vKWJPJ59xig/s320/24-em-cross.png)    Falso: En realidad esto no es problema para los
-geeks y hasta [pueden quitarte a tu novia si te descuidas](https://elgeek.info/2008/01/20/10-razones-por-las-que-un-geek-te-%E2%80%9Cpodria-robar%E2%80%9D-tu-novia/). Según este [post](https://draxus.org/weblog/2006/01/13/razones-para-salir-con-un-geek/), una mujer puede llegar a apreciar mucho mas a un hombre geek por su misma afición a la tecnología.
+![image](https://bp3.blogger.com/_jH77WNrMVRA/R_PLLfa91QI/AAAAAAAAA0U/vKWJPJ59xig/s320/24-em-cross.png)    Falso: En realidad esto no es problema para los geeks y hasta [pueden quitarte a tu novia si te descuidas](https://elgeek.info/2008/01/20/10-razones-por-las-que-un-geek-te-%E2%80%9Cpodria-robar%E2%80%9D-tu-novia/). Según este [post](https://draxus.org/weblog/2006/01/13/razones-para-salir-con-un-geek/), una mujer puede llegar a apreciar mucho mas a un hombre geek por su misma afición a la tecnología.
 
 Aca les dejo un video algo exagerado de algunos geeks y sus computadoras:
 
-"Cultura
-Geek"
+"Cultura Geek"
 
 ---
 
@@ -3869,8 +3536,7 @@ Así es, termina el ciclo y puedo agregar entradas nuevamente al blog, así que 
 Blizzard ya tiene una pagina de Diablo III en su sitio con un poco de información sobre el estilo de juego y algunas imágenes y videos del mismo:
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/SGep1fOghaI/AAAAAAAAAxg/LaQS1II3C2E/s400/diii.jpg)    
-"Imagen: captura de la
-pagina de Diablo III, en blizzard.com"
+"Imagen: captura de la pagina de Diablo III, en blizzard.com"
 
 Esta es la dirección del sitio:
 
@@ -3878,8 +3544,7 @@ Esta es la dirección del sitio:
 No duden en ver los videos (trailers)... estoy seguro que al "examinarlos", se recordaran de la pelicula Final Fantasy Spirit Within...
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SGeuKvOghcI/AAAAAAAAAxw/hN1cFp9yMsI/s400/d3pareceFFSW.jpg)    
-"Imagen: Parece que los
-cinematics de D3 tienen la calidad de 'Final Fantasy Spirit Within' yey! :)"
+"Imagen: Parece que los cinematics de D3 tienen la calidad de 'Final Fantasy Spirit Within' yey! :)"
 
 ¡Espero que les guste! Saludos.
 
@@ -3896,11 +3561,9 @@ post_id: blog-3515952828243908885.post-6381244369875684970
 
 En el periodismo escrito, la adecuada distribución de las imágenes y el texto es muy importante. No sólo porque ésta debe ser agradable a los ojos del lector, sino porque muchas veces no se cuenta con el espacio suficiente para colocar todos los elementos, por lo que se necesita priorizar y optimizar los recursos con los que se cuenta.
 
-Este proceso de ubicación es lo que se conoce como digramación. Conocido también como maquetación, ésta es la manera de organizar y diseñar todo tipo de contenidos escritos, visuales y adiovisuales en medios impresos. Ejemplo de ello lo son los libros, los diarios y las revistas. Sin embargo, la diagramación no es exclusiva de los medios impresos. También los sitios web están sujetos a este orden.
-![image](https://3.bp.blogspot.com/_JbB9KsZ238w/SXlDXJjnoBI/AAAAAAAAATU/u-Ak9x-R4uI/s320/peri1.jpg)  
+Este proceso de ubicación es lo que se conoce como digramación. Conocido también como maquetación, ésta es la manera de organizar y diseñar todo tipo de contenidos escritos, visuales y adiovisuales en medios impresos. Ejemplo de ello lo son los libros, los diarios y las revistas. Sin embargo, la diagramación no es exclusiva de los medios impresos. También los sitios web están sujetos a este orden. ![image](https://3.bp.blogspot.com/_JbB9KsZ238w/SXlDXJjnoBI/AAAAAAAAATU/u-Ak9x-R4uI/s320/peri1.jpg)  
 
-"Algunos elementos gráficos de la diagramación impresa de un
-periódico."
+"Algunos elementos gráficos de la diagramación impresa de un periódico."
 
 En este caso, los sitios web tienen diferentes ventajas en comparación a los medios impresos tales como:
 
@@ -3927,8 +3590,7 @@ De igual manera tienen ciertas desventajas:
 - elementos demasiado grandes para ser cargados por la página (fotos, videos o audios)
 
 ![image](https://4.bp.blogspot.com/_JbB9KsZ238w/SXlCpy6p7gI/AAAAAAAAATM/WBOYAiRAJCM/s320/untitled.bmp)  
-"En esta diagramación, las
-imágenes no estorban con el texto. Por el contrario, se complementan."
+"En esta diagramación, las imágenes no estorban con el texto. Por el contrario, se complementan."
 
 Aún cuando todo apunta a la digitalización de los textos, siempre deben tomarse en cuenta los principios básicos de la diagramación impresa al momento de diseñar para un medio electrónico. Cabe mencionar que para la diagramación digital, muchas de las reglas de maquetación impresa no aplican o se han modificado acorde a las necesidades del medio y del usuario. Por ejemplo, en blogger existen diferentes plantillas cuyas especificaciones siguen el mismo patrón de las cajas de digramación impresa. Mientras que otras, son más estandarizadas o han roto con los parámetros de la ubicación, color, tamaño y estilo de los elementos, (ya sean titulares, texto, fotografía, viñetas, etc).
 
@@ -3945,14 +3607,12 @@ draft: false
 post_id: blog-3515952828243908885.post-3465553076980596851
 ---
 
-![image](https://upload.wikimedia.org/wikipedia/en/9/94/Www_y23_com--fractal----Lg_Z010121Z.jpg)    A la combinación de Arte y la generación de[Fractales](https://www.srbyte.com/2008/12/qu-son-los-fractales.html) se le
-conoce como "Arte Fractal". El arte fractal es creado calculando fractales y representando el resultado calculado (el fractal) en una imagen, animación, musica u otro tipo de "medio". La mayoría de arte fractal (o al menos, el más popular) se crea con la asistencia de software (para generarlos), y dependiendo del grado de profesionalismo que se desee en la imagen, se puede inclusive recurrir a un trabajo de edición extra sobre las imágenes producidas, usando algún software como Photoshop ó The Gimp, etc.
+![image](https://upload.wikimedia.org/wikipedia/en/9/94/Www_y23_com--fractal----Lg_Z010121Z.jpg)    A la combinación de Arte y la generación de[Fractales](https://www.srbyte.com/2008/12/qu-son-los-fractales.html) se le conoce como "Arte Fractal". El arte fractal es creado calculando fractales y representando el resultado calculado (el fractal) en una imagen, animación, musica u otro tipo de "medio". La mayoría de arte fractal (o al menos, el más popular) se crea con la asistencia de software (para generarlos), y dependiendo del grado de profesionalismo que se desee en la imagen, se puede inclusive recurrir a un trabajo de edición extra sobre las imágenes producidas, usando algún software como Photoshop ó The Gimp, etc.
 
 También existen otras formas (no recomendadas, pero que valen la pena mencionar) de obtener fractales: meta un CD a un microondas (puede dañar el microondas) por un par de segundos (de 3 a 5 segundos) y obtendrán esto:
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SUFj2laJMrI/AAAAAAAABz8/j95wJ3wXMj4/s320/MicroondasDVD.jpg)    
-"Patrones fractales en un
-CD/DVD bombardeado por microondas"
+"Patrones fractales en un CD/DVD bombardeado por microondas"
 
 Por supuesto, existen formas menos riesgosas de generar fractales. Regresando al Software: los fractales se han usado como la base en arte digital y animaciones, fueron los primeros experimentos en el área. Y se aplican en areas tan variadas como:
 
@@ -3962,20 +3622,17 @@ Por supuesto, existen formas menos riesgosas de generar fractales. Regresando al
 - Y muchos más...
 Los fractales también se combinan con "Algoritmos Evolucionarios" (más informacion de estos en otro articulo) asistidos por seres humanos para generar Arte Fractal. Eso ... suena complicado, pero no lo es: la idea es que un programa genera un fractal y se lo enseña a un usuario, el usuario asigna un puntaje al fractal, las puntuaciones se comparten con otros usuarios, luego el programa genera más fractales en base a las mejores puntuaciones, o al mejor espécimen. Algo asi como un proceso de seleccion natural. Claro, el proceso es muchisimo más interesante con decenas de miles de personas estan seleccionando los mejores tipos de fractales. La siguiente imagen es un resultado del proceso mencionado:
 
-![image](https://upload.wikimedia.org/wikipedia/commons/5/52/Electricsheep-3404.jpg)    
-"Fractal Generado con Electric Sheep"
+![image](https://upload.wikimedia.org/wikipedia/commons/5/52/Electricsheep-3404.jpg)     "Fractal Generado con Electric Sheep"
 
 Esta hermosa imagen, fue generada usando un programa llamado "Electric Sheep". Electric Sheep es un interesante programa, que se instala como un ScreenSaver (Salva Pantallas) y comienza a generar "Llamas Fractales" que luego el usuario valora según sus gustos, como el programa funciona de forma distribuida, los fractales con mejores puntuaciones se comparten con otros usuarios (anónimamente) y solo los mejores fractales "sobreviven", creando así de forma de "arte comunitario". Esta es una Llama Fractal:
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Swirly_belt444.jpg/800px-Swirly_belt444.jpg)    
 
-"Llama
-fractal"
+"Llama fractal"
 
 Y este es un ejemplo de lo que Electric Sheep puede producir con la ayuda colaborativa de todos sus usuarios:
 
-"Gran viaje psicodélico con
-Electric Sheep"
+"Gran viaje psicodélico con Electric Sheep"
 
 Hay cliente de Electric Sheep para Linux, Windows y Mac OS X, como ya mencione, se instala con un ScreenSaver. Pueden visitar la pagina de ElectricSheep en:
 
@@ -3993,24 +3650,17 @@ Y también les dejo una lista de programas (para windows, en otro articulo hago 
 - [XaoS](https://wmi.math.u-szeged.hu/xaos/doku.php)
 ¿Recuerdan que mencione (al inicio del articulo) que hay otra forma de hacer Arte Fractal?... y no involucra el microondas ;) El proceso de utilizar fractales para crear arte se llama Decalcomania, y produce estas obras:
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SUEx8MBf0OI/AAAAAAAABzM/7kXltqMuPqY/s320/ernst6a.jpg)    
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SUEx7xhvplI/AAAAAAAABzE/gEEvfxHKO4s/s320/ernst1.jpg)    
-El proceso de la Decalcomania consiste en verter [gouache](https://en.wikipedia.org/wiki/Gouache) (una acuarela opaca) negro diluido en una hoja de papel blanco que tiene una determinada textura, cubriendo esto con otra hoja y, a continuación, juntándolas y ejerciendo una presión desigual en ambas, con el fin de difundir el gouache. El resultado, siempre impredecible, es una composición muy contrastada en negro, gris y blanco, lleno de fractales, en el que uno puede descubrir: paisajes, perfiles o cabezas, formas de animales o plantas desconocidas. Luego el artista pinta sobre este canvas lo que el imagina, y le da colores, texturas y sombras para generar la obra de arte final:
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SUEx8MBf0OI/AAAAAAAABzM/7kXltqMuPqY/s320/ernst6a.jpg)     ![image](https://2.bp.blogspot.com/_ayvorITawE4/SUEx7xhvplI/AAAAAAAABzE/gEEvfxHKO4s/s320/ernst1.jpg)     El proceso de la Decalcomania consiste en verter [gouache](https://en.wikipedia.org/wiki/Gouache) (una acuarela opaca) negro diluido en una hoja de papel blanco que tiene una determinada textura, cubriendo esto con otra hoja y, a continuación, juntándolas y ejerciendo una presión desigual en ambas, con el fin de difundir el gouache. El resultado, siempre impredecible, es una composición muy contrastada en negro, gris y blanco, lleno de fractales, en el que uno puede descubrir: paisajes, perfiles o cabezas, formas de animales o plantas desconocidas. Luego el artista pinta sobre este canvas lo que el imagina, y le da colores, texturas y sombras para generar la obra de arte final:
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SUEx8cyhL1I/AAAAAAAABzU/UUFZqy8XXoU/s320/ernst3.jpg)    
-El proceso de Decalcomania fue extensamente utilizado por varios artistas, las tres imagenes mostradas pertenecen al artista [Max Ernst](https://www.abcgallery.com/E/ernst/ernst.html). Más sobre la Decalcomania aquí:
-[> https://en.wikipedia.org/wiki/Decalcomania](https://en.wikipedia.org/wiki/Decalcomania) Como
-pueden ver, los fractales son versátiles y ampliamente utilizados en la vida cotidiana. Algunos ejemplos más del uso de los fractales son en: Algoritmos de Compresión, Generación de Terrenos (en CG y Video Juegos)...
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SUEx8cyhL1I/AAAAAAAABzU/UUFZqy8XXoU/s320/ernst3.jpg)     El proceso de Decalcomania fue extensamente utilizado por varios artistas, las tres imagenes mostradas pertenecen al artista [Max Ernst](https://www.abcgallery.com/E/ernst/ernst.html). Más sobre la Decalcomania aquí: [> https://en.wikipedia.org/wiki/Decalcomania](https://en.wikipedia.org/wiki/Decalcomania) Como pueden ver, los fractales son versátiles y ampliamente utilizados en la vida cotidiana. Algunos ejemplos más del uso de los fractales son en: Algoritmos de Compresión, Generación de Terrenos (en CG y Video Juegos)...
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SUE3IC0iEkI/AAAAAAAABzs/jmP5aZIW_Uc/s320/Mandelbrot_island.jpg)    ![image](https://upload.wikimedia.org/wikipedia/commons/6/6d/Animated_fractal_mountain.gif)    
 
 Enzimología, Simulación de Vegetación...
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SUE3G1RRhaI/AAAAAAAABzc/JkQWPSMpLrg/s320/Dragon_trees.jpg)    
-Generación de Música, ScreenSavers...
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SUE3G1RRhaI/AAAAAAAABzc/JkQWPSMpLrg/s320/Dragon_trees.jpg)     Generación de Música, ScreenSavers...
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SUE3ITp6vJI/AAAAAAAABz0/Dg-FPTbYgX0/s320/Menger_5.jpg)    
-Construcción de Antenas Fractales, Estudio de Sismos y como mil cosas más... Que tan útil sean los fractales (o cualquier objeto, idea o concepto), no depende del concepto en si mismo, sino del uso que le de el individuo. Como siempre, esperamos que este articulo sea de su agrado. ¡Saludos!
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SUE3ITp6vJI/AAAAAAAABz0/Dg-FPTbYgX0/s320/Menger_5.jpg)     Construcción de Antenas Fractales, Estudio de Sismos y como mil cosas más... Que tan útil sean los fractales (o cualquier objeto, idea o concepto), no depende del concepto en si mismo, sino del uso que le de el individuo. Como siempre, esperamos que este articulo sea de su agrado. ¡Saludos!
 
 ---
 
@@ -4024,8 +3674,7 @@ post_id: blog-3515952828243908885.post-371346792654983943
 ---
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/RwqDZVmN2WI/AAAAAAAAAgA/iwEb5OLWWKc/s400/wtf%3F.png)    
-"Captura de la
-basca de Hotmail Live"
+"Captura de la basca de Hotmail Live"
 
 Este es el colmo de los colmos... la captura de pantalla que muestro al principio del articulo es de mi cuenta de correo de Windows Live... Lo único que quería era que todo el correo que me "cae" al Inbox de Live se le hiciera automáticamente un forward a mi cuenta de Gmail.
 
@@ -4049,8 +3698,7 @@ post_id: blog-3515952828243908885.post-1665240101551360159
 Si bien para muchos es drama es adictivo, y por eso muchos veían Betty la Fea todos los días o alguna cosa peor como Agujetas de Color Rosa... el drama del que les hablo hoy si que esta interesante.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/RwpYhVmN2VI/AAAAAAAAAf4/ySjD-VkRHVc/s400/betty-734849.jpg)    
-"¿De verdad hay
-gente que ve eso?"
+"¿De verdad hay gente que ve eso?"
 
 Muchos de nosotros ya conocemos las "bendiciones" que presenta el uso de BitTorrent, y si lo usamos a diario, pues ya conocemos del vocabulario (o la jerga) usada en el "medio".
 
@@ -4059,8 +3707,7 @@ Advertencia LENGUAJE GEEK!, para entender mejor que es [BitTorrent haz Click Aqu
 Así que hoy les vengo a hablar de los Trackers.... de uno de los mas importantes quizás... y ese es IsoHunt.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/RwpYFVmN2TI/AAAAAAAAAfo/rNAIVAP1h_8/s400/isohunt.jpg)    
-"Logo
-IsoHunt"
+"Logo IsoHunt"
 
 ¿Y que es lo que sucede con IsoHunt? bien, el drama o agonía que yo y muchos usuarios estamos pasando con IsoHunt es que esta cerrando sus puertas a clientes de los Estados Unidos... y todos sabemos que en EUA esta una BUENA parte de los Seeders de las series, películas, libros y mp3 que son tan populares.
 
@@ -4070,8 +3717,7 @@ En lenguaje Geek:
 Definitivamente es una medida bastante interesante, innovadora, agresiva y ... como que ya se veía venir. Los administradores de IsoHunt están cansados de las políticas no amigables en contra de los trackers. Lo mas divertido, es que el Tracker NO tiene la culpa, son los usuarios los que están transgrediendo la ley al compartir la serie completa de los pitufos.
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/RwpYKFmN2UI/AAAAAAAAAfw/Ni1opV5CkMg/s400/pitufos.JPG)    
-"Gente loca que se
-disfraza de Pitufos"
+"Gente loca que se disfraza de Pitufos"
 
 Pero como el protocolo de Bittorrent no es "tan" centralizado, más que todo porque la carga recae en los clientes, entonces la medida mas lógica es enviar cartas "pesadas" a los trackers, para que estos ejerzan una medida de control drástica sobre cada .torrent que se sube al servidor. Primero les mandan emails, y luego les envían a la policía... si se puede.
 
@@ -4101,8 +3747,7 @@ post_id: blog-3515952828243908885.post-323149589924915319
 El 1º de Noviembre de 2008 terminó oficialmente la vida de Windows 3.11 (Embedded Edition). No tenia la mas mínima idea de que Microsoft aun estaba dando licencias para un sistema operativo tan anciano como Win 3.11. Es mas, hasta donde se sabe - y por eso me parece tan curioso ese anuncio - Microsoft solo tiene publicada información sobre dos sistemas operativos incrustables (embedded en Ingles), y estos son: [Windows CE 6.0](https://support.microsoft.com/lifecycle/search/default.aspx?sort=PN&alpha=windows+embedded&Filter=FilterNO) y Windows XP Embedded Service Pack 2 (en la linea de los [Embedded XP](https://support.microsoft.com/lifecycle/search/default.aspx?sort=PN&alpha=XP+embedded&Filter=FilterNO), para maquinas de bajo costo). Y ademas la base de datos de soporte de productos de Microsoft, muestra que se descontinuo las licencias para [Windows For Workgroups](https://support.microsoft.com/lifecycle/search/default.aspx?sort=PN&alpha=windows+for+workgroups&Filter=FilterNO) (3.11 Workgroups) en 2001.
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SRXOFtF0XmI/AAAAAAAABZ4/QlY3VE3Lx6o/s320/win311logo_2.gif)    
-"¡Bye bye Windows
-3.11!"
+"¡Bye bye Windows 3.11!"
 
 Si, si, todo eso es muy peculiar y bueno, pero ¿el punto es?....
 > style="font-size:130%;">El ciclo de vida del software.
@@ -4123,8 +3768,7 @@ Otro dato que podemos obtener de esta curiosa noticia, es algo que sinceramente 
 
 Quizás lo que mas me motivo a escribir sobre esto, fue que cuando lo leí: no pude dejar de sentir 0.00001% de nostalgia. Después de todo Windows 3.11 fue el primer Sistema Operativo con el que interactúe de verdad (aunque lo tenia que "ejecutar" desde DOS), dejo un vídeo para los nostálgicos :D
 
-"¡Nostalgiaaaaaa!"
-Un saludo especial a todos aquellos lectores que usaron DOS y Windows 3.x ;) Y tu ¿Qué haces para que tus programas "vivan" más tiempo?
+"¡Nostalgiaaaaaa!" Un saludo especial a todos aquellos lectores que usaron DOS y Windows 3.x ;) Y tu ¿Qué haces para que tus programas "vivan" más tiempo?
 
 ---
 
@@ -4167,8 +3811,7 @@ post_id: blog-3515952828243908885.post-1706319273307961120
 Si has estado viviendo debajo de una piedra... o si no tienes Internet, entonces es bastante probable que desconozcas de la campaña para descargar Firefox 3 llamada: Mozilla's Download Day, que marcó un nuevo record en el libro Guinness al obtener más de ocho millones de descargas de FireFox 3.0 en un periodo de 24 horas (para ser más precisos, fueron "8,002,530"). Nosotros ayudamos, ¿y tú?:
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SG5Oo_OghsI/AAAAAAAAAzw/Mh8zvPKZhh4/s400/firefox-srbyte.jpg)    
-"Imagen: Sr. Byte ayudando a
-FireFox a establecer su marca :)"
+"Imagen: Sr. Byte ayudando a FireFox a establecer su marca :)"
 
 En fin, el número es OFICIAL y la marca también, Gareth Deaves (administrador de marcas de Guinness) declaró:
 
@@ -4180,16 +3823,14 @@ En fin, el número es OFICIAL y la marca también, Gareth Deaves (administrador 
 > is pleased to style="font-style: italic;"> add
 > Mozilla's achievement
 > to our style="font-style: italic;"> archives"
-![image](https://bp1.blogger.com/_ayvorITawE4/SG5WxfOghuI/AAAAAAAAA0A/Wtx74zExx58/s200/firefox3.jpg)    En lo personal
-creo, y además es obvio, que todo el "Download Day" fue una gran maniobra de publicidad (en la que gustosamente muchos de nosotros participamos sin ningún desdén jajaja), pero eso no es lo importante, sino que este acto de publicidad y la respuesta generada, indica que la gente ve este navegador como algo más que software para "surfear" la red. Los usuarios ven en FireFox una tecnología que les gusta, es por naturaleza de código abierto y tiene varios atributos (es mas seguro, robusto, ahora es más rápido, etc...) que no me molestare en comentar en este momento; esto es lo que el usuario de FireFox ve, y este evento simplemente vino a confirmarlo.
+![image](https://bp1.blogger.com/_ayvorITawE4/SG5WxfOghuI/AAAAAAAAA0A/Wtx74zExx58/s200/firefox3.jpg)    En lo personal creo, y además es obvio, que todo el "Download Day" fue una gran maniobra de publicidad (en la que gustosamente muchos de nosotros participamos sin ningún desdén jajaja), pero eso no es lo importante, sino que este acto de publicidad y la respuesta generada, indica que la gente ve este navegador como algo más que software para "surfear" la red. Los usuarios ven en FireFox una tecnología que les gusta, es por naturaleza de código abierto y tiene varios atributos (es mas seguro, robusto, ahora es más rápido, etc...) que no me molestare en comentar en este momento; esto es lo que el usuario de FireFox ve, y este evento simplemente vino a confirmarlo.
 
 Sin embargo, el poder del software instalado por defecto en una PC es aún demasiado grande como para que la mayoría de usuarios dejen de usar IE 6 ó IE 7, que mantienen el 26.38% y 46.45% del "mercado" de navegadores.
 
 Mediante la (brillante) publicidad y todos los "fanboys" que siguen este navegador, hay que esperar un aumento en el porcentaje de usuarios que usen Firefox 2.0 y Firefox 3.0, hey Microsoft, el software abierto esta ganando impulso, ¿qué es lo que vas a hacer?
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/SG5WhPOghtI/AAAAAAAAAz4/zMGR0i-r1cc/s320/mozilla-vs-ie-thumb.jpg)    
-"Imagen: Poco a poco,
-Firefox gana más popularidad"
+"Imagen: Poco a poco, Firefox gana más popularidad"
 
 El Sr. Byte tiene una idea para botar esas "sucias" maniobras publicitarias del "Guinness Record" que hizo Mozilla...
 > ¡¿Por que no hacer lo mismo, pero con Windows
@@ -4216,8 +3857,7 @@ post_id: blog-3515952828243908885.post-5178716428570510580
 
 Como ya había mencionado, la migración a herramientas GNU/Linux puede ser una tarea un poco abrumadora y extenúan algunas veces para el que viene del mundo del software propietario, no es para "asustar" a nadie, pero es realidad. Pues como hace poco también cambie mi mentalidad por tecnologías multiplataforma y por el desarrollo de software libre con herramientas "OpenSource"; me vi en la necesidad buscar un IDE (porque a eso estoy acostumbrado) para mi sistema libre. Y es que durante la travesía, me percate porque es más "fácil" desarrollar en Windows. Microsoft, con su afamada serie Visual Studio, provee una herramienta "unificada" para el desarrollo sencillo y (algunas veces) practico de las ventanas. Un API sencilla, un lenguaje sencillo como VB (que ha hecho más por el auge del mundo de la programación que los lenguajes de OO), un IDE que se apega al deseo natural de todo programador de convertirse en un diseñador de interfaces... aun cuando ocurran crímenes como este:
 
-![image](https://bp0.blogger.com/_ayvorITawE4/Ra0AZjD_hyI/AAAAAAAAAAM/NVkg_aiBeGw/s400/wgetgui-screenshot.png)    
-Librerías "simples", motores de bases de datos (aunque terriblemente lentos) fáciles de usar, depuradores incluidos y soporte para plugins. Aun así, en este sistema propietario... no tengo muchas opciones como desarrollador. Se me enseña que es lo que debo de usar, a desarrollar con la terrible mentalidad de licencias propietarias que no solo hacen daño a una persona, sino a una economía como la de nuestro pulgarcito de América.
+![image](https://bp0.blogger.com/_ayvorITawE4/Ra0AZjD_hyI/AAAAAAAAAAM/NVkg_aiBeGw/s400/wgetgui-screenshot.png)     Librerías "simples", motores de bases de datos (aunque terriblemente lentos) fáciles de usar, depuradores incluidos y soporte para plugins. Aun así, en este sistema propietario... no tengo muchas opciones como desarrollador. Se me enseña que es lo que debo de usar, a desarrollar con la terrible mentalidad de licencias propietarias que no solo hacen daño a una persona, sino a una economía como la de nuestro pulgarcito de América.
 
 En un sistema libre, hay tanto que usar que no se sabe donde comenzar. Pero se tienen varias opciones según el lenguaje que prefiera, listo algunos a continuación:
 
@@ -4355,10 +3995,8 @@ Por el camino quedan ya [más de 300.000 resultados en Google](https://www.googl
 
 [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0) [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0) [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0) [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0) [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0) [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0) [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0)
 
-Camisas:
-![image](https://bp0.blogger.com/_ayvorITawE4/RjscWEK33yI/AAAAAAAAAV4/JAMN3wXmjyY/s400/09F91102b.jpg)    
-"Camisa con los 32
-dígitos"
+Camisas: ![image](https://bp0.blogger.com/_ayvorITawE4/RjscWEK33yI/AAAAAAAAAV4/JAMN3wXmjyY/s400/09F91102b.jpg)    
+"Camisa con los 32 dígitos"
 
 Nombres de dominio, noticias falsas con el contenido de la noticia verdadera, anuncios, etc, etc, etc... ¿Y si hay demanda contra Digg? Quizá alguien recuerde la polémica y decida ayudar a costear la ayuda legal (o quizás no) Eso si, esto ha dejado en claro quien manda...
 > Digg.com bienvenido a la
@@ -4377,8 +4015,7 @@ post_id: blog-3515952828243908885.post-1048434911414980648
 
 Cuando el leí el articulo original, solo pude decir... Wow!
 
-![image](https://bp3.blogger.com/_ayvorITawE4/Rg2dBfTPf7I/AAAAAAAAAPY/RVGwMhn4Fl8/s400/cmmn-autorai.jpg)    
-En la imagen aparece el primer automóvil libre... ¿Que les parece la idea de obtener el diseño de este automóvil, cada pieza, hasta el ultimo tornillo y tuerca?... ahora ustedes dicen Wow.
+![image](https://bp3.blogger.com/_ayvorITawE4/Rg2dBfTPf7I/AAAAAAAAAPY/RVGwMhn4Fl8/s400/cmmn-autorai.jpg)     En la imagen aparece el primer automóvil libre... ¿Que les parece la idea de obtener el diseño de este automóvil, cada pieza, hasta el ultimo tornillo y tuerca?... ahora ustedes dicen Wow.
 
 Este carro que usa hidrógeno (también es limpio!) llamado
 
@@ -4408,22 +4045,19 @@ Ayer me encontraba ordenando mis feeds en Google Reader (aproximadamente 298), e
 En la mezcla -tonta- de ideas (como buscar el maravilloso "Undo" que Gmail muestra cuando se realiza una acción, ¿Cuando lo agregaran a Google Reader?) y en la desesperación de haber perdido estas 40 lecturas favoritas (que irónicamente, nunca leo) de pronto me sentí libre.
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SKXppfb79BI/AAAAAAAABEU/lwUtvmI4h-w/s320/freegeek.jpg)    
-"Cualquier parecido es una
-coincidencia JA JA JA JA"
+"Cualquier parecido es una coincidencia JA JA JA JA"
 
 Así es... libre. Libre de la "responsabilidad" de leer cada entrada, libre del "temor" de perderme de algún suceso importante, libre de no leer un articulo que "todo mundo" comenta. Y de pronto me di cuenta, que me estaba ahogando en el rió de la información....
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SKXpJOuu7cI/AAAAAAAABEM/E09j21YBXOI/s320/geek_drowning.jpg)    
-"¿Te ahogas en tus
-feeds?"
+"¿Te ahogas en tus feeds?"
 
 Así que borre todo lo que pude, y comencé mis feeds de nuevo, ahora solo tengo 32, y son solo los que necesito. El río de información se origina en el "manantial" de los feeds. [Un feed, como ya habia mencionado antes](https://www.srbyte.com/2008/03/que-es-el-rss-feed-rssatomxmlsyndicatio.html), es información exclusivamente, despojada su forma. De esta manera nos podemos suscribir a cientos de sitios, revisar su contenido sin necesidad de visitar el sitio y leer solo lo que nos interesa. Añadamos a esto el boom del microbloggin. Ahora hay que leer los mensajes de la gente que se sigue en twitter, y no digamos FriendFeed. Sin embargo, gracias a esta nueva experiencia enriquecida de la red se tiene que asignar tiempo del diario vivir a leer lo que pueda de estos feeds. Y como los seres humanos no se pueden enfocar en todo lo que ocurre en Internet, pues lo que el cerebro hace es dirigir la atención a tópicos muy específicos... y poco a poco la mente comienza a alienarse.
 
 Muchos intentan detener la información, hasta que la puedan leer, como una presa. Pero la información siempre fluye en Internet con torrentes gigantescos de datos que desbordan a cualquiera: blogs nuevos cada segundo, artículos nuevos cada décima de segundo, entradas interesantes, comentarios, podcast, twitts, webcast, videos, screencast, noticias, eventos, email, etc...
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SKXqZRguqqI/AAAAAAAABEk/YkSEbPnAJqo/s320/image_4.png)    
-"Exceso de
-información"
+"Exceso de información"
 
 Pero usted, no puede leer todo. No puede estar atento a cada cosa que sucede. Probablemente estés mejor informado que antes, pero tu "poder" de atención esta reducido a noticias mas cortas, a detalles mas pequeños y específicos.
 
@@ -4432,8 +4066,7 @@ Pero usted, no puede leer todo. No puede estar atento a cada cosa que sucede. Pr
 > tierra.
 No se agobie pensando en los feeds que tiene que leer, ni en los twitts que tiene que contestar. Deje que el caudal pase, todo al final es: "agua bajo el puente"...
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SKXoDbwbX7I/AAAAAAAABEE/JUY3c1Z6pq0/s320/Water+under+west+bridge1.jpg)    
-Y tú, ¿te ahogas en tus feeds?
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SKXoDbwbX7I/AAAAAAAABEE/JUY3c1Z6pq0/s320/Water+under+west+bridge1.jpg)     Y tú, ¿te ahogas en tus feeds?
 
 ---
 
@@ -4456,8 +4089,7 @@ Para tener una idea de como son las licencias de software propietario, imaginemo
 > esta llave es ÚNICA y no puede ser copiada, traspasada, recuperada o compartida bajo ninguna
 > circunstancia. Al hacer esto usted esta violando el acuerdo de esta
 > licencia.
-"Ni modo" - dice nuestro amigo. Y se
-dispone a usar este vistoso y hermoso auto. 29 días después el hijo de Pedro, Pedrito, decide prestarle el carro a su padre para llevarlo a una fiesta. Pedro confiando en su hijo le entrega la llave, violando la clausula 1.a, y la clausula 1.b que dice:
+"Ni modo" - dice nuestro amigo. Y se dispone a usar este vistoso y hermoso auto. 29 días después el hijo de Pedro, Pedrito, decide prestarle el carro a su padre para llevarlo a una fiesta. Pedro confiando en su hijo le entrega la llave, violando la clausula 1.a, y la clausula 1.b que dice:
 
 > Clausula 1.b: Ninguna persona
 > (familiar, amigo, empleado, etc), bajo ninguna circunstancia, podrá usar el asiento de
@@ -4478,8 +4110,7 @@ Pedrito intenta llamar a su padre desde el hermoso teléfono del carro, pero no 
 Algunos pensaran que este escenario es un poco drástico, pero creanme que se apega bastante a la realidad. El problema, como siempre, es la falta de información. Los medios no hacen mucho para que la gente entienda que al comprar Software Propietario, realmente solo compran el permiso para usarlo. La protección del software propietario es exactamente igual que la de la música, si compro el nuevo disco de "[Marito Rivera y su grupo Bravo](https://www.maritorivera.com/)
 " no soy dueño de la música, pero puedo escucharla.
 
-![image](https://bp1.blogger.com/_ayvorITawE4/Ra47mjD_h0I/AAAAAAAAAAg/hWIIT3HzlQ4/s400/18.jpg)    
-Es una movida bastante ingeniosa para ganar dinero y demandar, pero no es muy justa con el usuario final. Y si, lo acepto, el software propietario tiene ciertas ventajas sobre el software libre, pero no pesan lo suficiente para que decida
+![image](https://bp1.blogger.com/_ayvorITawE4/Ra47mjD_h0I/AAAAAAAAAAg/hWIIT3HzlQ4/s400/18.jpg)     Es una movida bastante ingeniosa para ganar dinero y demandar, pero no es muy justa con el usuario final. Y si, lo acepto, el software propietario tiene ciertas ventajas sobre el software libre, pero no pesan lo suficiente para que decida
 
 ---
 
@@ -4494,8 +4125,7 @@ post_id: blog-3515952828243908885.post-1545889425233184615
 
 Sumergido en mi lectura diaria de [Feeds](https://srbyte.blogspot.com/2008/03/que-es-el-rss-feed-rssatomxmlsyndicatio.html), me encontre con este video que se encarga de sumarizar el problema con las redes sociales (hi5, orkut, myspace, etc... ya hablare de ellos mas tarde), espero que les guste:
 
-"Video: Parodia sobre sitios de redes
-sociales"
+"Video: Parodia sobre sitios de redes sociales"
 
 ¡Hasta la proxima!
 
@@ -4513,8 +4143,7 @@ post_id: blog-3515952828243908885.post-7987489366654744050
 A pesar de que, usualmente, presento una apatía total por la política, estas ultimas elecciones me emocionaron mucho. Parte de la emoción fue debido a que al fin pude mantenerme al tanto de los resultados, por lo medios que a mi más me agradan... y de esos precisamente voy a escribirles brevemente en esta ocasión.
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/Sb22agJN3PI/AAAAAAAAB7I/e24X2493X_c/s320/social+media.jpg)    
-"La actividad en los medios
-sociales se hizo presente en estas elecciones."
+"La actividad en los medios sociales se hizo presente en estas elecciones."
 
 De lo que les quiero comentar, y de lo que muchos en todo caso ya saben, es de la disponibilidad de datos, de la cobertura de los medios y del papel genial que la comunidad de Twitters y Bloggers han jugado, al mantener totalmente informados a prácticamente todo aquel que estuviese buscando resultados de las elecciones en Internet.
 
@@ -4526,8 +4155,7 @@ De lo que les quiero comentar, y de lo que muchos en todo caso ya saben, es de l
 3. Twitt-radar: También quiero felicitar a [Adolfo Fitoria](https://fitoria.net/) e [Igor Guerrero](https://igordevlog.blogspot.com/) por el uso de una aplicación que usa el framework de Google Aplications, y la informacion generada en Twitter, nos compartieron el Twitt-radar:
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/Sb2ur_EwrTI/AAAAAAAAB64/DOGKy0-wuFs/s320/igorPolitiquero.png)    
-"Captura del Twitt-radar, en
-acción."
+"Captura del Twitt-radar, en acción."
 
 En lo personal, una de las iniciativas que más fue de mi agrado. Felicitaciones.
 
@@ -4547,8 +4175,7 @@ Gracias a [Chero07](https://www.chero07.info/) por compartir estos vínculos.
 6. ¿Que me habría gustado ver?: ¿Se acuerdan de las elecciones del Presidente Barak Obama?, Google utilizo su tecnología de Google Maps para crear un mapa que mostraba los estados de la union, coloreados segun el partido que ganaba.
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/Sb2xuPpsNyI/AAAAAAAAB7A/6jj8LQmkkNk/s320/googlemaps.png)    
-"Google Maps
-Mashup"
+"Google Maps Mashup"
 
 ¿Sería mucho pedir, que el Tribunal Supremo Electoral hiciera algo así? (Se vale soñar) También me habría gustado ver un poco más de calma entre las personas que comentan en el Cover-it-Live, no entiendo cual es el "ajolotamiento" de algunos individuos. En fin, muy emocionante el desenlace de esta campaña, también quiero mencionar el blog de [Hunnapuh](https://hunnapuh.blogcindario.com/), del que pase muy pendiente. Y no queda más que felicitar nuevamente a todos los involucrados, e invitar a los medios masivos de comunicacion Salvadoreña, a reconocer el peso, y la importancia que las comunidades de Bloggers y Twitters tienen en la cobertura de este tipo de eventos.
 
@@ -4566,8 +4193,7 @@ post_id: blog-3515952828243908885.post-7715256210374718247
 ---
 
 ![image](https://bp2.blogger.com/_jH77WNrMVRA/R87IF5MXVwI/AAAAAAAAAmM/iLCdmLtVWT0/s320/smiley.jpg)    
-"Ejemplo de un Emoticon en
-3D"
+"Ejemplo de un Emoticon en 3D"
 
 Un emoticon (también conocido como smiley), como muchos saben, es la representación de una emoción o un estado de ánimo utilizando combinaciones de caracteres de texto o símbolos. Los más populares, creados por [Scott Fahlman](https://en.wikipedia.org/wiki/Scott_Fahlman) en 1982, son :-) y :-( .
 
@@ -4580,8 +4206,7 @@ o. )88b 888 888 888 `888' 888 . 888 .o 8""888P' d888b `Y8bod8P' .8' "888" `Y8bod
 
 ```
 "Arte ASCII Generado con el [ASCII Generator](https://www.network-science.de/ascii/)
-"
-ave fun. Don't forget to bookmark this website :) Actualmente en los foros y los programas de mensajería instantánea estas combinaciones de texto se ven reemplazadas por sus imágenes correspondientes y ya no son sólo imágenes estáticas sino que la gran mayoría utiliza ahora imágenes animadas.
+" ave fun. Don't forget to bookmark this website :) Actualmente en los foros y los programas de mensajería instantánea estas combinaciones de texto se ven reemplazadas por sus imágenes correspondientes y ya no son sólo imágenes estáticas sino que la gran mayoría utiliza ahora imágenes animadas.
 
 Lamentablemente esto está tendiendo a exagerar ya que las imágenes cada vez son más grandes, más llamativas y ya no sólo representan emociones sino que la gente las usa para sustituir palabras comunes como "Hola", "bien", "O.K.", "adiós", etc. o hasta simples letras tal vez con el objetivo de darle más originalidad o más colorido a sus conversaciones, pero para algunos esto podría ser molesto.
 
@@ -4604,14 +4229,12 @@ draft: false
 post_id: blog-3515952828243908885.post-6419389697598290564
 ---
 
-![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SUhOJgxWFHI/AAAAAAAAFPQ/AQT1AByjnfQ/s400/play.jpg)    
-Una de las cosas que más hacemos al estar en nuestra computadora es escuchar música. Quizá es de los primeros programas que instalamos si es que acabamos de obtenerla o la hemos formateado ya que nos permite dejarla sonando mientras realizamos otras actividades típicas como chatear, navegar en Internet, hacer tareas, etc.
+![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SUhOJgxWFHI/AAAAAAAAFPQ/AQT1AByjnfQ/s400/play.jpg)     Una de las cosas que más hacemos al estar en nuestra computadora es escuchar música. Quizá es de los primeros programas que instalamos si es que acabamos de obtenerla o la hemos formateado ya que nos permite dejarla sonando mientras realizamos otras actividades típicas como chatear, navegar en Internet, hacer tareas, etc.
 
 Hay algunos que lo único que les interesa es escuchar la música, les bastaría nada más tener un reproductor cuya única interfaz sea un botón de Play y que empiece a sonar aleatoriamente alguna lista de archivos seleccionada de una carpeta o la librería completa de música. En cambio, habemos otros un poco más exigentes a la hora de escuchar música y deseamos que nuestro reproductor haga muchas otras cosas aparte de reproducir audio por lo que, a manera personal, les muestro una lista del top de reproductores de audio y las características por las que han sido seleccionados.
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SUmyiv_f1MI/AAAAAAAAFPY/AIvtA1oaCEE/s400/aerotrax.jpg)    
-"Interfaz de AeroTrax,
-reproductor minimalista y quiza el ideal de muchos"
+"Interfaz de AeroTrax, reproductor minimalista y quiza el ideal de muchos"
 
 Entre las características que considero debe cumplir un reproductor decente, se encuentran las siguientes:
 
@@ -4641,11 +4264,9 @@ aTunes: ([link](https://www.atunes.org/)) Reproductor Open Source basado en Java
 
 MPD: ([link](https://mpd.wikia.com/wiki/Music_Player_Daemon_Wiki)) Este no es un reproductor de música en si, sino mas bien es un servidor (o demonio) de reproducción de audio, el cual es controlado mediante cualquiera de las aplicaciones cliente que existen para el. Estas van desde una basada en comandos de la consola (mpc), applets para el gnome-panel, screenlets para el escritorio o sino uno de mis clientes favoritos, [sonata](https://sonata.berlios.de/).
 
-![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SUsw0Sz8e3I/AAAAAAAAFPw/U9FoJQRs1wk/s400/sonata1.png)    WinAmp: ([link](https://www.winamp.com/)) Quiza el reproductor más popular que existe
-para Windows, capaz de ser portado a Linux mediante wine. Con la capacidad de competir con los demás listados anteriormente aunque su intefaz no sea tan intuitiva o tan normal como la del resto de reproductores. Aun así es posible cambiarla mediante skins.
+![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SUsw0Sz8e3I/AAAAAAAAFPw/U9FoJQRs1wk/s400/sonata1.png)    WinAmp: ([link](https://www.winamp.com/)) Quiza el reproductor más popular que existe para Windows, capaz de ser portado a Linux mediante wine. Con la capacidad de competir con los demás listados anteriormente aunque su intefaz no sea tan intuitiva o tan normal como la del resto de reproductores. Aun así es posible cambiarla mediante skins.
 
-![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SUsx4pjdfmI/AAAAAAAAFQA/W3F6qrasxDE/s400/winamp_screen_large.jpg)    
-Que reproductor agregarías tu a las lista?
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SUsx4pjdfmI/AAAAAAAAFQA/W3F6qrasxDE/s400/winamp_screen_large.jpg)     Que reproductor agregarías tu a las lista?
 
 ---
 
@@ -4662,8 +4283,7 @@ Voy a escribir un par de artículos a la semana, hace poco conseguí trabajo y m
 
 El código en exceso es malo. Requiere mantenimiento periódico. Posee errores ... que deben ser encontrados, depurados y mitigados. Añadir funcionalidad extra, implica que el código antiguo se tiene que adaptar.
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SWJiacLyU8I/AAAAAAAAB1o/USpq7NJkZjs/s320/iStock_000000237891XSmall_3.jpg)    
-Mientras hay mas código escrito:
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SWJiacLyU8I/AAAAAAAAB1o/USpq7NJkZjs/s320/iStock_000000237891XSmall_3.jpg)     Mientras hay mas código escrito:
 
 - Existen mas lugares en donde se esconden[los infames bugs (que se combaten depurando o escribiendo más código)](https://www.srbyte.com/2008/12/herramientas-del-programador-unit.html)
 - El proceso de compilación tarda mas tiempo
@@ -4672,14 +4292,12 @@ Mientras hay mas código escrito:
 - Es mas complicado refactorizar código
 - Y también es mas difícil encontrar documentación precisa de: que hace qué, cuándo, dónde y por qué.
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SWJiZqw4pJI/AAAAAAAAB1Q/HLGEBGSQMnI/s320/beautiful-code.png)    
-"Este libro debería leerse
-en la Universidad..."
+"Este libro debería leerse en la Universidad..."
 
 Más código, significa menos flexibilidad y funcionalidad; esto para muchos es una paradoja, pero la mayoría de veces, una solución simple, rápida y elegante, es mejor que una "mega super función general que hace de todo".
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SWJiZ0RoxnI/AAAAAAAAB1Y/gAfc7bZIYLo/s320/crappy-code-book-cover.jpg)    
-"Este es más
-común..."
+"Este es más común..."
 
 El código es escrito por ingenieros de sistemas, técnicos programadores o consultores; digamos simplemente que son desarrolladores. Producir más código, requiere mas desarrolladores. Varios desarrolladores deben comunicarse. Un desarrollador tiene un costo de "canal de comunicación" de n^2, como pueden ver, las comunicaciones incrementan exponencialmente con cada desarrollador en el proyecto ( 1^2=2, 2^2=4, 3^2=9, etc...). Añadamos un poco de papeleo (burocracia) a los canales de comunicación:
 
@@ -4692,13 +4310,11 @@ El código es escrito por ingenieros de sistemas, técnicos programadores o cons
 Después de todo, una buena empresa debe ser eficiente y eficaz, ¿no?. Si algo ya existe, úselo. Si hay mejores tecnologías, procure utilizarlas. Y si sus desarrolladores le dicen que hay que utilizar una nueva tecnología, procure prestar atención a lo que dicen, y si es factible hágalo.
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SWJkFG_nKKI/AAAAAAAAB14/xzFKxn6zUbw/s320/reclining.jpg)    
-"Buen equipo, buena silla,
-buen escritorio... son necesarios para producir buen código."
+"Buen equipo, buena silla, buen escritorio... son necesarios para producir buen código."
 
 La comodidad de un desarrollador de software no puede ser discutida. Estos merecen buenas sillas, estar cómodos en sus cubículos o escritorios, café cerca y como máximo, ocho horas de trabajo diarias. El trabajo de un desarrollador de software, no solo es uno de los mas estresantes, sino también es uno de los mejor remunerados. Y si no trata bien a sus desarrolladores, estos producen código enmarañado, descuidado e irresponsable, hackeado para que funcione (ley del llegue)... malo en pocas palabras. Codificar mal, siempre es producir mas código del que se necesita.
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SWJian06lYI/AAAAAAAAB1w/dl6B-PcG_OM/s320/no_hacking.gif)    
-Repitan conmigo:
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SWJian06lYI/AAAAAAAAB1w/dl6B-PcG_OM/s320/no_hacking.gif)     Repitan conmigo:
 > style="font-size:130%;">"desarrolladores infelices, producen mal código, que aumenta mis
 > costos".
 En la empresa en la que estoy trabajando, la mayoría de desarrolladores piensan que los "usuarios" son los enemigos. Para mi, el código es el enemigo, y para la empresa también.
@@ -4721,8 +4337,7 @@ Cansado de que tanto los docentes, como los alumnos de mi universidad, usen casi
 ¿Qué es encriptar? En primer lugar la palabra "encriptar" ni siquiera debería de ser usada en español, el termino es una traducción literal del ingles, para este oscuro proceso siempre se había empleado el termino de CIFRADO. Pero bien, le seguiremos diciendo "Encriptado". En la ciencia de la criptografía, la encriptación es el proceso de TRANSFORMAR información para hacerla completamente ILEGIBLE para cualquier persona, excepto para aquel que tengan un conocimiento especial ... a este conocimiento especial le llamaremos LLAVE (de encriptación).
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/Ruqm6Gy6MpI/AAAAAAAAAcc/tS_6OU2Zbbw/s320/mortal.png)    
-"¿Se recuerdan de esto en
-Mortal Kombat?"
+"¿Se recuerdan de esto en Mortal Kombat?"
 
 El resultado de este proceso es información encriptada. En muuuuchos contextos, la palabra encriptar también se refiere al proceso inverso: desencriptar, para poder hacer que la información que antes era ILEGIBLE, vuelva a su condición original (gracias a la LLAVE).
 
@@ -4734,8 +4349,7 @@ El texto anterior esta encriptado con el "[código Cesar](https://es.wikipedia.o
 ". Este código cesar es la llave para desencriptar el texto: Se cuenta que Julio Cesar invento esta forma de encriptacion por si capturaban a un mensajero que lleva ordenes militares, los capturadores no pudieran leer el mensaje (y claro, solo los generales del Cesar tenian el conocimiento para hacerlo). ¿Y cual es este gran proceso para desencriptar el mensaje anterior? Sencillo, tomemos una letra: h, ahora nos vamos tres letras atras en el abecedario, eso nos da la letra e.
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RuqooWy6MrI/AAAAAAAAAcs/u6NNmtQDDF4/s320/320px-Caesar3.svg.png)    
-"código de cifrado del
-César"
+"código de cifrado del César"
 
 El mismo proceso se repite para las letras mayusculas y minusculas.
 
@@ -4786,8 +4400,7 @@ Pronto se acercan las fiestas respectivas al fin de año, sean estas hanukkah, n
 Últimamente también alcaldías y gobiernos municipales han tomado la iniciativa de adornar los respectivos parques principales de cada ciudad de manera acorde a las fiestas, cubriendo arboles y postes con series de luces de colores.
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SUSxOgF9IxI/AAAAAAAAFOY/A1aSXNPzJCE/s400/dsc00490.jpg)    
-"Parque de Antiguo Cuscatlan
-adornado con luces navideñas. Fotografía cortesía de [Alexandra Vela](https://dulcelimonpartido.blogspot.com/)
+"Parque de Antiguo Cuscatlan adornado con luces navideñas. Fotografía cortesía de [Alexandra Vela](https://dulcelimonpartido.blogspot.com/)
 "
 
 El lado malo llega después, cuando aparece la factura del consumo de la energía eléctrica. [Acá](https://advisor.lbl.gov/apusage.html) y [acá](https://4.bp.blogspot.com/_jH77WNrMVRA/SUSx8Wygb8I/AAAAAAAAFOg/V1_C6e3_CLY/s1600-h/LEDLights2.jpg) pueden ver una tabla con costos estimados de consumo energético en un hogar común. Al final aparece el gasto estimado en el mes de diciembre por concepto de luces navideñas.
@@ -4795,8 +4408,7 @@ El lado malo llega después, cuando aparece la factura del consumo de la energí
 Lo que se ha puesto de moda en algunos países para estas fechas es hacer uso de luces navideñas a base de energía solar. Esta energía es practica mente gratuita teniendo costo nada mas los paneles que se encargan de recibir la energía solar y convertirla a energía eléctrica.
 
 ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SUS4S22V1qI/AAAAAAAAFOo/4stOFQpwp4s/s400/solar+energy+xmas+tree.jpg)    
-"Árbol Navideño a base de
-energía solar. Tomado de [acá](https://flickr.com/photos/ubiqua/3079574237/in/photostream/)
+"Árbol Navideño a base de energía solar. Tomado de [acá](https://flickr.com/photos/ubiqua/3079574237/in/photostream/)
 "
 
 Esta alternativa, aparte de ser barata, es también amigable con el medio ambiente ya que no producen ninguna emisión de gases. Además pueden ser programadas para que se enciendan estomáticamente cuando los paneles solares dejen de recibir luz, lo que significaría que es de noche.
@@ -4821,14 +4433,12 @@ Energy Tree es un concepto que participa en la competencia Microsoft "StartSomth
 El creador de este concepto Ben Arent se ha encargado de imaginar un dispositivo que monitorea la energía que se usa en la casa. Este dispositivo monitorea TODO aparato que consuma energía eléctrica en la casa y también la eficiencia del reciclaje en la misma.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/RkUbukK330I/AAAAAAAAAWI/oKKQXZi74w8/s320/energytreegui.jpg)    
-"GUI(Interfaz grafica del
-usuario) de Energy Tree"
+"GUI(Interfaz grafica del usuario) de Energy Tree"
 
 Los aparatos que monitorean la energía se van a volver mas y mas comunes con el pasar de los años. Por ejemplo el gobierno de Inglaterra planea dar de estos monitores energeticos para que cada hogar sepa cuanta energía están usando/gastando/despilfarrando.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/RkUcIkK331I/AAAAAAAAAWQ/TEz6sbg8OnY/s320/energytree2.jpg)    
-"Diseño conceptual de Energy
-Tree"
+"Diseño conceptual de Energy Tree"
 
 El concepto completo detrás de EnergyTree es tener una maceta con una interfaz gráfica de usuario, conectado a todo aparato eléctrico que consuma energía... como característica adicional, este aparato trae consigo un árbol (bien podría ser un bonsai) y dependiendo de que tan eficiente sea el usuario en el ahorro de energía de su casa: el árbol crece o se enferma y muere.
 
@@ -4847,8 +4457,7 @@ draft: false
 post_id: blog-3515952828243908885.post-1243877703987885461
 ---
 
-"Soy una Mac, y Yo una PC", esa es la frase de inicio de todas los videos
-de la fabulosa campaña de anuncios que lanzo Apple contra las PC del mundo.
+"Soy una Mac, y Yo una PC", esa es la frase de inicio de todas los videos de la fabulosa campaña de anuncios que lanzo Apple contra las PC del mundo.
 
 Y es que lo fabuloso de la campaña, es que logra hacer que los usuarios de PC parezcan gente tonta y nerviosa, los videos son entretenidos, cómicos y muy efectivos; pero también fomentan enormemente uno de los mas grandes errores de percepción que puedan existir: "toda computadora que use Windows es una PC, y las Mac son ... otra cosa". Y claro, esto es totalmente incorrecto.
 
@@ -4861,20 +4470,17 @@ Las siglas "PC" significan: Personal Computer ó Computadora Personal, eso creo 
 Un Poco de Historia 1984 la industria en general se refería a las PC como IBM PC. Luego Apple, luego de la caída Apple II y de la poca popularidad que tuvo Lisa, lanzo su sistema operativo Macintosh...
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/STFrUNoqvPI/AAAAAAAABd4/iY3f_GSqs40/s320/macintosh-128k.jpg)    
-"The
-Macintosh"
+"The Macintosh"
 
 Antes de eso, prácticamente todas las IBM PC y las PC clones (las que no eran IBM) utilizaban únicamente MS-DOS, puro texto (los sistemas operativos de verdad - Familia de Sistemas Unix - eran usados en "super computadoras"). La Mac fue la primera PC en contar con una interfaz gráfica, y esto la hizo única en aquella época. Sin embargo, no era mas que una PC con teclado, monitor integrado, floppy, CPU, memoria, etc... ah, y un ratón, que más tarde todas las PC tendrían, a mi me suena como una computadora común. Pero el "atrevido" sistema (Macintosh) no llamo más que la curiosidad, muchos consideraron que los iconos, dibujitos y soniditos no eran una forma seria de computación. Ese es el punto en que se realiza la notable separación entre los que acogieron una Macintosh y los que compraron una IBM PC (la mayoría). Por ese mismo fenómeno, las ventas de Apple no despegaron hasta 1986, con una Mac mejorada y más compatible con las PC de IBM, y también más costosa que el resto de las máquinas del mercado. La razón es simple: la línea de producción de las Mac es mas costosa que las IBM PC, y comercialmente menos exitosa, por eso los fabricantes que se anexaban a la industria de la fabricación de computadoras personales imitaban más y mas los pasos de IBM que los de Apple. Así fue como las Mac quedaron con su propio nicho, y claro, ni lentos ni perezosos, esto fue aprovechado al máximo para ofrecer un producto que anuncia con bandera de "elite" (7.8% de los usuarios de computadoras personales tiene una con sistema operativo Mac).
 
 Nada divino en las Mac Sin duda alguna los productos de Apple son maravillosos, en el sentido de la consistencia, diseño, eficiencia y fidelidad a sus precios elevados. Pero...
 > la MacBook Air no crece en los arboles, los iPod no salen del
 > trasero a un Fénix mágico y Steve Jobs no es Moisés...
-![image](https://4.bp.blogspot.com/_ayvorITawE4/STFrTHekCrI/AAAAAAAABdg/qDSeLY0KIr0/s320/and062107blog.jpg)    
-Recuerden, ahora todas las Mac emplean un CPU de Intel, y con Boot Camp, hasta las Mac ejecutan el SO Windows. ¿Me pregunto si la gente que hace eso (usar Boot Camp) se refieren a sus Mac como PC?
+![image](https://4.bp.blogspot.com/_ayvorITawE4/STFrTHekCrI/AAAAAAAABdg/qDSeLY0KIr0/s320/and062107blog.jpg)     Recuerden, ahora todas las Mac emplean un CPU de Intel, y con Boot Camp, hasta las Mac ejecutan el SO Windows. ¿Me pregunto si la gente que hace eso (usar Boot Camp) se refieren a sus Mac como PC?
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/STFrTXcclhI/AAAAAAAABdo/ySKcEKYySwU/s320/bootcamp_macbooks2.jpg)    
-"Una MacBook con Windows...
-que bizarro"
+"Una MacBook con Windows... que bizarro"
 
 Entiendo perfectamente, que esta serie de videos y campañas no funcionarían con una linea introductoria como:
 > "Yo soy una PC con Windows Vista, y Yo una PC con Mac OS/X
@@ -4885,11 +4491,9 @@ Entiendo perfectamente, que esta serie de videos y campañas no funcionarían co
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/STFtDysbFHI/AAAAAAAABeI/dAt85qU3bUc/s320/desktop-xps-a2420-hero.jpg)    ó [Sony VAIO VGC-LT29U](https://cgi.ebay.com/Sony-VAIO-VGC-LT29U-DesktopPC-Blu-Ray-Burner-1000GB-NIB_W0QQitemZ110310935712QQcmdZViewItem)
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/STFtD-K4veI/AAAAAAAABeA/hNL2Vpeciz0/s320/vaio.JPG)    
-En lo personal, quiero una PC Mac, pero solo para instalarle Linux :) Todos estamos usando computadoras personales, y depende de las necesidades personales elegir que utilizar para obtener mejor calidad en el entretenimiento, ser más productivo y en general, tener una mejor experiencia digital... sin embargo, y sin importar cuanto lo digan los anuncios y cuanto repitas tu mantra "Think Mac"... al final, todos somos PC.
+![image](https://3.bp.blogspot.com/_ayvorITawE4/STFtD-K4veI/AAAAAAAABeA/hNL2Vpeciz0/s320/vaio.JPG)     En lo personal, quiero una PC Mac, pero solo para instalarle Linux :) Todos estamos usando computadoras personales, y depende de las necesidades personales elegir que utilizar para obtener mejor calidad en el entretenimiento, ser más productivo y en general, tener una mejor experiencia digital... sin embargo, y sin importar cuanto lo digan los anuncios y cuanto repitas tu mantra "Think Mac"... al final, todos somos PC.
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/STFrTpFgzMI/AAAAAAAABdw/VVO4qobB4NM/s320/macandpc.jpg)    
-Yo soy un PC Linux, y tu ¿qué PC eres?
+![image](https://2.bp.blogspot.com/_ayvorITawE4/STFrTpFgzMI/AAAAAAAABdw/VVO4qobB4NM/s320/macandpc.jpg)     Yo soy un PC Linux, y tu ¿qué PC eres?
 
 ---
 
@@ -4907,23 +4511,20 @@ Tienes GNU\Linux en tu sistema?, lo usas a diario? (o al menos semanalmente?)...
 ![image](https://bp2.blogger.com/_ayvorITawE4/RhUD_rQFkFI/AAAAAAAAAQA/jJE4HoWB1lE/s200/happytux.png)    
 "Tux"
 
-Si es asi, de acuerdo a algunas personas (y los que propagan el mito) si tienes GNU\Linux en tu sistema eres un super hombre...
-![image](https://bp0.blogger.com/_ayvorITawE4/RhUEJLQFkGI/AAAAAAAAAQI/pYLVinosLSY/s320/superlogo.jpeg)    
+Si es asi, de acuerdo a algunas personas (y los que propagan el mito) si tienes GNU\Linux en tu sistema eres un super hombre... ![image](https://bp0.blogger.com/_ayvorITawE4/RhUEJLQFkGI/AAAAAAAAAQI/pYLVinosLSY/s320/superlogo.jpeg)    
 "Logo de Superman"
 
 Las distribuciones de GNU\Linux han hecho un sin fin de increíbles malabares para realizar de manera mas sencilla la instalación a través de los años.Hay instalaciones que super sencillas, por ejemplo la instalación de Linspire.
 
 ![image](https://www.ffnn.nl/media/.gallery/image213.png)    ![image](https://www.ffnn.nl/media/.gallery/image237.png)    ![image](https://www.ffnn.nl/media/.gallery/image238.png)    
 
-"Capturas de pantalla de
-instalación de Linspire Five-0"
+"Capturas de pantalla de instalación de Linspire Five-0"
 
 Hasta la imagen para reiniciar es suficientemente explicativa como para que cualquier usuario entienda que tiene que hacer...
 
 ![image](https://www.ffnn.nl/media/.gallery/image239.png)    
 
-"Captura de pantalla de
-instalación de Linspire Five-0"
+"Captura de pantalla de instalación de Linspire Five-0"
 
 Pero lamentablemente la percepción sigue siendo la misma (y el mito sigue propagándose): GNU\Linux es un sistema para los que tienen el cerebro, el valor y el tiempo de sobra para lidiar con "ese" sistema. Si uno busca en la red, puede encontrar muchos documentos en los cuales gente conocedora hace una comparación objetiva entre GNU/Linux y Windows (tanto en servidores como en estaciones de trabajo). En muchos de los documentos se exponen puntos válidos y vigentes en contra de Linux, pero en muchos otros sólo se perpetúan (de la manera más estúpida) algunos mitos acerca de este sistema operativo. Lo mas irónico del asunto es que ni Microsoft Windows ni GNU\Linux es "facil" de usar... estoy seguro que los "fans" de Microsoft Windows desean patearme el trasero, pero déjenme ejemplificar, para usar tu Windows XP tienes que instalar...
 > Antivirus y Anti
@@ -4958,8 +4559,7 @@ Les recomiendo que vean este vídeo del Desafio 2.0 Install & GO organizado por 
 
 [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE)
 
-[https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE)
-"[Mas información del desafió aquí](https://www.e-ghost.deusto.es/phpwiki/index.php/Desafio20Blog)
+[https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) "[Mas información del desafió aquí](https://www.e-ghost.deusto.es/phpwiki/index.php/Desafio20Blog)
 "
 
 Pero si algo es seguro, es que Instalar GNU\Linux en una maquina, es tan difícil como instalar y darle mantenimiento a Windows... bueno, instalar GNU\linux siempre es más fácil.
@@ -4988,8 +4588,7 @@ Traducción de Sr. Byte: "¿Eres un desordenado? Bien, eres mas productivo". Tod
 Un "caos organizado" te permite ser mas eficiente y productivo. El empeño que se "gasta" en ser organizado todos los días gasta dinero y tiempo, pero dejar que tu trabajo se quede ... como lo dejas, permite que se tenga (supuestamente) un mejor flujo de trabajo y permite cambiar de tareas "suavemente".
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/RgNJ1sDxhXI/AAAAAAAAANA/1SPDGaVNU9M/s400/253932597_a23322970f.jpg)    
-"Messy Room (Cuarto
-desordenado) por [PuyoDead](https://www.flickr.com/photos/puyo/253932597/)
+"Messy Room (Cuarto desordenado) por [PuyoDead](https://www.flickr.com/photos/puyo/253932597/)
 "
 
 En lo personal creo que el argumento es interesante (ligeramente ridículo, pero interesante), y va en contra de todo lo que se nos enseña. Y vos que opinas?... [lee el articulo completo aquí](https://www.extremetech.com/article2/0,1697,2105584,00.asp).
@@ -5010,8 +4609,7 @@ post_id: blog-3515952828243908885.post-1715549923484754043
 ---
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/Sq8nHKoeLqI/AAAAAAAAGDo/0R34Suup-zo/s400/EnConstruccion.jpg)    
-"Las aplicaciones requieren
-constante mantenimiento y actualización. A veces la mejor actualización es su reescritura completa"
+"Las aplicaciones requieren constante mantenimiento y actualización. A veces la mejor actualización es su reescritura completa"
 
 Como todos bien sabemos, todas las cosas especialmente los sistemas informáticos tienden a perder utilidad con el tiempo, ya sea debido a que no se adapta a los nuevos avances en hardware, no es compatible con las nuevas plataformas de ejecución o no logra satisfacer las nuevas necesidades del usuario.
 
@@ -5040,8 +4638,7 @@ Demuestrale al usuario que algo ha cambiado, y porqué este cambio es para mejor
 Como escribí antes, el usuario está conforme y acostumbrado al viejo sistema del año 2000 que le resuelve a medias sus necesidades actuales y posiblemente el cambio que apliques no sea visible en la interfaz sino que solamente en las tecnologías de desarrollo. Aun así, hay que reflejar ese cambio también en la interfaz de usuario aplicando alguna nueva plantilla CSS(en el caso de una aplicación web), agregando nuevos servicios que quizá no eran necesarios pero que reflejen el cambio o agregando una sección de "Nueva versión, nuevas características" a manera de hacerle notar al usuario que algo ha cambiado y poder explicarle cuál es la nueva manera como ahora se realizan los procesos X y Y.
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/Sq8X5TbVcnI/AAAAAAAAGDg/hlskcdMmvS0/s400/gmailnewstuff.JPG)    
-"Los developers de Gmail
-siempre han tenido la bondad de notificarnos cuando hay nuevas características disponibles"
+"Los developers de Gmail siempre han tenido la bondad de notificarnos cuando hay nuevas características disponibles"
 
 Recuerden que en última instancia, nuestro trabajo como desarrolladores es satisfacer los deseos más oscuros y enajenados las necesidades de información de los usuarios de negocio en la empresa, por lo que tampoco es bueno pensar en reescribir todos los sistemas de la empresa solo por estar "in" en tecnologías de desarrollo de software.
 
@@ -5060,21 +4657,17 @@ Ya se que suena algo fresa o virgo (por no utilizar otro tipo de palabras) este 
 
 Para empezar quiero brindarle un homenaje a aquella con la que he pasado tantos momentos especiales, que ha estado conmigo por ya casi seis años, en las buenas y en las malas. Me ha fallado a veces, si. Delicada y a veces obstinada. Gerrera y aguantadora. Mi querida y apreciada Compu: LND.
 
-"Homenaje de un informatico
-a su computadora. Se que el sistema que sale es un Win XP, pero es que no pude encontrar un video con un Linux!"
+"Homenaje de un informatico a su computadora. Se que el sistema que sale es un Win XP, pero es que no pude encontrar un video con un Linux!"
 
 Ademas tambien a la que me acompaña a cenar y a desayunar todos los dias, la que es mi combustible para programar, para escribir en este blog, para inventar locuras aun cuando ando muy desvelado. Aquella que ya se ha vuelto mi vicio: Mi taza de cafe.
 
-"Imágenes de Tazas de Café
-decoradas para el día de San Valentín"
+"Imágenes de Tazas de Café decoradas para el día de San Valentín"
 
 Aparte de los homenajes, solamente les dejo un par de regalos que un geek apreciaría mucho recibir en estos días.
 
-"Caramelos con frases
-Geek"
+"Caramelos con frases Geek"
 
-"Camisetas con 8 bits de Corazones Animados que se iluminan cuando
-el dueño de la otra camiseta se encuentra cerca."
+"Camisetas con 8 bits de Corazones Animados que se iluminan cuando el dueño de la otra camiseta se encuentra cerca."
 
 ---
 
@@ -5170,8 +4763,7 @@ Hace unos días, hablando con mi amigo [Hugo](https://hugolfutbolymas.blogspot.c
 Aparte del fútbol, empecé a notar esta característica también en nuestra área de estudios: la informática. Me he dado cuenta que cuando uno piensa en un geek[1] o en un programador, se imagina a gente así:
 
 ![image](https://bp0.blogger.com/_jH77WNrMVRA/R6gW_-__NFI/AAAAAAAAAfE/GJY41-zQIf4/s320/John-Gilmore-2.jpg)    ![image](https://bp0.blogger.com/_jH77WNrMVRA/R6gW_-__NGI/AAAAAAAAAfM/j3a1zwOdRhU/s320/Linus-Torvalds-1.jpg)    ![image](https://bp1.blogger.com/_jH77WNrMVRA/R6gXAO__NHI/AAAAAAAAAfU/Er2t3iaB2uU/s320/Richard-Stallman-2.jpg)    
-"John Gillmore, fundador de
-Electronic Frontier Foundation y Cygnus Solutions, también colaborador en el proyecto GNU. Linus Torvalds, Creador del kernel de Linux. Richard Stallman, fundador del proyecto GNU y revolucionario del software libre."
+"John Gillmore, fundador de Electronic Frontier Foundation y Cygnus Solutions, también colaborador en el proyecto GNU. Linus Torvalds, Creador del kernel de Linux. Richard Stallman, fundador del proyecto GNU y revolucionario del software libre."
 
 Si ponen un poco de atención, se darán cuenta que todos ellos son hombres y hombres que no les importa mucho su apariencia física, o que conservan las antiguas raíces de la moda Hippie. Donde están las mujeres? Será que algunos creerán que esta se considera una carrera sexista? La verdad es que comúnmente las mujeres no se sienten atraídas por esta, mas que una carrera, un estilo de vida.
 
@@ -5188,22 +4780,17 @@ Vagando por la web me he encontrado a algunas féminas clasificadas como geeks, 
 
 Summer Williams: Es una porrista de los Houston Texans y, al mismo tiempo, una ingeniero aeroespacial de la NASA. Aunque Ud. no lo crea!
 
-![image](https://bp1.blogger.com/_jH77WNrMVRA/R6giIO__NII/AAAAAAAAAfc/2HmcfcdQ5lE/s320/p1_summerwilliams1.jpg)     Nikita Kashner: Australiana de 23 años, ha trabajado como modelo y
-también como diseñadora web.
+![image](https://bp1.blogger.com/_jH77WNrMVRA/R6giIO__NII/AAAAAAAAAfc/2HmcfcdQ5lE/s320/p1_summerwilliams1.jpg)     Nikita Kashner: Australiana de 23 años, ha trabajado como modelo y también como diseñadora web.
 
-![image](https://bp1.blogger.com/_jH77WNrMVRA/R6gkuO__NJI/AAAAAAAAAfk/ZpkCuUCGiVs/s320/422939224_2aa28cf073.jpg)    
-Larissa Meek: Modelo profesional, actriz, finalista de Miss U.S.A. y por si fuera poco, animadora 3D y diseñadora web!
+![image](https://bp1.blogger.com/_jH77WNrMVRA/R6gkuO__NJI/AAAAAAAAAfk/ZpkCuUCGiVs/s320/422939224_2aa28cf073.jpg)     Larissa Meek: Modelo profesional, actriz, finalista de Miss U.S.A. y por si fuera poco, animadora 3D y diseñadora web!
 
-![image](https://bp2.blogger.com/_jH77WNrMVRA/R6gm6e__NKI/AAAAAAAAAfs/MtRf_uqtgjY/s320/larissa-01.jpg)    
-Jade Raymond: se graduó de ciencias de la computación en la universidad de McGill y trabajó como programadora de videojuegos en Sony, productora en EA Games y actualmente es productora del tan esperado videojuego Asassins Creed, de Ubisoft.
+![image](https://bp2.blogger.com/_jH77WNrMVRA/R6gm6e__NKI/AAAAAAAAAfs/MtRf_uqtgjY/s320/larissa-01.jpg)     Jade Raymond: se graduó de ciencias de la computación en la universidad de McGill y trabajó como programadora de videojuegos en Sony, productora en EA Games y actualmente es productora del tan esperado videojuego Asassins Creed, de Ubisoft.
 
-![image](https://bp1.blogger.com/_jH77WNrMVRA/R6hp2O__NLI/AAAAAAAAAf0/8ixjOpx9btE/s320/jade-raymond-2.jpg)    
-Jade es, quizá, una de las las pocas mujeres que encontré a las cuales de verdad le asignan el título de programadoras. Por supuesto, conservo la esperanza que en algún lado de esta gran "Red de Redes" exista y crezca una mayor cantidad mujeres apasionadas por el mundo del desarrollo de software y por supuesto que no dejen de lado su apariencia personal.
+![image](https://bp1.blogger.com/_jH77WNrMVRA/R6hp2O__NLI/AAAAAAAAAf0/8ixjOpx9btE/s320/jade-raymond-2.jpg)     Jade es, quizá, una de las las pocas mujeres que encontré a las cuales de verdad le asignan el título de programadoras. Por supuesto, conservo la esperanza que en algún lado de esta gran "Red de Redes" exista y crezca una mayor cantidad mujeres apasionadas por el mundo del desarrollo de software y por supuesto que no dejen de lado su apariencia personal.
 
 La busqúeda continua...
 
-[1]Me imagino que ya sabrán lo
-que significa el término geek, a groso modo es una persona apasionada por el mundo de la informática o la tecnología, rubro dentro del cual caemos los que nos consideremos programadores, o fanáticos de star treek, star wars, etc.
+[1]Me imagino que ya sabrán lo que significa el término geek, a groso modo es una persona apasionada por el mundo de la informática o la tecnología, rubro dentro del cual caemos los que nos consideremos programadores, o fanáticos de star treek, star wars, etc.
 
 ---
 
@@ -5216,9 +4803,7 @@ draft: false
 post_id: blog-3515952828243908885.post-3871582453194179268
 ---
 
-![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SwH9HgEsoqI/AAAAAAAAGEg/0VVxCDHkSiQ/s400/fflogo-addons.png)    
-"Una de
-las características que destacan a Firefox de los demás navegadores es su gran cantidad de útiles add-ons que se pueden instalar en el"
+![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SwH9HgEsoqI/AAAAAAAAGEg/0VVxCDHkSiQ/s400/fflogo-addons.png)     "Una de las características que destacan a Firefox de los demás navegadores es su gran cantidad de útiles add-ons que se pueden instalar en el"
 
 Firefox Addons
 
@@ -5233,44 +4818,37 @@ Este es uno de los addons que no pueden faltar en el browser de todo desarrollad
 Miscellaneous -> Display line guides: Esta opción sirve para comprobar la alineación diferentes elementos HTML de un sitio web. Sustituye al add-on gridfox.
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SwX-PRE9fII/AAAAAAAAGEo/7i718QzJiEM/s400/FFLineGuides.png)    
-"En este ejemplo podemos ver
-como usamos las líneas guía del Web Developer Toolbar para detectar una porción desalineada en las secciones de la Wikipedia, la cual se ha remarcado con una flecha."
+"En este ejemplo podemos ver como usamos las líneas guía del Web Developer Toolbar para detectar una porción desalineada en las secciones de la Wikipedia, la cual se ha remarcado con una flecha."
 
 Miscellaneous -> Display ruler: Con esta opción puedes dibujar un rectángulo remarcando elementos HTML o cualquier sección dentro de una página web y este te dirá la posición X/Y, longitud y anchura de estos elementos en pixeles. Una vez dibujado el rectángulo este puede moverse y redimensionarse para remarcar exactamente el elemento del cual se desea saber su posición y tamaño dentro de la página. Sustituye al addon measureit.
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SwYADj6WsLI/AAAAAAAAGEw/HZqEobqyNgc/s400/FFRuler.png)    
-"La caja de texto de
-búsqueda de Google mide exactamente 568 pixeles de ancho y 25 de largo"
+"La caja de texto de búsqueda de Google mide exactamente 568 pixeles de ancho y 25 de largo"
 
 Information -> Display Element Information: Esta opción convertirá tu puntero en una cruz con la cual podrás remarcar y seleciconar un elemento HTML dentro de un sitio web y al darle clic, WebDeveloper te mostrará un recuadro con los atributos, clases, posición, ancestros, etc. de dicho elemento. Además, debajo de la WebDeveloper toolbar te mostrará la ubicación en formato XPath de dicho elemento.
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SwYCet5WR8I/AAAAAAAAGE4/QzkbNPFXfgI/s400/FFDispInfo.png)    
-"Información del elemento
-HTML caja de búsqueda del sitio twitter.com"
+"Información del elemento HTML caja de búsqueda del sitio twitter.com"
 
 Outline -> Outline Custom Elements: La cual te permite remarcar elementos HTML de una página mediante su id, clase o tag, permitiéndonos además remarcar 5 elementos a la vez y elegir el color con el que queremos que cada uno de ellos sea remarcado. Una forma de búsqueda de elementos similar a como lo realiza el addon FireFinder.
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SwYF6f32XII/AAAAAAAAGFA/cMW6kimiYno/s400/FFOutline1.png)    
-"WebDeveloper nos remarca
-los elementos HTML dentro de la página de Javaword que poseen la clase CSS llamada byline"
+"WebDeveloper nos remarca los elementos HTML dentro de la página de Javaword que poseen la clase CSS llamada byline"
 
 Cookies -> View Cookie Information: Esta opción nos abrirá una nueva pestaña de Firefox en la cual nos listará todas las cookies que los sitios visitados han guardado en nuestro sistema, además de poder editarlas y eliminarlas. Desde la opción Cookies también podemos agregar nuevas cookies a nuestro sistema operativo por si algún sitio la requiere. Funciona de manera similar al addon firecookie
 
 ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SwYIXQCZCFI/AAAAAAAAGFI/HfImTHrNI14/s400/FFCookies.png)    
-"WebDeveloper me muestra las
-cookies que el sitio osum.sun.com ha guardado en mi computadora"
+"WebDeveloper me muestra las cookies que el sitio osum.sun.com ha guardado en mi computadora"
 
 Information -> View Color Information: Opción con la cual podremos obtener la paleta de colores que se está usando en un sitio web, con sus respectivos valores en RGB hexadecimal. Esta nos la visualiza en una nueva pestaña de Firefox.
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SwYKm3_2rJI/AAAAAAAAGFQ/ykf_tjKvT0g/s400/FFColorInfo.png)    
-"WebDeveloper mostrando la
-paleta de colores que compone el sitio deviantart.com"
+"WebDeveloper mostrando la paleta de colores que compone el sitio deviantart.com"
 
 Tools -> Validate HTML: La cual nos lleva a la página de validación del w3c.org en el cual revisan la validez del código HTML con el cual está construido el sitio que estábamos visitando. En dicho sitio se nos lista detalladamente cada uno de los errores HTML que posee el sitio anteriormente visitado. Existe una opción extra, Tools -> Display page validation la cual te muestra una barra de herramientas debajo de la WebDeveloper la cual nos aplica una validación básica del HTML y CSS de nuestro sitio.
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SwYN7OuJetI/AAAAAAAAGFY/KiW714dU_gQ/s400/FFValidations.png)    
-"Al validar el sitio
-stackoverflow.com desde la opción del WebDeveloper podemos ver que según el w3c validator este posee unos cuantos errores. Sin embargo la validación básica que aparece en la barra de herramientas bajo la WebDeveloper nos dice que el HTML es válido."
+"Al validar el sitio stackoverflow.com desde la opción del WebDeveloper podemos ver que según el w3c validator este posee unos cuantos errores. Sin embargo la validación básica que aparece en la barra de herramientas bajo la WebDeveloper nos dice que el HTML es válido."
 
 Próximamente hablaremos de otro add-on de Firefox que merece un post completo debido a su gran complejidad y al hecho que es un add-on que soporta más add-ons. Estén pendientes.
 
@@ -5285,8 +4863,7 @@ draft: false
 post_id: blog-3515952828243908885.post-6539930810951644165
 ---
 
-![image](https://bp3.blogger.com/_ayvorITawE4/RkUlFUK332I/AAAAAAAAAWY/BaoO3xygYlc/s400/14105b_origami.gif)    Samsung fue el único fabricante que apostó de lleno por Origami. Todo
-indica ahora que el PC portátil de con pantalla sensible al tacto será descontinuado y pasará al olvido. Samsung lanzó dos modelos, en tanto que Sony hizo un intento más limitado. Luego reinó el silencio en torno al producto, y actualmente casi nadie habla de Origami o UMPC (Ultra Mobile Personal Computer), que es su denominación técnica. En la práctica, Intel ha abandonado el proyecto, con su reciente anuncio del denominado MID (Mobile Internet Device). MID es una máquina con especificaciones mucho menos ambiciosas que Origami, pero está optimizada para Internet móvil en grado considerablemente mayor que la relativamente aparatosa UMPC.
+![image](https://bp3.blogger.com/_ayvorITawE4/RkUlFUK332I/AAAAAAAAAWY/BaoO3xygYlc/s400/14105b_origami.gif)    Samsung fue el único fabricante que apostó de lleno por Origami. Todo indica ahora que el PC portátil de con pantalla sensible al tacto será descontinuado y pasará al olvido. Samsung lanzó dos modelos, en tanto que Sony hizo un intento más limitado. Luego reinó el silencio en torno al producto, y actualmente casi nadie habla de Origami o UMPC (Ultra Mobile Personal Computer), que es su denominación técnica. En la práctica, Intel ha abandonado el proyecto, con su reciente anuncio del denominado MID (Mobile Internet Device). MID es una máquina con especificaciones mucho menos ambiciosas que Origami, pero está optimizada para Internet móvil en grado considerablemente mayor que la relativamente aparatosa UMPC.
 
 Intel presentó el concepto en el marco de Intel Developer Forum en Beijing hace dos semanas.
 
@@ -5309,12 +4886,10 @@ post_id: blog-3515952828243908885.post-6118714536713522919
 " también se ve involucrada. En la inaguración de las Olimpiadas de Beijin ocurrió un BSOD en el famoso "Nido de Pájaro"... ¿No me creen?, he aquí las pruebas:
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SKGTYpRxiUI/AAAAAAAABDs/Ofd8aRJeGM8/s320/bsod1.jpg)    
-"Click para ver más
-grande"
+"Click para ver más grande"
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SKGTY5VY5CI/AAAAAAAABD0/Y-Ma9IzchOw/s320/bsod_nest_main2.jpg)    
-"Click para ver más
-grande"
+"Click para ver más grande"
 
 Lo que no entiendo es: ¿Que rayos hace un proyector, a esa altura, en el Nido de Pájaro?... ¿habrán leído el articulo de este blog y ese es un tributo? ja ja, si solo una imagen existiera, pues claro que seriamos más que escépticos, pero en un evento con tanta gente, y con tantas cámaras digitales - afortunadamente - se suman otros ángulos de dicho problema. Ah, y la [NBC broadcast](https://www.nbc.com/) ya confirmo lo sucedido. Pueden encontrar más fotos y detalles de este particular problema en estos sitios: [Power Apple Forum (China, fotos originales)](https://forum.powerapple.com/modules.php?name=forum&file=viewtopic&forum=62&topic=23034&start=0), [RiverCool live space blog](https://rivercoolcool.spaces.live.com/blog/cns%21D6F05428A2B8CB48%211570.entry) y en [Gizmodo](https://gizmodo.com/5035456/blue-screen-of-death-strikes-birds-nest-during-opening-ceremonies-torch-lighting#c7158273). ¿Y que harías tu si te sucediera este problema?
 
@@ -5343,8 +4918,7 @@ post_id: blog-3515952828243908885.post-135227451282870820
 ---
 
 ![image](https://bp3.blogger.com/_jH77WNrMVRA/SAZSAvKZm8I/AAAAAAAAA1c/iNCjTcaUeC0/s320/logo.gif)    
-"Logo Oficial del Sitio y
-Evento ShutdownDay 2008"
+"Logo Oficial del Sitio y Evento ShutdownDay 2008"
 
 ¿Eres capaz de sobrevivir 24 horas sin utilizar tu computadora?
 
@@ -5356,8 +4930,7 @@ El evento fué todo un éxito en el 2007 y ahora comienza el desafío para este 
 
 En [su sitio oficial](https://www.shutdownday.org/) puedes ver la cuenta regresiva y registrarte para poder dar tu opinión acerca de si podrías o no superar el desafío. Además te permiten participar realizando [flash mobs](https://en.wikipedia.org/wiki/Flash_mob), comprando camisetas, capturando fotografías y vídeos sobre tus ideas de lo que haces(o harás) ese día en especifico (con lo cual te puedes hacer merecedor de uno de los premios que ofrecen para las mejores ideas), patrocinando el evento, etc.
 
-"Video promocional del
-evento: 'Is Not You' "
+"Video promocional del evento: 'Is Not You' "
 
 ---
 
@@ -5376,13 +4949,11 @@ En el Sr. Byte hemos decidido que cada autor recomendara a sus cinco blogs favor
 
 [Anagraxy (Blog de Ana Graciela)](https://anagraxy.blogspot.com/)
 
-![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SLr78qR2t3I/AAAAAAAACDI/hFEZCSztOEk/s400/blog1.png)    
-Una reciente adhesión a nuestra blogósfera salvadoreña. En su blog escribe de manera muy jocosa acerca de su vida amorosa y en general de sus "patoaventuras" en la universidad y en su vida. No se considera una geek o mucho menos una programadora pero por alguna razón que ella aun se cuestiona, termino estudiando Ingeniería de Sistemas Informáticos y lucha para lograr terminar su carrera en un futuro cercano.
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SLr78qR2t3I/AAAAAAAACDI/hFEZCSztOEk/s400/blog1.png)     Una reciente adhesión a nuestra blogósfera salvadoreña. En su blog escribe de manera muy jocosa acerca de su vida amorosa y en general de sus "patoaventuras" en la universidad y en su vida. No se considera una geek o mucho menos una programadora pero por alguna razón que ella aun se cuestiona, termino estudiando Ingeniería de Sistemas Informáticos y lucha para lograr terminar su carrera en un futuro cercano.
 
 [Despalabra (Blog de Leslie Lemus)](https://despalabra.blogspot.com/)
 
-![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SLr8KqsPc9I/AAAAAAAACDQ/u7lSmZNbBFg/s400/blog2.png)    
-Una chica local que, según mi percepción, le gusta mucho la poesía. Tengo poco tiempo de conocer su blog pero no puedo dejar de interesarme por las frases celebres y extractos literarios que esta chica escribe.
+![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SLr8KqsPc9I/AAAAAAAACDQ/u7lSmZNbBFg/s400/blog2.png)     Una chica local que, según mi percepción, le gusta mucho la poesía. Tengo poco tiempo de conocer su blog pero no puedo dejar de interesarme por las frases celebres y extractos literarios que esta chica escribe.
 
 [MundoGeek (Blog de Zootropo)](https://mundogeek.net/)
 
@@ -5392,13 +4963,11 @@ Un completo geek y usuario de GNU/Linux latinoamericano que escribe temas intere
 
 [Pitonizza (Blog de Pitonizza)](https://www.pitonizza.com/)
 
-![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SLr8l_71pcI/AAAAAAAACDg/JU3lVz1ZnOo/s400/blog5.png)    
-Una "veterana" mujer, muy exótica y mística que le gusta mucho la música rock y vivir un día a la vez, disfrutando de su estilo de vida rebelde y único. Escribe comúnmente de experiencias de su vida, completamente mezcladas con historias ficticias que intrigan y llaman tanto la atención de cualquiera que se de una vuelta por su blog, sembrando la semilla de volver a visitarla, todo generado sin utilizar mas recursos que su propia imanación y creatividad.
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SLr8l_71pcI/AAAAAAAACDg/JU3lVz1ZnOo/s400/blog5.png)     Una "veterana" mujer, muy exótica y mística que le gusta mucho la música rock y vivir un día a la vez, disfrutando de su estilo de vida rebelde y único. Escribe comúnmente de experiencias de su vida, completamente mezcladas con historias ficticias que intrigan y llaman tanto la atención de cualquiera que se de una vuelta por su blog, sembrando la semilla de volver a visitarla, todo generado sin utilizar mas recursos que su propia imanación y creatividad.
 
 [FailBeta (Blog de Fernando del Pozo)](https://www.failbeta.com/)
 
-![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SLr8zNHz-BI/AAAAAAAACDo/_ystQ6G97To/s400/blog4.png)    
-Un blog acerca de blogs. En este blog, Fernando hace una revisión de sitios que fueron lanzados tiempo atrás con la esperanza de volverse populares y exitosos pero que por razones diversas (las cuales el trata de explicar) estos no lograron su cometido. Cada post nos deja una lección de como debemos evitar cometer los mismos errores en los que cayeron dichos sitios, o sino, seremos los próximos en aparecer en dicho blog.
+![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SLr8zNHz-BI/AAAAAAAACDo/_ystQ6G97To/s400/blog4.png)     Un blog acerca de blogs. En este blog, Fernando hace una revisión de sitios que fueron lanzados tiempo atrás con la esperanza de volverse populares y exitosos pero que por razones diversas (las cuales el trata de explicar) estos no lograron su cometido. Cada post nos deja una lección de como debemos evitar cometer los mismos errores en los que cayeron dichos sitios, o sino, seremos los próximos en aparecer en dicho blog.
 
 ---
 
@@ -5411,15 +4980,13 @@ draft: false
 post_id: blog-3515952828243908885.post-1321894934700699377
 ---
 
-![image](https://www.blogday.org/images/badge_yellow.gif)     Ya
-[Robertux](https://www.blogger.com/profile/15615123126956711175) [compartio cinco blogs](https://www.srbyte.com/2008/08/feliz-blog-day.html) para el [BlogDay](https://www.srbyte.com/2008/08/que-es-el-blogday.html), y yo no me puedo quedar atrás jejeje. Si que, aquí están, sin ningún motivo en particular los otros cinco blogs que hacen falta para completar la lista y dar por terminada la "celebración" de este día. Solo me falta mencionar, que quizás para la próxima, la blogosfera Salvadoreña se organice y realice alguna actividad.
+![image](https://www.blogday.org/images/badge_yellow.gif)     Ya [Robertux](https://www.blogger.com/profile/15615123126956711175) [compartio cinco blogs](https://www.srbyte.com/2008/08/feliz-blog-day.html) para el [BlogDay](https://www.srbyte.com/2008/08/que-es-el-blogday.html), y yo no me puedo quedar atrás jejeje. Si que, aquí están, sin ningún motivo en particular los otros cinco blogs que hacen falta para completar la lista y dar por terminada la "celebración" de este día. Solo me falta mencionar, que quizás para la próxima, la blogosfera Salvadoreña se organice y realice alguna actividad.
 
 Nacionales:
 
 [Fotografía Digital de El Salvador](https://mservellon.blogspot.com/) ([Miguel Angel Servellón](https://www.blogger.com/profile/07139871673459512835))
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SLs8HKlxWtI/AAAAAAAABNI/2-eeHApM3N8/s320/fotografia.digital.esv.png)    
-Este blog de fotografía es de Miguel Angel Servellón, Abogado y Notario, y en el se disponen toda la obra del autor, dedicada a capturar los rostros y paisajes de nuestro bello país.
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SLs8HKlxWtI/AAAAAAAABNI/2-eeHApM3N8/s320/fotografia.digital.esv.png)     Este blog de fotografía es de Miguel Angel Servellón, Abogado y Notario, y en el se disponen toda la obra del autor, dedicada a capturar los rostros y paisajes de nuestro bello país.
 
 [Arquitectura en Construccion](https://arquitecturaenconstruccion.blogspot.com/) ([Sara Centeno](https://www.blogger.com/profile/08690917371327868525))
 
@@ -5429,22 +4996,17 @@ La autora de este blog es Arquitecta, y se desempeña como docente universitaria
 
 [Mi vida, lo publico y no tanto](https://keyboardphd.wordpress.com/) ([Yohan](https://keyboardphd.wordpress.com/about/))
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SLs8HnJjByI/AAAAAAAABNg/1_6VzpRVG2o/s320/yohan.png)    
-Blog personal de Yohan, hay mucho contenido, es muy variado, interesante y entretenido. Y si mal no recuerdo, este "cipote" estuvo figurando en la - para mí - fallecida comunidad Salvadoreña llamada: AyVeVos.
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SLs8HnJjByI/AAAAAAAABNg/1_6VzpRVG2o/s320/yohan.png)     Blog personal de Yohan, hay mucho contenido, es muy variado, interesante y entretenido. Y si mal no recuerdo, este "cipote" estuvo figurando en la - para mí - fallecida comunidad Salvadoreña llamada: AyVeVos.
 
 Internacionales:
 
-[LogóLogos](https://logologos.blogspot.com/) ( un par, que no
-quiere tener problemas de P.I.)
+[LogóLogos](https://logologos.blogspot.com/) ( un par, que no quiere tener problemas de P.I.)
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SLs8HdeDu8I/AAAAAAAABNQ/z5FLkFTd3VQ/s320/logologos.png)    
-No hay mejor descripción, que la de ellos mismos: "Un derroche de creatividad basado en la creatividad de otros. Eso es una ecuación creativa de resultado dudoso. Y de ahí a un blog, hay sólo un modem de distancia." Muy, muy recomendado.
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SLs8HdeDu8I/AAAAAAAABNQ/z5FLkFTd3VQ/s320/logologos.png)     No hay mejor descripción, que la de ellos mismos: "Un derroche de creatividad basado en la creatividad de otros. Eso es una ecuación creativa de resultado dudoso. Y de ahí a un blog, hay sólo un modem de distancia." Muy, muy recomendado.
 
-[PalabrasTextuales](https://www.palabrastextuales.com/) ( Fernando L. Barbella
-)
+[PalabrasTextuales](https://www.palabrastextuales.com/) ( Fernando L. Barbella )
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SLs8HpIlsPI/AAAAAAAABNY/fw6GTe4CUzM/s320/palabrastextuales.png)    
-Blog dedicado a transcribir las incontables frases ridículas y sin sentido que los "profesionales" de Marketing, Comunicación y Publicidad pueden llegar a decir en lo que aquí en El Salvador conocemos popularmente como "Lapsus Estupidus". Ah, y este blog es tan bueno, que también [lo hicieron libro.](https://www.indexbook.es/libro.php?651)
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SLs8HpIlsPI/AAAAAAAABNY/fw6GTe4CUzM/s320/palabrastextuales.png)     Blog dedicado a transcribir las incontables frases ridículas y sin sentido que los "profesionales" de Marketing, Comunicación y Publicidad pueden llegar a decir en lo que aquí en El Salvador conocemos popularmente como "Lapsus Estupidus". Ah, y este blog es tan bueno, que también [lo hicieron libro.](https://www.indexbook.es/libro.php?651)
 
 ---
 
@@ -5460,8 +5022,7 @@ post_id: blog-3515952828243908885.post-195792457405184704
 ¡Hoy el blog de [David Mejia](https://damr.net/acerca-de/david-mejia) (damr.net) cumple 2 años de existencia en la blogosfera! Asi que, por semejante exito, constancia y dedicacion ( y porque aunque no les guste a muchos, el blog de david es un punto de referencia para la mayoria de blogs Salvadoreños jaja!) el Sr. Byte le hace la mención (prometida en Twitter, ooops!) y le da los honores que se mercidos :D
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SHJF0_Ogh_I/AAAAAAAAA2E/Pb0NLxIVvdg/s400/damr.net.jpg)    
-"Imagen: Captura del blog de
-David Media."
+"Imagen: Captura del blog de David Media."
 
 ¡Felicidades David! Muchos exitos y un "googol" de años más bloggeando :) Atte. Staff del Sr.
 
@@ -5477,8 +5038,7 @@ post_id: blog-3515952828243908885.post-5743602935186279806
 ---
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SKcNwgYNEGI/AAAAAAAACAE/aEUGnhgTB6Y/s320/DSCN3332.sized.jpg)    
-"Pastel de Cumpleaños con la
-Espiral de Debian"
+"Pastel de Cumpleaños con la Espiral de Debian"
 
 Un día como hoy, 16 de agosto de 1993 fue iniciado el proyecto que dio lugar a la tan popular distribución de GNU/Linux: [Debian](https://www.debian.org/).
 
@@ -5494,15 +5054,13 @@ Algunos datos curiosos acerca de Debian:
 
 - Ha servido como base para una gran cantidad de distribuciones "hijas" como por ejemplo Knoppix y Ubuntu, por mencionar algunas de las mas populares ([acá](https://www.debian.org/misc/children-distros) esta la lista completa).
 ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SKcSYGVVndI/AAAAAAAACAM/gVJO1zVjKFM/s320/buzz.jpg)    
-"El origen de la espiral de
-Debian: La barbilla de Buzz Light Year"
+"El origen de la espiral de Debian: La barbilla de Buzz Light Year"
 
 Por tal motivo, cada 14 de agosto se celebra el Día Debian ([Debian Day](https://wiki.debian.org/DebianDay2008)) brindando las tradicionales charlas, install fest, LAN party, reuniones y todo lo que se les pueda ocurrir a un grupo de geeks para homenajear a una de las distribuciones que mas han aportado a la difusión de GNU/Linux y el software libre en general.
 
 Para terminar los dejo con un vídeo de los ya conocidos sorprendentes efectos de Compiz Fusion, corriendo sobre un Debian GNU/Linux:
 
-"Efectos de Compiz Fusion, sobre Debian
-GNU/Linux"
+"Efectos de Compiz Fusion, sobre Debian GNU/Linux"
 
 ---
 
@@ -5516,8 +5074,7 @@ post_id: blog-3515952828243908885.post-6526077740239626451
 ---
 
 ![image](https://bp0.blogger.com/_jH77WNrMVRA/R9mFlNxJydI/AAAAAAAAAnw/niYOdn6XY-s/s320/2190712270_b57a62e511.jpg)    
-"Tarta de Calabaza con el
-Símbolo de PI"
+"Tarta de Calabaza con el Símbolo de PI"
 
 Muchos informáticos, matemáticos, frikis y geeks en general celebran el día de hoy como el día pi (π), esa constante tan mencionada en la geometría y en la trigonometría que ha hecho sufrir a muchos cuando aparece en todas esas complicadas ecuaciones matemáticas desde áreas y volúmenes de figuras geométricas primitivas como los conos, cilindros y esferas hasta fórmulas relacionadas con la teoría de la relatividad general de Einstein.
 
@@ -5526,8 +5083,7 @@ Pueda que algunos solo lo hayan oído mencionar así que solo les brindo una sim
 
 PI es una constante matemática utilizada comúnmente en la geometría que representa la razón (o el cociente) de la longitud del perímetro de un círculo con respecto a la longitud su diámetro. Su valor suele redondearse a 3.1416 o 3.14159 aunque en realidad posee una cantidad infinita de decimales. En la wikipedia se encuentra más información al respecto y una imagen animada que ilustra muy claramente la relación perímetro/diámetro antes mencionada.
 
-[Acá](https://zenwerx.com/pi.php) pueden encontrar una
-aproximación de PI con al rededor de cuatro millones de decimales.
+[Acá](https://zenwerx.com/pi.php) pueden encontrar una aproximación de PI con al rededor de cuatro millones de decimales.
 
 - ¿Porqué se celebra hoy?
 El día PI se celebra comúnmente el día de hoy, 14 de marzo de cada año, de manera que se lea Marzo 3, día 14 las cuales son las primeras tres cifras que forman el número en cuestión: 3.14. Algunas personas lo celebran también el 22 de Julio(22 del 7), debido a que la fracción 22/7 es una aproximación común al valor de PI.
@@ -5554,8 +5110,7 @@ El Staff del Sr. Byte, le desea a todos sus lectores una feliz navidad y prosper
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SzRIt3diPHI/AAAAAAAACQs/wdVjRkJppaQ/s200/merry%2520christmas.jpg)    
 
-"El amor y la verdad se darán cita, la paz y la justicia se besarán"
-(Sal 85:10).
+"El amor y la verdad se darán cita, la paz y la justicia se besarán" (Sal 85:10).
 
 Les dejo un interesante vinculo de la [vista panoramica (WebCam) de la Plaza de San Pedro en Roma](https://www.vaticanstate.va/ES/Monumentos/webcam/index?cam=webcam1&testo=Panorámica%20de%20Roma).
 
@@ -5570,16 +5125,13 @@ draft: false
 post_id: blog-3515952828243908885.post-3780479075595043745
 ---
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SVMwXjZFy8I/AAAAAAAAB0s/JtRqgeeeSVU/s200/%5B58%5D_merry-christmas-blue-style.jpg)    Queridos lectores:
-que la paz, el amor y el espíritu de la caridad renazca en estas festividades en ustedes y se derrame en toda su familia. Que Dios los bendiga, y MUCHO. Son los deseos del Staff del Sr. Byte: [Rodrigo Amaya](https://www.blogger.com/profile/15626618787991058196), [Robertux](https://www.blogger.com/profile/15615123126956711175) y [Beautty Butterfly](https://www.blogger.com/profile/09232565235954777124).
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SVMwXjZFy8I/AAAAAAAAB0s/JtRqgeeeSVU/s200/%5B58%5D_merry-christmas-blue-style.jpg)    Queridos lectores: que la paz, el amor y el espíritu de la caridad renazca en estas festividades en ustedes y se derrame en toda su familia. Que Dios los bendiga, y MUCHO. Son los deseos del Staff del Sr. Byte: [Rodrigo Amaya](https://www.blogger.com/profile/15626618787991058196), [Robertux](https://www.blogger.com/profile/15615123126956711175) y [Beautty Butterfly](https://www.blogger.com/profile/09232565235954777124).
 
 ¡Feliz Navidad 2008!
 
-Y... aquí les dejo un regalito ... bastante geek ;) ¿Saben que es lo que hacia por las mañanas por estas fechas cuando tenia 7 u 8 años? La pase más de alguna vez jugando [Duck Hunt](https://www.tripletsandus.com/80s/80s_games/duckhunt.htm), en el Nintendo de mis primos...
-![image](https://amog.com/wp-content/uploads/2008/11/_duckhunt-300x224.jpg)    
+Y... aquí les dejo un regalito ... bastante geek ;) ¿Saben que es lo que hacia por las mañanas por estas fechas cuando tenia 7 u 8 años? La pase más de alguna vez jugando [Duck Hunt](https://www.tripletsandus.com/80s/80s_games/duckhunt.htm), en el Nintendo de mis primos... ![image](https://amog.com/wp-content/uploads/2008/11/_duckhunt-300x224.jpg)    
 
-Y también [Battle City](https://www.1980-games.com/us/old-games/nintendo/b/Battle_City/big-game.php):
-![image](https://amog.com/wp-content/uploads/2008/11/battle-city-300x281.png)    
+Y también [Battle City](https://www.1980-games.com/us/old-games/nintendo/b/Battle_City/big-game.php): ![image](https://amog.com/wp-content/uploads/2008/11/battle-city-300x281.png)    
 
 Sin lugar a dudas, más de alguno hizo igual que yo, así que aquí, el regalo nostálgico-geek (y útil en momentos de ocio) es una lista de... [> 95 Juegos de > Nintendo para jugar en linea](https://amog.com/tech/gaming/oldschool-videogames/) y también un...
 
@@ -5602,8 +5154,7 @@ No se necesita tener una PDA, un celular complejo con acceso a Internet o tener 
 > style="font-size:130%;">Firefox y Google
 Google en estos últimos años ha implementado una serie de herramientas fantásticas para trabajar en linea, que sustituyen aplicaciones de escritorio que usamos día a día. Es hora de dejar de pensar en el escritorio y comenzar a pensar OnLine, todas las herramientas están en nuestras narices.
 
-![image](https://bp3.blogger.com/_ayvorITawE4/RhsTt_XLh3I/AAAAAAAAAQY/DzVmchvGrXU/s400/google.jpg)    
-Documentos de Word y Excel: El sobrecargado Microsoft Office y el (a veces) lento OpenOffice.org pueden ser fácilmente remplazados con [Google Docs & Spreadsheets](https://www.google.com/google-d-s/intl/en/tour1.html). No solo Google Docs & Spreadsheets ofrece una poderosa interfaz web hecha en AJAX sino que se integra (como todos los servicios de Google) de manera transparente en una cuenta de Google existente (si tienes cuenta de Gmail tienes cuenta con Google).
+![image](https://bp3.blogger.com/_ayvorITawE4/RhsTt_XLh3I/AAAAAAAAAQY/DzVmchvGrXU/s400/google.jpg)     Documentos de Word y Excel: El sobrecargado Microsoft Office y el (a veces) lento OpenOffice.org pueden ser fácilmente remplazados con [Google Docs & Spreadsheets](https://www.google.com/google-d-s/intl/en/tour1.html). No solo Google Docs & Spreadsheets ofrece una poderosa interfaz web hecha en AJAX sino que se integra (como todos los servicios de Google) de manera transparente en una cuenta de Google existente (si tienes cuenta de Gmail tienes cuenta con Google).
 
 Email: Evidentemente la respuesta en Gmail ([aunque la nueva iniciativa de yahoo mail intriga mucho](https://srbyte.blogspot.com/2007/03/yahoo-mail-ilimitado.html)), Gmail es rápido, eficiente y mejor que muchas aplicaciones de escritorio que hacen "lo mismo".
 
@@ -5645,10 +5196,8 @@ draft: false
 post_id: blog-3515952828243908885.post-6910518111902055537
 ---
 
-Si después de utilizar [Google Chrome](https://www.srbyte.com/2008/09/navegador-web-de-google.html) en Windows, te sientes desdichado porque deseas esa misma velocidad en Firefox, entonces prueba Firefox [Minefield](https://www.mozilla.org/projects/minefield/).
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SODq-MH0iNI/AAAAAAAABT0/PKMijjlShZQ/s320/minefield-icon.png)    
-"El logo de Minefield es
-bastante explicito, ¿no creen?"
+Si después de utilizar [Google Chrome](https://www.srbyte.com/2008/09/navegador-web-de-google.html) en Windows, te sientes desdichado porque deseas esa misma velocidad en Firefox, entonces prueba Firefox [Minefield](https://www.mozilla.org/projects/minefield/). ![image](https://3.bp.blogspot.com/_ayvorITawE4/SODq-MH0iNI/AAAAAAAABT0/PKMijjlShZQ/s320/minefield-icon.png)    
+"El logo de Minefield es bastante explicito, ¿no creen?"
 
 Advierto que Minefield, esta aun en versión Alfa... bueno, creo que a muchos no les interesa eso, después de todo, media blogosfera descargo e instalo y, usan, que es peor aun, un navegador versión Beta. Las fuentes alegan que Firefox Minefield tiene el motor javacript más rápido del www. En realidad se sabe de la existencia de [motores javascript](https://www.machaxor.net/2008/09/26/most-fastester-browser-in-the-world-evar/) más rápidos, pero ninguno de ellos están incluidos en los navegadores más populares, vaya... que brillantes. En fin, para instalar Firefox Minefield en Windows (en Linux se puede también, pero no lo he probado aun), sigue estos sencillos y cortos pasos:
 
@@ -5677,31 +5226,25 @@ draft: false
 post_id: blog-3515952828243908885.post-7759728794199761855
 ---
 
-[Flash Earth](https://www.flashearth.com/) es un nuevo sitio experimental que usa imágenes satelitales y aéreas de
-diversos sitios web de mapas como Google Maps, Yahoo! Maps, Microsoft Virtual Earth, Ask (aerial), OpenLayers y NASA Terra.
+[Flash Earth](https://www.flashearth.com/) es un nuevo sitio experimental que usa imágenes satelitales y aéreas de diversos sitios web de mapas como Google Maps, Yahoo! Maps, Microsoft Virtual Earth, Ask (aerial), OpenLayers y NASA Terra.
 
 Lo más interesante es ver la calidad y frecuencia de las imágenes que cada compañía ofrece, la diferencia ES clara entre los diferentes motores...
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/RjFJh0K33hI/AAAAAAAAATM/-c0nibeAHBw/s200/flashearth-google.jpg)    
-"Flash Earth usando imágenes de Google
-Maps"
+"Flash Earth usando imágenes de Google Maps"
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RjFJsUK33iI/AAAAAAAAATU/pkVyGtEbYLk/s200/flashearth-microsoftVE.jpg)    
-"Flash Earth usando imágenes
-de Microsoft Virtual Earth"
+"Flash Earth usando imágenes de Microsoft Virtual Earth"
 
-![image](https://bp1.blogger.com/_ayvorITawE4/RjFJz0K33jI/AAAAAAAAATc/50vHyAZzX84/s200/flashearth-yahoo.jpg)     "Flash Earth usando
-imágenes de Yahoo! Maps"
+![image](https://bp1.blogger.com/_ayvorITawE4/RjFJz0K33jI/AAAAAAAAATc/50vHyAZzX84/s200/flashearth-yahoo.jpg)     "Flash Earth usando imágenes de Yahoo! Maps"
 
 Flash Earth ofrece (de forma primitiva) los intuitivos controles de Google Earth, búsqueda de direcciones y claro, la selección del "motor" de imágenes a usar.
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/RjFLS0K33kI/AAAAAAAAATk/jusPXL9botU/s400/selecciona_motor_flashearth.jpg)    
-"Selección de motor de
-imágenes"
+"Selección de motor de imágenes"
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/RjFLhEK33lI/AAAAAAAAATs/tx2ZWp1vGEU/s400/busqueda_flashearth.jpg)    
-"Búsqueda en Flash
-Earth"
+"Búsqueda en Flash Earth"
 
 ¿Y bien, qué estas esperando para usarlo?, visita:
 
@@ -5709,8 +5252,7 @@ Earth"
 Solo recuerda aumentar el cache de flash con esa pagina para obtener un máximo rendimiento. Click derecho sobre el "flash", luego configuración o settings, selecciona la viñeta de almacenamiento local (la carpeta con una flecha verde), cambia el tamaño del "cache" a 10 MB o a ilimitado con el riesgo de tener toneladas de imágenes en el cache de Flash Earth y cierra el cuadro.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/RjFNNkK33mI/AAAAAAAAAT0/dTHR5dsudgc/s400/cacheflashearth.jpg)    
-"Configuración de
-cache en Flash Earth"
+"Configuración de cache en Flash Earth"
 
 ---
 
@@ -5723,8 +5265,7 @@ draft: false
 post_id: blog-3515952828243908885.post-1532044454872538051
 ---
 
-![image](https://bp0.blogger.com/_ayvorITawE4/Ra-isDD_h1I/AAAAAAAAAAw/QOk7MIXapks/s320/adobe+logo+sm.jpg)    Adobe Systems Inc. en Enero 17
-finalmente libero el tan esperado Adobe Flash Player 9 para GNU/Linux. Y aunque bien sabemos que NO es OpenSource, es indiscutible mente necesario y ya se esta probando su popularidad en sus primeras 24 horas de haber sido publicada la noticia. Para ir a la pagina de descarga [click aquí](https://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash) Al fin tenemos un reproductor de flash que no se traba, que soporta transparencias y que es en pocas palabras, tan bueno como el de Windows y el de Mac OS. Eso si, solo funciona con [ALSA](https://es.wikipedia.org/wiki/Arquitectura_de_Sonido_Avanzada_para_Linux) (Advanced Linux Sound Architecture) y no funciona con exploradores que no estén basados en GTK 2, como KDE Konqueror u Opera. Pero si usas Firefox 1.0.5 o 2.0, IceWeasel (mi caso) o SeaMonkey no hay de que preocuparse. Una alternativa libre para Adobe Flash Player es el proyecto [GNU Gnash](https://www.gnu.org/software/gnash/).
+![image](https://bp0.blogger.com/_ayvorITawE4/Ra-isDD_h1I/AAAAAAAAAAw/QOk7MIXapks/s320/adobe+logo+sm.jpg)    Adobe Systems Inc. en Enero 17 finalmente libero el tan esperado Adobe Flash Player 9 para GNU/Linux. Y aunque bien sabemos que NO es OpenSource, es indiscutible mente necesario y ya se esta probando su popularidad en sus primeras 24 horas de haber sido publicada la noticia. Para ir a la pagina de descarga [click aquí](https://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash) Al fin tenemos un reproductor de flash que no se traba, que soporta transparencias y que es en pocas palabras, tan bueno como el de Windows y el de Mac OS. Eso si, solo funciona con [ALSA](https://es.wikipedia.org/wiki/Arquitectura_de_Sonido_Avanzada_para_Linux) (Advanced Linux Sound Architecture) y no funciona con exploradores que no estén basados en GTK 2, como KDE Konqueror u Opera. Pero si usas Firefox 1.0.5 o 2.0, IceWeasel (mi caso) o SeaMonkey no hay de que preocuparse. Una alternativa libre para Adobe Flash Player es el proyecto [GNU Gnash](https://www.gnu.org/software/gnash/).
 
 fuente:[https://news.com.com/Adobe+ships+Flash+player+for+Linux/2100-7344_3-6150956.html](https://news.com.com/Adobe+ships+Flash+player+for+Linux/2100-7344_3-6150956.html)
 
@@ -5741,12 +5282,10 @@ draft: false
 post_id: blog-3515952828243908885.post-1848611163059965398
 ---
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SOuM8GxsUqI/AAAAAAAABVQ/oqfDT6LbcLU/s320/flashblok.png)    FlashBlock es un
-[complemento/add-on](https://srbyte.blogspot.com/2008/07/qu-es-un-complementoadd-on-de-firefox.html) de [Firefox 3.0](https://srbyte.blogspot.com/2008/07/el-guiness-record-de-firefox-3.html) (creado por [Lorenzo Colitti](https://addons.mozilla.org/en-US/firefox/user/188) y [Philip Chee](https://addons.mozilla.org/en-US/firefox/user/408)) que bloquea todo tipo de contenido de [Macromedia Flash](https://www.macromedia.com/software/flash/about/) (vídeos, juegos, anuncios, etc). La idea de este complemento, es que te permita controlar el tipo de contenido flash que deseas que se ejecute en tu navegador...
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SOuM8GxsUqI/AAAAAAAABVQ/oqfDT6LbcLU/s320/flashblok.png)    FlashBlock es un [complemento/add-on](https://srbyte.blogspot.com/2008/07/qu-es-un-complementoadd-on-de-firefox.html) de [Firefox 3.0](https://srbyte.blogspot.com/2008/07/el-guiness-record-de-firefox-3.html) (creado por [Lorenzo Colitti](https://addons.mozilla.org/en-US/firefox/user/188) y [Philip Chee](https://addons.mozilla.org/en-US/firefox/user/408)) que bloquea todo tipo de contenido de [Macromedia Flash](https://www.macromedia.com/software/flash/about/) (vídeos, juegos, anuncios, etc). La idea de este complemento, es que te permita controlar el tipo de contenido flash que deseas que se ejecute en tu navegador...
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SOuPR3zXvII/AAAAAAAABVY/BBAFPX9Dm8U/s320/flashblock.png)    
-"Click en la imagen para
-verla más grande."
+"Click en la imagen para verla más grande."
 
 Lo mejor, es que: como ya no te cargarían los vídeos/musica/juegos automáticamente, esto mejoraría de gran manera tu experiencia navegando por internet, al ayudarte a administrar mejor el (precioso) ancho de banda con el que navegas. FlashBlock también te permite habilitar flash para todo un sitio (es decir: usar un "whitelist" o lista de sitios permitidos), como Youtube o Vimeo con solo dos clicks, y también te permite habilitarlo o deshabilitarlo - al mismo FlashBlock - con solo un click. Es de lo más sencillo que se puedan imaginar.
 
@@ -5755,9 +5294,7 @@ FlashBlock bloquea este tipo de contenido:
 - Macromedia Flash (Adobe Flash)
 - Macromedia Shockwave
 - Macromedia Authorware
-Así que, para la gente que detesta ver flash por todos lados, o ingresar a una pagina y escuchar musica de la nada, FlashBlock probablemente es el complemento para ti. Para descargar directamente este complemento puedes hacer click [aquí](https://addons.mozilla.org/en-US/firefox/downloads/file/28413/flashblock-1.5.6-fx.xpi)(ver 1.5.6), sino, visita la pagina de FlashBlock:
-[> https://addons.mozilla.org/en-US/firefox/addon/433](https://addons.mozilla.org/en-US/firefox/addon/433)¡Espero
-que les sirva!
+Así que, para la gente que detesta ver flash por todos lados, o ingresar a una pagina y escuchar musica de la nada, FlashBlock probablemente es el complemento para ti. Para descargar directamente este complemento puedes hacer click [aquí](https://addons.mozilla.org/en-US/firefox/downloads/file/28413/flashblock-1.5.6-fx.xpi)(ver 1.5.6), sino, visita la pagina de FlashBlock: [> https://addons.mozilla.org/en-US/firefox/addon/433](https://addons.mozilla.org/en-US/firefox/addon/433)¡Espero que les sirva!
 
 ---
 
@@ -5770,8 +5307,7 @@ draft: false
 post_id: blog-3515952828243908885.post-4295724948883032121
 ---
 
-![image](https://bp0.blogger.com/_ayvorITawE4/RgKBl8DxhWI/AAAAAAAAAM4/8S5rEPpzcNc/s400/flisolsmall.png)    El
-FLISOL (Festival Latinoamericano de Instalación de [Software Libre](https://es.wikipedia.org/wiki/Software_libre)) es el evento de difusión de Software Libre más grande en Latinoamérica. Se realiza desde el año 2005 y su principal objetivo es promover el uso del software libre, dando a conocer al público en general su filosofía, alcances, avances y desarrollo. Para cumplir estos fines, las diversas comunidades locales de software libre (en cada país, y en cada ciudad/localidad), organizan simultáneamente (en mas de casi 100 ciudades) eventos en los que se instala de manera gratuita, libre y totalmente legal, software libre en las computadoras que llevan las personas que asisten a este evento.
+![image](https://bp0.blogger.com/_ayvorITawE4/RgKBl8DxhWI/AAAAAAAAAM4/8S5rEPpzcNc/s400/flisolsmall.png)    El FLISOL (Festival Latinoamericano de Instalación de [Software Libre](https://es.wikipedia.org/wiki/Software_libre)) es el evento de difusión de Software Libre más grande en Latinoamérica. Se realiza desde el año 2005 y su principal objetivo es promover el uso del software libre, dando a conocer al público en general su filosofía, alcances, avances y desarrollo. Para cumplir estos fines, las diversas comunidades locales de software libre (en cada país, y en cada ciudad/localidad), organizan simultáneamente (en mas de casi 100 ciudades) eventos en los que se instala de manera gratuita, libre y totalmente legal, software libre en las computadoras que llevan las personas que asisten a este evento.
 
 Además, en forma paralela, se ofrecen charlas, ponencias y talleres, sobre temáticas locales, nacionales y latinoamericanas en torno al Software Libre, en toda su gama de expresiones: artística, académica, empresarial y social.
 
@@ -5790,11 +5326,9 @@ draft: false
 post_id: blog-3515952828243908885.post-5442908029826623873
 ---
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SeEROBRZKDI/AAAAAAAAB8g/a3fSsF2PjjM/s320/Logo_Flisol_2008.png)    El Festival
-Latinoamericano de Instalación de Software Libre (FLISOL), es un evento organizado por comunidades de usuarios de Software Libre, para promover y difundir el uso de estas tecnologías. El FLISOL es un evento que se realiza de manera simultanea desde el año 2005 en todas las ciudades de latinoamerica que deseen participar. En el año 2008, de acuerdo a la wikipedia: "participaron más de 200 ciudades en 18 países de Latinoamérica."
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SeEROBRZKDI/AAAAAAAAB8g/a3fSsF2PjjM/s320/Logo_Flisol_2008.png)    El Festival Latinoamericano de Instalación de Software Libre (FLISOL), es un evento organizado por comunidades de usuarios de Software Libre, para promover y difundir el uso de estas tecnologías. El FLISOL es un evento que se realiza de manera simultanea desde el año 2005 en todas las ciudades de latinoamerica que deseen participar. En el año 2008, de acuerdo a la wikipedia: "participaron más de 200 ciudades en 18 países de Latinoamérica."
 
-![image](https://img135.imageshack.us/img135/6302/stickerflisolld8.png)    El objetivo de este evento, es presentar el software libre de la mano de su
-representante más conocido: GNU/Linux, en sus distribuciones más populares como lo son [Debian](https://www.debian.org/), [Ubuntu](https://www.ubuntu.com/), [ArchLinux](https://www.archlinux.org/), [Mandriva](https://www.mandriva.com/), [OpenSuse](https://www.opensuse.org/), [Fedora](https://fedoraproject.org/), [Gentoo](https://www.gentoo.org/), [Slackware](https://www.slackware.com/), etc... Y claro que no queda descartada la instalación de otras aplicaciones libres como lo son: OpenOffice.org, The Gimp, Pidgin, Blender, Eclipse, etc... y otros sistemas operativos libres: [OpenSolaris](https://opensolaris.org/), [FreeBSD](https://www.freebsd.org/), [OpenBSD](https://www.openbsd.org/), [GNU/HURD](https://www.gnu.org/software/hurd/), etc...
+![image](https://img135.imageshack.us/img135/6302/stickerflisolld8.png)    El objetivo de este evento, es presentar el software libre de la mano de su representante más conocido: GNU/Linux, en sus distribuciones más populares como lo son [Debian](https://www.debian.org/), [Ubuntu](https://www.ubuntu.com/), [ArchLinux](https://www.archlinux.org/), [Mandriva](https://www.mandriva.com/), [OpenSuse](https://www.opensuse.org/), [Fedora](https://fedoraproject.org/), [Gentoo](https://www.gentoo.org/), [Slackware](https://www.slackware.com/), etc... Y claro que no queda descartada la instalación de otras aplicaciones libres como lo son: OpenOffice.org, The Gimp, Pidgin, Blender, Eclipse, etc... y otros sistemas operativos libres: [OpenSolaris](https://opensolaris.org/), [FreeBSD](https://www.freebsd.org/), [OpenBSD](https://www.openbsd.org/), [GNU/HURD](https://www.gnu.org/software/hurd/), etc...
 
 Durante el FLISOL, se imparten charlas, ponencias y talleres, sobre temas locales, nacionales y latinoamericanos, relacionadas al software libre y al movimiento que lleva su nombre. Este año, en El Salvador, la sede del FLISOL sera en:
 
@@ -5820,14 +5354,7 @@ En estas épocas de diciembre, la gente común suele adornar sus casas con guirn
 
 Tomando en cuenta esta última razón, te traemos una recopilación de fondos de pantalla con temas navideños para que decores tu computadora (Abajo también encontrarás el vínculo donde está el resto de fondos de pantalla, ya que son muchos y solo puse los que a manera personal me gustaron mas):
 
-![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SU8XJJ-FgKI/AAAAAAAAFkM/rMNEoMyD9eE/s400/yellow-snow_1024.jpg)    
-![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SU8XclfZ5FI/AAAAAAAAFkU/dH5JLNZ6qds/s400/randomaze_wallpapers_ru_novyj_god_2007_1280x1024_%28114163%29WP.jpg)    
-![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SU8X2Ew5xEI/AAAAAAAAFkc/Q84qwA9SOkM/s400/christmas-1280x768.jpg)    
-![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SU8YdI6U5iI/AAAAAAAAFkk/WIu4kgFjBDM/s400/christmas02-1280x768.jpg)    
-![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SU8ZPJsAZII/AAAAAAAAFks/zUkHFzTGh6E/s400/jack-skellington-christmas.jpg)    ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SU8a36jJ5tI/AAAAAAAAFk0/iAijeHnqjZ4/s400/Merry_Christmas__by_chopeh.jpg)    
-![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SU8bjzySdRI/AAAAAAAAFk8/WoJj0sgvn3E/s400/The_5th_Anniversary_Night02_by_HYBRIDWORKS.jpg)    
-![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SU8bwQ68L-I/AAAAAAAAFlE/lmE3HevLb6c/s400/White_Christmas_by_adni18.jpg)    
-Descarguen el resto de [este](https://www.hongkiat.com/blog/beautiful-christmas-wallpapers-for-your-desktop/) y este [link](https://www.hongkiat.com/blog/30-remarkable-christmas-wallpapers-part-ii/).
+![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SU8XJJ-FgKI/AAAAAAAAFkM/rMNEoMyD9eE/s400/yellow-snow_1024.jpg)     ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SU8XclfZ5FI/AAAAAAAAFkU/dH5JLNZ6qds/s400/randomaze_wallpapers_ru_novyj_god_2007_1280x1024_%28114163%29WP.jpg)     ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SU8X2Ew5xEI/AAAAAAAAFkc/Q84qwA9SOkM/s400/christmas-1280x768.jpg)     ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SU8YdI6U5iI/AAAAAAAAFkk/WIu4kgFjBDM/s400/christmas02-1280x768.jpg)     ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SU8ZPJsAZII/AAAAAAAAFks/zUkHFzTGh6E/s400/jack-skellington-christmas.jpg)    ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SU8a36jJ5tI/AAAAAAAAFk0/iAijeHnqjZ4/s400/Merry_Christmas__by_chopeh.jpg)     ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SU8bjzySdRI/AAAAAAAAFk8/WoJj0sgvn3E/s400/The_5th_Anniversary_Night02_by_HYBRIDWORKS.jpg)     ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SU8bwQ68L-I/AAAAAAAAFlE/lmE3HevLb6c/s400/White_Christmas_by_adni18.jpg)     Descarguen el resto de [este](https://www.hongkiat.com/blog/beautiful-christmas-wallpapers-for-your-desktop/) y este [link](https://www.hongkiat.com/blog/30-remarkable-christmas-wallpapers-part-ii/).
 
 ---
 
@@ -5840,8 +5367,7 @@ draft: false
 post_id: blog-3515952828243908885.post-3259068103569079829
 ---
 
-![image](https://3.bp.blogspot.com/_JbB9KsZ238w/SMXzBQviuYI/AAAAAAAAAKA/Xsf7gOoBo4w/s320/a236%5B1%5D.jpg)    Al escudriñar en la historia sobre la invención de la televisión,
-nos encontramos con los nombres de personajes como Paul Nipkow y John Logie Baird. No obstante, la televisión es más que nombres y anécdotas de personas brillantes.
+![image](https://3.bp.blogspot.com/_JbB9KsZ238w/SMXzBQviuYI/AAAAAAAAAKA/Xsf7gOoBo4w/s320/a236%5B1%5D.jpg)    Al escudriñar en la historia sobre la invención de la televisión, nos encontramos con los nombres de personajes como Paul Nipkow y John Logie Baird. No obstante, la televisión es más que nombres y anécdotas de personas brillantes.
 
 La televisión es una de las maravillas modernas que, a pesar de tener un poco más de cien años de invención, sigue teniendo vigencia en nuestros hogares y perfeccionándose continuamente. Aunque no tiene aspecto de reliquia, este modelo de tv ya se está defasando. Al igual que todo en esta vida, este singular aparatito ha evolucionado con el tiempo y se ha convertido en un complejo sistema de telecomunicación a distancia, que incluso permite anexarle funciones propias de una computadora. Sin embargo, muy pocos conocen todo el proceso histórico que hizo posible la recepción de la imágenes dentro de esa “cajita mágica”.
 
@@ -5852,8 +5378,7 @@ Esta doble selección permite dar un tratamiento diferenciado al color y al bril
 Es así como se realizan los llamados barridos que descomponen, secuencialmente, la imagen que se desea transmitir. Al hacer esto, la imagen se va descubriendo línea a línea, de manera interna en el aparato. Así se logra leer primero las líneas impares para luego leer las pares. De esta manera el nuevo haz de luz retroalimentación la línea que ya está perdiendo su luz.
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SMX273y5ObI/AAAAAAAABPI/Yh9K_VxH4c4/s200/ntsc_colorbars.png)    
-"NTSC tiene una resolucion
-de 720x480, pero tiene el mismo radio aspecto de 4:3 de 640x480 o 720x540."
+"NTSC tiene una resolucion de 720x480, pero tiene el mismo radio aspecto de 4:3 de 640x480 o 720x540."
 
 Posteriormente, en Alemania se desarrolló el sistema [PAL](https://es.wikipedia.org/wiki/PAL)(1966), conocido por sus siglas como Phase Altenating Line y que pretendía ser un nuevo sistema de televisión a color. Este nuevo sistema fue adoptado por todos los países de Europa Occidental, a excepción de Francia y los países de Europa Oriental que optaron por el [SECAM](https://es.wikipedia.org/wiki/SECAM).
 
@@ -5872,8 +5397,7 @@ draft: false
 post_id: blog-3515952828243908885.post-8503820463254019634
 ---
 
-![image](https://3.bp.blogspot.com/_JbB9KsZ238w/SNxJWBecUqI/AAAAAAAAALA/U_AfYaETgto/s320/BMW-TV-Tuner%5B1%5D.gif)    [Continuando con la historia de la televisión](https://www.srbyte.com/2008/09/formatos-de-la-tv-i-parte.html), es preciso dar un vistazo a uno de los sistemas bajo los
-cuales trabaja este singular aparato. En esta entrega hablaremos del sistema National Television System Committee, mejor conocido por sus siglas NTSC.
+![image](https://3.bp.blogspot.com/_JbB9KsZ238w/SNxJWBecUqI/AAAAAAAAALA/U_AfYaETgto/s320/BMW-TV-Tuner%5B1%5D.gif)    [Continuando con la historia de la televisión](https://www.srbyte.com/2008/09/formatos-de-la-tv-i-parte.html), es preciso dar un vistazo a uno de los sistemas bajo los cuales trabaja este singular aparato. En esta entrega hablaremos del sistema National Television System Committee, mejor conocido por sus siglas NTSC.
 
 La Comisión Nacional de Sistemas de Televisión, como se traduce en español, fue creado por la cadena de televisión estadounidense CBS alrededor de 1940. Su funcionamiento consiste, básicamente, en una codificación y transmisión de imágenes a color analógica.
 
@@ -5883,8 +5407,7 @@ A pesar de que en algunos países este sistema es casi obsoleto, aún se utiliza
 
 Debido a que el sistema NTSC es un sistema que utiliza las imágenes a color, era necesario garantizar su compatibilidad con el sistema en blanco y negro, por lo que el sistema NTSC de color buscó la manera de mantener la señal monocromática blanco y negro como componente de luminancia de la imagen en color. De esta forma, el sistema es aplicable y visto tanto en aparatos digitales como de cátodos.
 
-![image](https://4.bp.blogspot.com/_JbB9KsZ238w/SNxgfWKog3I/AAAAAAAAALI/jgoaz8S6Nwg/s320/barras.bmp)    Sin embargo, el sistema NTSC no es infalible ni la panacea de la
-tecnología televisiva. Entre algunos de los problemas que presenta este sistema, se encuentra la degradación en cuanto a la calidad de la imagen. Debido a ello la imagen se altera y provoca que el cuadro a color pierda su equilibrio del color en el momento de la recepción. Posteriormente, los sistemas PAL o SECAM, superarían totalmente este obstáculo. Algo que también desfavorece a este sistema es su limitada resolución. El NTSC tiene sólo 525 líneas de resolución vertical. Esto da lugar a una imagen de calidad inferior en comparación con los otros sistemas televisivos, sin mencionar que hace más complicado y trabajoso el proceso de conversión de cintas para el cine. Todo esto se superaría con el sistema PAL y el SECAM que exploraremos en la siguiente entrega.
+![image](https://4.bp.blogspot.com/_JbB9KsZ238w/SNxgfWKog3I/AAAAAAAAALI/jgoaz8S6Nwg/s320/barras.bmp)    Sin embargo, el sistema NTSC no es infalible ni la panacea de la tecnología televisiva. Entre algunos de los problemas que presenta este sistema, se encuentra la degradación en cuanto a la calidad de la imagen. Debido a ello la imagen se altera y provoca que el cuadro a color pierda su equilibrio del color en el momento de la recepción. Posteriormente, los sistemas PAL o SECAM, superarían totalmente este obstáculo. Algo que también desfavorece a este sistema es su limitada resolución. El NTSC tiene sólo 525 líneas de resolución vertical. Esto da lugar a una imagen de calidad inferior en comparación con los otros sistemas televisivos, sin mencionar que hace más complicado y trabajoso el proceso de conversión de cintas para el cine. Todo esto se superaría con el sistema PAL y el SECAM que exploraremos en la siguiente entrega.
 
 Fuentes consultadas: Wikipedia, Enciclopedia libre: [https://es.wikipedia.org/wiki/NTSC](https://es.wikipedia.org/wiki/NTSC) Monografías. com, Tesis, Documentos, Publicaciones y Recursos Educativos: [https://www.monografias.com/trabajos5/ntsc/ntsc.shtml?relacionados](https://www.monografias.com/trabajos5/ntsc/ntsc.shtml?relacionados)
 
@@ -5949,8 +5472,7 @@ post_id: blog-3515952828243908885.post-7464460030002636026
 El termino freelancer (o freelance), aparentemente, se puede traducir casi literalmente como "trabajador independiente", aunque la etimología de la palabra deriva del término medieval inglés usado para un mercenario (free-lance o lanza-independiente), como los [guerreros Haradrim, de El Señor de Los Anillos](https://en.wikipedia.org/wiki/Haradrim):
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/SDmx7sUIhNI/AAAAAAAAAts/lAZ2S9iBX04/s400/haradrim-archer.jpg)    
-"Imagen: Guerrero Haradrim,
-Mercenario"
+"Imagen: Guerrero Haradrim, Mercenario"
 
 ...es decir, un guerrero que no servía a ningún señor en concreto y cuyos servicios podían ser alquilados por cualquiera, pero bueno, en nuestra "epoca" se le llama freelancer a alguien que es contratado por terceros para realizar una actividad determinada y por tiempo limitado hasta que duren las existencias. Puedes ver una [definición más amplia en la wikipedia](https://es.wikipedia.org/wiki/Trabajador_Freelance_o_Freelancer).
 
@@ -5961,16 +5483,14 @@ Las ventajas de ser un freelancer hoy en día son muchas, ya que con facilidad u
 Ser freelancer también puede tener sus desventajas, como el aumento del stress por cumplir plazos, aumento de tension familiar, paranoia/miedo por no tener un trabajo estable, etc...
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/SDmzAsUIhOI/AAAAAAAAAt0/0CzA3KtXP2k/s400/ff53_pantsfreedom.jpg)    
-"Comic: La libertad del
-freelance"
+"Comic: La libertad del freelance"
 
 > ¿Y quien puede ser un freelancer?
 
 Practicamente cualquier profesional o estudiante que tenga los conocimientos necesarios para realizar una determinada tarea. Simple, ¿verdad?. Desde un punto de vista cultural, el ser freelance es percibido tanto por encima como por debajo del sistema social, algunos americanos y la mayoría de los europeos ven el trabajo freelance como una posición socialmente más elevada. Sin embargo, muchos países asiáticos parecen tener en baja estima a los freelancers, a menudo asociando la práctica con el fracaso personal (incapacidad de conseguir un trabajo con un empleador importante) e inclusive llegando al extremo de asociarlo con criminalidad (por la cuestion de los mercenarios/ninjas, ¿te suena el termino "Hitokiri Battōsai"?).
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/SDmzs8UIhPI/AAAAAAAAAt8/5TU3hPSArAw/s400/ninja.jpg)    
-"Imagen: En las culturas
-orientales, se asocia de manera negativa el termino de Freelancer con Ninjas asesinos pagados a sueldo. "
+"Imagen: En las culturas orientales, se asocia de manera negativa el termino de Freelancer con Ninjas asesinos pagados a sueldo. "
 
 Para terminar, solo quiero saber: ¿Cuantos de ustedes han realizado algun trabajo de Freelancer?, ¡esperamos sus respuestas!, Saludos!
 
@@ -5985,8 +5505,7 @@ draft: false
 post_id: blog-3515952828243908885.post-8903929084574630147
 ---
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SQCGUCVc4VI/AAAAAAAABWY/6VOVCy-9tSU/s320/presea.png)    ¡El [Sr. Byte](https://twitter.com/srbyte) se enorgullece en comunicarles, que
-hemos ganado la [Arroba de Oro 2008](https://www.arrobadeoro.com/certamen/2008/sv/ganadores.aspx) en categoría de Blogs! Muchas gracias a Dios y familia, a nuestros fieles lectores, a los amigos en twitter, a nuestros compañeros de universidad y a todos los que hicieron posible semejante galardón. No queda mas que: invitar a la blogosfera Salvadoreña para inscribirse el otro año y participar, les prometo que no se van a arrepentir.
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SQCGUCVc4VI/AAAAAAAABWY/6VOVCy-9tSU/s320/presea.png)    ¡El [Sr. Byte](https://twitter.com/srbyte) se enorgullece en comunicarles, que hemos ganado la [Arroba de Oro 2008](https://www.arrobadeoro.com/certamen/2008/sv/ganadores.aspx) en categoría de Blogs! Muchas gracias a Dios y familia, a nuestros fieles lectores, a los amigos en twitter, a nuestros compañeros de universidad y a todos los que hicieron posible semejante galardón. No queda mas que: invitar a la blogosfera Salvadoreña para inscribirse el otro año y participar, les prometo que no se van a arrepentir.
 
 Nuevamente: ¡muchísimas gracias! Staff Sr. Byte: [Wendy Vanesa](https://twitter.com/wenvane), [Roberto Linares](https://twitter.com/robertux) y [Rodrigo Amaya](https://twitter.com/ramayac).
 
@@ -6007,8 +5526,7 @@ Como aviso rápido, el [Sr. Byte](https://twitter.com/srbyte) se une a la campa�
 Basta con que llenes tus datos (nombre y correo) en el "Nokia 5800" de la derecha, y contestes la pregunta que aparece, de la forma más creativa posible....
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SjkkwrshdxI/AAAAAAAACCo/4cj0AnJxJic/s320/nokia5800.png)    
-"¡Participa y gana!... puro
-anuncio ja ja."
+"¡Participa y gana!... puro anuncio ja ja."
 
 Pero antes, hay unos puntos que tengo que aclarar:
 
@@ -6033,11 +5551,9 @@ Google actualizo hace poco su pagina "What's new" para Gmail, con información a
 
 Les dejo un vídeo con las características en acción:
 
-"Chat con video y voz para
-Gmail" Poco a poco Gmail se pone cerca de las alternativas más populares (MSN, Skype), solo espero que liberen una versión para Linux, y quizás deje de lado Skype. Espero que estas características sean añadiduras a Gmail en cuanto a funcionalidad, porque no me gustaría ver anuncios incrustados en mis ventanas de conversación.
+"Chat con video y voz para Gmail" Poco a poco Gmail se pone cerca de las alternativas más populares (MSN, Skype), solo espero que liberen una versión para Linux, y quizás deje de lado Skype. Espero que estas características sean añadiduras a Gmail en cuanto a funcionalidad, porque no me gustaría ver anuncios incrustados en mis ventanas de conversación.
 
-Para más información visita:
-[https://mail.google.com/videochat](https://mail.google.com/videochat)
+Para más información visita: [https://mail.google.com/videochat](https://mail.google.com/videochat)
 > href="https://mail.google.com/videochat">https://mail.google.com/videochat
 ¿Crees que Gmail destronara a MSN Live de una vez por todas?
 
@@ -6052,14 +5568,12 @@ draft: false
 post_id: blog-3515952828243908885.post-8496322193693124791
 ---
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SNxBagN2w_I/AAAAAAAABTM/xKW8uRhxbSQ/s320/moderator_logo.jpg)    Por si no les bastó
-con [Google InQuotes,](https://www.srbyte.com/2008/09/in-quotes-politica-en-google.html) ahora Google lanza otro (si, otro) nuevo servicio ahora, llamado [Google Moderator](https://moderator.appspot.com/), que es una herramienta para determinar que preguntas deberían de ser realizadas en una reunión, conferencia, entrevista o lo que sea. Como su nombre lo indica, este interesante servicio va orientado a Moderadores, es decir, a la persona que realiza una entrevista: Reporteros, Bloggers, Video-Bloggers, PodCasters, etc...
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SNxBagN2w_I/AAAAAAAABTM/xKW8uRhxbSQ/s320/moderator_logo.jpg)    Por si no les bastó con [Google InQuotes,](https://www.srbyte.com/2008/09/in-quotes-politica-en-google.html) ahora Google lanza otro (si, otro) nuevo servicio ahora, llamado [Google Moderator](https://moderator.appspot.com/), que es una herramienta para determinar que preguntas deberían de ser realizadas en una reunión, conferencia, entrevista o lo que sea. Como su nombre lo indica, este interesante servicio va orientado a Moderadores, es decir, a la persona que realiza una entrevista: Reporteros, Bloggers, Video-Bloggers, PodCasters, etc...
 
 Así que, si eres uno de ellos, o deseas aprender a realizar preguntas, pues utiliza este servicio para ver que tan bien las formulas y que tan probable es que te las contesten.
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SNxBgB1XW5I/AAAAAAAABTU/Q1c4MnVvuIM/s320/moderator_ss.jpg)    
-"Un vistazo a Google
-Moderator"
+"Un vistazo a Google Moderator"
 
 Lamentablemente, este servicio aun esta en beta y es en Ingles, pero como se que eso no detiene a muchos dejo el vinculo aquí:
 
@@ -6080,8 +5594,7 @@ post_id: blog-3515952828243908885.post-3221408087273400056
 ---
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/Scm8pWBtlPI/AAAAAAAAFro/pCuEM2nIEyg/s400/2009+summer+of+code+logo+final+r3-01.png)    
-"Logo del Google Summer of
-Code de este año"
+"Logo del Google Summer of Code de este año"
 
 Como todos los años desde el 2005, Google lanza su iniciativa para promover el desarrollo de aplicaciones Open Source y al mismo tiempo iniciar a estudiantes universitarios en el desarrollo de software en la vida real mediante este programa llamado Google Summer of Code.
 
@@ -6118,13 +5631,11 @@ Ayer (Viernes 25 de Julio 2007) a en la mañana, [el blog oficial de Google](htt
 No es solo imponente la cantidad de información que Google tiene "indexada" (indexed) en su base de datos, sino que también la cantidad es intimidante para los motores de búsqueda que desean competir con Google. Uno de los detalles más interesantes de esa entrada (en el blog de Google) es que ellos realmente no saben cuantas paginas "tiene" Internet, solo han llegado a 1 trillon de paginas únicas, pero ellos siguen revisando cada pagina, y almacenando y siguiendo cada URL que encuentran sucesivamente.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/SIvmZ4CMZlI/AAAAAAAAA8U/kUKoshAK5jQ/s400/trillion_dollars-795251.jpg)    
-"¿Me darian $1 por cada URL
-que tiene Google indexado?"
+"¿Me darian $1 por cada URL que tiene Google indexado?"
 
 Lo mas interesante quizás, es que las URL's son Infinitas, haciendo que encontrar paginas web únicas, sea algo realmente dificil de encontrar. ¿Por que las URL son infinitas? Imagínate un calendario web, que por cada día del mes tiene un URL para el día siguiente y el día anterior, si estamos en el día lunes, y seguimos el URL para el día siguiente obviamente caemos en el día martes, pero martes tiene un URL para el día anterior y otro para el día siguiente, si seguimos el URL para el anterior caemos en lunes, y podemos seguir nuevamente el del día siguiente.... eeeeeennnn fin, el ejemplo es claro, ciertas URL's son infinitas y no todo lo que esta en la web puede ser indexado. Tampoco se indexaran páginas que no sean útiles, como paginas de error 404 por ejemplo, mucho depende de la utilidad/calidad del contenido que se encuentra en la pagina web... pero eso también es dificil de definir.
 
-![image](https://lh5.ggpht.com/Ramayac/SIvlyyg-7eI/AAAAAAAAA8M/yoDkVph6L0w/google-logos.jpg)    ¿Cuantas paginas web únicas tiene Internet?, nadie sabe... ni la
-misma gente de Google. Lo que si se sabe es que la cantidad de información y contenido crece a un ritmo exponencial. Pero eso no detiene a Google, porque su objetivo siempre ha sido "indexar toda la información mundial". Siempre y cuando Google honre esa meta no dejara de crecer nunca. Por eso mismo, otro punto interesante del logro de Google, es la calidad o mas bien, la escalabilidad de su sistema de búsqueda e indexado. Es admirable que aun con 1 trillon de URL únicas, realizar una búsqueda Google tarde apenas un par de milisegundos. ¿Se han fijado que casi todos los productos de Google son algún tipo de "plataforma"? por ejemplo: Google (el buscador) es una plataforma para anuncios (Adsense). Para que los productos de Google sirvan como una plataforma, siempre hay que pensar en "Escalabilidad": ¿Como hago para que mi producto/sistema, tenga oportunidad para crecer y adaptarse?. Ese es el secreto de este suceso:
+![image](https://lh5.ggpht.com/Ramayac/SIvlyyg-7eI/AAAAAAAAA8M/yoDkVph6L0w/google-logos.jpg)    ¿Cuantas paginas web únicas tiene Internet?, nadie sabe... ni la misma gente de Google. Lo que si se sabe es que la cantidad de información y contenido crece a un ritmo exponencial. Pero eso no detiene a Google, porque su objetivo siempre ha sido "indexar toda la información mundial". Siempre y cuando Google honre esa meta no dejara de crecer nunca. Por eso mismo, otro punto interesante del logro de Google, es la calidad o mas bien, la escalabilidad de su sistema de búsqueda e indexado. Es admirable que aun con 1 trillon de URL únicas, realizar una búsqueda Google tarde apenas un par de milisegundos. ¿Se han fijado que casi todos los productos de Google son algún tipo de "plataforma"? por ejemplo: Google (el buscador) es una plataforma para anuncios (Adsense). Para que los productos de Google sirvan como una plataforma, siempre hay que pensar en "Escalabilidad": ¿Como hago para que mi producto/sistema, tenga oportunidad para crecer y adaptarse?. Ese es el secreto de este suceso:
 > "La escalabilidad hace que un sistema tenga éxito,
 > siempre."
 
@@ -6149,8 +5660,7 @@ Google posee un motor de búsqueda para cada servicio de brinda a sus usuarios, 
 y más...
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/RlC3FKos2nI/AAAAAAAAAXE/10_q1EnYCOs/s400/ymas.jpg)    
-"Servicios adicionales de
-Google"
+"Servicios adicionales de Google"
 
 Integrar todos estos serivicios en una sola interfaz era el objetivo que Google venia persiguiendo desde hacía tiempo. Y no me sorprende que al fin lo este consiguiendo. El resultado es lo que la compañia llama "Google Universal Search".
 
@@ -6159,12 +5669,10 @@ El problema antes con todos los buscadores es que teniamos que especificar que e
 Ejemplificando, pueden introducir la búsqueda "Darth Vader". Google entiende que estamos interesados en conseguir la mayor información posible sobre uno de los protagonistas de "La Guerra de las Galaxias". Por eso, en los resultados mezclará vídeos, blogs y libros dedicados al malvado Vader, o noticias sobre los proyectos de George Lucas -director del film-. En definitiva, cualquier tipo de contenido que tenga relación con el personaje.
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RlC4maos2oI/AAAAAAAAAXM/xVoFPFYpGe8/s320/googledarthvader.jpg)    
-"Captura de busqueda de
-Darth Vader en Google"
+"Captura de busqueda de Darth Vader en Google"
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/RlC486os2pI/AAAAAAAAAXU/Y-jotxIadlI/s320/googledarthvaderexpanded.jpg)    
-"Captura de vídeo empotrado
-en las búsquedas del nuevo Google"
+"Captura de vídeo empotrado en las búsquedas del nuevo Google"
 
 Marissa Mayer, vicepresidenta de productos de búsqueda y experiencia de usuario de Google dice:
 
@@ -6189,8 +5697,7 @@ draft: false
 post_id: blog-3515952828243908885.post-1308419496838749495
 ---
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SOLxtnNeJZI/AAAAAAAABUg/YLfu0CqtUMU/s320/google2001logo.jpg)    Como parte de su
-[décimo aniversario](https://www.google.com/tenthbirthday/), Google abre sus puertas a la versión "anticuada" de su popular navegador, del año 2001. La versión de 2001 incluye el antiguo logo, con el signo de exclamación y los colores raros: falta el botón de "I'm Feeling Lucky" (como que hiciera falta, ¿Quien usa eso?), y además el típico mensaje de auto propaganda por alcanzar [1,326,920,000](https://www.srbyte.com/2008/07/google-tiene-1-trillon-de-paginas.html) de páginas web indexadas (si, un "trillón" para los gringos, mil millones para nosotros). Lo gracioso de tener a Google del 2001, es buscar información sobre el [iPod](https://www.google.com/search2001/search?q=ipod) y sobre [YouTube](https://www.google.com/search2001/search?q=youtube&hl=en&btnG=Search), realicen las búsquedas y vean: ¿Cuántos y que tipo de resultados obtienen? :) Y también revisen las preguntas frecuentes de 2001 ([FAQ 2001](https://www.google.com/search2001faq.html)).
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SOLxtnNeJZI/AAAAAAAABUg/YLfu0CqtUMU/s320/google2001logo.jpg)    Como parte de su [décimo aniversario](https://www.google.com/tenthbirthday/), Google abre sus puertas a la versión "anticuada" de su popular navegador, del año 2001. La versión de 2001 incluye el antiguo logo, con el signo de exclamación y los colores raros: falta el botón de "I'm Feeling Lucky" (como que hiciera falta, ¿Quien usa eso?), y además el típico mensaje de auto propaganda por alcanzar [1,326,920,000](https://www.srbyte.com/2008/07/google-tiene-1-trillon-de-paginas.html) de páginas web indexadas (si, un "trillón" para los gringos, mil millones para nosotros). Lo gracioso de tener a Google del 2001, es buscar información sobre el [iPod](https://www.google.com/search2001/search?q=ipod) y sobre [YouTube](https://www.google.com/search2001/search?q=youtube&hl=en&btnG=Search), realicen las búsquedas y vean: ¿Cuántos y que tipo de resultados obtienen? :) Y también revisen las preguntas frecuentes de 2001 ([FAQ 2001](https://www.google.com/search2001faq.html)).
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SOLw3zSAvoI/AAAAAAAABUY/hyCFhQ7dM4s/s320/srbyte2001.png)    
 
@@ -6215,30 +5722,25 @@ draft: false
 post_id: blog-3515952828243908885.post-3063941147229584264
 ---
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SxMktcOgsCI/AAAAAAAACPg/7_lz4Nm2Zqs/s200/chrome.jpg)    Google anuncio su sistema operativo "Chrome OS" hace algunos dias, así que me
-di la tarea de probarlo. Aclaro, que probé "Chromium OS", no "Chrome OS", la diferencia, es la misma que la del [navegador "Chrome" y "Chromium"](https://www.srbyte.com/2008/09/un-vistazo-al-cdigo-de-google-chrome.html): Uno es código cerrado (y aún NO esta disponible) y es más pulido y profesional (Chrome), y su proyecto hermano "Chromium", es el mismo Chrome en versión open source y sin "afinar".
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SxMktcOgsCI/AAAAAAAACPg/7_lz4Nm2Zqs/s200/chrome.jpg)    Google anuncio su sistema operativo "Chrome OS" hace algunos dias, así que me di la tarea de probarlo. Aclaro, que probé "Chromium OS", no "Chrome OS", la diferencia, es la misma que la del [navegador "Chrome" y "Chromium"](https://www.srbyte.com/2008/09/un-vistazo-al-cdigo-de-google-chrome.html): Uno es código cerrado (y aún NO esta disponible) y es más pulido y profesional (Chrome), y su proyecto hermano "Chromium", es el mismo Chrome en versión open source y sin "afinar".
 
 Pues lo mismo sucede con el sistema operativo de Google, no es uno, sino dos versiones del mismo sistema(Chrome y Chromium). Por motivos de conveniencia, me referiré a ambos sistemas como "Chrome OS". Aparte de eso, una excelente impresion que me dejo este sistema es el tiempo de arranque, que es increíblemente veloz, más que [Moblin](https://www.srbyte.com/2009/05/moblin-20-beta.html). La primera vez que se ejecuta, se "siente" como un kernel linux con un navegador encima... y esa, creo que es la mejor descripción que puedo darles del mismo. Después de todo, la idea principal detras de este sistema, es que nada esta almacenado en la maquina local, sino que todo esta en servicios web, lo que es "probablemente ideal" para netbooks y personas que no usan su computadora nada más que navegar en Internet.
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SxMkWJHqKCI/AAAAAAAACPQ/dv6G-Ymi0pA/s320/ChromeOSByte.png)    
 
-"Un vistazo al blog, desde Chromium OS (con un tema
-instalado)"
+"Un vistazo al blog, desde Chromium OS (con un tema instalado)"
 
 El sistema es brillante en la misma medida que amenazador, es brillante porque Chrome OS es un sistema operativo que es completamente devoto a la Web, una plataforma de unificación de servicios y aplicaciones web, en las que se ata al usuario a una serie de servicios gratuitos totalmente propietarios, Chrome OS es el primer paso para una nueva estrategia de crecimiento y posicionamiento en la mente de un mercado muy interesante y emergente de usuarios que (como ya mencione) solo pasan conectados a Internet.
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SxMkXr2jnbI/AAAAAAAACPY/dMRoQl_zJYs/s320/ChomeOSByte2.png)    
 
-"Otro vistazo desde
-VirtualBox"
+"Otro vistazo desde VirtualBox"
 
 A continuación les pongo una serie videos que explican que es y como funciona Chrome OS:
 
-"¿Qué es
-Chrome OS?"
+"¿Qué es Chrome OS?"
 
-"Tiempo de
-carga de Chromium OS"
+"Tiempo de carga de Chromium OS"
 
 Conseguir Chormium OS es sencillo, solo descargen el archivo [.torrent de IsoHunt](https://isohunt.com/torrent_details/142247665/Google+Chrome+OS?tab=summary), precisamente lo que se descarga sería un disco duro virtual de VMWare.
 
@@ -6268,8 +5770,7 @@ tipo: guía/tutorial.
 Esta parte especifica describe el proceso de creación de un Kernel personalizado (o que se volverá así a medida que veas que es un proceso para nada complicado). Abarca desde la descarga de un Kernel (donde encontrarlo), usar un parche en nuestro Kernel, el software necesario para compilar el Kernel, la Configuración y la creación de un "initram" (no se preocupen, ya llegaremos a eso). Todos los pasos se realizan suponiendo que el lector tiene Debian Etch instalado como sistema operativo y GRUB como bootloader (gestor de arranque) instalado. Al final de esta guía/tutorial, se espera que termines con un Kernel (por lo menos ligeramente) personalizado...
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/RpkGVMQ68yI/AAAAAAAAAZI/VwAcVCuhLkU/s400/iconos-tux.jpg)    
-"La belleza del Kernel de
-Linux, esta en su personalización"
+"La belleza del Kernel de Linux, esta en su personalización"
 
 1. 1 Instalando los paquetes requeridos para la compilación del Kernel.
 
@@ -6292,8 +5793,7 @@ Luego instalamos los paquetes
 1.2 Descargando el código fuente del Kernel
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/Rpj6oMQ68uI/AAAAAAAAAYo/SVlNzB3eyeA/s400/korg10yr.gif)    
-"10 años de
-Kernel.org"
+"10 años de Kernel.org"
 
 En el sitio [https://kernel.org](https://kernel.org/) se publica el codigo del kernel mas reciente, versiones anteriores del mismo y también parches respectivos. Al momento de hacer esta guía, el Kernel esta en su version estable 2.6.22.1 (este es el Kernel que sera usado). Pero antes de descargarlo vamonos al directorio "/usr/src":
 
@@ -6336,20 +5836,17 @@ make se encargara construir el programa menuconfig y mostrarlo, menuconfig lista
 Pero menuconfig es la manera de hacerlo este trabajo como un vikingo leñador, y no requiere mayor cosa que los libncurses5, asi que ¡adelante!
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/Rpj6ecQ68tI/AAAAAAAAAYg/Yqf9Rdofeqc/s400/makemenuconfig.png)    
-"Captura de pantalla de
-menuconfig"
+"Captura de pantalla de menuconfig"
 
 Ahora vamos a seleccionar la opción: Load an Alternate Configuration File.
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/Rpj7E8Q68vI/AAAAAAAAAYw/Mf08kgHqKnQ/s400/loadalter.png)    
-"Captura de pantalla,
-selección de la opción Load an Alter Configuration File"
+"Captura de pantalla, selección de la opción Load an Alter Configuration File"
 
 Y nos aseguramos de que este el nombre del archivo ".config":
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/Rpj7MsQ68wI/AAAAAAAAAY4/fHHK0s2oA_Q/s400/loadconfig.png)    
-"Captura de pantalla, nombre del archivo de
-configuración"
+"Captura de pantalla, nombre del archivo de configuración"
 
 Cuando salgas, si has cambiado alguna configuración y no has salvado el ".config", te aparecerá un "cuadro de dialogo" para salvar el archivo. Hay que aclarar, que el proceso de compilación del Kernel espera que exista un archivo con el nombre ".config", si este no existe, entonces no podremos continuar.
 
@@ -6376,8 +5873,7 @@ en "/usr/src/linux", la carpeta del código del Kernel, claro.
 El nuevo Kernel ahora esta instalado en tu sistema, pero necesita un "ramdisk", si no lo tiene, lo mas probable es que ¡el sistema no arranque!
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/Rpj77MQ68xI/AAAAAAAAAZA/06qgK1kKzKA/s400/kernelpanic.png)    
-"Oh no!... Kernel
-Panic"
+"Oh no!... Kernel Panic"
 
 Además necesitamos actualizar el GRUB para que muestre el nuevo Kernel. Bien, lo primero es hacer el "ramdisk", asumiendo que tenemos el Kernel :
 
@@ -6432,8 +5928,7 @@ post_id: blog-3515952828243908885.post-1267095790229800157
 Nota: Se le recomienda al lector que guarde este artículo en su computadora como página HTML, para que pueda hacer uso del mismo sin necesidad de tener internet, ya que para eso es esta guía.
 
 ![image](https://bp3.blogger.com/_jH77WNrMVRA/R6pKdO__NNI/AAAAAAAAAgc/RD6nO1eagps/s320/NoConexion.jpg)    
-"Imagen que muestra el
-Firefox o Iceweasel cuando no te puedes conectar a un sitio web específico, a veces porque no tienes internet"
+"Imagen que muestra el Firefox o Iceweasel cuando no te puedes conectar a un sitio web específico, a veces porque no tienes internet"
 
 Tú nunca esperas que pase, te acostumbras al hecho de que, cuando enciendes la máquina y abras el navegador, este cargue tu página de inicio. Asi también con tu cliente de IM[1], esperas ver la lista de tus contactos al momento que lo ejecutas y te logueas a tu cuenta. Muchos (no es mi caso) hasta lo configuran para que cargue automáticamente cuando arrranca el sistema y algunos hasta llegan al punto de dejarle predeterminado el nombre de usuario (correo electrónico) y la clave de acceso!
 
@@ -6464,11 +5959,9 @@ Que tal si tenias una muy importante tarea que realizar?
 
 Pues, como prevencion, te recomiendo que te descargues la [Wikipedia en DVD.](https://srbyte.blogspot.com/2007/05/wikpedia-en-dvd.html) Te podria ser muy útil. Sino, recuerda que todavia existen las bibliotecas públicas y las bibliotecas universitarias!
 
-[1]IM = Instant Messenger o cliente de
-mensajeria instantanea, ej. msn messenger, gaim, pidgin, amsn. Los cuales usan protocolos como msn, aim, google talk, etc.
+[1]IM = Instant Messenger o cliente de mensajeria instantanea, ej. msn messenger, gaim, pidgin, amsn. Los cuales usan protocolos como msn, aim, google talk, etc.
 
-[2]ISP = Internet Service Provider o
-proveedor de servicios de internet. O sea, a quien le pagas cada mes por usar inernet, quienes te llegaron a conectar el cable a tu casa o quienes te alquilaron el modem. En mi caso es Cte Antel Telecom, para otros puede ser Amnet o Telefonica.
+[2]ISP = Internet Service Provider o proveedor de servicios de internet. O sea, a quien le pagas cada mes por usar inernet, quienes te llegaron a conectar el cable a tu casa o quienes te alquilaron el modem. En mi caso es Cte Antel Telecom, para otros puede ser Amnet o Telefonica.
 
 ---
 
@@ -6513,9 +6006,7 @@ Entre estos programas tenemos:
 
 Baobab: También conocido como Disk Usage Analyzer. Es un programa que te permite hacer un escaneo de toda la jerarquía de carpetas que compone tu computadora, clasificándola en base al tamaño que ocupa dentro del disco para que puedas saber qué archivos son los más grandes y si no son tan necesarios, borrarlos de una buena vez. La interfaz es muy sencilla e intuitiva, como pueden ver. Este programa viene instalado por defecto en Ubuntu o Debian, o especialmente si utilizas el entorno Gnome. Sino, puedes instalarlo mediante el comando apt-get install baobab como root.
 
-![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SVhWVPmG4hI/AAAAAAAAFnE/9gy2ZnfS_Kw/s400/baobab.png)    
-"Captura de Pantalla de Baobab, mostrando de forma tabular y gráfica el espacio
-que ocupan las carpetas y subcarpetas del sistema"
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SVhWVPmG4hI/AAAAAAAAFnE/9gy2ZnfS_Kw/s400/baobab.png)     "Captura de Pantalla de Baobab, mostrando de forma tabular y gráfica el espacio que ocupan las carpetas y subcarpetas del sistema"
 
 Cruft: Es un programa para la consola que escanea en busca de archivos innecesarios que alguna vez fueron instalados junto con alguna aplicación pero esta no existe mas. Cabe mencionar que aún se encuentra en versión pre-alfa, pero según las pruebas realizadas de manera personal, demostró ser bastante satisfactorio y efectivo. Para instalarlo, basta ejecutar apt-get install cruft. Luego, nada más ejecutas el comando escribiendo cruft también como root, o sino, cruft -h para ver el resto de opciones disponibles.
 
@@ -6558,8 +6049,7 @@ post_id: blog-3515952828243908885.post-7766568471977048028
 ---
 
 ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SwxChh-ODqI/AAAAAAAAGHk/P0RRbcbfDw4/s400/collabediting.png)    
-"La edición colaborativa de
-documentos es útil cuando el equipo de trabajo no se puede reunir físicamente"
+"La edición colaborativa de documentos es útil cuando el equipo de trabajo no se puede reunir físicamente"
 
 Gracias al uso del internet, hoy en día los desarrolladores pueden participar en proyectos de software que no necesariamente se llevan a cabo en la misma zona geográfica de su domicilio haciendo uso de [herramientas de versionamiento](https://www.srbyte.com/2008/03/programemos-mejor-subversion.html) de código fuente que permite tener un repositorio en la nube el cual puede ser actualizado desde cualquier parte del mundo donde se posea una conexión a internet.
 
@@ -6576,8 +6066,7 @@ Lo que destaca a esta herramienta del resto es su simplicidad y facilidad de uso
 La desventaja de su simplicidad es que, al no tener la necesidad de registrarse en el sitio para poseer una cuenta, tampoco se posee la funcionalidad de guardar el documento aunque sí permite descargar el contenido como archivo. El propósito mas apropiado para esta herramienta es entonces, el usarlo como medio para discutir código fuente que ya tenias creado mediante algún IDE de desarrollo pero necesitas discutirlo o corregirlo de manera colaborativa con otros colegas a través de internet.
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/Sww9SNOdo8I/AAAAAAAAGHc/_WX6Efn3iUI/s400/CollabEditShot.png)    
-"Edición colaborativa de una
-clase Java en Collabedit(Clic para agrandar)"
+"Edición colaborativa de una clase Java en Collabedit(Clic para agrandar)"
 
 Cacoo ([link](https://cacoo.com/))
 
@@ -6587,8 +6076,7 @@ Posee figuras para la creacion de una gran variedad de diagramas, como por ejemp
 
 Aca un vídeo de ejemplo del funcionamiento de Cacoo:
 
-"Video demostrativo del
-funcionamiento de Cacoo"
+"Video demostrativo del funcionamiento de Cacoo"
 
 ---
 
@@ -6602,8 +6090,7 @@ post_id: blog-3515952828243908885.post-4202301501316594182
 ---
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SUAtVVrVQnI/AAAAAAAAFNg/6xIdHcm541w/s400/sourcecode.png)    
-"Jajajaja Nunca te librarás de mi,
-programador" Bugs. Todo programador los conoce. Desde el primer hola mundo que escribe en C y se da cuenta que no le compiló porque le hacía falta el punto y coma al final de la sentencia, el programador se da cuenta que los programas que escriba nunca serán perfectos y siempre habrá que arreglar los diferentes errores que comunmente se cometen cuando estamos desarrollando alguna aplicación.
+"Jajajaja Nunca te librarás de mi, programador" Bugs. Todo programador los conoce. Desde el primer hola mundo que escribe en C y se da cuenta que no le compiló porque le hacía falta el punto y coma al final de la sentencia, el programador se da cuenta que los programas que escriba nunca serán perfectos y siempre habrá que arreglar los diferentes errores que comunmente se cometen cuando estamos desarrollando alguna aplicación.
 
 Algunos consideran que el proceso de desarrollo de una aplicación se distribuye regularmente en un 20% de tiempo invertido en la codificación contra un 80% invertido en la depuración del código escrito. Esto nos lleva a pensar que corregimos mas de lo que producimos, lo cual no es muy efectivo que digamos a la hora del desarrollo. Para ello, existen técnicas que nos permiten prevenir la ocurrencia de Bugs o errores que comúnmente se cometen a la hora de la programación y entre estas, las más popular es el uso de Unit Testing.
 
@@ -6642,14 +6129,12 @@ Las ventajas de probar nuestros métodos con Unit Testing es que podemos saber j
 Con la experiencia, un programador aprende a conocer todas las posibles fallas que se podrían producir en una porción de código y prevenirlas antes que ocurran. Usando Unit Testing se puede comprobar que dichas fallas fueron mitigadas correctamente. Como recomendación, cada programador debe aprender a ser pesimista con su código, a pensar siempre lo peor de manera que su aplicación esté preparada para ello. Buscar todas las posibles fallas que pueda tener el código, sin importar qué tan ridículas, absurdas o imposibles estas sean. Sino, recuerden esa vez que estaban refinando su aplicación unas horas antes de su defensa final y por arte de magia, a última hora todo dejó de funcionar por culpa de un error que pasaron por alto y no creyeron que fuera a afectar tanto el proyecto.
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SUBVIJTJdgI/AAAAAAAAFNo/cOn0lvCAhPg/s400/murphys_law_poster.jpg)  
-"Como decía Murphy: Todo lo
-que puede salir mal, saldrá mal"
+"Como decía Murphy: Todo lo que puede salir mal, saldrá mal"
 
 Para poder hacer uso de los Unit Tests, necesitas instalar el framework apropiado dependiendo del lenguaje de programación que estes utilizando para desarrollar y a veces este ya viene integrado en los IDEs o entornos de desarrollo. Por ejemplo, Java hace uso de la librería [JUnit](https://www.junit.org/), la cual ya viene integrada en [Netbeans](https://www.netbeans.org/), Python hace uso de [PyUnit](https://pyunit.sourceforge.net/), Microsoft .Net utiliza [NUnit](https://www.nunit.org/index.php), el cual se puede integrar con el IDE [SharpDevelop](https://www.icsharpcode.net/OpenSource/SD/), entre otros.
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SUBb1ATdcxI/AAAAAAAAFNw/tnFVnw_VhAU/s400/NetbeansShot.png)  
-"Captura de pantalla del IDE Netbeans, mostrando los resultados de
-la ejecución de los Unit Tests en un proyecto de Java (Clic para agrandar)"
+"Captura de pantalla del IDE Netbeans, mostrando los resultados de la ejecución de los Unit Tests en un proyecto de Java (Clic para agrandar)"
 
 ---
 
@@ -6728,8 +6213,7 @@ Pero los hilos comenzaron a molestarse, ya que en determinados momentos y circun
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SuUNGQUN_BI/AAAAAAAACNM/Dgem8LKcuqs/s320/578px-Dining_philosophers.png)    
 
-"El dilema de los Filosofos
-(Concurrencia)"
+"El dilema de los Filosofos (Concurrencia)"
 
 ¿La solución? Sincronizar los hilos. Al menos la solución sencilla de implementar, consiste en emplear la palabra reservada de Java: Synchronize, para asegurarnos que un bloque de código (o un método completo) sea "[Thread Safe](https://en.wikipedia.org/wiki/Thread_Safe)
 ", es decir, que en ese preciso bloque, los hilos harán "fila" para usarlo.
@@ -6789,8 +6273,7 @@ Recuerdo que hace un par de años, un amigo me comento que hay compañías en Es
 
 Fue tanto el impacto que me causo conocer esa "técnica de selección", que inmediatamente comencé a imaginar una forma de tener mi nombre regado por Internet. Y no es solo por diversión, existe un factor que te da una ventaja competitiva sobre las demás personas que no exponen o publican su trabajo en Internet.
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SNZ0XEL1C6I/AAAAAAAABQw/U7HlrpcNyrA/s320/contratando2.jpg)    
-"Gana enfoque exponiendo tu trabajo en Internet"
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SNZ0XEL1C6I/AAAAAAAABQw/U7HlrpcNyrA/s320/contratando2.jpg)     "Gana enfoque exponiendo tu trabajo en Internet"
 
 Es mas, uno de los principales motivadores para comenzar a bloggear, fue y sigue siendo eso. Este blog, actúa como carta de presentación y como herramienta de conocimiento personal-técnico, y claro, a más de alguien también le ayuda en algo :)
 
@@ -6799,8 +6282,7 @@ Es mas, uno de los principales motivadores para comenzar a bloggear, fue y sigue
 > Digital...
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SNZ0XCRJOOI/AAAAAAAABQo/gw-msGTfmT8/s320/identidad.png)    
-"Forma tu identidad digital
-mediante el contenido que generas"
+"Forma tu identidad digital mediante el contenido que generas"
 
 En el mundo real tenemos gente que nos reconoce (compañeros universitarios, de escuela o colegio, compañeros de trabajo, familiares, etc), ademas tenemos documentos que nos ayudan a comprobar que somos quien decimos que somos (DUI, Licencia de conducir, Titulo Universitario, etc), pero en el mundo digital, si no se construye la identidad y no generamos contenido, o si nos "ocultamos" en el anonimato de un seudónimo ¿que nos garantiza ser encontrado?...
 
@@ -6809,8 +6291,7 @@ En el mundo real tenemos gente que nos reconoce (compañeros universitarios, de 
 La identidad es una cualidad que se refiere a la existencia, su desarrollo involucra el entrono, la historia y la voluntad. No esta dada, sino que es un potencial, y eso es lo que nos interesa. Estoy seguro que ya pasamos la época, de este cómic:
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SNZtUJBU8JI/AAAAAAAABQg/86XK8oLsLyg/s320/idog.jpg)    
-"En Internet, nadie
-sabe que eres un perro."
+"En Internet, nadie sabe que eres un perro."
 
 A medida que avance el tiempo, cada vez será mas y más importante poseer una identidad digital que funcione como un reflejo de nuestra realidad. Pero, ¿qué estrategia hay que seguir para tener una buena identidad digital?... Creo que las estrategias para crear, diseñar o mantener una identidad digital se puede clasificar en tres tipos:
 
@@ -6838,20 +6319,17 @@ draft: false
 post_id: blog-3515952828243908885.post-6583722155229137364
 ---
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SNpbqi16Q1I/AAAAAAAABRA/hUbTdBvcfxo/s320/logo_labs_quotes.gif)    Como siempre,
-Google no deja de sorprendernos con nuevos servicios y proyectos interesantes. El que sale a la luz hoy, quizás no sea el mas productivo, pero si que esta interesante, se llama: "In Quotes". Dicho servicio permite compara frases de políticos. Por el momento hay frases de 20 políticos, entre ellos Barak Obama y Jhon MaCain que son los que aparecen por defecto, seleccionados en la pagina de "In Quotes".
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SNpbqi16Q1I/AAAAAAAABRA/hUbTdBvcfxo/s320/logo_labs_quotes.gif)    Como siempre, Google no deja de sorprendernos con nuevos servicios y proyectos interesantes. El que sale a la luz hoy, quizás no sea el mas productivo, pero si que esta interesante, se llama: "In Quotes". Dicho servicio permite compara frases de políticos. Por el momento hay frases de 20 políticos, entre ellos Barak Obama y Jhon MaCain que son los que aparecen por defecto, seleccionados en la pagina de "In Quotes".
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SNpbqkPooMI/AAAAAAAABQ4/u5NRAcNx0h4/s320/googlelabs-inquotes.jpg)    
 
-"Captura de pantalla de
-Google 'In Quotes'."
+"Captura de pantalla de Google 'In Quotes'."
 
 El funcionamiento es interesante: se obtienen (de Google News) los últimos discursos y frases de los políticos y un algoritmo de computadora comienza a comparar, etiquetar y clasificar según palabras claves como: Irak, petróleo, economía, etc. Y además, los usuarios pueden comparar dos frases aleatorias a través de una opción llamada "Spin".
 
 Lo que yo quisiera ver, fuera una comparación entre las frases de los candidatos a la presidencia de El Salvador para las elecciones de 2009. Si hay una versión de In Quotes para la India: ¿Por qué no una para El Salvador? (ah si, porque ningún Salvadoreño trabaja para Google, pero bueno... estoy divagando). ¿Se imaginan que interesante los debates que se pueden generar al obtener ese tipo de información de manera tan inmediata? Comparando frases, comentándolas y enriqueciendo el panorama y la percepción de los discursos e ideas de los candidatos, y también de la ocurrencia (o falta de esta) de los mismos. Estoy seguro que más de alguna frase de políticos nacionales (en general) arrancaría carcajadas a cualquiera. Seguramente este servicio sera llevado a otro nivel más adelante... porque me gustaría comparar frases de Steve Jobs vs. Bill Gates, y algún otro par de personalidades.
 
-"In Quotes" es definitivamente el tipo de
-herramientas que se necesitan para llevar la política a un plano más inmediato y menos polarizado para la población. Visiten este nuevo servicio recién estrenado en Google Labs:[> https://labs.google.com/inquotes/](https://labs.google.com/inquotes/) ¿Qué piensas de las frases de los políticos nacionales?, ¿Crees que te ayudaría a formarte una opinión mas objetiva de los candidatos a la presidencia?
+"In Quotes" es definitivamente el tipo de herramientas que se necesitan para llevar la política a un plano más inmediato y menos polarizado para la población. Visiten este nuevo servicio recién estrenado en Google Labs:[> https://labs.google.com/inquotes/](https://labs.google.com/inquotes/) ¿Qué piensas de las frases de los políticos nacionales?, ¿Crees que te ayudaría a formarte una opinión mas objetiva de los candidatos a la presidencia?
 
 ---
 
@@ -6864,8 +6342,7 @@ draft: false
 post_id: blog-3515952828243908885.post-5776432449580002349
 ---
 
-![image](https://bp2.blogger.com/_ayvorITawE4/RkZ7A0K334I/AAAAAAAAAWo/-5hfW39EMEA/s400/linux-mac.png)    Antes de comenzar
-mi consejo para los que tienen una Mac es simple: instalar GNU\Linux en su Mac... no se van a arrepentir Pero como muchos prefieren no quitar el hermoso escritorio que viene en su Mac, y aun así gozar de la libertad de GNU\Linux... para ustedes, existe esta solución:
+![image](https://bp2.blogger.com/_ayvorITawE4/RkZ7A0K334I/AAAAAAAAAWo/-5hfW39EMEA/s400/linux-mac.png)    Antes de comenzar mi consejo para los que tienen una Mac es simple: instalar GNU\Linux en su Mac... no se van a arrepentir Pero como muchos prefieren no quitar el hermoso escritorio que viene en su Mac, y aun así gozar de la libertad de GNU\Linux... para ustedes, existe esta solución:
 
 El blog "The Simplehelp" ha creado un excelente tutorial paso a paso para correr aplicaciones Linux en su Mac, usando (claro) Software Libre como Fink y FinkCommander.Aunque es un proceso de muchos pasos (laaargo), esta extremadamente detallado, asi que es bastante sencillo de entender y de no perderse.Espero que les sea de utilidad, y no olviden propagar el espíritu de libertad de el Software Libre:
 
@@ -6883,16 +6360,14 @@ post_id: blog-3515952828243908885.post-5998706059379379572
 ---
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/Rwt6u1mN2XI/AAAAAAAAAgI/ZCPz24_fMcM/s400/Captura.png)    
-"Captura de Pantalla de Asistente de instalación
-de Hardware Nuevo"
+"Captura de Pantalla de Asistente de instalación de Hardware Nuevo"
 
 Tenia varias semanas de no usar Windows XP .... y es precisamente por estos sucesos irregulares por lo que no me gusta usarlo mucho... pero bueno. La Captura de Pantalla que ahora les presento, es el famoso cuadro de dialogo de Asistente de instalación de Hardware Nuevo. Esta ventanilla aparece cada vez que se instala Hardware en la PC, tarjetas de red por ejemplo, joypads, webcams, etc...
 
 Lo curioso en si de la captura que ahora les pongo es que según Windows XP: yo tengo que instalar un NUEVO HARDWARE DESCONOCIDO (a pesar de no haber agregado absolutamente ningun hardware nuevo a mi PC), pero vale, mi consuelo es que el asistente de todas formas me ayudara a hacerlo!!!!! xD
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/Rwt-iVmN2YI/AAAAAAAAAgQ/dn_9dtfjT6s/s400/foolish.jpg)    
-"Foolish
-Behaviour"
+"Foolish Behaviour"
 
 Como me hubiera gustado tener alguna cancion del album "Foolish Behavior" de "Rod Stewart "de fondo musical cuando sucedio eso. Si que hubiera sido oportuno.
 
@@ -6913,14 +6388,12 @@ Existen empresas en el país que como bien lo dice Rodrigo en [este post](https:
 
 Un claro ejemplo de esto es cuando te restringen el acceso a Internet con el supuesto de volverte más productivo evitando que pierdas el tiempo procrastinando en lugar de desarrollar, ya que los jefes no conocen el valor único que tiene el Internet y cuantos servicios online existen que te permiten ser más productivo especialmente si formas parte de un equipo de trabajo.
 
-"Para algunos jefes, esto es
-el Internet"
+"Para algunos jefes, esto es el Internet"
 
 Para lograr dicho cometido, he encontrado los siguientes sitios que te pueden ser de mucha utilidad:
 
 - Twittermail ([https://twittermail.com/](https://twittermail.com/))
-![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SY9A4JYMbJI/AAAAAAAAFpY/Wmoos3b4U2c/s400/twittermail.png)    
-Este es un sitio desde el cual puedes registrarte con tu usuario y clave de twitter y al momento te asignan una dirección de correo electrónico especial, a la cual puedes escribir y el título o el contenido de dicho correo (depende de como lo hayas configurado) saldrá publicado en tu cuenta de twitter. También puedes enviar comandos especiales en el título del correo, como por ejemplo friends con el cual, el robot te enviará un correo electrónico conteniendo los 20 últimos twitts escritos por tus amigos.
+![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SY9A4JYMbJI/AAAAAAAAFpY/Wmoos3b4U2c/s400/twittermail.png)     Este es un sitio desde el cual puedes registrarte con tu usuario y clave de twitter y al momento te asignan una dirección de correo electrónico especial, a la cual puedes escribir y el título o el contenido de dicho correo (depende de como lo hayas configurado) saldrá publicado en tu cuenta de twitter. También puedes enviar comandos especiales en el título del correo, como por ejemplo friends con el cual, el robot te enviará un correo electrónico conteniendo los 20 últimos twitts escritos por tus amigos.
 
 Dicha cuenta, además, te enviará a tu bandeja un mail con los repplies que recibas por parte de tus followers. Entre otras funciones esta la capacidad de publicar fotografías adjuntas en twitpic y programar twitts a futuro.
 
@@ -6928,20 +6401,16 @@ Dicha cuenta, además, te enviará a tu bandeja un mail con los repplies que rec
 Las plataformas de blogging también te ofrecen la alternativa de escribir posts y enviarlos a una cuenta de correo especifica para que este sea publicado. Desde blogger puedes hacerlo en la siguiente pagina, en tus settings:
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SY9MtovGGHI/AAAAAAAAFqI/UmvLJX5hFUM/s400/Blogger+Sr.+Byte+-+Email+Settings.png)    
-"Interfaz de los settings de
-tu cuenta de blogger, donde puedes configurar una cuenta de correo para publicar posts en tu blog (Clic para agrandar)"
+"Interfaz de los settings de tu cuenta de blogger, donde puedes configurar una cuenta de correo para publicar posts en tu blog (Clic para agrandar)"
 
 - Webinmail ([https://www.webinmail.com](https://www.webinmail.com/))
-![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SY9B3KtRTPI/AAAAAAAAFpg/Qv9Gf5XaMQ8/s400/wimlogo.png)    
-Este servicio te permite enviar un correo electrónico a una cuenta de correo predeterminada, incluyendo en el título del mensaje la URL de la página que deseas visitar y ellos te envían un correo de respuesta mostrando dicha página web en el contenido del correo. Ejemplo:
+![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SY9B3KtRTPI/AAAAAAAAFpg/Qv9Gf5XaMQ8/s400/wimlogo.png)     Este servicio te permite enviar un correo electrónico a una cuenta de correo predeterminada, incluyendo en el título del mensaje la URL de la página que deseas visitar y ellos te envían un correo de respuesta mostrando dicha página web en el contenido del correo. Ejemplo:
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SY9CxvVpyjI/AAAAAAAAFpw/CVSKseCr1oU/s400/ComposeMailWebinmail.png)    
-"Ejemplo de mensaje de
-correo electrónico enviado a webinmail, pidiendo recibir la pagina del Sr Byte (Clic para ver en tamaño completo)
+"Ejemplo de mensaje de correo electrónico enviado a webinmail, pidiendo recibir la pagina del Sr Byte (Clic para ver en tamaño completo)
 
 ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SY9DtY6kM6I/AAAAAAAAFqA/soczUUpb6EQ/s400/ReceiveMailWebinmail.png)    
-"Mensaje de correo recibido
-en respuesta por la consulta enviada anteriormente. (Clic para ver en tamaño completo)"
+"Mensaje de correo recibido en respuesta por la consulta enviada anteriormente. (Clic para ver en tamaño completo)"
 
 Quizá la forma de negación parezca un tanto arcaica y no te permita descargar archivos o recibir transmisiones de audio/vídeo vía streaming para ver vídeos de youtube o entrar a sitios que te piden tu usuario y clave pero por lo menos te puede sacar de apuros si no tienes nada mas que tu cuenta de correo electrónico y necesitas googlear o buscar ayuda en foros.
 
@@ -6985,21 +6454,16 @@ draft: false
 post_id: blog-3515952828243908885.post-3070148149946133964
 ---
 
-Si alguna vez chateaste en elchat.com o bajaste juegos para tu celular, seguramente has visto este logo...
-![image](https://bp0.blogger.com/_ayvorITawE4/RhQO0bQFkCI/AAAAAAAAAPo/Xli7wyZTs1I/s400/Java-logo.gif)    
-"Logo de
-Java"
+Si alguna vez chateaste en elchat.com o bajaste juegos para tu celular, seguramente has visto este logo... ![image](https://bp0.blogger.com/_ayvorITawE4/RhQO0bQFkCI/AAAAAAAAAPo/Xli7wyZTs1I/s400/Java-logo.gif)    
+"Logo de Java"
 
 ¿Sabes que significa Java? Java es un [lenguaje de programación](https://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n) [orientado a objetos](https://es.wikipedia.org/wiki/Orientado_a_objetos) desarrollado por [Sun Microsystems](https://es.wikipedia.org/wiki/Sun_Microsystems)
 
 A diferencia de la mayoría de lenguajes de programación los programas codificados en Java están compilados en [bytecode](https://es.wikipedia.org/wiki/Bytecode), que es interpretado en el momento en el que usas ese programa por una [máquina virtual Java](https://es.wikipedia.org/wiki/M%C3%A1quina_virtual_Java). Esto quiere decir que los programas hechos en Java, solo necesitan la maquina virtual de Java para poder ser usados, en cualquier dispositivo que lo permita, sea una computadora personal, un celular, un carro, una nave, etc...
 
-Por eso se dice usualmente que Java esta en todos lados...
-[https://www.youtube.com/v/av5y5X5Eyrg](https://www.youtube.com/v/av5y5X5Eyrg) [https://www.youtube.com/v/av5y5X5Eyrg](https://www.youtube.com/v/av5y5X5Eyrg)
+Por eso se dice usualmente que Java esta en todos lados... [https://www.youtube.com/v/av5y5X5Eyrg](https://www.youtube.com/v/av5y5X5Eyrg) [https://www.youtube.com/v/av5y5X5Eyrg](https://www.youtube.com/v/av5y5X5Eyrg)
 
-[https://www.youtube.com/v/av5y5X5Eyrg](https://www.youtube.com/v/av5y5X5Eyrg) [https://www.youtube.com/v/av5y5X5Eyrg](https://www.youtube.com/v/av5y5X5Eyrg) [https://www.youtube.com/v/av5y5X5Eyrg](https://www.youtube.com/v/av5y5X5Eyrg) [https://www.youtube.com/v/av5y5X5Eyrg](https://www.youtube.com/v/av5y5X5Eyrg)
-"Java everywhere"
-Y ahora que Java es software libre, tendrá mucho mas apoyo y crecimiento convirtiéndose en una de las
+[https://www.youtube.com/v/av5y5X5Eyrg](https://www.youtube.com/v/av5y5X5Eyrg) [https://www.youtube.com/v/av5y5X5Eyrg](https://www.youtube.com/v/av5y5X5Eyrg) [https://www.youtube.com/v/av5y5X5Eyrg](https://www.youtube.com/v/av5y5X5Eyrg) [https://www.youtube.com/v/av5y5X5Eyrg](https://www.youtube.com/v/av5y5X5Eyrg) "Java everywhere" Y ahora que Java es software libre, tendrá mucho mas apoyo y crecimiento convirtiéndose en una de las
 
 ---
 
@@ -7014,9 +6478,7 @@ post_id: blog-3515952828243908885.post-1113928188051244522
 
 En estas dos ultimas semanas, me vi en la penosa situación, de comprender, alterar y depurar código JavaScript ajeno. JavaScript es un lenguaje script (lo que generalmente implica que es interpretado) usualmente integrado a los navegadores web, para desarrollar paginas web "dinámicas". Se caracteriza por ser un lenguaje basado en prototipos con tipos de datos débil. Inspirado en múltiples lenguajes, fue diseñado con Java (e inherentemente C) en mente.
 
-Todo navegador web que se respete, debe ser capaz de interpretar el código JavaScript que se emplee en una pagina web, pero como se podrán imaginar, [no todos los navegadores interpretan igual el código](https://www.blogger.com/goog_1257714242864)
-[JavaScript](https://www.srbyte.com/2009/06/tu-sitio-compatible-en-todos-los.html)
-(entre las diferentes versiones de los mismos). Es por eso, que al crear paginas Web modernas e interactivas, hay que utilizar una librería (framework) que cumpla la importante característica de la interoperabilidad entre multiples navegadores (como recordatorio) a esto se le llama: CrossBrowser.
+Todo navegador web que se respete, debe ser capaz de interpretar el código JavaScript que se emplee en una pagina web, pero como se podrán imaginar, [no todos los navegadores interpretan igual el código](https://www.blogger.com/goog_1257714242864) [JavaScript](https://www.srbyte.com/2009/06/tu-sitio-compatible-en-todos-los.html) (entre las diferentes versiones de los mismos). Es por eso, que al crear paginas Web modernas e interactivas, hay que utilizar una librería (framework) que cumpla la importante característica de la interoperabilidad entre multiples navegadores (como recordatorio) a esto se le llama: CrossBrowser.
 
 Dojo, [Google Web Toolkit](https://www.srbyte.com/2009/10/trabajando-con-google-web-toolkit-y.html), ICEFaces, jQuery, son algunos ejemplos de librerías y frameworks CrossBrowser, y como pueden ver en el caso de GWT y ICEFaces, a veces ni siquiera se necesita codifica JavaScript.
 
@@ -7032,8 +6494,7 @@ caliente" (por ejemplo si se borra una clase CSS, se ve inmediatamente el cambio
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/Svc3KXmPBpI/AAAAAAAACNk/-hrk_3l7DPI/s320/firebug.png)    
 
-[Para Internet Explorer](https://www.srbyte.com/2008/10/depurando-css-y-javascript-con-internet.html) 7, tenemos el DebugBar, que saca de problemas,
-pero no es tan bueno como su contraparte (FireBug), e Internet Explorer 8 trae una herramienta integrada similar en funcionamiento a FireBug.
+[Para Internet Explorer](https://www.srbyte.com/2008/10/depurando-css-y-javascript-con-internet.html) 7, tenemos el DebugBar, que saca de problemas, pero no es tan bueno como su contraparte (FireBug), e Internet Explorer 8 trae una herramienta integrada similar en funcionamiento a FireBug.
 
 Todo esto es muy bueno, pero existe otro problema. Quizas estas utilizando un archivo JavaScript de 32 KB en el trabajo (eso es cerca de 900 lineas de codigo), y quizas estas pensando: "si es tan grande, probablemente este mal... cambiare algunas cosas para hacerlo más pequeño", existirá un punto en el que todo funciona perfectamente, y dos minutos despues, ya no funciona nada mas. ¿Les ha sucedido esto alguna vez? es sumamente frustrante. En esos dos minutos, hiciste tantos cambios (unos 20 quizas) que no recuerdas que hiciste exactamente para arruinar catastroficamente todo.
 
@@ -7047,13 +6508,7 @@ problema con el código JavaScript que modificaste, y también te muestra la lin
 
 Con estas dos fabulosas herramientas, he logrado convertir mi vieja relación de amor/odio con JavaScript, en "más amor y menos odio" ... pero todavía no dejo de odiarlo... en fin, JSure es una herramienta tan indispensable como FireBug, espero que a ustedes también les sirva tanto como a mi.
 
-Más información:
-[https://www.jsure.org/](https://www.jsure.org/)
-[https://www.tufuncion.com/firebug](https://www.tufuncion.com/firebug)
-(Recomendado)
-[https://es.wikipedia.org/wiki/JavaScript](https://es.wikipedia.org/wiki/JavaScript)
-[https://en.wikipedia.org/wiki/Firebug_%28Firefox_extension%29](https://en.wikipedia.org/wiki/Firebug_%28Firefox_extension%29)
-[https://es.wikipedia.org/wiki/Firebug](https://es.wikipedia.org/wiki/Firebug)
+Más información: [https://www.jsure.org/](https://www.jsure.org/) [https://www.tufuncion.com/firebug](https://www.tufuncion.com/firebug) (Recomendado) [https://es.wikipedia.org/wiki/JavaScript](https://es.wikipedia.org/wiki/JavaScript) [https://en.wikipedia.org/wiki/Firebug_%28Firefox_extension%29](https://en.wikipedia.org/wiki/Firebug_%28Firefox_extension%29) [https://es.wikipedia.org/wiki/Firebug](https://es.wikipedia.org/wiki/Firebug)
 
 ---
 
@@ -7075,8 +6530,7 @@ La tarea del Kernel es ejecutar procesos (Software, aplicaciones, programas, com
 Existen una gran variedad de Kernels: Micro Kernel y Mono Kernel y además esta el ExoKernel, el Kernel Híbrido y el Nano Kernel...
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RpJTN1X49XI/AAAAAAAAAYY/KiFx4OD18RE/s400/kernel.jpg)    
-"Macro (Mono), Micro y Exo
-Kernel... el concepto"
+"Macro (Mono), Micro y Exo Kernel... el concepto"
 
 ...el diseño y creación de estos obedece usualmente a la implementación de los "anillos de protección". Estos anillos obedecen a un mecanismo que busca proteger datos y funcionalidad: de fallos y de comportamiento malicioso.
 
@@ -7085,14 +6539,12 @@ Los dos tipos de Kernel más usados son: Micro Kernel y Mono Kernel... y entre e
 La forma mas fácil de imaginar un Kernel es como una almendra...
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/RpJHDlX49SI/AAAAAAAAAXw/jB-Si-zZrJE/s400/almendras.jpg)    
-"Kernel en ingles, es el
-centro comestible de una almendra"
+"Kernel en ingles, es el centro comestible de una almendra"
 
 Hay que mencionar, que Microsoft decidió omitir esta regla de "anillos de protección" desde Windows 3.x hasta Windows 98. ¿Por qué?... bueno, la comunicación entre los anillos de protección requiere MUCHOS ciclos de procesamiento. Y con Windows siendo un sistema operativo elementalmente visual, Microsoft no tenia mas remedio que ELIMINAR los anillos de protección para mejorar el rendimiento general del sistema. Claro, esto llevo a problemas terribles muy bien conocidos en todos los Windows de la serie 3.x y 9x, como la famosa BSOD (Pantalla Azul).
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/RpJHJFX49TI/AAAAAAAAAX4/2C2NNCbJ57Q/s400/kernelwin98.jpg)    
-"Así se vería el Kernel de
-Windows 98 después de una BSOD"
+"Así se vería el Kernel de Windows 98 después de una BSOD"
 
 Ahora la serie de sistemas Windows XP/Vista eliminan (enormemente) este problema implementando en su Kernel los una vez desplazados anillos de protección... que se asemejan mucho con las capas de una cebolla... pero basta de hablar de comida.
 
@@ -7105,20 +6557,17 @@ Compilar el Kernel en un sistema, no se trata de una tarea exclusiva para "geeks
 Pues para este circulo vicioso, existe un método que simplifica MUCHO las cosas, y además, sirve de ejemplo perfecto de la flexibilidad que presenta el Software Libre. Este método consiste en la utilización de una maquina virtual para probar nuestro Kernel, y definitivamente NO consiste en copiar el kernel a la maquina virtual y arrancarla o peor aun, compilar el kernel en una maquina virtual, NO NO NO! Es mucho mejor que eso (y menos tedioso), consiste en arrancar la imagen de un disco duro virtual con un Kernel (el que hemos compilado) EXTERNO a esta maquina virtual.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/RpJO_lX49WI/AAAAAAAAAYQ/1BVmDQ3g530/s400/qemu-logo.png)    
-"Logo de
-QEmu"
+"Logo de QEmu"
 
 Esta fantástica característica parte de [QEMU (QEmu es un emulador de computadoras virtuales)](https://fabrice.bellard.free.fr/qemu/), se llama "Direct Linux Boot":
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/RpJLvlX49UI/AAAAAAAAAYA/7fgT_RPSTSM/s400/linuxboot.png)    
-"Captura de pantalla de Qemu
-Laucher con Direct Linux Boot habilitado"
+"Captura de pantalla de Qemu Laucher con Direct Linux Boot habilitado"
 
 Direct Linux Boot, permite ahorrar tiempo de una manera increíble, al evitar estar re-iniciando la maquina constantemente y evitando el infame "Kernel Panic".
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/RpJMRlX49VI/AAAAAAAAAYI/PYIEc1YPXgw/s400/instant%C3%A1nea1.png)    
-"Captura de pantalla de
-Direct Linux Boot con Kernel EXTERNO 2.6.21rac Click para hacerlo más grande"
+"Captura de pantalla de Direct Linux Boot con Kernel EXTERNO 2.6.21rac Click para hacerlo más grande"
 
 En el transcurso de la semana escribo un tutorial sobre como compilar y probar un Kernel usando QEMU.
 
@@ -7145,8 +6594,7 @@ John von Neumann (Diciembre 28, 1903 - Febrero 8, 1957), fue un matemático que 
 Este modelo de diseño usa una unidad de procesamiento y una estructura separada para contener instrucciones y datos. Una computadora diseñada de esta forma implementa una [Maquina Universal de Turing](https://srbyte.blogspot.com/2007/12/la-maquina-de-turing.html) ¿ven la conexión?.
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/b/bd/Arquitectura_von_Neumann.png)    
-"Click en la imagen para verla más
-grande."
+"Click en la imagen para verla más grande."
 
 Como pueden ver a partir de la imagen superior, este modelo de diseño es el abuelo de la mayoría de las computadoras diseñadas en la actualidad.
 
@@ -7159,8 +6607,7 @@ La arquitectura Hardvard es otra forma de modelar el hardware en una computadora
 En contraste con una arquitectura de Von Neumann, la arquitectura Harvard es definitivamente la ganadora en velocidad, pero no en conveniencia a la hora de ejecutar grupos de instrucciones distintas. Un ejemplos de computadoras programables que usan la arquitectura Harvard, son los famosos PIC...
 
 ![image](https://www.ke4nyv.com/pics5.jpg)    
-"Diversos modelos de
-PIC's"
+"Diversos modelos de PIC's"
 
 Pero no todo es amor y felicidad en la tierra de Von Neumann. La separación que se obtiene entre el CPU y la memoria da como resultado una de las obsesiones mas grandes de la industria del hardware: el famoso cuello de botella. El problema radica, en que la CPU esta continuamente forzada a esperar a que los datos sean transportados desde o hacia la memoria RAM, mas que todo debido a la diferencia entre la taza de transferencia de datos que existen entre la CPU y la RAM.
 
@@ -7181,8 +6628,7 @@ draft: false
 post_id: blog-3515952828243908885.post-1841998442811821649
 ---
 
-![image](https://bp0.blogger.com/_ayvorITawE4/SH1yQ41O2uI/AAAAAAAAA48/GWvZoq8Ny3w/s400/blogger_logo.png)    Leyendo mis feeds,
-me percate de la retirada de uno de los bloggers más visitados de la industria (de la tecnología por supuesto), nada más y nada menos que el blog de: Jason Calacanis (CEO de Mahalo, uno de los meta buscadores más interesantes de la red). El blog de Calacanis, fácilmente ronda con vistas que rondan los miles (entre 5000 y 7000 visitas diarias), tras 5 años de trayectoria, y su indiscutible calidad, pues Calacanis se convirtió en uno de los bloggers más respetados de la blogosfera mundial. No pienso ni siquiera comenzar a discutir sobre su emotiva y sobrecomentada (y como siempre mal interpretada por los medios) partida. Pero la pueden ver aquí: "[Calacanis.com](https://www.calacanis.com/2008/07/11/official-announcement-regarding-my-retirement-from-blogging/)
+![image](https://bp0.blogger.com/_ayvorITawE4/SH1yQ41O2uI/AAAAAAAAA48/GWvZoq8Ny3w/s400/blogger_logo.png)    Leyendo mis feeds, me percate de la retirada de uno de los bloggers más visitados de la industria (de la tecnología por supuesto), nada más y nada menos que el blog de: Jason Calacanis (CEO de Mahalo, uno de los meta buscadores más interesantes de la red). El blog de Calacanis, fácilmente ronda con vistas que rondan los miles (entre 5000 y 7000 visitas diarias), tras 5 años de trayectoria, y su indiscutible calidad, pues Calacanis se convirtió en uno de los bloggers más respetados de la blogosfera mundial. No pienso ni siquiera comenzar a discutir sobre su emotiva y sobrecomentada (y como siempre mal interpretada por los medios) partida. Pero la pueden ver aquí: "[Calacanis.com](https://www.calacanis.com/2008/07/11/official-announcement-regarding-my-retirement-from-blogging/)
 ", recomiendo a todo autor de blog, que se sienta como blogger dedicado, que lo lea.
 
 Entre otras cosas Daniel Lyons también parte de la blogosfera mundial, ¿No saben quien es Daniel Lyons?... es el autor del famoso blog "[Fake Steve Jobs](https://fakesteve.blogspot.com/2008/07/i-am-so-friggin-high-its-not-funny.html)
@@ -7201,8 +6647,7 @@ Y entre las interrogantes que emergieron, comparto las siguientes (porque las de
 Definitivamente, hay momentos en los que me pregunto, que es lo que motiva a los top bloggers a seguir escribiendo, algunos me pueden decir que el dinero, pero, ¿y los que no ganan nada?. Hay bloggers que llenan su blog de podcast, canales de TV, filman cada lugar al que van, colocan sus imagenes en flickr, abren chats paras sus lectores y mils cosas más: como el Blog de [Robert Scobler](https://scobleizer.com/) o el blog de [Chris Pirillo](https://chris.pirillo.com/), claro, ellos si son bloggers profesionales. Pero [Jeff Atwood](https://www.codinghorror.com/blog/), comenzó su blog, como un lugar de opiniones personales sobre programación y computadoras en general... y para hacer la historia corta, renuncio a su compañía ([Vertigo Software](https://www.vertigo.com/)) y ahora es blogger casi a tiempo completo, y por supuesto, su blog le da de comer. Lo interesante es la diferencia de diseño abismal que existe entre estos tres blogs mencionados, y el de Jeff Atwood es el más rápido y sencillo (francamente, toda una inspiración).
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SH1yQ6QBnSI/AAAAAAAAA5E/1j-ehwlKkDM/s400/blog-presentacion.jpg)    
-"El Sr. Byte surgió como una
-especie de tarjeta de presentación personal."
+"El Sr. Byte surgió como una especie de tarjeta de presentación personal."
 
 También esta el interesante escenario en el que un blog es simplemente irrelevante y definitivamente caduca mucho más velozmente que un blog de opinión (entiéndase de opción como un blog de estilo de análisis, comentarios, informativos, tipo periodístico, etc...). Y existen dos casos:
 
@@ -7217,14 +6662,12 @@ También esta el interesante escenario en el que un blog es simplemente irreleva
 > busquen, que la red esta atestada con blogs así.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/SH1yRTx6y3I/AAAAAAAAA5U/pOg9dnVJ1bs/s400/midiario-blogger.jpg)    
-"Así terminan los autores de
-los blogs personales/íntimos, ¡salgan de su depresión y vivan y sean productivos!"
+"Así terminan los autores de los blogs personales/íntimos, ¡salgan de su depresión y vivan y sean productivos!"
 
 Otro punto muy importante que se me ocurre que incide en la decisión de dejar de escribir en un blog, es la frecuencia con la que se escribe en el blog. A veces, una buena entrada (post) puede tardar más de una hora en ser escrita, y quizás el lector solo tarda 3 minutos en leerla. Luego escribir múltiples entradas para un blog, a veces es extenuantes (nuevamente: hablo de buenas entradas).
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SH1yRLLo8CI/AAAAAAAAA5M/ziJDPKzQTgs/s400/escribir.jpg)    
-"¿Cuanto tardara el blogger
-Salvadoreño promedio en escribir una entrada original?"
+"¿Cuanto tardara el blogger Salvadoreño promedio en escribir una entrada original?"
 
 En fin, esta vez, quiero invitar a los autores de blogs que opinen sobre la caducidad de sus blogs:
 
@@ -7247,8 +6690,7 @@ post_id: blog-3515952828243908885.post-2018723737218398849
 Esta imagen vale mas que mil post. Como [ya había mencionado antes](https://srbyte.blogspot.com/2008/01/macbook-air-he-perdido-la-fascinacion.html), la MacBook Air es elegante... pero esta imagen muestra que se ve elegante solo estando apagada...
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/R82ubYmBXVI/AAAAAAAAAlY/d7Goijd-2qA/s400/DSC_0234.jpg)    
-"Ethernet, monitor de 23
-pulgadas, lector de tarjetas SD, mouse etc..."
+"Ethernet, monitor de 23 pulgadas, lector de tarjetas SD, mouse etc..."
 
 Esta bien, esta bien, yo se que esta orientada a la movilidad máxima de su dueño pero aun así, la idea de tener solo un puerto USB no es nada agradable, especialmente con imágenes como la que les muestro. ¿Todavía quieres una MacBook Air?
 
@@ -7263,23 +6705,20 @@ draft: false
 post_id: blog-3515952828243908885.post-7706356879334824840
 ---
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SjGA9WGaTQI/AAAAAAAACBo/oX17atzc0uQ/s320/Cisco_new_logo-thumb.gif)    Hace poco, [CISCO](https://www33.wolframalpha.com/input/?i=CSCO) publico un [White Paper](https://www.cisco.com/en/US/solutions/collateral/ns341/ns525/ns537/ns705/ns827/white_paper_c11-481360_ns827_Networking_Solutions_White_Paper.html)(documento de reporte o guía) sobre su visión de como se comportara el trafico
-de Internet en el año 2013. Si lo leen con detenimiento, notaran predicciones de crecimiento exponencial (nada sorprendente), y el uso de "números realmente grandes"(o mejor dicho, unidades de medida) para cuantificar el crecimiento del trafico.
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SjGA9WGaTQI/AAAAAAAACBo/oX17atzc0uQ/s320/Cisco_new_logo-thumb.gif)    Hace poco, [CISCO](https://www33.wolframalpha.com/input/?i=CSCO) publico un [White Paper](https://www.cisco.com/en/US/solutions/collateral/ns341/ns525/ns537/ns705/ns827/white_paper_c11-481360_ns827_Networking_Solutions_White_Paper.html)(documento de reporte o guía) sobre su visión de como se comportara el trafico de Internet en el año 2013. Si lo leen con detenimiento, notaran predicciones de crecimiento exponencial (nada sorprendente), y el uso de "números realmente grandes"(o mejor dicho, unidades de medida) para cuantificar el crecimiento del trafico.
 
 La amplitud de los medios estudiados, va desde la televisión digital hasta los teléfonos celulares. Se espera que el trafico en el 2013 llegue hasta los 56 [exabytes](https://es.wikipedia.org/wiki/Exabyte) al mes (eran 8 exabytes en el 2008). 56 exabytes en simple español equivale al "tamaño" de 10,000 millones de DVD's viajando por Internet cada mes... en pocas palabras una cantidad INCREÍBLE de datos.
 
 Más del 90% de este trafico sera de televisión digital, video bajo demanda y P2P ([BitTorrent](https://www.srbyte.com/2007/03/bittorrent-todo-mundo-ama-bittorrent.html), Emule, Gnutella, Frostwire, etc...). Cisco también predice que el video chat incrementara diez veces más entre 2008 y 2013. Otro incremento masivo, sera en los dispositivos moviles, y con móviles como el [Nokia 5800 XpressMusic](https://www.srbyte.com/2009/06/review-nokia-5800-xpressmusic-13.html), iPhone 3g S y el Palm Pre, tampoco es de extrañar que suceda.
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SjF7bW0NCfI/AAAAAAAACBQ/_noLVpXtA_g/s320/nokia-5800-xpressmusic1.jpg)    
-"Nokia 5800
-XpressMusic"
+"Nokia 5800 XpressMusic"
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SjF7bXoMYxI/AAAAAAAACBY/_Ia5PLQGdWM/s320/palm-pre-perfecta.jpg)    
 "Palm Pre"
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SjF7bLKjmhI/AAAAAAAACBI/Kesb_6bB_WM/s320/iphone3gs_intro_slide.jpg)    
-"iPhone 3G
-S"
+"iPhone 3G S"
 
 Con teléfonos como los mostrados, no es de extrañarnos que cada año se este duplicando la cantidad de trafico que fluye entre los teléfonos móviles, y tampoco es de extrañarnos que para el 2013, según Cisco sera: 66 veces superior al actual. Con números así, los desarrolladores de software, ya tienen que estar pensando en comenzar a usar el SDK: [Java ME](https://java.sun.com/javame/index.jsp), el [iPhone SDK](https://developer.apple.com/iphone/) y [Symbian SDK](https://developer.symbian.org/); después no digan que no les avise ;)
 
@@ -7294,8 +6733,7 @@ Cisco ve un (nada extraño) crecimiento en el trafico, que probara verdaderament
 
 1. La realización de alguna profecía Maya 2. Un planeta con órbita irregular 3. [Skynet](https://en.wikipedia.org/wiki/Skynet_%28Terminator%29#Terminator_Salvation) 4. El [LHC](https://en.wikipedia.org/wiki/LHC) 5. Alguna otra tontería Probablemente si nos matara del aburrimiento, navegar en Internet, eso es, sí la infraestructura que se encarga de brindarnos conectividad, no mejora...
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SjGA9Hf18rI/AAAAAAAACBg/Qs821LwkXQU/s320/cisco.jpg)    
-¿Que tiene que cambiar, para que en el 2013 no nos destruya la falta de comunicación y las descargas lentas?
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SjGA9Hf18rI/AAAAAAAACBg/Qs821LwkXQU/s320/cisco.jpg)     ¿Que tiene que cambiar, para que en el 2013 no nos destruya la falta de comunicación y las descargas lentas?
 
 1. Implementar IPv6, para soportar más clientes, que los que soporta IPv4. 2. Mejorar la capacidad de los Switchs y Routers. No solo en cantidad de paquetes ruteados/procesados, sino en eficiencia de consumo de energia. 3. Aumentar la capacidad de almacenamiento de los servidores, usando sistemas de archivos de alto rendimiento como: [ZFS](https://es.wikipedia.org/wiki/ZFS_%28sistema_de_archivos%29) ó [XFS](https://es.wikipedia.org/wiki/XFS) (ambos con soporte para volúmenes de hasta 16 exabytes). 4. Aumento de infraestructura que soporte mayor transporte/consumo de ancho de banda en general. A paso firme y continuo se esta llegando al final de la era de Gigabytes y Terabytes, y poco a poco nos movemos a los Exabytes y finalmente al gigantesco [Zettabyte](https://es.wikipedia.org/wiki/Zettabyte). Pero seguramente todos nos estamos preguntando: ¿Que tipo de información se estará produciendo y almacenando?, ¿sera significativa?, ¿sera solo ruido y nada de señal?
 
@@ -7323,8 +6761,7 @@ Déjenme decirles porque: La fundación esta tan bien hecha que podría funciona
 > tecnología piensa en dejar su monopólico negocio para asistir a las aburridas reuniones de una
 > institución de caridad?
 ![image](https://uk.gizmodo.com/bill%20gates.jpg)    
-"Imagen: Bill
-Gates."
+"Imagen: Bill Gates."
 
 ¿Realmente quiere ayudar al prójimo?, ¿Necesita más tiempo con su familia?, ¿Ya se aburrió y quiere hacer algo más?... hmmmm, no lo creo. A mí me parece que el Sr. Gates esta detrás de algo más interesante, y su plan si funciona será un hito (planeado) en el mundo de los negocios.
 
@@ -7336,27 +6773,22 @@ Ya hemos visto algo similar con Apple...
 
 Después de mandar hipotéticamente a Siberia a Steve Jobs, Apple paso al mando de [John Scully](https://en.wikipedia.org/wiki/John_Sculley)(antes presidente de Pepsi), Steve se fué y finalmente Apple comenzó a navegar sin rumbo. Paso a ser timoneado por otros administradores "profesionales" que simplemente no pudieron hacer nada para mejorar la situación. Hasta que Jobs regresó:
 
-"Video: El Retorno de Steve
-Jobs" No tomaría mucho tiempo para ver esos mismos estragos en Microsoft. Luego, de acuerdo con el -supuesto- plan,el Sr. Gates no tendría más opción que regresar como el héroe a salvar la compañía. Y aunque no hay nada de original en esta idea, si Bill lo hace, pues seria ESPECTACULAR.......
+"Video: El Retorno de Steve Jobs" No tomaría mucho tiempo para ver esos mismos estragos en Microsoft. Luego, de acuerdo con el -supuesto- plan,el Sr. Gates no tendría más opción que regresar como el héroe a salvar la compañía. Y aunque no hay nada de original en esta idea, si Bill lo hace, pues seria ESPECTACULAR.......
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/R8jgDzAI-nI/AAAAAAAAAlI/W39ehfpEZrU/s320/funny-pictures-the-bill-gates-empire-xFw.jpg)    
-"Si a Bill le saliera la
-jugada, fuera espectacular."
+"Si a Bill le saliera la jugada, fuera espectacular."
 
 Espectacular para Microsoft, sus Fan Boys y sus accionistas. Mejoraría inclusive "[El Retorno del Fundador Prodigo](https://www.wired.com/techbiz/media/news/1996/12/1137)
 " (El Retorno de Steve Jobs) y quizás por eso mismo, este plan no tiene tantas probabilidades de funcionar. Ya [Ted Waitt](https://en.wikipedia.org/wiki/Ted_Waitt) intento hacer lo mismo con [Gateway](https://en.wikipedia.org/wiki/Gateway%2C_Inc.)... y falló miserablemente. Ahora Gateway no es mas que una subsidiaria de [Acer](https://en.wikipedia.org/wiki/Acer_%28company%29), una compañía China (jaja).
 
-![image](https://blogs.itworldcanada.com/insights/files/2007/08/gateway-logo.jpg)    
-"Imagen: Logo
-Gateway."
+![image](https://blogs.itworldcanada.com/insights/files/2007/08/gateway-logo.jpg)     "Imagen: Logo Gateway."
 
 ¿Y por qué creer que este plan siquiera existe? Simplemente porque Bill, es Bill Gates.
 
 Y aunque les duela, Bill Gates es un personaje único en la historia de los negocios, y posee dos características que lo vuelven muy particular: posee una habilidad increíble para saber y llegar a donde quiere ir, y ademas posee una ridícula naturaleza competitiva incomparable. El punto es que Bill no se retira nunca de un reto, y en este medio el contendiente es Steve Jobs.
 
 ![image](https://www.zdnet.com.au/story_media/339277901/photos-when-bill-gates-met-steve-jobs_6.jpg)    
-"Bill Gates vs. Steve
-Jobs... ¿Quien esta ganando la batalla?"
+"Bill Gates vs. Steve Jobs... ¿Quien esta ganando la batalla?"
 
 Si Bill se queda en Microsoft, pues llega a un callejón sin salida. Así que Bill decide hacer la vieja e histórica maniobra de "Retirar y Regresar"... pero más que una maniobra... es un gambito, es decir un riesgo... que puede o no darle ventaja y desarrollarse como el desea. Napoleón lo hizo, Steve Jobs también (aunque Jobs no lo planeo, pero igual se aplica), y ahora me parece que Bill quiere aplicar lo aprendido en sus clases de historia.
 
@@ -7366,8 +6798,7 @@ Así que, después de todo esto, todavía piensas que Bill realmente se quiere r
 > infierno!
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/R8jhKzAI-oI/AAAAAAAAAlQ/fs_futLfDDc/s320/BillGates1977.jpg)    
-"Imagen: Bill Gates en sus
-días de rebeldía."
+"Imagen: Bill Gates en sus días de rebeldía."
 
 ¿Y todavía piensan que Bill quiere perder el tiempo suplicándole a la gente por dinero? ¡No lo creo! Y bien, ¿Qué piensan los lectores? ¡el Sr. Byte quiere saber tu opinión!
 
@@ -7384,8 +6815,7 @@ draft: false
 post_id: blog-3515952828243908885.post-2623115535763463846
 ---
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SeDX_5gCwhI/AAAAAAAAB8I/onNy93X3uoo/s320/codecode.jpg)    En esta ocasión, me
-quiero concentrar en algo muy importante del inmenso mundo (y misterioso para algunos) de las bases de datos, quiero hablarles de: Los Procedimientos Almacenados. Los procedimientos almacenados (conocidos también como proc, sproc, stopro, o SP's por sus siglas en Ingles) son subrutinas que están disponibles para las aplicaciones que acceden a una base de datos relacional. Los procedimientos almacenados están, como su nombre lo indica, almacenados en el diccionario de datos de la base de datos.
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SeDX_5gCwhI/AAAAAAAAB8I/onNy93X3uoo/s320/codecode.jpg)    En esta ocasión, me quiero concentrar en algo muy importante del inmenso mundo (y misterioso para algunos) de las bases de datos, quiero hablarles de: Los Procedimientos Almacenados. Los procedimientos almacenados (conocidos también como proc, sproc, stopro, o SP's por sus siglas en Ingles) son subrutinas que están disponibles para las aplicaciones que acceden a una base de datos relacional. Los procedimientos almacenados están, como su nombre lo indica, almacenados en el diccionario de datos de la base de datos.
 
 ¿Para que existen?, ¿para que usarlos, si puedo tener mis consultas bien bonitas metida en mi código (como consultas SQL Ad-hoc)? Esas preguntas exactas me hice yo hace algunos años. Que pena ser tan ingenuo. Gracias a Dios desperté de ese "lapsus ..." y si bien, no lo se todo, lo que se, lo tengo que compartir.
 
@@ -7402,8 +6832,7 @@ static function String getConsultaUsuario(String usuarioid) { return "SELECT * F
 ...usted debería de tener una serie SP en su gestor de bases de datos, implementado como un API "consolidado y centralizado" (en la base de datos). Lo mismo sucede con muchas consultas SQL "grandes", o secuenciales: no podemos dejarlas regadas en el codigo, necesitamos moverlas a un solo lugar...
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SeDYKeWJxPI/AAAAAAAAB8Q/ViJIk99ZPoo/s320/mysqlstoredprocedures.jpg)    
-"MySQL también tiene
-procedimientos almacenados"
+"MySQL también tiene procedimientos almacenados"
 
 ¿Por que? bien, enumerare solo algunas razones:
 
@@ -7416,8 +6845,7 @@ Entonces podemos observar dos ventajas inmediatas: Reducir la carga de mantenimi
 Tengo que aclarar que no hay usar SP absolutamente todo el tiempo y en toda aplicación a desarrollar. Un caso practico para implementar SP en una aplicación, es en el que se tiene una sola base de datos, y diferentes módulos o clientes que se conectan constantemente a esta. ¿Se imaginan tener una lista de consultas en cada modulo o cliente que se conecta?, ¿Y si se modifica la base de datos?, ¿cuantas consultas y en cuantos lugares lo iremos a modificar?
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SeDYKkfnWvI/AAAAAAAAB8Y/yI6Zhu1q_4A/s320/sqlalchemy.jpg)    
-"Los SP son parte de la
-Alquimia de SQL que usted debe conocer"
+"Los SP son parte de la Alquimia de SQL que usted debe conocer"
 
 Los SP en general, serán realmente útiles (y aplicables) en caso de estar desarrollando aplicaciones robustas, de categoría empresarial, o para servicios que deben ser seguros, que posean alta disponibilidad y con vistas a ser escalables.
 
@@ -7434,16 +6862,14 @@ draft: false
 post_id: blog-3515952828243908885.post-4607928593943177246
 ---
 
-![image](https://upload.wikimedia.org/wikipedia/commons/b/b8/Alan_Turing_Memorial_Closer.jpg)     "Imagen de Memorial de Alan
-Turing"
+![image](https://upload.wikimedia.org/wikipedia/commons/b/b8/Alan_Turing_Memorial_Closer.jpg)     "Imagen de Memorial de Alan Turing"
 
 Alan Mathison Turing (23 de junio de 1912 - 7 de junio de 1954). Fue un matemático, científico de la informática, criptógrafo y filósofo inglés.
 
 Se le considera como uno de los padres de la ciencia de la computación. Su fenomenal contribución a este campo, es la formulación de los conceptos de algoritmo y computación con su invento, llamado la "Maquina de Turing".
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Turing_Machine.png/800px-Turing_Machine.png)    
-"Representación artística de una Maquina de
-Turing."
+"Representación artística de una Maquina de Turing."
 
 Si bien la máquina de Turing no es ficticia (puede ser construida), esta sirve más como un modelo extremadamente básico y abstracto de manipulación de símbolos, que a pesar de su relativa simplicidad, puede ser adaptada para simular la lógica de cualquier computadora que pueda ser construida.
 
@@ -7472,8 +6898,7 @@ post_id: blog-3515952828243908885.post-8118566739252648579
 
 Realmente, esta el una de las mejores ideas que he visto en la red... y en mi corta vida... y Apple definitivamente no ha tenido nada que ver con ella (jaja). Lectoras y lectores... les presento: [PlayPumps](https://www.playpumps.org/).
 
-"Video:
-PlayPums, los niños juegan y el agua corre :)"
+"Video: PlayPums, los niños juegan y el agua corre :)"
 
 El concepto es tan simple, y sin embargo tan genial: un grupo de niños (hiperactivos) juegan en un carrusel que sirve de bomba de agua para aldeas que no cuentan con la energía para comprar bombas eléctricas. Las niñas son las que más se benefician, porque son usualmente las que mandan a buscar el agua, así que ya no pierden tiempo en esa actividad y se pueden concentrar en estudiar y conseguir iguales oportunidades que los niños de esa edad. Eso es usar la tecnología para favorecer a los mas necesitados.
 
@@ -7527,8 +6952,7 @@ Esto suele pasar, especialmente a los usuarios novatos, que deciden bajarse cuan
 En cualquiera de los dos escenarios, debemos tomar en cuenta la manera como nuestro sistema operativo nos permite acceder a los programas instalados para que sea de la manera mas rápida productiva. Windows XP lo hace de esta manera:
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SU8fVbanNxI/AAAAAAAAFlM/_SvpwxU_l94/s400/509252546_8bb15d8685_o.jpg)    
-"Captura de Pantalla del
-Menú de Windows XP, con Demasiados Programas Instalados"
+"Captura de Pantalla del Menú de Windows XP, con Demasiados Programas Instalados"
 
 Como se puede ver, en Windows era un tanto dificil administrar la cantidad de programas instalados en la computadora. Afortunadamente Windows Vista ahora incorpora una única columna con una barra de desplazamiento y la capacidad de realizar búsquedas de programas.
 
@@ -7548,15 +6972,13 @@ Launchy: Este es similar al gnome-do con la diferencia de que existen tanto vers
 
 Katapult: Es la alternativa de KDE al Gnome Do. Al igual que los anteriores, pudes mostrar la ventana con una combinación de teclas, luego empiezas a teclear el nombre de lo que buscas y este se va autocompletando para que lo ejecutes.
 
-![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SVByqW_wBxI/AAAAAAAAFls/W13PHioq-6c/s400/katapul.png)    
-Avant Window Navigator: Este es un dock bar multiusos extensible mediante plugins. Originalmente te sirve nada más como un taskbar, para mostrar íconos de los programas abiertos pero es posible agregarle íconos para ejecutar aplicaciones y otros accesorios, como un reloj, calendario, comics de Dilbert, etc.
+![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SVByqW_wBxI/AAAAAAAAFls/W13PHioq-6c/s400/katapul.png)     Avant Window Navigator: Este es un dock bar multiusos extensible mediante plugins. Originalmente te sirve nada más como un taskbar, para mostrar íconos de los programas abiertos pero es posible agregarle íconos para ejecutar aplicaciones y otros accesorios, como un reloj, calendario, comics de Dilbert, etc.
 
 ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SVB1Zd7DA1I/AAAAAAAAFl0/a8-CIuaj9BI/s400/awn.jpg)    
 
 Kiba Dock: Otro dock bar para el escritorio, muy parecido al avant pero mucho mas sencillo y con mejor rendimiento. Orientado especialmente a mostrar íconos para lanzar aplicaciones.
 
-![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SVB2yzsRI1I/AAAAAAAAFl8/rRkpbthsfwo/s400/kibadock.jpg)    
-Ya habrán notado también que en Linux no dejan de existir los menús principales con cierta lista de programas, pero la tendencia en Linux es no tener un único lugar desde donde ejecutar tus programas sino varios, dependiendo de tus necesidades, por ejemplo, con combinaciones de teclas, íconos en el escritorio o en dock bars, lanzándolos directamente desde consola, etc.
+![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SVB2yzsRI1I/AAAAAAAAFl8/rRkpbthsfwo/s400/kibadock.jpg)     Ya habrán notado también que en Linux no dejan de existir los menús principales con cierta lista de programas, pero la tendencia en Linux es no tener un único lugar desde donde ejecutar tus programas sino varios, dependiendo de tus necesidades, por ejemplo, con combinaciones de teclas, íconos en el escritorio o en dock bars, lanzándolos directamente desde consola, etc.
 
 ---
 
@@ -7574,14 +6996,12 @@ Tenia rato de no tener una "Pantalla de la Muerte" asechando en mi monitor, y es
 En la familia de Windows NT, estos errores suceden cuando los controladores de los dispositivos están mal codificados/programados o cuando el hardware funciona incorrectamente.
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SJu6yyvUPYI/AAAAAAAABAc/DwxZZR3MIT4/s400/Windows_XP_BSOD.png)    
-"BSOD de Windows
-NT"
+"BSOD de Windows NT"
 
 En la familia de Windows 9x (95, 98, 98SE, Me, etc...) eran los DLLs el problema, o bugs en el Kernel:
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SJu6ysghdxI/AAAAAAAABAU/mOG-qaLiufI/s400/Windows_9X_BSOD.png)    
-"BSOD de Windows
-9x"
+"BSOD de Windows 9x"
 
 Inclusive puede suceder, que si se golpea -fuerte- el CPU, la maquina se reinicia y muestra la BSOD.
 
@@ -7590,44 +7010,37 @@ Por cierto los "amigos" de Microsoft, han incluido una característica en Window
 Bien, si dejamos el mundo de Winbugs Windows, veremos que hay muchos dispositivos también tienen esta "característica". La Xbox 360, cuando esta consola experimenta una "fallo general de hardware", tres luces rojas aparecen alrededor del botón de encendido.
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SJu6yzLctuI/AAAAAAAABAk/ByMKtlfxTxk/s400/Xbox360-ringofdeath.jpg)    
-"Xbox 360 anillo de la
-muerte"
+"Xbox 360 anillo de la muerte"
 
 El nintendo DS también tiene una pantalla de la muerte, que sucede cuando se remueve una tarjeta DS o un cartucho de GBA mientras se esta en el menú de selección de Pictochat. El color de la pantalla esta basado en la versión del Firmware del DS:
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SJu6ZlRupJI/AAAAAAAAA_s/U9FEKq8tao0/s400/DS_BSoD.JPG)    
-"Pantalla de la muerte del
-nintendo DS"
+"Pantalla de la muerte del nintendo DS"
 
 Parece que entre la gente que ha comprado el nuevo iPhone, esta apareciendo un nuevo rumor: sobre algun problema del software 2.0 y 2.0.1 del iPhone o de alguna aplicación de maliciosa (para el iPhone) que daña el sistema operativo del mismo, solo que este error... es permanente :-S (hay usuarios que reportan que la característica de restauración no funciona).
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SJu6ZoPyGXI/AAAAAAAAA_0/9Mt9eJz0BwQ/s400/iphone-boot-screen.jpg)    
-"Pantalla de la Muerte para
-el iPhone"
+"Pantalla de la Muerte para el iPhone"
 
 Los productos de Apple tampoco se salvan, antes la mayoría de Mac tenían esta imagen:
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SJu6ZxBsVjI/AAAAAAAABAM/jNl5fhL8XrI/s400/Sad_mac.png)    
-"Pantalla de la Muerte, Sad
-Mac"
+"Pantalla de la Muerte, Sad Mac"
 
 Los primeros iPod, también tienen una especie de "Sad Mac":
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SJu6Zze7_0I/AAAAAAAABAE/bhX5gJLt5rM/s400/Sad_iPod.png)    
-"Sad
-iPod"
+"Sad iPod"
 
 Y desde OS X, las Mac tiene una "elegante" pantalla de la muerte:
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SJu6ZtAlHLI/AAAAAAAAA_8/ClH833y2etg/s400/MacOSX_kernel_panic.png)    
-"Pantalla de la Muerte de
-Mac OS X"
+"Pantalla de la Muerte de Mac OS X"
 
 También GNU/Linux tiene el temido "Kernel Panic", que en lo personal, solo me ha sucedido dos veces: una por un CD de instalación rayado, y otra por que yo compile mal el kernel. Pero también tiene pantalla de la muerte:
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SJu7Zh24zjI/AAAAAAAABAs/0qsPj8K-M_g/s400/Kernel-panic.jpg)    
-"Kernel
-Panic!"
+"Kernel Panic!"
 
 El problema de un SOD para el usuario, es que sus mensajes de error son algo inexplicables/cripticos/misteriosos y no ayudan en nada a los usuarios a conocer el "porque" del error sucedido, lo que contribuye al pánico y la ansiedad (jaja).
 
@@ -7653,8 +7066,7 @@ No, ENIAC no fue la primera computadora controlada por programas, tampoco UNIVAC
 Konrad Zuse, comienza la construcción de su increíble maquina en 1936 aislado completamente en Alemania. Su primera computadora, la Z1, terminada dos años mas tarde ya tenia características como memoria y cierto nivel para ser programadas (no eran 100% [Maquinas Universales de Turing](https://srbyte.blogspot.com/2007/12/la-maquina-de-turing.html)). Lo increíble de la Z1 es que era completamente mecánica, es algo así como el eslabón perdido entre el hombre y el mono, o entre los engranes y los tubos al vacío, porque aun no podemos hablar de transistores... osea... un capitán cavernícola completo.
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/R5dsWNp6J2I/AAAAAAAAAiU/tNbv4Q3nR7Q/s320/capitanc.gif)    
-"Imagen del Capitán
-Cavernícola"
+"Imagen del Capitán Cavernícola"
 
 Lamentablemente la Z1 nunca funciono de la manera más confiable (como el capitán cavernícola), debido a la falta de precisión de sus partes mecánicas. El segundo intento de Zuse, la computadora Z3 (si, el segundo intento fue la Z3, es como con el reproductor musical Winamp... se saltaron del 3 al 5...) fue terminada en 1941 y estaba construida con "relays" usados en los teléfonos, y lo más importante es que cumplía con su trabajo satisfactoriamente. La Z3 entonces se convirtió en la primera computadora funcional controlada por programas, multipropiedad y digamos... digital. En muchas formas esta computadora era similar a las maquinas modernas, siendo pionera en muchos avances, como el calculo de números flotantes, que de por si es muuuuuuuuuy complicado. Otro avance de la Z3 fue el uso de un sistema binario, en vez del [sistema decimal propuesto por Charles Babbage.](https://srbyte.blogspot.com/2007/08/del-abaco-las-calculadoras.html) El significativo hecho de usar un sistema binario para hacer los cálculos, hizo que la Z3 fuera muchísimo mas fácil de construir y que increíblemente seria potencialmente mas confiable debido a las tecnologías disponibles en esa época.
 
@@ -7672,8 +7084,7 @@ Pero los Alemanes no se quedaron de brazos cruzados... así que diseñaron una s
 Colossus fue, definitivamente, la primera y TOTAL computadora electrónica. Colossus ya no usaba engranes, ni relays, ahora estaban de moda: los tubos al vacío.
 
 ![image](https://www.columbia.edu/acis/history/tubes.jpg)    
-"Memoria hecha de tubos al
-vacío." Los detalles de la existencia, diseño, y uso de Colossus fue mantenido como un secreto hasta 1970. Winston Churchill personalmente ordeno la destrucción de Colossus en piezas no mas grandes que la mano de un hombre. Debido a que su existencia fue mantenida como un secreto durante tanto tiempo, Colossus no fue incluido mucho en la historia de la computación, vaya final para este gigante de hierro.
+"Memoria hecha de tubos al vacío." Los detalles de la existencia, diseño, y uso de Colossus fue mantenido como un secreto hasta 1970. Winston Churchill personalmente ordeno la destrucción de Colossus en piezas no mas grandes que la mano de un hombre. Debido a que su existencia fue mantenida como un secreto durante tanto tiempo, Colossus no fue incluido mucho en la historia de la computación, vaya final para este gigante de hierro.
 
 ENIAC
 
@@ -7685,14 +7096,11 @@ Bien, la famosa ENIAC (Electronic Numerical Integrator and Computer) fue la prim
 Cuando su diseño fue propuesto, muchos científicos creían que los miles de delicados tubos al vació se quemarían con demasiada rapidez, lo que haría que ENIAC se convirtiera automáticamente en una maquina inútil, ya que debería de pasar la mayor de su tiempo en reparación. Sin embargo, el equipo encargado de ENIAC demostró lo contrario... y ENIAC permanecía un buen tiempo operativa... antes de que se quemara un tubo.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/R5nma9p6J3I/AAAAAAAAAic/XbO2jVxCUgI/s320/725682.JPG)    
-"Caricatura: Brain Drain
-ENIAC"
+"Caricatura: Brain Drain ENIAC"
 
-Lo que ENIAC hizo, por las computadoras, fue validar públicamente el uso de computadoras de larga escala. Esto fue crucial para el desarrollo de la computación moderna.
-![image](https://bp3.blogger.com/_ayvorITawE4/R5novtp6J4I/AAAAAAAAAik/wq5hp9UVkIM/s320/eniac_front_new.png)    
+Lo que ENIAC hizo, por las computadoras, fue validar públicamente el uso de computadoras de larga escala. Esto fue crucial para el desarrollo de la computación moderna. ![image](https://bp3.blogger.com/_ayvorITawE4/R5novtp6J4I/AAAAAAAAAik/wq5hp9UVkIM/s320/eniac_front_new.png)    
 
-"Imagen
-Álbum ENIAC de Tony Mckenzie, rock contemporáneo instrumental"
+"Imagen Álbum ENIAC de Tony Mckenzie, rock contemporáneo instrumental"
 
 ENIAC era una maquina "Turing completa" (osea, una maquina universal de Turing). Sin embargo los programas eran definidos por los estados de sus cables y switches, es decir, el programa estaba alambrado en la maquina. Programar en ENIAC significaba re-alambrarla. Pero para 1948 ya se había hecho posible ejecutar programas almacenados en la tabla de memoria del ENIAC.
 
@@ -7721,22 +7129,18 @@ post_id: blog-3515952828243908885.post-4142577855708609661
 ---
 
 ![image](https://bp2.blogger.com/_jH77WNrMVRA/SHOfk5NaIMI/AAAAAAAAA6w/vZ_33pGeHpU/s320/last-fm_audioscrobbler_logo.png)    
-"Logotipo de
-Last.fm"
+"Logotipo de Last.fm"
 
 Hace poco, los usuarios de esta popular red social orientada al mundo de la música recibieron un correo electrónico notificándoles que el beta del nuevo sitio web esta disponible para ser probado, con el objetivo de que estos provean su feedback[1] acerca del sitio. Hasta donde tengo entendido, este beta esta solo en idioma ingles, así que tal vez solo puedan experimentar con el los usuarios que tengan su cuenta en ese idioma.
 
 También pueden acceder a la versión del sitio mediante un vínculo que les aparecerá en el dashboard:
 
 ![image](https://bp2.blogger.com/_jH77WNrMVRA/SHOnMbkIIVI/AAAAAAAAA7I/VKb6gc8hcPk/s400/PostImg5.png)    
-"Nuevo vínculo para probar
-la versión beta del sitio (Clic para agrandar)"
+"Nuevo vínculo para probar la versión beta del sitio (Clic para agrandar)"
 
 La nueva apariencia luce de la siguiente manera:
 
-![image](https://bp3.blogger.com/_jH77WNrMVRA/SHOhLg6okPI/AAAAAAAAA64/XdnO9QxKxHY/s320/PostImg4.png)    
-"Nueva
-interfaz beta del sitio web de last.fm (clic para agrandar)"
+![image](https://bp3.blogger.com/_jH77WNrMVRA/SHOhLg6okPI/AAAAAAAAA64/XdnO9QxKxHY/s320/PostImg4.png)     "Nueva interfaz beta del sitio web de last.fm (clic para agrandar)"
 
 Lo mas notable: el nuevo diseño minimalista el cual carga mucho mas rápido aunque ha sacrificado la atractiva apariencia que siempre había admirado en su versión anterior (especialmente el "Paint it Black"). La barra amarilla de la parte superior se extiende para mostrar diferentes opciones y el usuario elija en base a ellas, que le parece la nueva interfaz. Algunas de las opciones ahora aparecen en forma de menús de persiana y la clasica paleta de colores blanco/gris/rojo ahora ha sido sustituida por un rojo mas claro y adiciones de celeste, entre otras cosas.
 
@@ -7746,8 +7150,7 @@ Las novedades: Mayor énfasis en las tareas comunes que realizamos en el sitio (
 
 En mi opinión, no sacrificaría una interfaz tan bien elaborada por una carga mas rápida. Yo me quedo con la versión anterior del sitio. Que opinan los demás usuarios de last.fm?
 
-[1]Feedback: Retroalimentación,
-experiencia, opinión o información que un usuario brinda a su proveedor acerca de un producto o servicio.
+[1]Feedback: Retroalimentación, experiencia, opinión o información que un usuario brinda a su proveedor acerca de un producto o servicio.
 
 ---
 
@@ -7760,16 +7163,13 @@ draft: false
 post_id: blog-3515952828243908885.post-7211448494017383648
 ---
 
-![image](https://bp1.blogger.com/_ayvorITawE4/RgFfGcDxhTI/AAAAAAAAAMg/Rg0km280uek/s400/lastfm.gif)    Last.fm es una
-estación de radio (por internet) y un sistema de recomendación musical. Este sistema crea un detallado perfil de los gustos musicales del usuario, y TAMBIÉN recomienda artistas similares a los preferidos. En este perfil se muestran los artistas favoritos y canciones mas escuchadas, categorizadas semanalmente, mensualmente, etc. La recolección de información y gustos musicales se hace mediante el uso del reproductor de Last.fm (Last.fm Player), o usando un "plugin" ([https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_inform%C3%A1tica](https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_inform%C3%A1tica) aplicación informática que interactúa con otra aplicación para aportarle una función o utilidad específica) instalado en el reproductor de audio preferido del usuario. Esta es una [lista de reproductores de audio](https://en.wikipedia.org/wiki/Last.fm#List_of_supported_media_players) que pueden ser configurados para construir el perfil de gustos musicales en Last.fm Entre los mas populares (y sin un orden en particular):
+![image](https://bp1.blogger.com/_ayvorITawE4/RgFfGcDxhTI/AAAAAAAAAMg/Rg0km280uek/s400/lastfm.gif)    Last.fm es una estación de radio (por internet) y un sistema de recomendación musical. Este sistema crea un detallado perfil de los gustos musicales del usuario, y TAMBIÉN recomienda artistas similares a los preferidos. En este perfil se muestran los artistas favoritos y canciones mas escuchadas, categorizadas semanalmente, mensualmente, etc. La recolección de información y gustos musicales se hace mediante el uso del reproductor de Last.fm (Last.fm Player), o usando un "plugin" ([https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_inform%C3%A1tica](https://es.wikipedia.org/wiki/Aplicaci%C3%B3n_inform%C3%A1tica) aplicación informática que interactúa con otra aplicación para aportarle una función o utilidad específica) instalado en el reproductor de audio preferido del usuario. Esta es una [lista de reproductores de audio](https://en.wikipedia.org/wiki/Last.fm#List_of_supported_media_players) que pueden ser configurados para construir el perfil de gustos musicales en Last.fm Entre los mas populares (y sin un orden en particular):
 
 1. Winamp 2. iTunes 3. Windows Media Player 4. [Amarok (que es para la gente que desea re descubrir la música)](https://rodrigoamaya.blogspot.com/2007/03/amarok-rocks.html) 5. MediaMonkey En la "radio" de Last.fm se puede seleccionar canciones según las preferencias personales (de acuerdo a las estadísticas propias o de otros usuarios y sus recomendaciones). El servicio es de código abierto, y además es completamente gratuito, a menos que se desee pagar para obtener beneficios extra. Y finalmente Last.fm muestra vínculos a archivos mp3 que son de dominio publico y pueden ser descargados sin ninguna consecuencia legal.
 
 Este es un ejemplo de una lista generada por Last.fm:
 
-![image](https://imagegen.last.fm/lastfmblue/oartists/ramayac.gif)    
-"Top 10 de mis
-artistas más escuchados."
+![image](https://imagegen.last.fm/lastfmblue/oartists/ramayac.gif)     "Top 10 de mis artistas más escuchados."
 
 ---
 
@@ -7782,8 +7182,7 @@ draft: false
 post_id: blog-3515952828243908885.post-7108073391743046373
 ---
 
-![image](https://bp1.blogger.com/_ayvorITawE4/RiBbYPXLh5I/AAAAAAAAAQs/_AdYJX6u1V0/s320/Stevejobs_Macworld2005.jpg)    [Steve Jobs](https://es.wikipedia.org/wiki/Steve_Jobs) no solo un pirata más
-de Silicon Valley, es el presidente de Apple Corporation (que ahora incluye el mercado de computadoras, iPods, TV y[iPhone en Junio](https://srbyte.blogspot.com/2007/02/apple-iloveyou-especial-de-san-valentin.html)) y un gran empresario, no tan exitoso como Bill Gates, pero definitivamente digno de admirar.
+![image](https://bp1.blogger.com/_ayvorITawE4/RiBbYPXLh5I/AAAAAAAAAQs/_AdYJX6u1V0/s320/Stevejobs_Macworld2005.jpg)    [Steve Jobs](https://es.wikipedia.org/wiki/Steve_Jobs) no solo un pirata más de Silicon Valley, es el presidente de Apple Corporation (que ahora incluye el mercado de computadoras, iPods, TV y[iPhone en Junio](https://srbyte.blogspot.com/2007/02/apple-iloveyou-especial-de-san-valentin.html)) y un gran empresario, no tan exitoso como Bill Gates, pero definitivamente digno de admirar.
 
 Su perseverancia, su forma de ver la vida y vivirla, y su genial y original personalidad hacen de este individuo un modelo a seguir para emprender cualquier actividad en nuestra vida (y para copiar su forma de hacer presentaciones).
 
@@ -7793,14 +7192,11 @@ Les dejo un vídeo muy popular de Steve Jobs dando un discurso en la Universidad
 
 Además los vídeos tiene subtítulos, para que no tengan excusa para no verlo:
 
-[https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo)
-"Primera parte"
+[https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) [https://www.youtube.com/v/TUSJFfY4zHo](https://www.youtube.com/v/TUSJFfY4zHo) "Primera parte"
 
-[https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE)
-"Segunda Parte"
+[https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) [https://www.youtube.com/v/DV1hngKLwHE](https://www.youtube.com/v/DV1hngKLwHE) "Segunda Parte"
 
-[Aquí esta el discurso completo traducido](https://angelmaria.com/2007/04/12/discurso-de-steve-jobs-en-la-universidad-de-stanford/), espero les haya gustado, y que la experiencia
-del Sr. Jobs les sea de utilidad. Saludos!
+[Aquí esta el discurso completo traducido](https://angelmaria.com/2007/04/12/discurso-de-steve-jobs-en-la-universidad-de-stanford/), espero les haya gustado, y que la experiencia del Sr. Jobs les sea de utilidad. Saludos!
 
 ---
 
@@ -7842,16 +7238,13 @@ Advertencia: Recuerden que la mayoría de estos libros tienen que haberlos compr
 Pero no temas! existen alternativas libres y legales...
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/Rgph0vTPf3I/AAAAAAAAAO4/4KTxGKeWEbM/s400/legaltorrents.jpg)    
-"Legal Torrents mantiene la
-pista de archivos con licencia Creative Commons"
+"Legal Torrents mantiene la pista de archivos con licencia Creative Commons"
 
 Por ejemplo la pagina Legal Torrents, ofrece archivos .torrent 100% amparados bajo la licencia [Creative Commons 3.0](https://srbyte.blogspot.com/2007/03/qu-es-creative-commons.html):
 
-[> https://www.legaltorrents.com/](https://www.legaltorrents.com/index.htm)
-Y ademas se puede buscar Libros (u otra información) en la pagina de la licencia Creative Commons:
+[> https://www.legaltorrents.com/](https://www.legaltorrents.com/index.htm) Y ademas se puede buscar Libros (u otra información) en la pagina de la licencia Creative Commons:
 
-[> https://search.creativecommons.org/](https://search.creativecommons.org/)
-Google no se queda atrás, ofrece la búsqueda de libros en su pagina [Google Book Search](https://books.google.com/):
+[> https://search.creativecommons.org/](https://search.creativecommons.org/) Google no se queda atrás, ofrece la búsqueda de libros en su pagina [Google Book Search](https://books.google.com/):
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/Rgpk6vTPf5I/AAAAAAAAAPI/_FGWd3lFsi8/s400/googlebooks.png)    
 "©2007 Google"
@@ -7869,14 +7262,10 @@ draft: false
 post_id: blog-3515952828243908885.post-2045358435969452212
 ---
 
-[Linux Foundation](https://www.linux-foundation.org/en/Main_Page), es una organización sin fines de lucro, que lucha desde hace tiempito
-por promover la estandarización entre las diversas [distribuciones](https://es.wikipedia.org/wiki/Distribuci%C3%B3n_Linux) de GNU/Linux para mantenerlo avanzando en ese camino tan dificil de los sistemas operativos, lleno de vidrios por las "ventanas" rotas...
-![image](https://bp3.blogger.com/_ayvorITawE4/Rfa2oMU_3YI/AAAAAAAAAK4/pZcbBlZF9EA/s400/vista-cracked-possibly.jpg)    
-Hace poco [Mark Shuttleworth](https://es.wikipedia.org/wiki/Mark_Shuttleworth) se unio a la junta directiva del Linux Foundation. Y claro... Shuttleworth, ademas de viajar al espacio sideral:
+[Linux Foundation](https://www.linux-foundation.org/en/Main_Page), es una organización sin fines de lucro, que lucha desde hace tiempito por promover la estandarización entre las diversas [distribuciones](https://es.wikipedia.org/wiki/Distribuci%C3%B3n_Linux) de GNU/Linux para mantenerlo avanzando en ese camino tan dificil de los sistemas operativos, lleno de vidrios por las "ventanas" rotas... ![image](https://bp3.blogger.com/_ayvorITawE4/Rfa2oMU_3YI/AAAAAAAAAK4/pZcbBlZF9EA/s400/vista-cracked-possibly.jpg)     Hace poco [Mark Shuttleworth](https://es.wikipedia.org/wiki/Mark_Shuttleworth) se unio a la junta directiva del Linux Foundation. Y claro... Shuttleworth, ademas de viajar al espacio sideral:
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Shuttleworth_big_NASA.jpg/610px-Shuttleworth_big_NASA.jpg)    
-"Shuttleworth en el [Soyuz](https://es.wikipedia.org/wiki/Soyuz) TM-34, 25 abril
-2002"
+"Shuttleworth en el [Soyuz](https://es.wikipedia.org/wiki/Soyuz) TM-34, 25 abril 2002"
 
 ... fundo [Canonical Ltd](https://es.wikipedia.org/wiki/Canonical_Ltd.). y esta financiando (activamente) el proyecto Ubuntu... el tipo tiene de donde: después de vender su compañía de seguridad "Thawte" a "VeriSign" por 575 Millones de dólares (cuatro años después de comenzar la misma en el garaje de su casa). En fin, Shuttleworth tiene el interés de mantener a GNU/Linux en el camino correcto y demuestra el claro deseo de llevarlo a las computadoras de escritorio.
 
@@ -7895,15 +7284,13 @@ draft: false
 post_id: blog-3515952828243908885.post-552343952175156722
 ---
 
-[GizmoCall](https://www.gizmocall.com/) es una nueva herramienta que nos
-permite realizar llamadas completamente gratuitas desde nuestra computadora a cualquier numero movil o fijo hacia cualquier parte de el mundo!.
+[GizmoCall](https://www.gizmocall.com/) es una nueva herramienta que nos permite realizar llamadas completamente gratuitas desde nuestra computadora a cualquier numero movil o fijo hacia cualquier parte de el mundo!.
 
 Pero antes de hablar de esta maravilla, un poco de información:
 
 ¿Qué es Gizmo project?
 
-![image](https://bp3.blogger.com/_ayvorITawE4/RcAaLjD_iAI/AAAAAAAAACo/1ywDggfYLAQ/s400/gizmo_logo.gif)    Gizmo project es un
-programa gratuito que usa avanzada tecnología VoIP para permitir hablar a personas alrededor del mundo. Este proyecto esta basado en tecnologías de software libre; para ser mas especifico en granjas de servidores corriendo GNU/Linux y [Asterisk.](https://es.wikipedia.org/wiki/Asterisk)
+![image](https://bp3.blogger.com/_ayvorITawE4/RcAaLjD_iAI/AAAAAAAAACo/1ywDggfYLAQ/s400/gizmo_logo.gif)    Gizmo project es un programa gratuito que usa avanzada tecnología VoIP para permitir hablar a personas alrededor del mundo. Este proyecto esta basado en tecnologías de software libre; para ser mas especifico en granjas de servidores corriendo GNU/Linux y [Asterisk.](https://es.wikipedia.org/wiki/Asterisk)
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RcAaZjD_iBI/AAAAAAAAACw/kwQ7B4pKJpc/s400/250px-Asterisk_logo.png)    
 
@@ -7941,8 +7328,7 @@ draft: false
 post_id: blog-3515952828243908885.post-3280988230629330854
 ---
 
-![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SUxwmGP3PHI/AAAAAAAAFQI/7SYnQ6EkLGU/s400/airLogo.jpg)    Entre el mejor
-software liberado en el 2008 encontramos a [Adobe Air](https://get.adobe.com/air/). El cual consiste en un framework de Adobe que permite desarrollar aplicaciones multiplataforma y orientadas a interacciones vía web, ricas en contenido y funcionalidad y realmente fáciles de desarrollar.
+![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SUxwmGP3PHI/AAAAAAAAFQI/7SYnQ6EkLGU/s400/airLogo.jpg)    Entre el mejor software liberado en el 2008 encontramos a [Adobe Air](https://get.adobe.com/air/). El cual consiste en un framework de Adobe que permite desarrollar aplicaciones multiplataforma y orientadas a interacciones vía web, ricas en contenido y funcionalidad y realmente fáciles de desarrollar.
 
 La versión 1.0 a finales de febrero y recientemente su versión 1.5 ha traído muchas mejoras, especialmente para los usuarios que lo corren bajo Linux, las cuales en versiones anteriores impedían el correcto funcionamiento de algunas aplicaciones basadas en Air.
 
@@ -7950,20 +7336,15 @@ Lo más conocido de Air no es el framework en si, el cual es mas bien una plataf
 
 Twhirl: ([link](https://www.twhirl.org/files/twhirl-0.8.7.air)) Es una aplicación muy completa que nos permite interactuar con todas las funcionalidades de Twitter, desde la simple tarea de leer/enviar twitts hasta marcar como favoritos, leer mensajes directos, subir/publicar fotos a twitpic, borrar twitts, etc.
 
-![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SUx0t_CUyQI/AAAAAAAAFQY/PoUUEJJxlt0/s400/twhirl-0.3-timeline.jpg)    
-ReadAir: ([link](https://readair.googlecode.com/files/ReadAir.0.3.air)) Es un cliente que desde el cual puedes leer los feeds a los que te encuentras suscrito, con la capacidad de sincronizarse directamente con tu Google Reader.
+![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SUx0t_CUyQI/AAAAAAAAFQY/PoUUEJJxlt0/s400/twhirl-0.3-timeline.jpg)     ReadAir: ([link](https://readair.googlecode.com/files/ReadAir.0.3.air)) Es un cliente que desde el cual puedes leer los feeds a los que te encuentras suscrito, con la capacidad de sincronizarse directamente con tu Google Reader.
 
-![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SUx1ioQtMiI/AAAAAAAAFQg/8o8BBe3gTPM/s400/ReadAir2.png)    Google Analytics: ([link](https://www.aboutnico.be/updates/gas32.air)) Te permite ver e
-interactuar con todas las estadísticas referentes a tu sitio web como si lo hicieras desde la página web oficial de Analytics, pero desde tu escritorio y con una mejor apariencia visual.
+![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SUx1ioQtMiI/AAAAAAAAFQg/8o8BBe3gTPM/s400/ReadAir2.png)    Google Analytics: ([link](https://www.aboutnico.be/updates/gas32.air)) Te permite ver e interactuar con todas las estadísticas referentes a tu sitio web como si lo hicieras desde la página web oficial de Analytics, pero desde tu escritorio y con una mejor apariencia visual.
 
-![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SUx2YWaEIuI/AAAAAAAAFQo/z6zCcfzqVIg/s400/googleanalytics.jpg)    Desktube: ([link](https://thedesktube.com/DeskTube.air)) Aplicación para tener un control
-total sobre youtube. Desde buscar y reproducir vídeos hasta comentarlos y calificarlos.
+![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SUx2YWaEIuI/AAAAAAAAFQo/z6zCcfzqVIg/s400/googleanalytics.jpg)    Desktube: ([link](https://thedesktube.com/DeskTube.air)) Aplicación para tener un control total sobre youtube. Desde buscar y reproducir vídeos hasta comentarlos y calificarlos.
 
-![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SUx29C9oBuI/AAAAAAAAFQw/IP3R4LQQ6cg/s400/desktube.jpg)    Klok: ([link](https://www.mcgraphix.com/blog/TimeTracker.air)) Es un time tracker
-personal con el cual podrás saber en que inviertes la mayor parte de tu tiempo, mediante el registro periódico de las tareas realizadas y el tiempo que invertiste en llevarlas a cabo.
+![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SUx29C9oBuI/AAAAAAAAFQw/IP3R4LQQ6cg/s400/desktube.jpg)    Klok: ([link](https://www.mcgraphix.com/blog/TimeTracker.air)) Es un time tracker personal con el cual podrás saber en que inviertes la mayor parte de tu tiempo, mediante el registro periódico de las tareas realizadas y el tiempo que invertiste en llevarlas a cabo.
 
-![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SUx44MuV9FI/AAAAAAAAFQ4/uy3TSuyaQ_4/s400/screenshot.png)    Alguna otra
-aplicación de AIR que crees merezca estar en esta lista?
+![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SUx44MuV9FI/AAAAAAAAFQ4/uy3TSuyaQ_4/s400/screenshot.png)    Alguna otra aplicación de AIR que crees merezca estar en esta lista?
 
 Update: Agregados los links para descargar los respectivos archivos .air de cada una de las aplicaciones presentadas así como el link para descargar la plataforma Adobe Air, necesaria para instalar y ejecutar los programas anteriores.
 
@@ -7992,8 +7373,7 @@ No cabe la menor duda de que para muchos, el funcionamiento interno y proceso de
 Y si tienen la curiosidad suficiente para seguir leyendo, les presento una serie de lecturas sencillas que les ayudara a esclarecer (espero ser lo suficientemente claro!) el origen de las computadoras y quizás hasta especular un poco, y comentar hacia adonde van nuestros queridos ordenadores...
 
 ![image](https://991.com/newgallery/Radiohead-Ok-Computer-122193.jpg)    
-"Screen saver en un disco de 3 1/4 del disco OK Computer, de RadioHead, para Win
-3.x"
+"Screen saver en un disco de 3 1/4 del disco OK Computer, de RadioHead, para Win 3.x"
 
 Comencemos pues a conocer a nuestros nuevos electrodomésticos preferidos (sorry TV, te robaron el puesto) con esta serie de 10 pequeños artículos sobre las computadoras hasta el día de hoy. Y sobre que nos depara el 2008... OK, Computer, Let's go!
 
@@ -8011,15 +7391,13 @@ post_id: blog-3515952828243908885.post-4954368188901091760
 ---
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SUg-LGUmOmI/AAAAAAAAFPI/FVRjwTxKvr8/s400/2542236565_bd6b4a87df_o.jpg)    
-"Imagen LOLCat, haciendo
-referencia al LOLCode"
+"Imagen LOLCat, haciendo referencia al LOLCode"
 
 Como [ya mencionamos alguna vez](https://www.srbyte.com/2007/01/el-lenguaje-de-programacion-perfecto.html), la lista de lenguajes de programación disponibles es extensa, hay muchos muy populares, bien fundamentados y con gran soporte por parte de sus creadores, como Java y .Net pero también hay otros llamados esotéricos u oscuros que son poco conocidos, orientados a una rama específica y quizá un tanto difíciles de aprender. Cada programador debe buscar el lenguaje en el que se sienta cómodo y satisfaga sus necesidades y los requerimientos de los programas que desarrolla.
 
 Uno de estos programas poco conocidos y quizá de los mas recientes es el [LOLCODE](https://lolcode.com/). Este lenguaje, creado por Adam Linsay en el pasado 2007, se caracteriza por utilizar frases al estilo LOLCAT como comandos y palabras reservadas de manera que sea mucho mas fácil desarrollar programas para gente conocedora de este estilo, el cual, ha tenido un gran auge en Internet.
 
-[LOLCAT?](https://en.wikipedia.org/wiki/Lolcat) Es un termino que se usa para referirse a imágenes o
-fotografías cómicas relacionadas comúnmente con gatos, seguida de una frase alusiva. También se suele llamar con este nombre al tipo de escritura que se usa para dichas frases, ya que es un inglés mal hablado o como diríamos acá: caliche.
+[LOLCAT?](https://en.wikipedia.org/wiki/Lolcat) Es un termino que se usa para referirse a imágenes o fotografías cómicas relacionadas comúnmente con gatos, seguida de una frase alusiva. También se suele llamar con este nombre al tipo de escritura que se usa para dichas frases, ya que es un inglés mal hablado o como diríamos acá: caliche.
 
 En otras palabras, es el equivalente al [HOYGAN](https://es.wikipedia.org/wiki/Usuario:Francisco_Mochis/HOYGAN) en castellano. Que tampoco sabes lo que es un hoygan? acá unos ejemplos tomados de foros, fotologs y Yahoo Answers:
 
@@ -8069,12 +7447,9 @@ Google Code: Desde que aprendimos a usar "Code Versioning" (allá por el final d
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SzgebYPZaCI/AAAAAAAACRs/cFwiikRAz2k/s320/git-trunk.jpg)    
 
-IceFaces:
-[IceFaces](https://www.icefaces.org/main/home/) es el Framework que hizo que
-dejara de preocuparme por la compatibilidad entre navegadores y de escribir código JavaScript. Es un framework que "simplemente funciona", lo usamos también en la tesis, y después de un par de días de aprender a usarlo, la combinación de este (de IceFaces) con Oracle TopLink, Tomcat 6 y MySQL es una "gloria digital". Con IceFaces aprendimos a preocuparnos por la lógica del negocio, y por hacer las cosas lo mejor posible, y no preocuparnos porque la GUI no se muestra bien en Internet Explorer 7+. Es un framework que recomiendo mucho, que mejora constantemente, y que ya esta en su versión 2.0, y posee soporte para las empresas. Si lo usan, se darán cuenta de que si diseñan bien la logica de su software, hacer proyectos con IceFaces es un paseo por el campo. Quizás el único inconveniente reciente, es que no hay plugin de IceFaces para Netbeans 6.8, solo para la versión 6.7.5.
+IceFaces: [IceFaces](https://www.icefaces.org/main/home/) es el Framework que hizo que dejara de preocuparme por la compatibilidad entre navegadores y de escribir código JavaScript. Es un framework que "simplemente funciona", lo usamos también en la tesis, y después de un par de días de aprender a usarlo, la combinación de este (de IceFaces) con Oracle TopLink, Tomcat 6 y MySQL es una "gloria digital". Con IceFaces aprendimos a preocuparnos por la lógica del negocio, y por hacer las cosas lo mejor posible, y no preocuparnos porque la GUI no se muestra bien en Internet Explorer 7+. Es un framework que recomiendo mucho, que mejora constantemente, y que ya esta en su versión 2.0, y posee soporte para las empresas. Si lo usan, se darán cuenta de que si diseñan bien la logica de su software, hacer proyectos con IceFaces es un paseo por el campo. Quizás el único inconveniente reciente, es que no hay plugin de IceFaces para Netbeans 6.8, solo para la versión 6.7.5.
 
-jQuery:
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SzgeafT8W-I/AAAAAAAACRk/E8kmRQl7b5c/s200/js-lib-logos.png)    
+jQuery: ![image](https://4.bp.blogspot.com/_ayvorITawE4/SzgeafT8W-I/AAAAAAAACRk/E8kmRQl7b5c/s200/js-lib-logos.png)    
 
 Si bien no me gustaba JavaScript, cuando conocí JQuery la cosa cambio, y cuando comencé a usarlo todos los días en el trabajo, se volvió el mejor amigo para no caer en la locura y demencia de estar en un proyecto que: no usa persistencia (JPA), ni patrones de diseño, ni MVC, ni framework alguno... es bastante traumatico, pero bien, gracias a Dios tengo trabajo ¿no? :) Al menos, yo prefiero jQuery por cinco excelentes razones: Selectores, Atributos, Ajax, Documentación, y jQuery UI. Si no están usando un framework de JavaScript, háganse un favor y aprendan uno de tantos, yo recomiendo jQuery, pero también les puede interesar [MooTools](https://mootools.net/) y [Dojo](https://www.dojotoolkit.org/) (entre otros tantos más).
 
@@ -8107,8 +7482,7 @@ draft: false
 post_id: blog-3515952828243908885.post-7320871329116710262
 ---
 
-![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SWQx4gusGxI/AAAAAAAAFno/pc5u7kUpMCI/s400/logo_crunchies.png)    
-Como todo buen salvadoreño, me complace anunciarles de un evento justo un día antes que se acabe el periodo, se trata de los Crunchies del 2008, certamen celebrado para seleccionar a los startups (sitios web o tecnologías recién nacidos o recién popularizados) que se destacaron durante año, llevado a cabo por blogs como TechCrunch y GigaOM, entre otros.
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SWQx4gusGxI/AAAAAAAAFno/pc5u7kUpMCI/s400/logo_crunchies.png)     Como todo buen salvadoreño, me complace anunciarles de un evento justo un día antes que se acabe el periodo, se trata de los Crunchies del 2008, certamen celebrado para seleccionar a los startups (sitios web o tecnologías recién nacidos o recién popularizados) que se destacaron durante año, llevado a cabo por blogs como TechCrunch y GigaOM, entre otros.
 
 Que quienes son [TechCrunch](https://techcrunch.com/) y [GigaOM](https://gigaom.com/)? pues son populares y muy influyentes blogs relacionados con tecnología, casi tan populares e influyentes como el Sr Byte, pero su envidia no los deja llegar a nuestro nivel y hasta creemos que nos copian los artículos xD Dichos blogs, crecieron para convertirse en comunidades con mucha influencia en los medios sociales de la tecnología, generando opinión y apoyando nuevos proyectos para el web, como por ejemplo Twitter.
 
@@ -8137,13 +7511,11 @@ post_id: blog-3515952828243908885.post-8897404539260371293
 Así como en el caso de [las mujeres geek o programadoras](https://srbyte.blogspot.com/2008/02/existen-las-mujeres-geek-o.html), los futboleros geek o programadores son miembros difíciles de encontrar en nuestra especie. La mayoría de los programadores, lo mas cerca que están de realizar un deporte podría ser en juegos de ajedrez.
 
 ![image](https://bp1.blogger.com/_jH77WNrMVRA/R60ov-__NPI/AAAAAAAAAgw/r_iPqKtQkDw/s320/45275929_264e85eb60.jpg)    
-"Dos personas jugando al ajedrez en una
-banca"
+"Dos personas jugando al ajedrez en una banca"
 
 Pero aun así, existen algunos que, aunque no saben jugar, les gusta ese tipo de actividades deportivas. Tal vez no se llega al punto de estar al tanto de las estadísticas y los resultados de populares torneos internacionales como la Champions League pero se divierten tocando el balón y haciendo algo de ejercicio. Aparte del ejercicio, es una oportunidad para convivir con amigos, compañeros, familia o hasta completos desconocidos!. Un ejemplo de esto pueden ser los Nerds F.C.:
 
-[https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0)
-"Vídeo Musical de los Nerds F.C."
+[https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/b6vgJN-wzCU&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) "Vídeo Musical de los Nerds F.C."
 
 Otro tipo de personas como amigo [Hugo](https://hugolfutbolymas.blogspot.com/) son aficionados hasta el tuétano de los huesos, son todos unos críticos en lo relacionado al denominado "Deporte Rey". Debido a que no estoy muy involucrado con la comunidad futbolera, no se si existirán mas personas que logren reunir los méritos para considerarse un apasionado por el fútbol (ya sea que juegue o que solamente sea fanático a un equipo) y al mismo tiempo, un apasionado por la informática y la programación.
 
@@ -8172,22 +7544,19 @@ Ahora el problema es encontrar un nuevo servicio para descubrir nueva música. L
 
 1. Me deje escuchar música sin poner muchas dificultades 2. Que muestre artistas/canciones similares 3. Sea sencillo y fácil buscar, marcar canciones como favoritas, etc 4. Soporte listas de reproducción Con eso en mente, me puse a buscar y esto fue lo mejor que encontré:
 
-[OurStage](https://www.ourstage.com/)
-Encontrar OurStage fue sinceramente muy agradable. OurStage es una comunidad musical que usa una fusión de tecnologías para atraer fans, artistas y profesionales de la industria. Para los que buscamos nueva música constantemente, existen 50 géneros que puedes explorar, todo envuelto en una interesante pero también rara interfaz llamada "Thumbing".
+[OurStage](https://www.ourstage.com/) Encontrar OurStage fue sinceramente muy agradable. OurStage es una comunidad musical que usa una fusión de tecnologías para atraer fans, artistas y profesionales de la industria. Para los que buscamos nueva música constantemente, existen 50 géneros que puedes explorar, todo envuelto en una interesante pero también rara interfaz llamada "Thumbing".
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SxvNGRBktfI/AAAAAAAACPw/-Cy_nFk7yJw/s200/ourstage.jpg)    
 
 Lo interesante: El motor para juzgar canciones, que te permite valorar sobre canciones o videos, con tus gustos, "se salva al mundo de la música mediocre"... [tienen que verlo](https://www.ourstage.com/judge?channel=50-latin). Lo malo: me aturde un poco la interfaz, es molesto el "pop up" que aparece con el reproductor de la música. Lo bueno: música ilimitada y gran variedad.
 
-[MySpace Music](https://music.myspace.com/)
-Un relativamente reciente servicio de MySpace, MySpace Music se ha vuelto rápidamente un servicio atractivo en Internet. Su librería musical es INMENSA, tiene canciones de las mayores disqueras y de artistas independientes, y aprender acerca del artista y sus canciones es sencillo, gracias a la riqueza de información que tiene MySpace de cada pista de audio. Puedes escuchar música casi ilimitadamente, sin registrarte, y existen buenos recursos para escuchar lo mas reciente, lo mejor y ver que canciones se vuelven más populares.
+[MySpace Music](https://music.myspace.com/) Un relativamente reciente servicio de MySpace, MySpace Music se ha vuelto rápidamente un servicio atractivo en Internet. Su librería musical es INMENSA, tiene canciones de las mayores disqueras y de artistas independientes, y aprender acerca del artista y sus canciones es sencillo, gracias a la riqueza de información que tiene MySpace de cada pista de audio. Puedes escuchar música casi ilimitadamente, sin registrarte, y existen buenos recursos para escuchar lo mas reciente, lo mejor y ver que canciones se vuelven más populares.
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SxvNNuQNMvI/AAAAAAAACP4/90XCT92NKLY/s320/myspace.jpg)    
 
 Lo interesante: la cantidad de información, algo desordenado, pero realmente es bastante. Lo malo: hay ciertas canciones que solo permiten que se escuchen 30 segundos de audio, y la calidad de audio es un poco baja. Lo bueno: Gran variedad, playlists, podes repetir varias veces la misma canción, y muchas características de interacción social.
 
-[GrooveShark](https://listen.grooveshark.com/)
-Como preferencia personal, yo pensé que no encontraría nada que le quitara el lugar que Last.fm tiene en mis favoritos... pues me equivoque. Ya tenia ratos de ver varios usuarios de twitter usar GrooveShark para compartir sus canciones, pero no tuve el tiempo (ni el ancho de banda) para dedicarme a usarlo. Con la ayuda de una excelente interfaz de usuario, un usuario cualquiera puede encontrar un artista, álbum o canción de una manera sumamente sencilla. La interfaz completa de GrooveShark esta basada en Flash. Con animaciones suaves, opciones "drag and drop", y las canciones más recientes y populares hace de GrooveShark la mejor opción para los adictos a escuchar música online. Comparada a la base de datos de MySpace Music, la librería se siente pequeña, y si dejas el motor de música recomendada, después de una media hora se comienza a escuchar lo mismo. Lo mas atractivo quizás, es que me dejo armar mi lista de reproducción sin ningún problema, no tenia canciones de 30 segundos, cambiar el orden de las canciones, repetirlas, etc...
+[GrooveShark](https://listen.grooveshark.com/) Como preferencia personal, yo pensé que no encontraría nada que le quitara el lugar que Last.fm tiene en mis favoritos... pues me equivoque. Ya tenia ratos de ver varios usuarios de twitter usar GrooveShark para compartir sus canciones, pero no tuve el tiempo (ni el ancho de banda) para dedicarme a usarlo. Con la ayuda de una excelente interfaz de usuario, un usuario cualquiera puede encontrar un artista, álbum o canción de una manera sumamente sencilla. La interfaz completa de GrooveShark esta basada en Flash. Con animaciones suaves, opciones "drag and drop", y las canciones más recientes y populares hace de GrooveShark la mejor opción para los adictos a escuchar música online. Comparada a la base de datos de MySpace Music, la librería se siente pequeña, y si dejas el motor de música recomendada, después de una media hora se comienza a escuchar lo mismo. Lo mas atractivo quizás, es que me dejo armar mi lista de reproducción sin ningún problema, no tenia canciones de 30 segundos, cambiar el orden de las canciones, repetirlas, etc...
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SxvNPLsNVnI/AAAAAAAACQA/JODrvzAEOZA/s200/grooveshark.jpg)    
 
@@ -8208,17 +7577,14 @@ draft: false
 post_id: blog-3515952828243908885.post-3183391179666201444
 ---
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SkQPX9l0T9I/AAAAAAAACFM/-MMLFCu-9ek/s320/windows_7.png)    
-Microsoft anuncio ahora, la lista de precios para Windows 7, [los precios](https://arstechnica.com/microsoft/news/2009/06/windows-7-pricing-announced-cheaper-than-vista.ars) son menores que los de Windows Vista, lo cual es una buena noticia para los usuarios que quieran esta nueva version de Windows, sin gastar mucho. Es también una buena estrategia para Microsoft, que probablemente incrementara sus ventas con esta estrategia, especialmente porque Windows 7 se espera que sea una versión que vivirá tanto tiempo como lo hizo Windows 98 y XP.
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SkQPX9l0T9I/AAAAAAAACFM/-MMLFCu-9ek/s320/windows_7.png)     Microsoft anuncio ahora, la lista de precios para Windows 7, [los precios](https://arstechnica.com/microsoft/news/2009/06/windows-7-pricing-announced-cheaper-than-vista.ars) son menores que los de Windows Vista, lo cual es una buena noticia para los usuarios que quieran esta nueva version de Windows, sin gastar mucho. Es también una buena estrategia para Microsoft, que probablemente incrementara sus ventas con esta estrategia, especialmente porque Windows 7 se espera que sea una versión que vivirá tanto tiempo como lo hizo Windows 98 y XP.
 
 Como siempre, Microsoft proveerá actualizaciones (upgrades) de Vista a 7, y como siempre, yo les reitero que [NUNCA deben gastar su dinero en actualizaciones](https://www.srbyte.com/2007/03/windows-vista-y-sus-problemitas-parte.html), mejor ahorren más, y si de verdad quieren Windows 7, entonces compren la instalación completa.
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SkQPX6HzTZI/AAAAAAAACFU/gUs9aao8ops/s320/windows_7_boxes_270x97.JPG)    
-Si bien, la mayoría de consumidores, para ahorrar algunos $$$ (y comprar dolores de cabeza), van a elegir "el camino oscuro de la actualización", Microsoft planea vender versiones nuevas de W7 también. La versión Home Premium costara $199.99, la Professional $299.99, y la Ultimate $319.99. Lo terrible, es que siguen con la "ingeniosa estrategia" de liberar una letania de versiones para las "diversas" necesidades de los usuarios, [igual paso con vista](https://www.srbyte.com/2007/02/windows-vista-y-sus-problemitas-parte-i.html).
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SkQPX6HzTZI/AAAAAAAACFU/gUs9aao8ops/s320/windows_7_boxes_270x97.JPG)     Si bien, la mayoría de consumidores, para ahorrar algunos $$$ (y comprar dolores de cabeza), van a elegir "el camino oscuro de la actualización", Microsoft planea vender versiones nuevas de W7 también. La versión Home Premium costara $199.99, la Professional $299.99, y la Ultimate $319.99. Lo terrible, es que siguen con la "ingeniosa estrategia" de liberar una letania de versiones para las "diversas" necesidades de los usuarios, [igual paso con vista](https://www.srbyte.com/2007/02/windows-vista-y-sus-problemitas-parte-i.html).
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SkQPoZnKaeI/AAAAAAAACFc/D7OXJiA-Ps8/s320/915.gif)    
-"Yo recomiendo
-Ubuntu"
+"Yo recomiendo Ubuntu"
 
 Logre vivir durante estos 3 años sin Windows Vista, mi secreto fue comenzar a usar diariamente un sistema operativo de verdad, su costo: [gratuito](https://www.ubuntu.com/getubuntu), su licencia: [liberadora](https://www.es.gnu.org/modules/content/index.php?id=8), y el [control](https://www.srbyte.com/2008/11/ok-ya-instale-linux-y-ahora-que-parte.html), [experiencia](https://www.srbyte.com/2007/04/es-dificil-instalar-gnulinux.html), [conocimiento](https://www.srbyte.com/2007/07/gua-de-construccin-de-un-kernel.html) y [amistades que me ha dado](https://www.srbyte.com/2009/04/flisol-2009.html), supera en creces el sistema propietario al que medio mundo esta mal acostumbrado.
 
@@ -8244,48 +7610,39 @@ Pixar
 
 ¿Crees que podrías sentarte en un cubículo gris y tener ideas como "Los Increíbles" y "Buscando a Nemo"? Yo creo que nooooo.... Y es por eso que las oficinas de Pixar, lucen así:
 
-![image](https://bp3.blogger.com/_ayvorITawE4/R_Tn70iioaI/AAAAAAAAAoQ/iqaKzsQc3S8/s400/pixar1.jpg)    ![image](https://bp1.blogger.com/_ayvorITawE4/R_T1xUiiotI/AAAAAAAAAqo/0KQGDOl1pz4/s400/pixar05.jpg)    ![image](https://bp2.blogger.com/_ayvorITawE4/R_T1xkiiouI/AAAAAAAAAqw/AhlR4SsRXro/s400/pixar02.jpg)    
-El "trailer" de Kathy Sierra
+![image](https://bp3.blogger.com/_ayvorITawE4/R_Tn70iioaI/AAAAAAAAAoQ/iqaKzsQc3S8/s400/pixar1.jpg)    ![image](https://bp1.blogger.com/_ayvorITawE4/R_T1xUiiotI/AAAAAAAAAqo/0KQGDOl1pz4/s400/pixar05.jpg)    ![image](https://bp2.blogger.com/_ayvorITawE4/R_T1xkiiouI/AAAAAAAAAqw/AhlR4SsRXro/s400/pixar02.jpg)     El "trailer" de Kathy Sierra
 
 Una [gran escritora](https://headrush.typepad.com/creating_passionate_users/), con una gran idea: tener la oficina casera (cuarto oficina), fuera de la casa:
 
-![image](https://bp2.blogger.com/_ayvorITawE4/R_Tn7kiioXI/AAAAAAAAAn4/7UVBpEELb8w/s400/trailer2.jpg)    ![image](https://bp3.blogger.com/_ayvorITawE4/R_Tn70iioZI/AAAAAAAAAoI/Iqva4O53ppc/s400/trailer1.jpg)    
-Red Bull Londres
+![image](https://bp2.blogger.com/_ayvorITawE4/R_Tn7kiioXI/AAAAAAAAAn4/7UVBpEELb8w/s400/trailer2.jpg)    ![image](https://bp3.blogger.com/_ayvorITawE4/R_Tn70iioZI/AAAAAAAAAoI/Iqva4O53ppc/s400/trailer1.jpg)     Red Bull Londres
 
 Simplemente, un lugar hermoso en donde trabajar...
 
-![image](https://bp3.blogger.com/_ayvorITawE4/R_Top0iiobI/AAAAAAAAAoY/Ps4peoYuC5I/s400/redbull1.jpg)    ![image](https://bp0.blogger.com/_ayvorITawE4/R_ToqEiiocI/AAAAAAAAAog/QisQZYtUdWk/s400/redbull2.jpg)    
-Pero esto es lo que mas me gusta: la foto de un tobogan que los empleados usan para bajar de un nivel a otro... Whooohooo!
+![image](https://bp3.blogger.com/_ayvorITawE4/R_Top0iiobI/AAAAAAAAAoY/Ps4peoYuC5I/s400/redbull1.jpg)    ![image](https://bp0.blogger.com/_ayvorITawE4/R_ToqEiiocI/AAAAAAAAAog/QisQZYtUdWk/s400/redbull2.jpg)     Pero esto es lo que mas me gusta: la foto de un tobogan que los empleados usan para bajar de un nivel a otro... Whooohooo!
 
-![image](https://bp0.blogger.com/_ayvorITawE4/R_ToqEiiodI/AAAAAAAAAoo/YtRhS_gYNck/s400/redbull3.jpg)    Para ver más fotos
-de esta increíble oficina, [dale click aqui](https://www.designverb.com/2006/08/22/red-bull-hq-london-whoohoooo).
+![image](https://bp0.blogger.com/_ayvorITawE4/R_ToqEiiodI/AAAAAAAAAoo/YtRhS_gYNck/s400/redbull3.jpg)    Para ver más fotos de esta increíble oficina, [dale click aqui](https://www.designverb.com/2006/08/22/red-bull-hq-london-whoohoooo).
 
 Mindlab
 
 ¿Quien dice que las oficinas gubernamentales deben de ser aburridas? [Mindlab](https://www.mind-lab.dk/) en el ministerio de economía y negocios en Copenhagen (en Dinamarca) se esfuerza por hacer sentir bien a sus trabajadores:
 
-![image](https://bp1.blogger.com/_ayvorITawE4/R_Tn7UiioWI/AAAAAAAAAnw/xhd-Rs4XKR8/s400/mindlab2.jpg)    ![image](https://bp2.blogger.com/_ayvorITawE4/R_Tn7kiioYI/AAAAAAAAAoA/ziSW6yEnpak/s400/mindlabs.jpg)    
-En el corazón de estas oficinas es un salón con forma de huevo, cubierto en su interior por paredes acrílicas para poder diagramar ideas por todos lados. Y a mi, que me gusta manchar paredes, ¡la idea me parece fantástica! ^^
+![image](https://bp1.blogger.com/_ayvorITawE4/R_Tn7UiioWI/AAAAAAAAAnw/xhd-Rs4XKR8/s400/mindlab2.jpg)    ![image](https://bp2.blogger.com/_ayvorITawE4/R_Tn7kiioYI/AAAAAAAAAoA/ziSW6yEnpak/s400/mindlabs.jpg)     En el corazón de estas oficinas es un salón con forma de huevo, cubierto en su interior por paredes acrílicas para poder diagramar ideas por todos lados. Y a mi, que me gusta manchar paredes, ¡la idea me parece fantástica! ^^
 
 Menlo Innovations
 
-[Menlo Innovations](https://www.menloinnovations.com/) es una compañía de
-desarrollo de software en Ann Arbor, en Michigan. Ellos hacen todo su trabajo de programación con "Programación Extrema". Y aunque sus oficinas no son muy vistosas, son ideales para el trabajo que realizan:
+[Menlo Innovations](https://www.menloinnovations.com/) es una compañía de desarrollo de software en Ann Arbor, en Michigan. Ellos hacen todo su trabajo de programación con "Programación Extrema". Y aunque sus oficinas no son muy vistosas, son ideales para el trabajo que realizan:
 
-![image](https://bp0.blogger.com/_ayvorITawE4/R_TqGEiioeI/AAAAAAAAAow/PRvBks2kq5Y/s400/menlo1.jpg)    ![image](https://bp0.blogger.com/_ayvorITawE4/R_TqGEiiofI/AAAAAAAAAo4/5gE1KLu9k9s/s400/menlo2.jpg)    ![image](https://bp3.blogger.com/_ayvorITawE4/R_TqG0iiohI/AAAAAAAAApI/mYTRqj4fVi8/s400/menlo4.jpg)    
-Planta Phaeton VW
+![image](https://bp0.blogger.com/_ayvorITawE4/R_TqGEiioeI/AAAAAAAAAow/PRvBks2kq5Y/s400/menlo1.jpg)    ![image](https://bp0.blogger.com/_ayvorITawE4/R_TqGEiiofI/AAAAAAAAAo4/5gE1KLu9k9s/s400/menlo2.jpg)    ![image](https://bp3.blogger.com/_ayvorITawE4/R_TqG0iiohI/AAAAAAAAApI/mYTRqj4fVi8/s400/menlo4.jpg)     Planta Phaeton VW
 
 ¿Alguna vez has visto... una planta de ensamblaje en donde digas... yo quiero trabajar ahi? Definitivamente una maquila no es el lugar mas hermoso para trabajar... pero quizas si se vieran como la planta Phaeton de Volkswagen en Dresden (Alemania), todos quisieramos trabajar ahi:
 
-![image](https://bp2.blogger.com/_ayvorITawE4/R_TsEkiioiI/AAAAAAAAApQ/XR4Cn_R-BJM/s400/Dresden_2.jpg)    ![image](https://bp1.blogger.com/_ayvorITawE4/R_TsFUiiojI/AAAAAAAAApY/rBnAKD7_iXs/s400/Dresden_5.jpg)    ![image](https://bp3.blogger.com/_ayvorITawE4/R_TsF0iiokI/AAAAAAAAApg/Pzl2vO147PE/s400/Dresden_11.jpg)    
-pueden ver mas fotos de esta hermosa fabrica [aqui](https://forums.vwvortex.com/zerothread?id=1837641).
+![image](https://bp2.blogger.com/_ayvorITawE4/R_TsEkiioiI/AAAAAAAAApQ/XR4Cn_R-BJM/s400/Dresden_2.jpg)    ![image](https://bp1.blogger.com/_ayvorITawE4/R_TsFUiiojI/AAAAAAAAApY/rBnAKD7_iXs/s400/Dresden_5.jpg)    ![image](https://bp3.blogger.com/_ayvorITawE4/R_TsF0iiokI/AAAAAAAAApg/Pzl2vO147PE/s400/Dresden_11.jpg)     pueden ver mas fotos de esta hermosa fabrica [aqui](https://forums.vwvortex.com/zerothread?id=1837641).
 
 Bicicleta para Conferencias
 
 La [bicicleta para conferencias](https://conferencebike.com/) esta orientada al trabajo en equipo y a reforzar los lazos de amistar entre los trabajadores, y definitivamente... no solo es para el trabajo:
 
-![image](https://bp0.blogger.com/_ayvorITawE4/R_TuGEiiolI/AAAAAAAAApo/C4BC8VtRnq8/s400/conference+bike.jpg)    ![image](https://bp1.blogger.com/_ayvorITawE4/R_TuGUiiomI/AAAAAAAAApw/cJbyrsUJjh0/s400/conference+bike2.jpg)    ![image](https://bp3.blogger.com/_ayvorITawE4/R_TuG0iionI/AAAAAAAAAp4/ABtINdZ4JNc/s400/conference+bike3.jpg)    
-... quiero una de esas :)
+![image](https://bp0.blogger.com/_ayvorITawE4/R_TuGEiiolI/AAAAAAAAApo/C4BC8VtRnq8/s400/conference+bike.jpg)    ![image](https://bp1.blogger.com/_ayvorITawE4/R_TuGUiiomI/AAAAAAAAApw/cJbyrsUJjh0/s400/conference+bike2.jpg)    ![image](https://bp3.blogger.com/_ayvorITawE4/R_TuG0iionI/AAAAAAAAAp4/ABtINdZ4JNc/s400/conference+bike3.jpg)     ... quiero una de esas :)
 
 Google
 
@@ -8293,13 +7650,9 @@ Siii, siiii, ya se que [Roberto](https://www.blogger.com/profile/156151231269567
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/R_TzjUiiooI/AAAAAAAAAqA/1IFeusTbNjA/s400/01.jpg)    
 
-A los Googlers (trabajadores de Google) se les permite tener perros en la oficina (¡pero nada de felinos!):
-![image](https://bp1.blogger.com/_ayvorITawE4/R_TzjUiiopI/AAAAAAAAAqI/BgMwV8DJtX8/s400/11.jpg)    
-Y puedes usar estos scooters motorizados para desplazarte de un lugar a otro dentro de las instalaciones:
+A los Googlers (trabajadores de Google) se les permite tener perros en la oficina (¡pero nada de felinos!): ![image](https://bp1.blogger.com/_ayvorITawE4/R_TzjUiiopI/AAAAAAAAAqI/BgMwV8DJtX8/s400/11.jpg)     Y puedes usar estos scooters motorizados para desplazarte de un lugar a otro dentro de las instalaciones:
 
-![image](https://bp2.blogger.com/_ayvorITawE4/R_TzjkiioqI/AAAAAAAAAqQ/UK9TSLDKPAA/s400/googleplex.jpg)    
-![image](https://bp3.blogger.com/_ayvorITawE4/R_Tzj0iiorI/AAAAAAAAAqY/-FfL2HAroF4/s400/googleplex-inside.jpg)    
-Para ver más imagenes de Googleplex, [da click aqui](https://www.time.com/time/photoessays/2006/inside_google/1.html). En fin...
+![image](https://bp2.blogger.com/_ayvorITawE4/R_TzjkiioqI/AAAAAAAAAqQ/UK9TSLDKPAA/s400/googleplex.jpg)     ![image](https://bp3.blogger.com/_ayvorITawE4/R_Tzj0iiorI/AAAAAAAAAqY/-FfL2HAroF4/s400/googleplex-inside.jpg)     Para ver más imagenes de Googleplex, [da click aqui](https://www.time.com/time/photoessays/2006/inside_google/1.html). En fin...
 
 El espacio fisico en el que los trabajadores se desenvuelven es uno de los espacios - personales - más ignorados, y sin embargo es una de faceta... y el factor mas importante para crear un ambiente apropiado de trabajo, en donde fluyan las ideas, el usuario se vuelva mas creativo y productivo. No todos los lugares que se muestran aquí, sirven para todos los rubros empresariales, y mucho menos para todas las personas. Pero, definitivamente, creo que todos podemos concertar en la idea que, las compañías deberían de interesarse mas en hacer mas amigables, comodas, seguras, divertidas y acogedoras sus instalaciones. Estoy seguro que esas mejoras presentaran un incremento en el animo de los empleados y de manera ulterior, en sus ganancias.
 
@@ -8321,8 +7674,7 @@ post_id: blog-3515952828243908885.post-3998733890022415845
 El blog del Sr. Byte y Rodrigo Amaya esta de luto. El día de hoy, en la madrugada falleció mi bisabuela de 99 años, conocida socialmente por "La niña Concha"...
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/R7g_crTZHeI/AAAAAAAAAjw/gd_RJ5f9z44/s400/abuelita-concha.jpg)    
-"Concha de Centeno:
-Noviembre 1908 - Febrero 2008"
+"Concha de Centeno: Noviembre 1908 - Febrero 2008"
 
 Esta señora trabajo toda su vida y seguramente, tanto o más que cualquier hombre, fiel esposa, buena madre, excelente proveedora, disciplinada, dura a veces, la primera mujer en sacar licencia para conducir camiones en El Salvador, fuerte en todo el sentido de la palabra. Terca como ella sola y muy devota de El Sagrado Corazón de Jesús. Un ejemplo perfecto, de que el trabajo duro rinde frutos, frutos que mi familia seguirá cosechando por muchas generaciones. Gracias Señor, por usarla como herramienta para enseñarnos: sobre la fragilidad de la vida, la importancia de la familia, y la devoción hacia tu hijo.
 
@@ -8339,8 +7691,7 @@ draft: false
 post_id: blog-3515952828243908885.post-3993191957906020778
 ---
 
-![image](https://bp0.blogger.com/_ayvorITawE4/Rb9UTDD_h8I/AAAAAAAAACE/RPU0NqWTONE/s400/luto.jpg)    Terrible noticia la
-que me dan el día de hoy, hace algunas horas me avisaron que ha fallecido un querido amigo. Son noticias como esta las que te recuerdan la brevedad de la vida, y todo aquello que se dice cuando alguien muere: pero solo tiene sentido cuando ese alguien es parte de tu vida. Es ahora que entiendo aquella frase que dice: "No hay color para el luto", porque ni del negro más negro me puedo cubrir para mostrar mi dolor, pena y tristeza... Ay de nosotros, ay ay ay... nos han quitado a nuestro querido amigo. Querido Alexis: que Dios te tenga ante su
+![image](https://bp0.blogger.com/_ayvorITawE4/Rb9UTDD_h8I/AAAAAAAAACE/RPU0NqWTONE/s400/luto.jpg)    Terrible noticia la que me dan el día de hoy, hace algunas horas me avisaron que ha fallecido un querido amigo. Son noticias como esta las que te recuerdan la brevedad de la vida, y todo aquello que se dice cuando alguien muere: pero solo tiene sentido cuando ese alguien es parte de tu vida. Es ahora que entiendo aquella frase que dice: "No hay color para el luto", porque ni del negro más negro me puedo cubrir para mostrar mi dolor, pena y tristeza... Ay de nosotros, ay ay ay... nos han quitado a nuestro querido amigo. Querido Alexis: que Dios te tenga ante su
 
 ---
 
@@ -8373,8 +7724,7 @@ Definitivamente, no hablo de cualquier sitio web. Esta es una lista "pura" y exc
 ¿Necesitas una manera sencilla de respaldar tu computadora? ¿Una nueva forma de descubrir música que se ajuste a tu humor y tus gusto? ¿O necesitas saber como limpiar o como funciona algo? ¿Y que tal si quieres reírte un rato?
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/R9qdPuJ25DI/AAAAAAAAAl8/PnSz8iNi630/s200/wired.jpg)    
-"Imagen: Vida alambrada
-digital"
+"Imagen: Vida alambrada digital"
 
 Pues para todo esto lector, existe un sitio que esta solo a un click de distancia. Aquí dejo una lista de sitios web super útiles, de los que quizás ni siquiera sabias que existen. Si tienes algún sitio que compartir (y YO se que si), deja el vinculo en los comentarios para agregarlos a esta lista (y seras debidamente agradecido).
 
@@ -8450,8 +7800,7 @@ Si compro una MacBook Air...
 ¿Realmente obtengo la computadora mas liviana y delgada del mundo? Si, pero no dejen que la idea de tener la computadora más delgada y mas liviana nuble su mente, seria mejor comprar una [laptop fujitsu LIFEBOOK Q2010](https://www.fujitsu-siemens.com/campaigns/lifebook_q2010/index.html) que es solamente 0.5 mm mas gruesa que la MacBook Air y solo pesa 1 Kg, o simplemente mejor, comprar una laptop con más prestaciones y un poquito pasada de peso.
 
 ![image](https://www.fujitsu-siemens.com/Resources/67/606398809.jpg)    
-"Imagen: LIFEBOOK Q2010, dale click para verla más
-grande."
+"Imagen: LIFEBOOK Q2010, dale click para verla más grande."
 
 El problema principal de esta laptop, es que después de perder la fascinación por su atractivo diseño... nos damos cuenta de la dura realidad del compromiso que Apple tuvo que realizar para obtener esta sobre estilizada y sobre valorada pieza de hardware.
 
@@ -8498,18 +7847,14 @@ draft: false
 post_id: blog-3515952828243908885.post-6060185667988253125
 ---
 
-![image](https://www.youtube.com/img/pic_youtubelogo_123x63.gif)    Mas de algún vídeo en sitios como YouTube es "re-publicado", que es la bonita
-manera de decir que el material fue "subido" sin el permiso de quien tiene el copyright (derecho de copia).Lamentablemente ahora a la compañía Estadounidense Digimar, que se especializa en reconocimiento de imágenes y marcas de agua digitales, se le ha concedido la patente para una manera bastante noble de atacar el problema. En vez de prevenir la piratería del contenido, lo convierte en una ventaja comercial.
+![image](https://www.youtube.com/img/pic_youtubelogo_123x63.gif)    Mas de algún vídeo en sitios como YouTube es "re-publicado", que es la bonita manera de decir que el material fue "subido" sin el permiso de quien tiene el copyright (derecho de copia).Lamentablemente ahora a la compañía Estadounidense Digimar, que se especializa en reconocimiento de imágenes y marcas de agua digitales, se le ha concedido la patente para una manera bastante noble de atacar el problema. En vez de prevenir la piratería del contenido, lo convierte en una ventaja comercial.
 
-Es simple: Una estación de TV o Estudio de Películas coloca una marca de agua invisible en cualquier cosa que transmitan/publiquen. Esto se realiza al producir una copia del material original pero con áreas de la imagen que son modificadas de manera imperceptible, ya sea en forma, color o brillo. La diferencia entre el original y la copia es expresada como un código de barras digital que permite identificar el autor o la entidad que tenga el copyright sobre el material. La copia ligeramente modificada se libera en TV o al cine mientras que la original queda en la bóveda, sótano o armario del dueño... u otro lugar seguro como la bóveda de caudales de rico McPato...
-![image](https://bp1.blogger.com/_ayvorITawE4/ReM2UOa0W_I/AAAAAAAAAJw/j6ao0S9tzfA/s400/dtv1-01.jpg)    Cuando el material
-re-aparece en la red, su dueño puede automáticamente ser identificado (mediante el código digital) y las personas que lo ven se le pueden mostrar anuncios que generan dinero para el autor original.
+Es simple: Una estación de TV o Estudio de Películas coloca una marca de agua invisible en cualquier cosa que transmitan/publiquen. Esto se realiza al producir una copia del material original pero con áreas de la imagen que son modificadas de manera imperceptible, ya sea en forma, color o brillo. La diferencia entre el original y la copia es expresada como un código de barras digital que permite identificar el autor o la entidad que tenga el copyright sobre el material. La copia ligeramente modificada se libera en TV o al cine mientras que la original queda en la bóveda, sótano o armario del dueño... u otro lugar seguro como la bóveda de caudales de rico McPato... ![image](https://bp1.blogger.com/_ayvorITawE4/ReM2UOa0W_I/AAAAAAAAAJw/j6ao0S9tzfA/s400/dtv1-01.jpg)    Cuando el material re-aparece en la red, su dueño puede automáticamente ser identificado (mediante el código digital) y las personas que lo ven se le pueden mostrar anuncios que generan dinero para el autor original.
 
 Solo espero que NO se vea así:
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/ReM3nOa0XAI/AAAAAAAAAJ8/9Jsr-qhNJNg/s400/idiocracy-tv2.jpg)    
-"Escena de la película
-Idiocracy (2006)"
+"Escena de la película Idiocracy (2006)"
 
 ---
 
@@ -8523,8 +7868,7 @@ post_id: blog-3515952828243908885.post-7778046018872413252
 ---
 
 ![image](https://bp0.blogger.com/_jH77WNrMVRA/R8Ee2Hl5lrI/AAAAAAAAAj8/-1xpd6M6vwk/s320/tuxkdegnome.jpg)    
-"Kde y Gnome. Los Desktop
-Managers más populares para Linux"
+"Kde y Gnome. Los Desktop Managers más populares para Linux"
 
 Es el punto de partida para cualquier linuxero hoy en día. Son los entornos de escritorio que vienen por defecto en las últimas distribuciones. Son los más populares, los que tienen más soporte, los que más se conocen y posiblemente los más personalizables. Pero, existe algo mas allá de ellos?
 
@@ -8536,15 +7880,13 @@ Debido a su reducido espacio en memoria y su rápida carga, este es utilizado pa
 En la [página oficial de fluxbox](https://fluxbox.sourceforge.net/) pueden encontrar más información sobre este gestor así como también screenshots.
 
 ![image](https://bp1.blogger.com/_jH77WNrMVRA/R8EjZXl5lsI/AAAAAAAAAkE/W3iLsCmn1Us/s320/20060809111122%21Fluxbox-logo.png)    
-"Logo Oficial de
-FluxBox"
+"Logo Oficial de FluxBox"
 
 - Xfce: Este es uno de mis favoritos y el que actualmente uso. Es un gestor de escritorios basado en Gnome pero mucho más liviano y sin perder el atractivo. Hereda también algunas características de FluxBox ya que su interfaz original únicamente cuenta con una barra en la parte inferior del escritorio con unos cuantos elementos comunes y el menú principal se obtiene haciendo clic derecho sobre el escritorio.
 Es capaz de compartir casi todas las aplicaciones y herramientas de configuración de Gnome pero este posee su propia suit de aplicaciones muy livianas pero igual de funcionales como el gestor de archivos Thunar, el reproductor de medios Xfmedia, el editor de textos Mousepad, entre otros. Una de sus mayores ventajas es que esta diseñado bajo los estándares de[FreeDesktop](https://www.freedesktop.org/wiki/) lo cual le permite una mayor interoperabilidad entre aplicaciones y herramientas de otros gestores de escritorios.
 
 ![image](https://bp0.blogger.com/_jH77WNrMVRA/R8Em1Hl5ltI/AAAAAAAAAkM/2FZhUdkaPxc/s320/xfce4logo-scaled.png)    
-"Este pequeño ratoncito es
-la mascota y logotipo de Xfce."
+"Este pequeño ratoncito es la mascota y logotipo de Xfce."
 
 - Enlightenment: Este es un gestor de escritorios no tan popular o intuitivo ya que no se parece a ninguno de los otros. Lastimosamente no existen módulos de Compiz Fusion para poder disfrutar de estos efectos en dicho gestor, ya que una característica especial que este posee es el hecho de no estar basado en un motor de gráficos común como el Gtk (utilizado por Gnome) o el Qt (utilizado por Kde) sino que utiliza sus propias Foundation Libraries para graficar su interfaz, lo cual aunque lo vuelve incompatible con algunas herramientas diseñadas para los demás gestores, les permite a los desarrolladores una mayor libertad para crear efectos especiales únicos.
 
@@ -8553,8 +7895,7 @@ la mascota y logotipo de Xfce."
 
 Su nueva versión, e17, no tiene nada que envidiarle al Compiz ya que cuenta con sus propios efectos de flamas, lluvia, transición entre escritorios, su famoso módulo Bling, entre otros. Acá les dejo un vídeo que resume algunos de los efectos que posee este gestor:
 
-[https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0)
-"Características del e-17"
+[https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/dp6uL4l-L_E&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) "Características del e-17"
 
 ---
 
@@ -8567,16 +7908,14 @@ draft: false
 post_id: blog-3515952828243908885.post-4883452891109540459
 ---
 
-![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SXOl-nRV4gI/AAAAAAAAFoQ/1Fz8NfsCHww/s400/scalability.jpg)     "Tu sistema debe ser capaz
-de crecer junto con tu negocio, para soportar la demanda del mercado"
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SXOl-nRV4gI/AAAAAAAAFoQ/1Fz8NfsCHww/s400/scalability.jpg)     "Tu sistema debe ser capaz de crecer junto con tu negocio, para soportar la demanda del mercado"
 
 El año pasado, [Fafamonge](https://www.fafamonge.com/) me preguntó una vez cuánta influencia creía yo que podría tener el Internet y los blogs en las elecciones que estamos celebrando, a lo cual yo respondí que relativamente poca o casi nula, considerando que somos un país demasiado conservador con poca cultura tecnológica, en comparación con otros hermanos latinoamericanos como Chile o Brasil pero ahora que se celebraron las elecciones de diputados y alcaldes, quizá mi perspectiva podría variar un poco.
 
 Me he dado cuenta que los encargados de IT del tribunal supremo electoral compartían mi idea y nunca esperaron la saturación en el tráfico que ha tenido el sitio web de dicho organismo durante las elecciones y al parecer, lo mismo podría suceder con el sistema utilizado para el conteo de votos y transmisión de resultados. Lo mismo nos ocurría en la universidad cuando realizabamos exámenes en línea o al momento de realizar inscripciones en línea. Los servidores donde la aplicación web estaba alojada colapsaba por el exceso de tráfico.
 
 ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SXOoemrnFrI/AAAAAAAAFoY/PUzrzV7QWPg/s400/fail_whale.gif)    
-"El ejemplo más claro de falta de escalabilidad:
-Twitter en sus inicios"
+"El ejemplo más claro de falta de escalabilidad: Twitter en sus inicios"
 
 Para evitar estos inconvenientes, es necesario tomar en cuenta la cantidad de usuarios que harán uso de nuestras aplicaciones al momento de desarrollarlas y publicarlas, además de considerar si tu sistema será capaz de crecer para adaptarse a estas nuevas necesidades de rendimiento.
 
@@ -8598,8 +7937,7 @@ post_id: blog-3515952828243908885.post-6666859612758395412
 ---
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SXO4m_QJfQI/AAAAAAAAFog/y2zJ6wa_Lso/s400/speed-typing.jpg)    
-"Escribir el código es sólo
-una parte del proceso de desarrollo de software"
+"Escribir el código es sólo una parte del proceso de desarrollo de software"
 
 Últimamente en mi trabajo me he dado cuenta que en las grandes ligas, el código es nada mas una de todas las cosas por las que hay que preocuparse a la hora de desarrollar un sistema. No basta con ser un programador disciplinado, dejando comentarios en el código, haciendo pruebas de unidad, subversionando y diseñando una interfaz agradable al usuario para que nuestra aplicación sea usable, hay que pensar en otros factores que podrían afectar nuestra aplicación a la hora que esta sea usada en el mundo real.
 
@@ -8620,10 +7958,7 @@ draft: false
 post_id: blog-3515952828243908885.post-2586558032442846776
 ---
 
-No es solo un buen vídeo, sino que también demuestra que un Sistema Operativo Libre no tiene nada que envidiar de nadie.
-[https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN](https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN) [https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN](https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN) [https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN](https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN)
-"Matando Aero con XGL y
-Ubuntu"
+No es solo un buen vídeo, sino que también demuestra que un Sistema Operativo Libre no tiene nada que envidiar de nadie. [https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN](https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN) [https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN](https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN) [https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN](https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN) "Matando Aero con XGL y Ubuntu"
 
 ---
 
@@ -8638,8 +7973,7 @@ post_id: blog-3515952828243908885.post-4551938467014894294
 
 Este vídeo es para todos aquellos que piensan como seria si taladraran la pantalla LCD de su computadora portátil:
 
-[https://www.youtube.com/v/ffo-o262prA](https://www.youtube.com/v/ffo-o262prA) [https://www.youtube.com/v/ffo-o262prA](https://www.youtube.com/v/ffo-o262prA)
-"Cuanto
+[https://www.youtube.com/v/ffo-o262prA](https://www.youtube.com/v/ffo-o262prA) [https://www.youtube.com/v/ffo-o262prA](https://www.youtube.com/v/ffo-o262prA) "Cuanto
 
 ---
 
@@ -8670,8 +8004,7 @@ Entre las características de los sitios web considerados como medios sociales o
 
 No hay duda que los sitios al estilo web 2.0 con contenido social (o medios sociales, como lo quieran llamar) aumentan su productividad y popularidad. Una mejor manera de explicarlo es a través de un vídeo demostrativo (hecho con dibujos a lápiz en piezas de papel!), elaborado por [commoncraft](https://www.commoncraft.com/):
 
-"Commoncraft: Social Media in Plain
-English"
+"Commoncraft: Social Media in Plain English"
 
 Algo mas que deseen aportar sobre el tema?
 
@@ -8689,19 +8022,16 @@ post_id: blog-3515952828243908885.post-6409337094501573437
 Apenas hace un par de dias (17 Junio 09), [Canonical](https://es.wikipedia.org/wiki/Canonical_Ltd.), en un intento de mejorar la usabilidad de Ubuntu (específicamente de "[Karmic Koala](https://fridge.ubuntu.com/node/1831)
 ", lista para salir el 29 de Octubre de 2009), inicio un proyecto llamado [One Hundred Paper Cuts](https://edge.launchpad.net/hundredpapercuts), la idea del mismo es arreglar cien errores de [usabilidad](https://www.srbyte.com/2009/03/pruebas-de-uso-usability-test.html) que se encuentran en esta popular distribución.
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SjwbXovRU-I/AAAAAAAACC4/kxy6xVaryCA/s320/onehundredpaprcuts.jpg)    
-No se de alguna otra iniciativa similar en proyectos de software libre de gran escala (como lo es Ubuntu), pero lo más probable, es que esta costumbre se convierta en una practica seguida para mejorar exponencialmente cualquier tipo de proyecto.
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SjwbXovRU-I/AAAAAAAACC4/kxy6xVaryCA/s320/onehundredpaprcuts.jpg)     No se de alguna otra iniciativa similar en proyectos de software libre de gran escala (como lo es Ubuntu), pero lo más probable, es que esta costumbre se convierta en una practica seguida para mejorar exponencialmente cualquier tipo de proyecto.
 
 Ahora bien, quiero que quede clara la idea de un "Paper Cut". Los Paper Cuts son simplemente pequeños bugs o defectos de usabilidad, y con pequeño me refiero a: mensajes mal traducidos, mensajes mal redactados, usar X version de programa en vez de la Y, etc... Lo interesante de un Paper Cut, es que probablemente SEA UN BUG para un nuevo usuario de Ubuntu, pero para el usuario veterano-linuxero curtido de software libre, sera simplemente uno de esas cosas "espero que alguien arregle, pero por el momento me vale que este asi".
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/Sjwdltt_3hI/AAAAAAAACDI/9SOnaA12I40/s320/Koala_Bear.jpg)    
-"Koala de
-Origami"
+"Koala de Origami"
 
 De lo que si me siento emocionado, es que ya esten los primeros diez Paper Cuts realmente definidos para resolver en el [Ubuntu development list](https://lists.ubuntu.com/archives/ubuntu-devel/2009-June/028354.html). ¿Por qué me emociona? Porque ademas de que la gente de Canonical, se ve que realmente esta trabajando, el concepto del proyecto no solo es genial y noble, sino que también aporta mejoras significativas y funcionales que inciden en [practicas "sanas" de calidad](https://www.srbyte.com/2009/05/comentario-sobre-qa.html) para cualquier tipo de software, y también refuerza los vínculos entre Empresa-Developers-Comunidad. Después de todo, el software libre, siempre ha estado orientado a comunidades...
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/Sjwb7eoCG7I/AAAAAAAACDA/9J0KPJgh8u8/s320/ubuntu-linux-community.jpg)    
-Algunas de las mejoras inmediatas para el "Karmic Koala", y que en lo personal, estaba esperando en Ubuntu es el uso del nuevo [Kernel 2.6.31](https://www.kernel.org/), [GRUB2](https://www.gnu.org/software/grub/grub-2.en.html), y obviamente [EXT4](https://es.wikipedia.org/wiki/Ext4) como sistema de archivos(ficheros) por defecto.
+![image](https://2.bp.blogspot.com/_ayvorITawE4/Sjwb7eoCG7I/AAAAAAAACDA/9J0KPJgh8u8/s320/ubuntu-linux-community.jpg)     Algunas de las mejoras inmediatas para el "Karmic Koala", y que en lo personal, estaba esperando en Ubuntu es el uso del nuevo [Kernel 2.6.31](https://www.kernel.org/), [GRUB2](https://www.gnu.org/software/grub/grub-2.en.html), y obviamente [EXT4](https://es.wikipedia.org/wiki/Ext4) como sistema de archivos(ficheros) por defecto.
 
 Y hablando de Ubuntu, les recomiendo que lean la divertida anécdota de DKCross: "[Ubunteando en Microsoft El Salvador](https://decacross.org/blog/wp-trackback.php?p=344)
 ". Mi única observación, es que la próxima vez espero que me inviten ;)
@@ -8720,8 +8050,7 @@ post_id: blog-3515952828243908885.post-7425954172727667777
 ---
 
 ![image](https://bp3.blogger.com/_jH77WNrMVRA/R9_bhdxJyeI/AAAAAAAAAn4/DmeSK10ljYY/s320/LaptopAtBeach.PNG)    
-"Visitando al Sr Byte desde
-la playa"
+"Visitando al Sr Byte desde la playa"
 
 Estamos en Semana Santa y muchos aprovechan estos días festivos en El Salvador para salir un poco de su rutina de estudio o trabajo (o cualquier otra cosa que acostumbren hacer todos los días) y darse un respiro para recargar energías, ya sea quedándose en casa acomodados en un sillón viendo películas en la tele, saliendo de paseo a la playa o cualquier lugar turístico o alimentando el espíritu participando de las tradicionales actividades que cada uno realiza de acuerdo a sus convicciones.
 
@@ -8751,14 +8080,12 @@ post_id: blog-3515952828243908885.post-1060480657067090013
 ---
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SHdprvOgiMI/AAAAAAAAA3s/gziPgI_W18k/s400/mercedes.jpg)    
-"Mercedes-Benz producirá
-vehiculos más amigables con el ambiente"
+"Mercedes-Benz producirá vehiculos más amigables con el ambiente"
 
 En menos de 7 años (para el 2015), Mercedes-Benz planea dejar de producir vehículos que usen derivados de petróleo (gasolina). Mercedes se concentrara en carros eléctricos, celdas de combustible y bio-Diesel, actualmente, la compañía esta investigando la eficiencia de cada uno de estos. Uno de los diseños más recientes que la compañía de carros alemana ha producido es el motor "DiesOtto", que es casi tan eficiente como los motores Diesel. Este motor puede alimentarse de bio-combustibles, y se podría tener un vehículo con dicho motor en el 2010, un año que parece bastante popular para los fabricantes, quizás: por la cifra, o por que terminan los primeros 10 años de este nuevo milenio, etc... no sé, pero lo importante es que ese tipo de maniobras - de sacar los motores nuevos hasta el 2010 - hace del '08 y el '09 años NADA provechosos o convenientes comprar vehiculos.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/SHdpr_OgiNI/AAAAAAAAA30/DJ_HcK6yPNg/s400/electric-car.jpg)    
-"Sr. Byte recomienda comprar
-vehiculos hasta el 2010."
+"Sr. Byte recomienda comprar vehiculos hasta el 2010."
 
 El próximo gran paso sera lanzar un carro "inteligente" que sea libre de combustibles fósiles y libre de emisiones.
 
@@ -8770,9 +8097,7 @@ Si bien ciertos modelos de carros pueden usar otros combustibles que no sean gas
 
 El Sr. Byte esta esperando por una linea de carros que:
 
-1. utilice combustible renovable 2. que sean hechos 100% de materiales reciclados 3. que produzcan su propia energía 4. y que se guarden en una maleta, como el carro de los Super Sonicos :)
-![image](https://bp3.blogger.com/_ayvorITawE4/SHdpsvOgiOI/AAAAAAAAA38/XrxcwGfMs0A/s400/jetsons.jpg)     "Quiero un carro así, para
-evitar las trabazones de San Salvador."
+1. utilice combustible renovable 2. que sean hechos 100% de materiales reciclados 3. que produzcan su propia energía 4. y que se guarden en una maleta, como el carro de los Super Sonicos :) ![image](https://bp3.blogger.com/_ayvorITawE4/SHdpsvOgiOI/AAAAAAAAA38/XrxcwGfMs0A/s400/jetsons.jpg)     "Quiero un carro así, para evitar las trabazones de San Salvador."
 
 Quizás pido mucho, al menos los primeros tres espero verlos (en este siglo), para mientras ahorro y y guardo la esperanza.
 
@@ -8835,16 +8160,13 @@ Lo interesante del ensayo es que Paul Graham no propone una teoría ridícula (p
 > a nadie le importa lo que Microsoft esta haciendo.
 El ejemplo perfecto es [Live.com](https://www2.blogger.com/live.com) (WTF?!), que no es nada más que el patético esfuerzo de motor de búsqueda con una apariencia descaradamente similar a la del ya famoso y casi en todas las paginas de inicio de navegadores: Google. O acaso antes de ver este blog, ¿sabias que existía Live.com?... yo no sabia hasta que leí el ensayo que les estoy mencionando. Esto simplemente significa que la atemorizante sombra que Microsoft proyecto sobre el mundo del Software (siguiendo la linea del gigante azul IBM) se esta desvaneciendo. Solo al ver a Bill Gates retirándose en el 2008 para dedicarse a su fundación y el fiasco llamado Office 2007 y ver a este retrasado mental (con dinero, pero sigue siendo retrasado) saltando por ahí:
 
-[https://www.youtube.com/v/Nc4MzqBFxZE](https://www.youtube.com/v/Nc4MzqBFxZE) [https://www.youtube.com/v/Nc4MzqBFxZE](https://www.youtube.com/v/Nc4MzqBFxZE) [https://www.youtube.com/v/Nc4MzqBFxZE](https://www.youtube.com/v/Nc4MzqBFxZE) [https://www.youtube.com/v/Nc4MzqBFxZE](https://www.youtube.com/v/Nc4MzqBFxZE) [https://www.youtube.com/v/Nc4MzqBFxZE](https://www.youtube.com/v/Nc4MzqBFxZE)
-"Steve Ballmer bailando como
-mono" le da mucha valides al ensayo... ¿no?. Y claro, hay esperanzas para que Microsoft se abstenga de hacer el ridículo. Y Ray Ozzie (cabeza del NUEVO Microsoft) ve el futuro de la empresa en productos de consumo como el Zune (Ooops!) y el Xbox 360.
+[https://www.youtube.com/v/Nc4MzqBFxZE](https://www.youtube.com/v/Nc4MzqBFxZE) [https://www.youtube.com/v/Nc4MzqBFxZE](https://www.youtube.com/v/Nc4MzqBFxZE) [https://www.youtube.com/v/Nc4MzqBFxZE](https://www.youtube.com/v/Nc4MzqBFxZE) [https://www.youtube.com/v/Nc4MzqBFxZE](https://www.youtube.com/v/Nc4MzqBFxZE) [https://www.youtube.com/v/Nc4MzqBFxZE](https://www.youtube.com/v/Nc4MzqBFxZE) "Steve Ballmer bailando como mono" le da mucha valides al ensayo... ¿no?. Y claro, hay esperanzas para que Microsoft se abstenga de hacer el ridículo. Y Ray Ozzie (cabeza del NUEVO Microsoft) ve el futuro de la empresa en productos de consumo como el Zune (Ooops!) y el Xbox 360.
 
 Definitivamente... Microsoft aun hace dinero y seguirá haciendo, pero definitivamente existen mejores y mas confiables alternativas en software, aparatos electrónicos, multimedia y telecomunicaciones.
 
 Solo podemos decir, bye bye Bill, te retiras en el momento adecuado...
 
-[https://www.youtube.com/v/5NoGbLI3ePA](https://www.youtube.com/v/5NoGbLI3ePA) [https://www.youtube.com/v/5NoGbLI3ePA](https://www.youtube.com/v/5NoGbLI3ePA) [https://www.youtube.com/v/5NoGbLI3ePA](https://www.youtube.com/v/5NoGbLI3ePA)
-"Homenaje a Bill Gates"
+[https://www.youtube.com/v/5NoGbLI3ePA](https://www.youtube.com/v/5NoGbLI3ePA) [https://www.youtube.com/v/5NoGbLI3ePA](https://www.youtube.com/v/5NoGbLI3ePA) [https://www.youtube.com/v/5NoGbLI3ePA](https://www.youtube.com/v/5NoGbLI3ePA) "Homenaje a Bill Gates"
 
 ---
 
@@ -8858,8 +8180,7 @@ post_id: blog-3515952828243908885.post-4897511027394864358
 ---
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/RjiPW0K33tI/AAAAAAAAAVQ/fCEw6sfxCZc/s400/logo_main_sl.gif)    
-"Logo de Microsoft
-Silverlight"
+"Logo de Microsoft Silverlight"
 
 Siguiendo su larga trayectoria de hacer productos que no tienen ningún tipo de innovación, Microsoft libera el beta de su (infame) Silverligth... un producto de tercera categoría similar (terriblemente) a Adobe Flash.
 
@@ -8882,8 +8203,7 @@ Ray Ozzie, pronto la nueva cabeza de Microsoft, ha criticado con anterioridad la
 Es más que evidente que el mercado de las tecnologías web quieran algo que se ejecute en cualquier cosa, un servidor web, un Iceweasel en Debian, en un Arch Linux, en Opera, o en un Safari.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/RjiPhUK33uI/AAAAAAAAAVY/12VhqpUsjFk/s400/manybrowsers.png)    
-"Muchos navegadores
-web"
+"Muchos navegadores web"
 
 Mike Schroepfer, vicepresidente de Mozilla menciona que el Software Libre es vital para el espíritu creativo que miles de personas empeñan en la web.
 
@@ -8904,17 +8224,14 @@ post_id: blog-3515952828243908885.post-103832654894430103
 
 El 10 de Septiembre, Microsoft lanzo su [fundación CodePlex](https://www.codeplex.org/). La fundación CodePlex es como una extensión de la idea de CodePlex.com, que es un sitio para alojar proyectos de software libre (como SourceForge, pero de Microsoft). La idea de la fundación sin fines de lucro, es estar enfocado en el intercambio de código y conocimiento entre las compañías de software y las comunidades de software libre... algo que para mi, suena como un experimento de modelo de negocio. Quizás por eso Codeplex.com y CodePlex.org son independientes, pero no necesariamente excluyentes.
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/Sq-889GK-KI/AAAAAAAACLA/474MS5Udl-k/s320/codeplex-logo_3.jpg)    
-Sam Ramji (guru de software libre en Microsoft) estará sirviendo como presidente interino en la fundación CodePlex, algo que a el (Sam) cataloga como "la culminación del trabajo en la estrategia con respecto al software libre en Microsoft". En sus últimos 5 años de trabajo de Sam Ramji, Microsoft ha aumentado su participación en el software libre, con [donaciones de codigo](https://www.sdtimes.com/MICROSOFT_DONATES_CODE_TO_APACHE_STONEHENGE_PROJECT/By_David_Worthington/About_SOA_and_TESTING_and_APACHE_and_MICROSOFT/33204) a la [Apache Software Foundation](https://www.apache.org/), como también con el "Microsoft’s Open Source Technology Center’s (OSTC)", que coopera con la comunidad de [PHP](https://blogs.msdn.com/interoperability/archive/2009/08/21/a-new-bridge-for-php-developers-to-net-through-rest-php-toolkit-for-ado-net-data-services.aspx). Contamos también con la creación de CodePlex.com y Port25, un laboratorio/casa de la comunidad de software libre en Microsoft.
+![image](https://3.bp.blogspot.com/_ayvorITawE4/Sq-889GK-KI/AAAAAAAACLA/474MS5Udl-k/s320/codeplex-logo_3.jpg)     Sam Ramji (guru de software libre en Microsoft) estará sirviendo como presidente interino en la fundación CodePlex, algo que a el (Sam) cataloga como "la culminación del trabajo en la estrategia con respecto al software libre en Microsoft". En sus últimos 5 años de trabajo de Sam Ramji, Microsoft ha aumentado su participación en el software libre, con [donaciones de codigo](https://www.sdtimes.com/MICROSOFT_DONATES_CODE_TO_APACHE_STONEHENGE_PROJECT/By_David_Worthington/About_SOA_and_TESTING_and_APACHE_and_MICROSOFT/33204) a la [Apache Software Foundation](https://www.apache.org/), como también con el "Microsoft’s Open Source Technology Center’s (OSTC)", que coopera con la comunidad de [PHP](https://blogs.msdn.com/interoperability/archive/2009/08/21/a-new-bridge-for-php-developers-to-net-through-rest-php-toolkit-for-ado-net-data-services.aspx). Contamos también con la creación de CodePlex.com y Port25, un laboratorio/casa de la comunidad de software libre en Microsoft.
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/Sq-89X6UjvI/AAAAAAAACLI/GG42pvsNrQ0/s320/DSC_0025jpg)    
-Y así mismo, el suceso más conocido y "controversial" (para algunos) entre el software libre y MicroSoft, es la [publicacion de los unos controladores de integración](https://port25.technet.com/archive/2009/07/23/the-linux-integration-component-drivers.aspx) para el kernel de Linux, amparados con licencia GPLv2. Solo por mencionar algunas cosas buenas realmente, teñidas como siempre con el velo del escepticismo, pero aun así, es un punto a favor para los amantes del software libre.
+![image](https://3.bp.blogspot.com/_ayvorITawE4/Sq-89X6UjvI/AAAAAAAACLI/GG42pvsNrQ0/s320/DSC_0025jpg)     Y así mismo, el suceso más conocido y "controversial" (para algunos) entre el software libre y MicroSoft, es la [publicacion de los unos controladores de integración](https://port25.technet.com/archive/2009/07/23/the-linux-integration-component-drivers.aspx) para el kernel de Linux, amparados con licencia GPLv2. Solo por mencionar algunas cosas buenas realmente, teñidas como siempre con el velo del escepticismo, pero aun así, es un punto a favor para los amantes del software libre.
 
 Lo que quiero recalcar, es la magnífica oportunidad de mencionar (en cada oportunidad) que el uso de software libre es una opción que una empresa siempre debe tomar en cuenta, después de todo: hasta Microsoft le esta dando una oportunidad al software libre...
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/Sq-89mU90oI/AAAAAAAACLQ/Is6dv_bbix0/s320/microsoft-open-source.jpg)    
-"Música angelical de fondo
-por favor..."
+"Música angelical de fondo por favor..."
 
 Algo muy interesante de la fundación Codeplex, es que aunque Microsoft es el que suelte el $$$ para invertir en ella, un millón de dolares, poco a poco esta puede aumentar su independencia al recibir inversión de otras empresas ajenas a Microsoft. Un paso fundamental para asegurar su existencia y autonomía.
 
@@ -8935,32 +8252,27 @@ draft: false
 post_id: blog-3515952828243908885.post-3076634438102502473
 ---
 
-![image](https://bp3.blogger.com/_ayvorITawE4/SHjqYfOgiTI/AAAAAAAAA4k/nodHzATQ9oU/s400/midomi-logo.jpg)    Midomi es un
-buscador de música, pero no como los que conoces. Midomi implementa un avanzado sistema de búsqueda de música, en el que para encontrar una canción usas el micrófono de tu computadora para cantar o tararear una canción. Cuantas veces no has pasado días con una canción metida en tu cabeza, y no sabes de que canción se trata, y la tarareas a tus amigos para saber si ellos la conocen, y sueñas, con que algún día, puedas buscar música/sonidos en Internet. A mí me pasa muy seguido.
+![image](https://bp3.blogger.com/_ayvorITawE4/SHjqYfOgiTI/AAAAAAAAA4k/nodHzATQ9oU/s400/midomi-logo.jpg)    Midomi es un buscador de música, pero no como los que conoces. Midomi implementa un avanzado sistema de búsqueda de música, en el que para encontrar una canción usas el micrófono de tu computadora para cantar o tararear una canción. Cuantas veces no has pasado días con una canción metida en tu cabeza, y no sabes de que canción se trata, y la tarareas a tus amigos para saber si ellos la conocen, y sueñas, con que algún día, puedas buscar música/sonidos en Internet. A mí me pasa muy seguido.
 
 Así que tenia que probar si era cierto, me dispuse a ingresar a la pagina de Midomi, y comencé a cantar una canción algo popular (Best Of You, de los Foo Fighters) para ver si Midomi funciona tan bien como dicen:
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/SHjpoPOgiRI/AAAAAAAAA4U/MocOn0EKaTE/s400/midomi-tarareando.jpg)    
-"Se recomienda que se cante
-la canción al menos durante 10 segundos."
+"Se recomienda que se cante la canción al menos durante 10 segundos."
 
 Cuando termine de hacer el ridículo cantar, apareció esta pagina de búsqueda, muy entretenida de ver:
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/SHjpn_OgiQI/AAAAAAAAA4M/OdlzeeeptJo/s400/midomi-search.jpg)    
-"Midomi buscando la
-canción..."
+"Midomi buscando la canción..."
 
 Y, suerte la mía, a la primera salio la búsqueda correcta:
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/SHjpn_OgiPI/AAAAAAAAA4E/HkJV5MP5yy4/s400/midomi-found.jpg)    
-"El primer resultado era la
-canción que había buscado!"
+"El primer resultado era la canción que había buscado!"
 
 Este primer experimento resulto bastante satisfactorio, pero cuando busque (cante) otras canciones... pues... digamos que los resultados fueron menos que satisfactorios:
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/SHjr9vOgiUI/AAAAAAAAA4s/v9hfivv4IQM/s400/midomi-wtf.jpg)    
-"Resultados... extraños en
-Midomi"
+"Resultados... extraños en Midomi"
 
 Digamos que el detalle de una búsqueda exitosa esta en: cantar la canción con los labios cerrados ([Hum](https://www.spanishdict.com/translate/Hum)), pero NO tararear. Eso mejora en cierto porcentaje la búsqueda de canciones. Y si conoces parte de la letra de la canción, entonces a cantar lo mejor posible y siempre trata de que no exista ruido de fondo en el lugar donde estés.
 
@@ -8981,11 +8293,9 @@ draft: false
 post_id: blog-3515952828243908885.post-2657765957552908690
 ---
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/ShnCMokbjvI/AAAAAAAAB_Y/FyCCsj6z-Mg/s320/moblin.png)    
-Moblin (mobile [Linux](https://en.wikipedia.org/wiki/Linux)), es un proyecto open source enfocado al desarrollo de aplicaciones en dispositivos móviles de Internet ([Mobile Internet Devices](https://en.wikipedia.org/wiki/Mobile_Internet_Device)), y en otro tipo de dispositivos de esta categoría, como NetBooks y NetTops. Intel inicio este proyecto hace un rato, con la idea de tener un proyecto de entrada en el mercado de los teléfonos móviles. Pero con la llegada explosiva de las netbooks, vieron la oportunidad y Moblin dio el salto a este creciente mercado.
+![image](https://1.bp.blogspot.com/_ayvorITawE4/ShnCMokbjvI/AAAAAAAAB_Y/FyCCsj6z-Mg/s320/moblin.png)     Moblin (mobile [Linux](https://en.wikipedia.org/wiki/Linux)), es un proyecto open source enfocado al desarrollo de aplicaciones en dispositivos móviles de Internet ([Mobile Internet Devices](https://en.wikipedia.org/wiki/Mobile_Internet_Device)), y en otro tipo de dispositivos de esta categoría, como NetBooks y NetTops. Intel inicio este proyecto hace un rato, con la idea de tener un proyecto de entrada en el mercado de los teléfonos móviles. Pero con la llegada explosiva de las netbooks, vieron la oportunidad y Moblin dio el salto a este creciente mercado.
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/ShnCMDBd8lI/AAAAAAAAB_I/_53NLQz66t8/s320/netbook_screenshot_animation.png)    
-El 21 de mayo de 2009, el comité de Moblin libero la versión BETA de Moblin v2.0 para NetBooks y Nettops enfocado a que los developers se animen a usarlo para crear aplicaciones para esta interesante plataforma. Al [descargar](https://moblin.org/downloads) Moblin (y probarlo en una maquina virtual) podremos disfrutar de las impresionantes mejoras que han aplicado en la interfaz visual. Moblin es un sistema operativo basado en GNU/Linux pero en el que los desarrolladores de Intel y de la Linux Foundation (ahora lideres del proyecto) han diseñado una interfaz de usuario radical, eficiente y novedosa, para proveer una forma única de interactuar con redes sociales, internet y multimedia, aun con las limitantes de una netbook.
+![image](https://1.bp.blogspot.com/_ayvorITawE4/ShnCMDBd8lI/AAAAAAAAB_I/_53NLQz66t8/s320/netbook_screenshot_animation.png)     El 21 de mayo de 2009, el comité de Moblin libero la versión BETA de Moblin v2.0 para NetBooks y Nettops enfocado a que los developers se animen a usarlo para crear aplicaciones para esta interesante plataforma. Al [descargar](https://moblin.org/downloads) Moblin (y probarlo en una maquina virtual) podremos disfrutar de las impresionantes mejoras que han aplicado en la interfaz visual. Moblin es un sistema operativo basado en GNU/Linux pero en el que los desarrolladores de Intel y de la Linux Foundation (ahora lideres del proyecto) han diseñado una interfaz de usuario radical, eficiente y novedosa, para proveer una forma única de interactuar con redes sociales, internet y multimedia, aun con las limitantes de una netbook.
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/ShnCMXqxT0I/AAAAAAAAB_Q/t7J4OLGoTNk/s320/cover-mediaplayer.png)    
 
@@ -8994,11 +8304,9 @@ Bien lo dicen en [MuyLinux](https://www.muylinux.com/2009/05/20/moblin-v20-beta-
 > "... han dejado patente que no todo está
 > inventado en el mercado de la interfaz de usuario."
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/ShnCM96hkDI/AAAAAAAAB_o/ss3tlruVq9w/s320/media-player-with-remote-libraries.png)    
-Sinceramente, a mi la GUI me ha dejado muy interesante en el desarrollo del proyecto, y si tuviera una NetBook, ya estaría pensando en ponerle Moblin, aun siendo BETA. Me encanta el enfoque al que se han orientado, interacción en los medios sociales, y conectividad extrema. Después de todo, para eso son las NetBook... no son para programar o hacer cuentas, es para mantenerte conectado, redactar correos, usar twitter, chatear, ver YouTube... lo que muchos llaman "lo básico"...
+![image](https://4.bp.blogspot.com/_ayvorITawE4/ShnCM96hkDI/AAAAAAAAB_o/ss3tlruVq9w/s320/media-player-with-remote-libraries.png)     Sinceramente, a mi la GUI me ha dejado muy interesante en el desarrollo del proyecto, y si tuviera una NetBook, ya estaría pensando en ponerle Moblin, aun siendo BETA. Me encanta el enfoque al que se han orientado, interacción en los medios sociales, y conectividad extrema. Después de todo, para eso son las NetBook... no son para programar o hacer cuentas, es para mantenerte conectado, redactar correos, usar twitter, chatear, ver YouTube... lo que muchos llaman "lo básico"...
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/ShnCMibmzzI/AAAAAAAAB_g/ZKeVEtJFIuE/s320/connection-image.png)    
-En este vídeo, podrán ver las características más interesantes de Moblin:
+![image](https://4.bp.blogspot.com/_ayvorITawE4/ShnCMibmzzI/AAAAAAAAB_g/ZKeVEtJFIuE/s320/connection-image.png)     En este vídeo, podrán ver las características más interesantes de Moblin:
 
 Y si tienen dudas sobre NetBooks, en el blog de [Miguel Mathus](https://www.miguelmathus.com/blognaranja/?p=39) encontré un articulo con una buena cantidad de informacion sobre estos aparatatitos, que poco a poco están ingresando al mercado Salvadoreño. Y tú, ¿Crees que una NetBook seria útil para ti?
 
@@ -9035,8 +8343,7 @@ Se construyen modelos de un sistema porque no se puede comprender un sistema en 
 aplicada al desarrollo de software.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/Ri5sA1LpwlI/AAAAAAAAASs/IlHqR3v8X2Q/s400/DivideConquer.JPG)    
-"Portada del libro: "Divide
-y Venceras""
+"Portada del libro: "Divide y Venceras""
 
 Algo importante que se tiene que mencionar es que:
 
@@ -9060,15 +8367,13 @@ draft: false
 post_id: blog-3515952828243908885.post-8997891708762868638
 ---
 
-El principal bloque de construcción de todos los sistemas es el objeto o la clase (enfoque orientado a objetos). De manera primitiva, antes el bloque principal de construcción de todo el software era el procedimiento o función (enfoque estructurado). Visualizar, especificar, construir y documentar sistemas orientados a objetos es exactamente e propósito del modelado de sistemas y mas específicamente del Lenguaje Unificado de Modelado (UML por sus siglas en ingles).
-![image](https://bp3.blogger.com/_ayvorITawE4/Ri5pOlLpwjI/AAAAAAAAASc/Lhpb3s6S2C0/s400/uml_logo.jpg)    
+El principal bloque de construcción de todos los sistemas es el objeto o la clase (enfoque orientado a objetos). De manera primitiva, antes el bloque principal de construcción de todo el software era el procedimiento o función (enfoque estructurado). Visualizar, especificar, construir y documentar sistemas orientados a objetos es exactamente e propósito del modelado de sistemas y mas específicamente del Lenguaje Unificado de Modelado (UML por sus siglas en ingles). ![image](https://bp3.blogger.com/_ayvorITawE4/Ri5pOlLpwjI/AAAAAAAAASc/Lhpb3s6S2C0/s400/uml_logo.jpg)    
 "UML"
 
 UML es un lenguaje estándar para escribir planos de software. Puede utilizarse para visualizar, especificar, construir y documentar los artefactos ( información que es utilizada o producida por un proceso de desarrollo de software o por un sistema) de un sistema que involucre gran cantidad de software.
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/Ri5p2lLpwkI/AAAAAAAAASk/RUEgHQ0EQi0/s400/uml_perspective1_annot.gif)    
-"Eclipse IDE posee una extensión nativa para obtener
-una perspectiva UML del software desarrollado"
+"Eclipse IDE posee una extensión nativa para obtener una perspectiva UML del software desarrollado"
 
 ¿Que es un lenguaje de modelado? Un lenguaje de modelado es un lenguaje cuyo vocabulario y reglas se centran en la representación conceptual y física de un sistema. UML indican cómo crear y leer modelos bien formados, pero no dicen qué modelos se deben crear ni cuando se deberían crear, esta es la tarea del proceso de desarrollo de software y del analista de sistemas. Con UML pueden construirse modelos de:
 
@@ -9084,18 +8389,14 @@ una perspectiva UML del software desarrollado"
 Ejemplos de diferentes implementaciones de UML:
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/Ri7UgEK33eI/AAAAAAAAAS0/-l2B1C714k4/s320/UML_Use-case-diagram.gif)    
-"Casos de
-Uso"
+"Casos de Uso"
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/Ri7UxkK33gI/AAAAAAAAATE/GNCvaqLjn8c/s320/SMJ-UML.jpg)    
-"Modelo de
-Eventos"
+"Modelo de Eventos"
 
 UML es una herramienta increíblemente didáctica y útil; que servirá para expresar puntualmente nuestras ideas y transmitirlas de manera que sea posible entenderlas por todas las personas que lean nuestro modelo. Les dejo este vídeo de muestra de un ambiente interactivo para realizar diagramas UML...
 
-[https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE) [https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE) [https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE) [https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE) [https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE)
-"UML
-Interactivo"
+[https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE) [https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE) [https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE) [https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE) [https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE) "UML Interactivo"
 
 Hasta la
 
@@ -9110,8 +8411,7 @@ draft: false
 post_id: blog-3515952828243908885.post-5401259346683657008
 ---
 
-![image](https://bp3.blogger.com/_ayvorITawE4/Rp-dLMQ69AI/AAAAAAAAAa4/ydMjyGgRhcA/s400/mono.gif)    MoMA o Mono
-Migration Analyzer, es una herramienta que ayuda a identificar diferentes problemas que se tengan al portar las aplicaciones del Framework .NET al Framework de Mono. Aunque MoMA pueda ayudar a enseñar problemas potenciales, existen muchos factores completos que no pueden ser previstos mediante el uso de una sola herramienta. Pero la utilidad de MoMA es innegable. Si tienes una aplicación hecha en .NET que no pase ninguna prueba de MoMA... entonces ya tienes una idea del trabajo que tendrás que hacer para migrar esa aplicación al Mono Framework.
+![image](https://bp3.blogger.com/_ayvorITawE4/Rp-dLMQ69AI/AAAAAAAAAa4/ydMjyGgRhcA/s400/mono.gif)    MoMA o Mono Migration Analyzer, es una herramienta que ayuda a identificar diferentes problemas que se tengan al portar las aplicaciones del Framework .NET al Framework de Mono. Aunque MoMA pueda ayudar a enseñar problemas potenciales, existen muchos factores completos que no pueden ser previstos mediante el uso de una sola herramienta. Pero la utilidad de MoMA es innegable. Si tienes una aplicación hecha en .NET que no pase ninguna prueba de MoMA... entonces ya tienes una idea del trabajo que tendrás que hacer para migrar esa aplicación al Mono Framework.
 > Recordemos que la verdadera prueba
 > resulta al correr tu aplicación sin problemas en Mono.
 Pero para que se acostumbren a codificar bien, y tengan una idea de como usar MoMA, aquí esta una pequeña guia, ¡espero que les sea de utilidad!
@@ -9125,8 +8425,7 @@ Guía ejemplo de uso de MoMA:
 Puedes descargar MoMA de [https://www.mono-project.com/Moma](https://www.mono-project.com/Moma) , luego ve a la seccion de descargas "Download" y allí encontraras el vinculo de descarga.
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/Rp-FXMQ68zI/AAAAAAAAAZQ/FYAOvDG9oAE/s400/momamono.png)    
-"Captura de pantalla del
-sitio web de MoMA con el URL marcado (muy marcado) para descargarlo"
+"Captura de pantalla del sitio web de MoMA con el URL marcado (muy marcado) para descargarlo"
 
 Recuerden que MoMA necesita el framwork .NET 2.0 ó Mono 1.2+, como solo estoy usando GNU\Linux, usare Mono para correr MoMA.
 
@@ -9135,8 +8434,7 @@ Recuerden que MoMA necesita el framwork .NET 2.0 ó Mono 1.2+, como solo estoy u
 Después de descargar el archivo .Zip de MoMA, extraemos su contenido y podremos ver lo siguiente:
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/Rp-J-MQ680I/AAAAAAAAAZY/BJoqgNixcac/s400/momamono-carpeta.png)    
-"Captura de pantalla del
-contenido del archivo .Zip descargado"
+"Captura de pantalla del contenido del archivo .Zip descargado"
 
 Ahi estan los archivos que necesitamos, muchos diran: ah!, son simples ejecutables de windows. Pues noooo, estos archivos "exe" estan compilados en un lenguaje intermedio (como el bytecode de Java) llamado MSIL (MicroSoft Intermedium Languaje). Y las extensiones "exe" y "dll" pues solo son extensiones re utilizadas. Vamos a usar Mono para correr/interpretar/compilar (como le quieran decir) el archivo "MoMA.exe". Abrimos una consola (en mi caso usare Konsole) y nos vamos a la carpeta donde se encuentra "MoMA.exe", ahi ejecutamos el comando:
 
@@ -9144,52 +8442,44 @@ Ahi estan los archivos que necesitamos, muchos diran: ah!, son simples ejecutabl
 Aquí hay una captura por si se pierden:
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/Rp-Na8Q681I/AAAAAAAAAZg/jZ-1t2cHnec/s400/momamono-ejecutando.png)    
-"Captura de la consola,
-usando mono para ejecutar MoMA.exe"
+"Captura de la consola, usando mono para ejecutar MoMA.exe"
 
 Y si todo sale bien, pues podremos ver la ventana de MoMA en nuestra pantalla:
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/Rp-N3cQ682I/AAAAAAAAAZo/AFz4MpjhEHA/s400/moma-ejecutando.png)    
-"Captura de MoMA en
-GNU\Linux, usando KDE como Desktop Manager"
+"Captura de MoMA en GNU\Linux, usando KDE como Desktop Manager"
 
 1.2 Usando MoMA
 
 Para usar MoMA solo necesitamos ejecutables hechos con el Framework .NET y dar unos cuantos clicks. Yo usare de ejemplo la librería de un amigo para comprobar si puede ser ejecutado o no con Mono. Ustedes pueden usar cualquier otro compilado (el que ustedes quieran) que corra en el Framework .NET 1.0 y 2.0, y que evidentemente no sea una librería especifica a la plataforma o parte de .NET (como System.dll). Esta es la librería CustomDataSource(CDS) Ver.1.0 de Roberto Linares, que puede ser encontrada [aquí](https://ingenieria.uesocc.edu.sv/foro/viewtopic.php?t=77).
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/Rp-QxMQ683I/AAAAAAAAAZw/llaOTQvs_LQ/s400/descargandoCDS-bin.rar.png)    
-"Captura de pantalla,
-descarga de Bin.rar de CDS, foro ingenieria UES-FMOcc"
+"Captura de pantalla, descarga de Bin.rar de CDS, foro ingenieria UES-FMOcc"
 
 En el paso 2 (de 4) de MoMA, podemos agregar uno o varios ejecutables hechos con el Framework .NET, asi que despues de descargar los binarios de CDS, y extraerlos en mi escritorio, agregare el archivo "CrypterClassLib.dll" dando click en el boton con signo "+" y luego eligiendo el/los archivo a agregar, asi:
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/Rp-RQMQ685I/AAAAAAAAAaA/iN1rMgwlOqw/s400/libroberto-moma.png)    
-"Captura de pantalla,
-agregando archivos para analizar con MoMA"
+"Captura de pantalla, agregando archivos para analizar con MoMA"
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/Rp-RU8Q686I/AAAAAAAAAaI/iLUtlZMJHbk/s400/libroberto-moma-selec.png)    
-"Captura de pantalla, ¿Listo
-para analizar?"
+"Captura de pantalla, ¿Listo para analizar?"
 
 Ya con la lista de archivos que seran analizados, pues solo basta dar click en "Next"; para que MoMA analize el ejecutable y podamos ver un resumen de compatibilidad del archivo con mono. Al final obtendremos un resultado como este:
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/Rp-TEcQ687I/AAAAAAAAAaQ/1J0W0KyEMGY/s400/moma-todobien.png)    
-"Captura de Pantalla, ¡Te
-salvaste Roberto!"
+"Captura de Pantalla, ¡Te salvaste Roberto!"
 
 En este paso (3 de 4) podemos ver que en el análisis general, el .dll analizado paso las pruebas con exito. Asi que en teoria, el archivo "CrypterClassLib.dll" puede ejecutarse sin problemas con el Mono Framwork. Vaya Roberto... te salvaste del bochorno publico jaja ;)
 
 Pero... ¿Que sucede cuando TODO sale mal?
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/Rp-U_cQ689I/AAAAAAAAAag/hFekSl1mfj8/s400/moma-mal.png)    
-"Captura de Pantalla, ¡OH
-NO!"
+"Captura de Pantalla, ¡OH NO!"
 
 Bien, si sucede algo tragico como lo muestra la captura anterior, o peor... pues MoMA genera un util reporte (paso 4 de 4) que muestra de manera general, que se puede hacer para combatir esta incompatibilidad.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/Rp-Vy8Q68-I/AAAAAAAAAao/_26IwS-qLSU/s400/Report.jpg)    
-"Captura reporte de
-ejemplo"
+"Captura reporte de ejemplo"
 
 Con este reporte en mano y teniendo en cuenta ciertos tips de migracion/codificacion seremos capaces de migrar una aplicacion casi (especulativamente) sin problemas de un S.O. a otro.
 
@@ -9198,8 +8488,7 @@ Con este reporte en mano y teniendo en cuenta ciertos tips de migracion/codifica
 No olviden enviar el reporte (sea bueno o malo) de compatibilidad que genera MoMA (MoMA lo envia automáticamente):
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/Rp-Xv8Q68_I/AAAAAAAAAaw/2ZT4mDOU638/s400/envio-reporte.png)    
-"Captura de pantalla, envío
-de reporte a Mono Project"
+"Captura de pantalla, envío de reporte a Mono Project"
 
 Esto ayuda para que los desarrolladores de Mono coloquen especial énfasis en los problemas mas comunes de compatibilidad encontrados, es tan fácil como dar un click al botón "Submit Report".
 
@@ -9227,29 +8516,22 @@ Entre los villanos que actualmente protagonizan esta película, se encuentran la
 Afortunadamente existen alternativas legales para escuchar música, gracias a artistas que han decidido lanzar su material bajo licencias libres como [CreativeCommons](https://srbyte.blogspot.com/2007/03/qu-es-creative-commons.html). Este tipo de material puede ser escuchado, compartido, descargado y redistribuido desde sitios como estos:
 
 - [Jamendo](https://www.jamendo.com/): Te permite acceder a una gran cantidad de música publicada bajo licencia CreativeCommons, muy al estilo de last.fm. Puedes crear tu perfil para agregar la música a tu lista de reproducción, hacer un review, descargarla, compartirla con amigos y hasta incrustar un widget en tu sitio web/blog para reproducir el álbum seleccionado.
-![image](https://bp3.blogger.com/_jH77WNrMVRA/SIlitNjcZEI/AAAAAAAAB4A/YdiLM5_efGw/s320/PostImg2.png)  
-"Página principal de Jamendo. Como pueden notar, su interfaz es
-multilenguaje".
+![image](https://bp3.blogger.com/_jH77WNrMVRA/SIlitNjcZEI/AAAAAAAAB4A/YdiLM5_efGw/s320/PostImg2.png)   "Página principal de Jamendo. Como pueden notar, su interfaz es multilenguaje".
 
 - [CCMixer:](https://ccmixter.org/) Un sitio que te permite crear tus remixes utilizando samples publicados bajo licencia CreativeCommons.
 
 - [Magnatune:](https://magnatune.com/) Sitio con gran cantidad de música, el cual te permite escucharla de manera gratuita, incrustar un reproductor en tu sitio web y descargarla mediante la compra del "derecho de descarga" (Los músicos se llevan la mitad de las ganancias). Este pago depende del uso que le darás al archivo de audio el cual podría ser para alguna pelicula, remix, podcast, juego de vídeo, etc. y de esto dependerá el costo (los fines no comerciales tienen un costo de CERO).
-![image](https://bp2.blogger.com/_jH77WNrMVRA/SIljT1kM_dI/AAAAAAAAB4I/yUzwyHGhUwQ/s320/PostImg1.png)  
-"Interfaz de Magnatune,
-reproduciendo un álbum. Pueden apreciar la información del artista y los vínculos para descargar la musica."
+![image](https://bp2.blogger.com/_jH77WNrMVRA/SIljT1kM_dI/AAAAAAAAB4I/yUzwyHGhUwQ/s320/PostImg1.png)   "Interfaz de Magnatune, reproduciendo un álbum. Pueden apreciar la información del artista y los vínculos para descargar la musica."
 
 - [SoundClick:](https://www.soundclick.com/) Otro sitio web con capacidad de publicar/escuchar/descargar música con licencia CreativeCommons.
-![image](https://bp3.blogger.com/_jH77WNrMVRA/SIlle2C9l-I/AAAAAAAAB4Q/rqMw-YRB9KM/s320/PostImg6.png)  
-"Interfaz del sitio SoundClick"
+![image](https://bp3.blogger.com/_jH77WNrMVRA/SIlle2C9l-I/AAAAAAAAB4Q/rqMw-YRB9KM/s320/PostImg6.png)   "Interfaz del sitio SoundClick"
 
 - [Freesound:](https://www.freesound.org/) Base de datos de efectos de sonido publicados bajo licencia CreativeCommons. Estos pueden ser utilizados en cualquier tipo de proyecto que requiera efectos de sonido.
 En [esta página](https://www.creativecommons.net/audio/) encontraran la lista completa de sitios que ofrecen cualquier tipo de audio bajo licencias CreativeCommons.
 
 Por cierto, si tienes suerte podrás encontrar uno que otro track gratuito dentro de [last.fm](https://srbyte.blogspot.com/2008/07/lastfm-se-renueva.html) full lengh y descargable(lo cual es muy poco común), aunque no se brinda ninguna información acerca de la licencia de estos tracks así que hay que tener cuidado con lo que hacemos con ellos.
 
-![image](https://bp2.blogger.com/_jH77WNrMVRA/SIltbKp3ZMI/AAAAAAAAB4Y/XrIh3-_qjqg/s320/PostImg3.png)  
-"Algunos tracks dentro de last.fm pueden ser descargados. Estos no
-brindan información acerca de su licencia de uso."
+![image](https://bp2.blogger.com/_jH77WNrMVRA/SIltbKp3ZMI/AAAAAAAAB4Y/XrIh3-_qjqg/s320/PostImg3.png)   "Algunos tracks dentro de last.fm pueden ser descargados. Estos no brindan información acerca de su licencia de uso."
 
 Si conoces mas sitios que puedas aportar los cuales contengan música legalmente gratuita, compartela con nosotros.
 
@@ -9267,8 +8549,7 @@ post_id: blog-3515952828243908885.post-3385006549121719633
 Si algo sabe hacer Microsoft bien, es llegar a todo el mundo. Respiremos profundo y aceptar la realidad. ¿Que tiene que ver esto con las versiones de los programas? Pues cuando Microsoft cambio el nombre de Windows 4.0 a Windows 95, miles rasgaron sus vestiduras y muchos dijeron: ¿Cómo sabrá el usuario a que versión de Windows actualizarse?
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RdaAu6SA9-I/AAAAAAAAAHQ/BubUZxd1mhw/s400/grito.jpg)    
-"El Grito - Edvard Münch, 1893"
-Parece ridículo ahora, pero fue un riesgo significativo en su momento, y para ser francos este cambio de política tiene mucho sentido ¿no? ¿Por que tiene sentido? fácil:
+"El Grito - Edvard Münch, 1893" Parece ridículo ahora, pero fue un riesgo significativo en su momento, y para ser francos este cambio de política tiene mucho sentido ¿no? ¿Por que tiene sentido? fácil:
 
 - Al usuario común no le importa las versiones de los programas (no, realmente no le importan, solo quiere tener lo mas reciente y funcional/productivo)
 - Un modelo de numeración basado en años es fácil de entender que un modelo de numeración tradicional.
@@ -9292,11 +8573,9 @@ Pero como dije antes, al usuario todos esos números no le importan y es mas, mu
 - No le dan importancia
 Y es que la numeración de las versiones se usa en caso de emergencia o actualización de Software, para la etapa de desarrollo o para darle seguimiento en general pero no para el nombre comercial de un software enfocado para el usuario final!. Por eso Microsoft Office 2007 se lee mas "bonito" que Microsoft Office 11.8125.8122.00 (verdad?). Lo mismo sucede con el Windows Messenger cuando cambio de 7.5 a 8.0 ¿se fijaron que ahora el se llama Windows Live Messenger? Pero los números siguen ahí:
 
-![image](https://bp0.blogger.com/_ayvorITawE4/RdZ1xKSA99I/AAAAAAAAAHI/IHkaYidDPxw/s400/messenger.jpg)    
-Al parecer nadie se salva de agregar la fecha de alguna u otra forma en la numeración de sus programas/productos... ni siquiera el caricaturista Ruz:
+![image](https://bp0.blogger.com/_ayvorITawE4/RdZ1xKSA99I/AAAAAAAAAHI/IHkaYidDPxw/s400/messenger.jpg)     Al parecer nadie se salva de agregar la fecha de alguna u otra forma en la numeración de sus programas/productos... ni siquiera el caricaturista Ruz:
 
-![image](https://bp3.blogger.com/_ayvorITawE4/RdaCX6SA9_I/AAAAAAAAAHY/ZufbAfpnUYs/s200/ruzhoy.JPG)    ...pero tomando un
-caso mejor adaptado a nuestra realidad tecnológica, veamos el de Microsoft Office, su versión de construcción se dividen en 4 dígito con la fecha codificada... no es tan difícil como se lee, la lógica funciona así:
+![image](https://bp3.blogger.com/_ayvorITawE4/RdaCX6SA9_I/AAAAAAAAAHY/ZufbAfpnUYs/s200/ruzhoy.JPG)    ...pero tomando un caso mejor adaptado a nuestra realidad tecnológica, veamos el de Microsoft Office, su versión de construcción se dividen en 4 dígito con la fecha codificada... no es tan difícil como se lee, la lógica funciona así:
 
 - Toma el año en el que el proyecto comienza. Para Microsoft Office "12" fue el 2003.
 - Llama a Enero de ese año "Mes 1".
@@ -9326,14 +8605,11 @@ Usando el telescopio espacial Hubble, los astrónomos de la NASA afirman haber e
 Este anillo fantasmal, es la prueba más concluyente (hasta la fecha) de que la "Materia Oscura"existe.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/Rku9laos2mI/AAAAAAAAAW4/09liPsHpop8/s400/dark_ring_1_full.jpg)    
-"Cumulo de estrellas CI
-0024+17"
+"Cumulo de estrellas CI 0024+17"
 
 Ojo, esta materia oscura no tiene nada que ver con "Los Piratas de las Aguas Tenebrosas" o eran "Negras"?... no recuerdo, pero "Aguas Negras"... apesta como nombre...
 
-[https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638)
-"Piratas de las Aguas...
-Tenebrosas"
+[https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) [https://www.youtube.com/v/0pUCSsAo638](https://www.youtube.com/v/0pUCSsAo638) "Piratas de las Aguas... Tenebrosas"
 
 En fin, esta materia oscura son partículas hipotéticas de un tipo de materia, de composición desconocida, que no interactúa con la materia normal y que no emite radiación detectable. La materia oscura no es visible en ninguna parte del espectro electromagnético con los medios técnicos actuales pero su existencia puede inferirse a partir de los efectos gravitacionales que causan en la materia visible tales como las estrellas o las galaxias, así como en las anisotropías del fondo cósmico de microondas.
 
@@ -9352,8 +8628,7 @@ draft: false
 post_id: blog-3515952828243908885.post-6755835941121821787
 ---
 
-Así es, una de las cosas que le hacia falta a Google era su propio navegador web, y parece que al fin se animaron a lanzarlo, al menos el concepto, porque aún esta en etapa de proyecto, pero están prometiendo bastantes cosas interesantes. ¿Y saben que será lo mejor? ¡Que sera Software Libre!, y el nombre de este sueño es: "Google Chrome".
-![image](https://blogoscoped.com/files/google-chrome.png)  
+Así es, una de las cosas que le hacia falta a Google era su propio navegador web, y parece que al fin se animaron a lanzarlo, al menos el concepto, porque aún esta en etapa de proyecto, pero están prometiendo bastantes cosas interesantes. ¿Y saben que será lo mejor? ¡Que sera Software Libre!, y el nombre de este sueño es: "Google Chrome". ![image](https://blogoscoped.com/files/google-chrome.png)  
 
 En pocas palabras, esto es lo que Google Chrome será: - Google Chrome es Software Libre. Estará basado en el existente motor de renderizado (lo que dibuja las paginas web en tu navegador) llamado Webkit. Y ademas, estará fuertemente integrado con el proyecto Google Gears. - JavaScript Virtual Machine V8, Construido desde cero por un equipo en Dinamarca, este proyecto es software libre y además esta orientado a mejorar el rendimiento de los navegadores. Google también dice que utilizara un diseño de multi-procesamiento. En pocas palabras esto permitiría gobernar bien el mundo de los complementos y las paginas web que te relentizan en navegador, piensen en un TaskManager para javascript, que les permite saber que complemento o que pagina es la que no los deja navegar bien. Brillante, ¿no?. - Google Chrome usara Viñetas especiales. Chrome pondrá las viñetas en la parte superior de la barra de direcciones (donde se digitan las url). No me parece esa idea, va en contra del diseño estándar de los navegadores, es mas, muchos usuarios ni siquiera saben utilizar viñetas en los navegadores, no se que estarán pensando al cambiarlas de posición. ![image](https://blogoscoped.com/files/google-chrome-tabs.png)  ](/google-chrome/)
 
@@ -9383,8 +8658,7 @@ post_id: blog-3515952828243908885.post-8504320822733563080
 Continuando con la saga de posts para los adictos al Internet, especialmente cuando [no sabemos que hacer cuando este nos falla](https://srbyte.blogspot.com/2008/02/guia-para-la-supervivencia-del-geek.html), ahora Google nos brinda una nueva alternativa para no perdernos de sus servicios cuando sucedan estos casos tan trágicos como la falta de Internet.
 
 ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SJnltsipQQI/AAAAAAAAB-A/8lJ4s20QhoU/s400/GearsLogo.png)    
-"Logotipo de Google
-Gears"
+"Logotipo de Google Gears"
 
 Esta alternativa se llama [Google Gears](https://gears.google.com/), una tecnología que almacena la información on-line de los servicios que lo implementan en una base de datos en la computadora del usuario, de forma que sea posible seguir usando estos servicios aunque no estemos conectados a Internet.
 
@@ -9392,15 +8666,11 @@ Para usar Gears, basta con ir a la [página](https://gears.google.com/) [princip
 
 Una vez instalado, nada más visiten los sitios que permiten el uso de Gears para que guarden su información on-line de forma local en su computadora. Por ejemplo, en Google Docs les aparecerá junto a su dirección de correo electrónico un vínculo con la palabra "Offline" (Deben configurarlo para el lenguaje Ingles, por cierto):
 
-![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SJnq73SEObI/AAAAAAAAB-Q/78l9TwmuXW0/s400/GearsOfflineMessage.png)    
-"Mensaje que indica que ahora podemos configurar Google Docs para trabajar sin
-conexión (Clic para agrandar)."
+![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SJnq73SEObI/AAAAAAAAB-Q/78l9TwmuXW0/s400/GearsOfflineMessage.png)     "Mensaje que indica que ahora podemos configurar Google Docs para trabajar sin conexión (Clic para agrandar)."
 
 Al hacer clic en este vinculo, aparece un mensaje de confirmación para configurar el acceso sin conexión a Google Documents. Al confirmar nuestra decisión, aparecerá otro cuadro de diálogo por parte de Gears, preguntándonos si queremos darle acceso a Google Documents de usar su API. Al confirmar también este cuadro, automáticamente empieza a sincronizar la base de datos local con la información on-line, en este caso, a copiar los documentos que tenemos en nuestra cuenta de Google Documents a una base de datos alojada en nuestra computadora:
 
-![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SJntoEJlBWI/AAAAAAAAB-g/SbwGQ9n_Xvw/s400/GoogleDocsSync.png)    
-"Google Gears,
-sincronizando los documentos on-line con nuestra base de datos local (Clic para agrandar)."
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SJntoEJlBWI/AAAAAAAAB-g/SbwGQ9n_Xvw/s400/GoogleDocsSync.png)     "Google Gears, sincronizando los documentos on-line con nuestra base de datos local (Clic para agrandar)."
 
 Al terminar la sincronización, ya esta todo preparado para poder trabajar sin conexión. Simplemente llamen a su ISP y díganles que no quieren mas el servicio de Internet, consigan unas tijeras y corten el cable UTP, quiebren su tarjeta de red o si no quieren ser tan drásticos, nada mas hagan clic en la opción "Work Offline" ("Trabajar sin Conexión" en español) del menú archivo de Firefox para que puedan comprobar que la pagina les seguirá cargando, permitiéndoles visualizar y editar sus documentos de Google Documents.
 
@@ -9426,8 +8696,7 @@ post_id: blog-3515952828243908885.post-1669548980520902879
 ---
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SkBvEN_uSoI/AAAAAAAAFuc/VsAQOsvL0gk/s400/NokiaInHand.jpg)    
-"Nokia 5800 XpressMusic, en
-mi poder"
+"Nokia 5800 XpressMusic, en mi poder"
 
 Como [ya lo había mencionado Rodrigo](https://www.srbyte.com/2009/06/ganate-un-nokia-5800-xpressmusic.html), es hora de hacer mi post en continuación con la [serie de reviews del Nokia 5800](https://www.srbyte.com/2009/06/review-nokia-5800-xpressmusic-13.html). Hace dos semanas representantes de Nokia nos contactaron a [LuchoEdu](https://elgeek.info/), [Alexandra](https://dulcelimonpartido.blogspot.com/), Rodrigo y mi persona para poder asistir al lanzamiento en El Salvador del nuevo Nokia 5800 XpressMusic además de proveernos de uno de estos modelos para poder experimentar sus características y luego publicar nuestras opiniones al respecto.
 
@@ -9458,8 +8727,7 @@ post_id: blog-3515952828243908885.post-5781633996282921344
 Leyendo mis Feeds me doy cuenta que [FriendFeed](https://https://www.srbyte.com/2008/08/que-es-friendfeed.html) esta haciendo más fácil las cosas en su sitio web. El problema anterior de FriendFeed es que había algo extraño en su GUI, parecía un poco incoherente, no era muy lógica, poco intuitiva, realmente no están explotando por completo la capacidad de innovar.
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SLl4nXKmWvI/AAAAAAAABM4/oNV_RlmFa6g/s400/beta.friendfeed.png)    
-"Nuevo Look de FriendFeed,
-click para ver más grande."
+"Nuevo Look de FriendFeed, click para ver más grande."
 
 Así que basado en la experiencia general de los usuarios, las listas de hatemail, flames y sugerencias y recomendaciones, FriendFeed ha cambiado de apariencia y ahora nos presenta una lista de muy agradables e interesantes características que todo usuario compulsivo de FriendFeed, seguramente, agradecerá:
 
@@ -9525,8 +8793,7 @@ post_id: blog-3515952828243908885.post-5061763892267912496
 ---
 
 ![image](https://bp1.blogger.com/_jH77WNrMVRA/SBhvFvmVlfI/AAAAAAAAA1s/6sh19Yh4MTo/s320/shoot1.png)    
-"Nueva Caracteristica del
-iGoogle: Artist Themes"
+"Nueva Caracteristica del iGoogle: Artist Themes"
 
 iGoogle ahora ha habilitado una nueva característica: aplicarle temas (tamibén llamados [skins](https://es.wikipedia.org/wiki/Skin_%28software%29)) artísticos (o temas diseñados por artistas), los cuales están muy peculiares y llamativos, con los que podes hacer todavía mas lenta tu pagina de inicio de Google o iGoogle pero que se vea mas vistoso y te motive a usar su sin igual caja de texto de búsqueda y sus [widgets](https://es.wikipedia.org/wiki/Widget) (también llamados [gadgets](https://es.wikipedia.org/wiki/Gadget)).
 
@@ -9541,11 +8808,9 @@ Además de los gadgets, como dije al principio, iGoogle te permite personalizar 
 
 iGoogle con un tema comun:
 
-![image](https://bp2.blogger.com/_jH77WNrMVRA/SBhv9_mVlgI/AAAAAAAAA10/xnjYpXk7JGY/s320/shoot2.png)    iGoogle con un tema
-artístico:
+![image](https://bp2.blogger.com/_jH77WNrMVRA/SBhv9_mVlgI/AAAAAAAAA10/xnjYpXk7JGY/s320/shoot2.png)    iGoogle con un tema artístico:
 
-![image](https://bp2.blogger.com/_jH77WNrMVRA/SBhw7_mVlhI/AAAAAAAAA18/rXTxuQ1tqos/s320/shoot3.png)    
-Cabe destacar que tanto los temas personalizados como el exeso de widgets harán el sitio web más lento a la hora de cargar la información.
+![image](https://bp2.blogger.com/_jH77WNrMVRA/SBhw7_mVlhI/AAAAAAAAA18/rXTxuQ1tqos/s320/shoot3.png)     Cabe destacar que tanto los temas personalizados como el exeso de widgets harán el sitio web más lento a la hora de cargar la información.
 
 ---
 
@@ -9560,9 +8825,7 @@ post_id: blog-3515952828243908885.post-1118772083444441896
 
 Hace un par de días abrí una cuenta en Facebook, justo por los días de estreno del "nuevo" Facebook. Desde entonces, hay un numero creciente de usuarios que solo piensa en regresar el viejo estilo, y no les gusta la nueva forma en que Facebook se comporta. En lo personal, no veo absolutamente ningún problema en el nuevo Facebook, pero también conozco el poder de la costumbre, así que... para todos estos usuarios deseosos de regresar con el viejo amigo, aquí esta una pequeña guía. El truco consiste en registrarte como un [Desarrollador de Aplicaciones de Facebook](https://www.insidefacebook.com/2008/09/16/fans-of-the-old-facebook-design-flock-to-developer-accounts/) - Sin la necesidad de que escribas una sola linea de código.
 
-![image](https://valleywag.com/assets/images/valleywag/2008/09/fbdevgroup.png)  
-"Así se ve la aplicación que
-tienes que agregar para que el 'truco' funcione" Facebook permite a los desarrolladores de aplicaciones tener la vieja interfaz de Facebook si lo desean, porque hasta que cada usuario de Facebook migre al nuevo diseño (al nuevo Facebook) se necesitan tener dos versiones de las aplicaciones, una versión para el viejo Facebook y otra para el nuevo.
+![image](https://valleywag.com/assets/images/valleywag/2008/09/fbdevgroup.png)   "Así se ve la aplicación que tienes que agregar para que el 'truco' funcione" Facebook permite a los desarrolladores de aplicaciones tener la vieja interfaz de Facebook si lo desean, porque hasta que cada usuario de Facebook migre al nuevo diseño (al nuevo Facebook) se necesitan tener dos versiones de las aplicaciones, una versión para el viejo Facebook y otra para el nuevo.
 
 En fin, para cambiarte al viejo Facebook sigue estos tres sencillos pasos:
 
@@ -9582,20 +8845,17 @@ post_id: blog-3515952828243908885.post-2379895716858352709
 Gracias a las nuevas versiones de Ubuntu las cuales cada vez se vuelven más populares y mas sencillas de usar, muchos usuarios han decidido darle una probada a eso que le llaman software libre que por ahí también tiene una pantalla negra con símbolos raros y un cubito con cuatro escritorios que rotan:
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SRyJte9EnqI/AAAAAAAAEFM/TvabewsBIgY/s400/compizfusion-cube2.png)    
-"Pantallazo de un escritorio con Compiz Fusion,
-mostrando el plugin de DesktopCube. Una de las atracciones que ha influido para que los usuarios prueben GNU/Linux"
+"Pantallazo de un escritorio con Compiz Fusion, mostrando el plugin de DesktopCube. Una de las atracciones que ha influido para que los usuarios prueben GNU/Linux"
 
 Una vez que ha pasado el efecto de impresión hay que ir pensando en adaptar el sistema, hacerle las modificaciones debidas para que se ajuste a nuestros gustos y necesidades lo cual implicaría instalar un par de aplicaciones y quizá realizar unas cuantas configuraciones básicas, dependiendo de cada usuario.
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SRyQfXHkpII/AAAAAAAAEFc/wPnM87N_Ukw/s400/transicion.png)    
-"Transicion de la apariencia
-por defecto de Ubuntu a una apariencia adaptada al gusto del usuario"
+"Transicion de la apariencia por defecto de Ubuntu a una apariencia adaptada al gusto del usuario"
 
 Tomando el caso especifíco de los sistemas que traen a Gnome como gestor de escritorios predeterminado (Debian, Ubuntu y afines), es posible cambiar la apariencia del sistema desde el menú Sistema -> Preferencias -> Apariencia. Desde acá podemos cambiar entre los temas que trae por defecto nuestro sistema o instalar nuevos, los cuales pueden ser descargados desde sitios como [gnome-look.org](https://gnome-look.org/). Hay algunos desconsiderados que llegan al punto de disfrazar a sus sistemas GNU/Linux para que luzcan lo mas parecido posible a un Windows XP o Vista.
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SRyVViCDRTI/AAAAAAAAEFk/xqL7n9xFSRg/s400/linsta%26notxp.png)    
-"Capturas de pantalla de
-escritorios con los temas [Linsta](https://gnome-look.org/content/show.php/Murrina-LiNsta+%28LiNsta+is+Not+Vista+%3B-%29?content=61068) y [NotXP](https://gnome-look.org/content/show.php/NotXP?content=73782)
+"Capturas de pantalla de escritorios con los temas [Linsta](https://gnome-look.org/content/show.php/Murrina-LiNsta+%28LiNsta+is+Not+Vista+%3B-%29?content=61068) y [NotXP](https://gnome-look.org/content/show.php/NotXP?content=73782)
 "
 
 Mostramos a continuacion algunos temas recomendados(clic en las capturas para verlas de tamaño real):
@@ -9636,26 +8896,22 @@ Estos accesorios los podemos agregar al panel principal (nos basaremos en el gno
 Para agregar un nuevo elemento al panel de GNome simplemente hacemos clic derecho sobre el y seleccionamos la opción "Agregar al Panel". De la ventana que aparece seleccionamos los applets de nuestra elección. Algunos de los applets recomendados son el "Forzar la Salida" el cual permite cerrar una aplicación que deje de responder simplemente haciendo clic sobre ella, "Indicador de Distribución de Teclado" para los que tenemos teclado inglés y toca estar cambiando a distribucion latinoamericana y el "Deskbar", el cual es un buscador todo en uno.
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SS_h0bvNGgI/AAAAAAAAEto/7GfYPh3vkCc/s400/GnomePanelShot.png)    
-"Imagen del Gnome Panel
-mostrando algunos applets como el indicador del teclado, la fecha/hora, el deskbar, forzar salida y las estadísticas del CPU/RAM/Red. Mostrando también la ventana para agregar mas applets"
+"Imagen del Gnome Panel mostrando algunos applets como el indicador del teclado, la fecha/hora, el deskbar, forzar salida y las estadísticas del CPU/RAM/Red. Mostrando también la ventana para agregar mas applets"
 
 Otra muy conveniente forma de tener accesorios en nuestro escritorio es usando los Screenlets. Estos accesorios son tan útiles como variados y fáciles de administrar. No se requiere mas que hacer un apt-get install screenlets para tenerlos a nuestra disposicion. Al final, podemos hacer que nuestro escritorio luzca de esta forma (clic para agrandar):
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SS_mtezm0uI/AAAAAAAAEtw/kXRiMm5ykyk/s400/600px-Mydesk.jpg)    
-"Escritorio de Gnome
-haciendo uso de varios screenlets como el ClockRings en el fondo del escritorio, Reloj, Calendario, CPU Stats, etc."
+"Escritorio de Gnome haciendo uso de varios screenlets como el ClockRings en el fondo del escritorio, Reloj, Calendario, CPU Stats, etc."
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SS_nVNdQP8I/AAAAAAAAEt4/o43cq0ZM9Fo/s400/linux+vista.jpg)    
-"Otra serie de Screenlets
-los cuales junto con el tema y el fondo de escritorio dan la apariencia de Vista Gadgets en un Widows Vista."
+"Otra serie de Screenlets los cuales junto con el tema y el fondo de escritorio dan la apariencia de Vista Gadgets en un Widows Vista."
 
 La mayoria de screenlets no vienen por defecto al instalar la aplicación desde apt-get así que los podremos descargar de [gnome-look](https://gnome-look.org/index.php?xcontentmode=6700) o de la [página oficial del proyecto Screenlets](https://screenlets.org/index.php/Category:UserScreenlets) en la cual tambien te indican las instrucciones de instalación y uso. Entre los Screenlets recomendados se encuentran el [GMail Checker](https://screenlets.org/index.php/Gmail), [CPU Meter](https://screenlets.org/index.php/CPU_Meter_Vista%27ish), [Now Calendar](https://screenlets.org/index.php/Now_Calendar_Screenlet) (con capacidades de consumir eventos de calendarios como Google Calendar, via iCal), el [Sidebar](https://screenlets.org/index.php/Sidebar) y el [Circle Clock](https://screenlets.org/index.php/CircleClock), [Wireless Screenlet](https://screenlets.org/index.php/WirelessScreenlet2).
 
 Para instalar estos Screenlets, te descargas el archivo comprimido de cada uno de los vínculos anteriores, lo descomprimes y copias la carpeta descomprimida en la carpeta /usr/share/screenlets/ o en la carpeta .screenlets/ luego abres el Screenlets Manager (Menu Aplicaciones -> Accesorios -> Screenlets) y los verás listados en dicha ventana para que nada mas los actives y los ubiques en la posición que quieras dentro de tu escritorio.
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SS_zlZhL7OI/AAAAAAAAEuA/525fa-nrclI/s400/ScreenletsManager.jpg)    
-"Apariencia de la ventana
-del Screenlets Manager"
+"Apariencia de la ventana del Screenlets Manager"
 
 ---
 
@@ -9668,8 +8924,7 @@ draft: false
 post_id: blog-3515952828243908885.post-1057178706624432252
 ---
 
-![image](https://bp2.blogger.com/_ayvorITawE4/RvkN0lmN2MI/AAAAAAAAAek/v27t0f9Fmlw/s400/92px-OperaLogo.png)    
-El Opera es un navegador web multiplataforma (corren en Microsoft Windows, Mac OS X, Linux, FreeBSD y Solaris), que posee una suite de características para manejar tareas comunes en Internet. Algunas de esas tareas comunes realizables desde Opera incluyen enviar y recibir correos, manejar contactos, chatear en linea, ver widgets, descarga de archivos de BitTorrent y leer RSS feeds. Ademas hay una versión "adelgazada" de Opera, llamada Opera Mini, orientada a los dispositivos moviles. Y lo mejor, es que las ultimas versiones de Opera se ofrecen como Freeware (aunque Opera es software propietario).
+![image](https://bp2.blogger.com/_ayvorITawE4/RvkN0lmN2MI/AAAAAAAAAek/v27t0f9Fmlw/s400/92px-OperaLogo.png)     El Opera es un navegador web multiplataforma (corren en Microsoft Windows, Mac OS X, Linux, FreeBSD y Solaris), que posee una suite de características para manejar tareas comunes en Internet. Algunas de esas tareas comunes realizables desde Opera incluyen enviar y recibir correos, manejar contactos, chatear en linea, ver widgets, descarga de archivos de BitTorrent y leer RSS feeds. Ademas hay una versión "adelgazada" de Opera, llamada Opera Mini, orientada a los dispositivos moviles. Y lo mejor, es que las ultimas versiones de Opera se ofrecen como Freeware (aunque Opera es software propietario).
 
 > Este sera de aquellos raros casos, en los que recomiendo probar y
 > usar el software propietario (Opera) sobre el sofware libre
@@ -9686,22 +8941,17 @@ Algunas caracteristicas de Opera son:
 - Protección contra Fraude (En tiempo real).
 - Y la característica mas útil para mi: "Speed Dial". ([Speed Dial para Firefox aquí](https://addons.mozilla.org/en-US/firefox/addon/4810))
 ![image](https://bp1.blogger.com/_ayvorITawE4/RvkPDVmN2NI/AAAAAAAAAes/iKkOJAyD_aU/s400/lin.jpg)    
-"Opera con Speed
-Dial"
+"Opera con Speed Dial"
 
 ¿Por que preferir Opera a Firefox/IceWeasel ? Aparte de lo mas obvio (Firefox es LENTO), es que una de las desventajas de FireFox (en algunos casos) es el uso de Extensiones (Add-ons) adicionales para que FireFox haga algo. El ejemplo mas triste es la extensión de Adblock y Adblock Plus, que aunque hacen un excelente trabajo bloqueando anuncios... son (cuando están instalados) una de las principales causas de lentitud en FireFox.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/RvkPzlmN2OI/AAAAAAAAAe0/x8mm_t-uqx8/s400/content-blocker.png)    
-"Accesa al 'modo' de bloqueo
-de contenido con Opera"
+"Accesa al 'modo' de bloqueo de contenido con Opera"
 
-Para ver una lista de Extensiones Problemáticas para Firefox visita esta pagina:
-[> https://kb.mozillazine.org/Problematic_extensions](https://kb.mozillazine.org/Problematic_extensions) Opera
-incluye una herramienta de bloqueo de contenido, y un filtro de URL's, ejecuta mas rápido Java-Script, incluye una poderosa herramienta de desarrollo web ([https://dev.opera.com/tools/](https://dev.opera.com/tools/)), y lo mas importante es que posee caracteristicas "innatas" a el, que no requiere la instalación adicional de componentes.
+Para ver una lista de Extensiones Problemáticas para Firefox visita esta pagina: [> https://kb.mozillazine.org/Problematic_extensions](https://kb.mozillazine.org/Problematic_extensions) Opera incluye una herramienta de bloqueo de contenido, y un filtro de URL's, ejecuta mas rápido Java-Script, incluye una poderosa herramienta de desarrollo web ([https://dev.opera.com/tools/](https://dev.opera.com/tools/)), y lo mas importante es que posee caracteristicas "innatas" a el, que no requiere la instalación adicional de componentes.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/RvkQSlmN2PI/AAAAAAAAAe8/9Pm3CHchPjA/s400/clock-widget.png)    
-"Widgets para
-Opera"
+"Widgets para Opera"
 
 Pero NO todo es paz y amor con Opera. Por lo menos en mi Debian Etch... Opera no soporta muy bien el click con el scroll del mouse para pegar contenido del clipboard... y eso si que es molesto. Tan molesto como seleccionar texto en Windows y tener que usar Ctrl+C y Ctrl+V. Y muchos, pero muuuuchos sitios web están orientados a IE7 y a FF2.0, y aunque se puede cambiar la identidad del navegador, resulta en trabajo adicional. Y la edición de este blog no es tan sencilla como con FF...
 
@@ -9741,11 +8991,9 @@ draft: false
 post_id: blog-3515952828243908885.post-4644376070365646645
 ---
 
-![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SjhnLTLkTMI/AAAAAAAAFt4/ckadEM4Yu3I/s400/Opera+Unite.png)    
-"Logotipo de Opera Unite"
+![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SjhnLTLkTMI/AAAAAAAAFt4/ckadEM4Yu3I/s400/Opera+Unite.png)     "Logotipo de Opera Unite"
 
-[Opera](https://www.opera.com/) acaba de lanzar lo que
-muchos llamarían "el futuro de la web", y esto porque su nueva versión del navegador viene incorporado por una nueva tecnología llamada [Opera Unite](https://unite.opera.com/), ahora cuenta con facilidades para convertir tu PC en todo un servidor de Internet, permitiéndote compartir música y comunicarte con tus amigos y conocidos sin necesidad de usar servicios de terceros.
+[Opera](https://www.opera.com/) acaba de lanzar lo que muchos llamarían "el futuro de la web", y esto porque su nueva versión del navegador viene incorporado por una nueva tecnología llamada [Opera Unite](https://unite.opera.com/), ahora cuenta con facilidades para convertir tu PC en todo un servidor de Internet, permitiéndote compartir música y comunicarte con tus amigos y conocidos sin necesidad de usar servicios de terceros.
 
 Hace un tiempo escuchábamos también propuestas de Mozilla para revolucionar nuestro modo de utilizar la web mediante mashups e interacciones mas naturales para controlar el browser mediante su tecnología [Ubiquity](https://labs.mozilla.com/projects/ubiquity/) y también hace poco recibimos una propuesta por parte de Google para facilitarnos la forma como nos comunicamos y compartimos recursos en el web, mediante [Google Wave](https://wave.google.com/). Todo esto nos indica que la web como la conocemos hoy pronto dejará de existir, dándole paso a una nueva plataforma donde ya no solamente navegaremos por páginas con hipervínculos para leer contenido web, sino que ahora los browsers serán verdaderas y poderosas herramientas para estar en contacto con nuestros amigos/colegas/conocidos y compartir recursos mas fácilmente para cumplir el objetivo del Internet, el cual [Katherine](https://www.queith.net/) me lo recordó una vez con un twitt diciendo que: "Internet es realmente una conexión entre personas, no entre computadoras"
 
@@ -9760,8 +9008,7 @@ Entre los servicios que se pueden montar en este navegador se encuentran:
 Para poder experimentar esta nueva tecnología de opera, es necesario descargarse la [versión 10-beta de dicho navegador](https://labs.opera.com/news/2009/06/16/) y crear una cuenta (o iniciar sesión) de [My Opera](https://my.opera.com/community/).
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/Sjh6ZwaPOSI/AAAAAAAAFuM/TRYp3M5QrlU/s400/robertux+opera+unite.png)    
-"Opera Unite, mostrando mi
-perfil y servicios disponibles"
+"Opera Unite, mostrando mi perfil y servicios disponibles"
 
 Este vídeo nos explica la ideología de Opera respecto a su nueva tecnología:
 
@@ -9784,8 +9031,7 @@ Estoy molesto con Ubuntu, hice un upgrade de la distribución, el error fue deja
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SvdXefwbqZI/AAAAAAAACN8/WHar5tiqeJY/s320/ubuntu910.jpg)    
 
-"¿Será mejor una instalación
-desde cero?"
+"¿Será mejor una instalación desde cero?"
 
 Después de solventar el problema desde la consola (viva apt!), comencé a utilizar el sistema, lo que impacta inmediatamente, es el nuevo tema de GDM, su suavidad y velocidad para responder a la selección de teclado, usuario o entorno gráfico.
 
@@ -9815,8 +9061,7 @@ Sin embargo, esta más que claro que Ubuntu 9.10 es solo una versión de transic
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SvdXjorf2AI/AAAAAAAACOM/VC2eC1ldlmA/s320/6585x1500y1500.jpg)    
 
-"Los koalas no se reponen de la fiesta, por eso esta
-buggy el ubuntu :P"
+"Los koalas no se reponen de la fiesta, por eso esta buggy el ubuntu :P"
 
 Al menos, esa es mi experiencia personal y la recomendación que puedo hacer con respecto de Karmic Koala. Me quedo con la curiosidad del Ubuntu Netbook Remix,
 
@@ -9832,8 +9077,7 @@ post_id: blog-3515952828243908885.post-4683499292409589782
 ---
 
 ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/Se0_N5dU4AI/AAAAAAAAFsg/KTu5rBhd2BU/s400/hp1v3_announcement.jpg)    
-"Esto es lo que me apareció
-esta noche al visitar el sitio de Sun Microsystems. Aún no lo creo."
+"Esto es lo que me apareció esta noche al visitar el sitio de Sun Microsystems. Aún no lo creo."
 
 Después de unos muy interesantes intentos de negociaciones entre IBM y Sun Microsystems para que la primera adquiriera a la segunda, resulta que fue Oracle, el emperador de las bases de datos, quien terminó adquiriendo a la moribunda empresa de Sun Microsystems por nada más y nada menos que 7,400 millones de dólares.
 
@@ -9889,8 +9133,7 @@ draft: false
 post_id: blog-3515952828243908885.post-6402711549856230782
 ---
 
-![image](https://1.bp.blogspot.com/_JbB9KsZ238w/SVRVHDtyUcI/AAAAAAAAARo/bWA9bVBxAGw/s320/PlayThumbVeoh.jpg)    
-Estos días he estado navegando sin rumbo por el internet, con tal de matar el ocio. Fue así como encontré una página bastante entretenida. Es una película que da la oportunidad de disfrutar, desde la comodidad de tu casa y desde tu ordenador, películas de todo tipo: Comedia, acción, suspenso, etc.
+![image](https://1.bp.blogspot.com/_JbB9KsZ238w/SVRVHDtyUcI/AAAAAAAAARo/bWA9bVBxAGw/s320/PlayThumbVeoh.jpg)     Estos días he estado navegando sin rumbo por el internet, con tal de matar el ocio. Fue así como encontré una página bastante entretenida. Es una película que da la oportunidad de disfrutar, desde la comodidad de tu casa y desde tu ordenador, películas de todo tipo: Comedia, acción, suspenso, etc.
 
 He de aclarar que algunos títulos de películas aparecen como disponibles, aunque cuando se les da click no aparecen. También, algunas están disponibles pero no con buena calidad de imagen. Sin embargo, vale la pena darle una revisadita. Nada se pierde.
 
@@ -9917,10 +9160,7 @@ Al momento de hablar de barras hay que hacer algunas distinciones:
 
 El orden de los colores aunque parece el mismo varía del sistema en el que se utilicen, ya sean NTSC, SECAM o PAL (Véase como referencia, Formatos de la TV Parte [I](https://http//www.srbyte.com/2008/09/formatos-de-la-tv-i-parte.html), [II](https://http//www.srbyte.com/2008/09/formatos-de-la-tv-parte-ii.html) y [III](https://http//www.srbyte.com/2008/10/formatos-de-la-tv-parte-iii_17.html)). Este orden puede ser: negro, rojo, amarillo, verde, cian, azul, púrpura, blanco y, nuevamente, negro.
 
-Ejemplo de un cuadro típico de barras de color:
-![image](https://1.bp.blogspot.com/_JbB9KsZ238w/SWGCLsgnZsI/AAAAAAAAASk/JQUuGOZaYLU/s320/EBU_ColorBars-768x576.png)  
-[https://2.bp.blogspot.com/_JbB9KsZ238w/SWGB6BB2eXI/AAAAAAAAASc/4lzI5vV03Vw/s1600-h/EBU_ColorBars-768x576.png](https://2.bp.blogspot.com/_JbB9KsZ238w/SWGB6BB2eXI/AAAAAAAAASc/4lzI5vV03Vw/s1600-h/EBU_ColorBars-768x576.png)
-Sin embargo, dentro de las barras para televisión existen diversas clases. Así pues, tenemos las barras rainbow, EBU, UER, SMPTE y las x.v, de las cuales le contaré en detalle en el próximo post.
+Ejemplo de un cuadro típico de barras de color: ![image](https://1.bp.blogspot.com/_JbB9KsZ238w/SWGCLsgnZsI/AAAAAAAAASk/JQUuGOZaYLU/s320/EBU_ColorBars-768x576.png)   [https://2.bp.blogspot.com/_JbB9KsZ238w/SWGB6BB2eXI/AAAAAAAAASc/4lzI5vV03Vw/s1600-h/EBU_ColorBars-768x576.png](https://2.bp.blogspot.com/_JbB9KsZ238w/SWGB6BB2eXI/AAAAAAAAASc/4lzI5vV03Vw/s1600-h/EBU_ColorBars-768x576.png) Sin embargo, dentro de las barras para televisión existen diversas clases. Así pues, tenemos las barras rainbow, EBU, UER, SMPTE y las x.v, de las cuales le contaré en detalle en el próximo post.
 
 Bendiciones.
 
@@ -9940,8 +9180,7 @@ post_id: blog-3515952828243908885.post-611953506305124648
 La primera vez que escuché hablar del lenguaje de programación RPG mi expresión fue: "What? Role Playing Game? :O" porque al igual que muchos programadores, tampoco tenía idea de la existencia de este lenguaje de programación. Aun así, es un lenguaje tan antíguo como Fortran, tan robusto como Java y tan tedioso como Assembler.
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SswsD6jkfSI/AAAAAAAAGDw/Ian4an8-_pE/s400/Final_Fantasy_XII_JAP_FF12.jpg)    
-"Final Fantasy VII. Hasta
-ese entonces, esto es lo que yo conocía como RPG"
+"Final Fantasy VII. Hasta ese entonces, esto es lo que yo conocía como RPG"
 
 La razón por la que RPG no es tan popular como el resto de lenguajes se debe a su aplicación y por la plataforma donde este lenguaje es usado. Esto quiere decir que no encontrarás un IDE o un compilador de RPG para plataformas Intel (como cualquier PC en el mercado) sino que únicamente está disponible para plataformas IBM AS/400.
 
@@ -9954,8 +9193,7 @@ Esta dificultad para concer el lenguaje ha permitido que existan relativamente p
 Aparte de eso, el lenguaje no es tan amigable que digamos especialmente considerando que ya tiene más de cuarenta años de existencia y está muy lejos de ser jubilado. Su apariencia es como una combinación de Assembler (por el hecho de definir su estructura basada en posiciones o columnas) y Fox (por la integración directa con gestor de bases de datos). Ejemplo de ello es la complejidad que implica desarrollar el tan popular programa Hello World:
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SswxCCzHMwI/AAAAAAAAGD4/MnQdzwFMSP0/s400/RPGHelloWorld.png)    
-"Ejemplo del programa Hello
-World escrito en RPG IV (ILE) tomado de [The Hello World Collection](https://www.roesler-ac.de/wolfram/hello.htm)
+"Ejemplo del programa Hello World escrito en RPG IV (ILE) tomado de [The Hello World Collection](https://www.roesler-ac.de/wolfram/hello.htm)
 "
 
 Por este hecho, si tienes la oportunidad de trabajar en algún lugar donde cuenten con un servidor AS/400 les recomiendo de sobremanera aprender a utilizar el lenguaje RPG con el que podrán optar a nuevas y mejores oportunidades de empleo.
@@ -9976,8 +9214,7 @@ post_id: blog-3515952828243908885.post-7008671535066090185
 Si eres un Power User, Sys Admin, o simplemente realizas toneladas de trabajo frente a la computadora, probablemente te hayas topado con que hay ocasiones en las que se necesita automatizar ciertas tareas tediosas. Por ejemplo, el de buscar una cadena de texto repetida en varios documentos.
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SXktRDfryLI/AAAAAAAAB4M/fddk4HkTo-Y/s320/300px-PowerUser.jpg)    
-"Yo soy un PowerUser, por eso uso
-Linux!!!"
+"Yo soy un PowerUser, por eso uso Linux!!!"
 
 En el trabajo, en uno de los proyectos en los que estoy asignado, me vi en la necesidad de realizar la tarea mencionada; buscar una cadena de texto (una función) en cada archivo de un modulo, y obtener el nombre del archivo en donde sucede la ocurrencia. Usualmente esto lo podría hacer en Linux, con una sencilla combinación de los comandos: "grep" y "ls" en un script. Pero claro, no estoy usando Linux en mi trabajo, así que me vi "forzado" a utilizar una (basca de) función de búsqueda en el IDE que estamos usando. Como no obtuve los resultados adecuados, en eso recorde una herramienta multiplataforma, opensource, y mas robusta que el chistoso "command prompt" de Windows...
 
@@ -9991,8 +9228,7 @@ En el trabajo, en uno de los proyectos en los que estoy asignado, me vi en la ne
 - Puede ocurrir que eres un developer de C/C++/Java, y el ciclo usual de codificar/compilar/depurar/recompilar te parece muy lento; ¿que sucede si deseas hacer un programa que se conecte a una base de datos remota y ejecute pruebas automatizadas?
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SXktRNL7mKI/AAAAAAAAB4U/hHva2kRmcbs/s320/big-robot.jpg)    
-"Si te sientes como un robot
-realizando tareas repetitivas, tal vez sea tiempo de considerar una herramienta que automatice tus tareas!"
+"Si te sientes como un robot realizando tareas repetitivas, tal vez sea tiempo de considerar una herramienta que automatice tus tareas!"
 
 - ¿O una sencilla aplicación que pruebe rangos de IP que tengan conexión a Internet, y que cambie tu IP cada cierto tiempo, para poder navegar "tranquilo" en el trabajo? (más información sobre esto luego).
 
@@ -10017,15 +9253,11 @@ Python permite escribir programas de manera compacta y legible. Y casi siempre, 
 Pero lo realmente importante, y por lo que vale la pena mencionar a Python en este momento, es que hace poco salio la nueva versión de Python, la 3.0 Y lo radical de esta versión, es que es TOTALMENTE incompatible con Python 2.6 y menores. Muchos se sorprenderán de semejante movida, pero el creador de Python: [Guido Van Rossum](https://www.python.org/~guido/), tiene buenas razones para haberla hecho, entre ellas: mejorar la sintaxis del lenguaje, cambiar un buen par de tipos de datos, y proveer una plataforma para convertir a Python, en el lenguaje interpretado de alto nivel de mayor popularidad en el mercado. Si estabas esperando "el momento adecuado" para aprender un lenguaje de programación, sin lugar a dudas este es el momento para aprender Pyhton (3.0)!!!
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SXktRB3LpoI/AAAAAAAAB4k/OrMOoN3u19o/s320/studying-boh.jpg)    
-"¿Cansado de lenguajes
-estáticos y compilados?, quizas sea hora de cambiar a un lenguaje de ALTO nivel."
+"¿Cansado de lenguajes estáticos y compilados?, quizas sea hora de cambiar a un lenguaje de ALTO nivel."
 
 Ya sea que estés comenzando, o simplemente estés cansado de Perl, de Awk, o de los ridículos archivos batch de Windows, etc.
 
-Así que... a bajar Python:
-[> https://www.python.org/download/releases/3.0/](https://www.python.org/download/releases/3.0/) Y
-la documentación de Python 3.0 (Py3K) puedes encontrarla aquí:
-[> https://docs.python.org/3.0/](https://docs.python.org/3.0/) Saludos!
+Así que... a bajar Python: [> https://www.python.org/download/releases/3.0/](https://www.python.org/download/releases/3.0/) Y la documentación de Python 3.0 (Py3K) puedes encontrarla aquí: [> https://docs.python.org/3.0/](https://docs.python.org/3.0/) Saludos!
 
 ---
 
@@ -10049,8 +9281,7 @@ Según la conferencia que dio Steve Jobs en la que presento la iMac en 1998, la 
 
 Desde entonces, la "i" ha sido sinónimo también de la innovación que causan los productos Apple que han surgido desde entonces como el iPod y el iPhone. Ademas siempre existen personas que hacen parodias tanto de la tendencia "i" en [productos no tan relacionados con la informatica](https://www.freakingnews.com/Odd-Apple-Products-Pictures--519.asp) y personas que hacen uso de los productos Apple [como una moda](https://www.linkinn.com/_Funny_Apple_Product_And_Design) hasta el punto de crear una [imagen de Steve Jobs con un collage de productos e Apple](https://www.geekologie.com/2008/03/steve_jobs_picture_made_of_app.php).
 
-"Apple iMac Ad: Steps to Connect to
-Internet"
+"Apple iMac Ad: Steps to Connect to Internet"
 
 ---
 
@@ -10066,13 +9297,11 @@ post_id: blog-3515952828243908885.post-7444345977053035034
 ¿Sabes que tan productivo realmente eres cuando estas en tu computadora?
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SLcdbLJHs9I/AAAAAAAABJw/PwhI2W1yKkY/s320/makes_eat_time.jpg)    
-"¿Cuanto tiempo 'gastas' en
-las aplicaciones que ocupas?"
+"¿Cuanto tiempo 'gastas' en las aplicaciones que ocupas?"
 
 Existen una serie de herramientas que te permitirán conocer el tiempo que gastas u ocupas en cada aplicación o sitio web que usas a diario. La primera herramienta de este tipo que recomendamos es:
 
-[RescueTime](https://www.rescuetime.com/): Es una pequeña
-aplicación que funciona en Windows, Mac y Linux, que mantiene un detallado control de las aplicaciones que usas y el tiempo que le "dedicas". Lo interesante es que también mantiene la pista de los sitios web que visitas diariamente. Con RescueTime puedes especificar el numero de horas que deseas pasar en un sitio y RescueTime te alertara a tu correo, tu lector de feeds o por SMS cuando se te este acabando el tiempo. Ademas se pueden crear grupos y comparar las estadísticas de cada uno con otros usuarios, para ver quien es el más productivo.
+[RescueTime](https://www.rescuetime.com/): Es una pequeña aplicación que funciona en Windows, Mac y Linux, que mantiene un detallado control de las aplicaciones que usas y el tiempo que le "dedicas". Lo interesante es que también mantiene la pista de los sitios web que visitas diariamente. Con RescueTime puedes especificar el numero de horas que deseas pasar en un sitio y RescueTime te alertara a tu correo, tu lector de feeds o por SMS cuando se te este acabando el tiempo. Ademas se pueden crear grupos y comparar las estadísticas de cada uno con otros usuarios, para ver quien es el más productivo.
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SLcbQP27mlI/AAAAAAAABJo/6QOsHc-FjdU/s320/rescue-time.png)    
 
@@ -10093,12 +9322,10 @@ post_id: blog-3515952828243908885.post-9063969521900927744
 
 Continuando con la [entrada anterior](https://www.srbyte.com/2008/08/productividad-en-la-pc-i-parte.html), les traemos otra herramienta para mejorar su productividad:
 
-![image](https://www.workrave.org/php/gfx/sheep.gif)    [WorkRave](https://www.workrave.org/welcome/): Es una útil herramienta que
-permite asistir en la recuperación y prevención de posibles daños a la saludo, por lecciones de desgarro repetitivo (Repetitive Strain Injury, RSI). Este programa frecuentemente te alerta que tomes pequeñas pausas del trabajo, te "obliga" a que descanses y también restringe el uso diario de la computadora.
+![image](https://www.workrave.org/php/gfx/sheep.gif)    [WorkRave](https://www.workrave.org/welcome/): Es una útil herramienta que permite asistir en la recuperación y prevención de posibles daños a la saludo, por lecciones de desgarro repetitivo (Repetitive Strain Injury, RSI). Este programa frecuentemente te alerta que tomes pequeñas pausas del trabajo, te "obliga" a que descanses y también restringe el uso diario de la computadora.
 
 ![image](https://www.workrave.org/welcome/gfx/splash.png)    
-" Captura de 'Mensaje de
-Descanse' "
+" Captura de 'Mensaje de Descanse' "
 
 Este programa corre en Linux y Windows, y básicamente se limita restringir tiempos, WorkRave no monitorea que programas usas, solo evita que permanezcas horas y horas y horas sentado frente a la maquina y que dañes tu vista, manos (por el [síndrome de túnel carpiano](https://es.wikipedia.org/wiki/S%C3%ADndrome_del_t%C3%BAnel_carpiano) por ejemplo), espalda, etc. Para ver una lista de características de WorkRave da click [aquí](https://www.workrave.org/features/).
 
@@ -10120,12 +9347,10 @@ post_id: blog-3515952828243908885.post-4781197020285262341
 
 Y seguimos con [las herramientas de productividad](https://www.srbyte.com/2008/08/productividad-en-la-pc-ii-parte.html), que en la mayoría de casos, nos servirán para mantener un detallado control del tiempo ocupado en una tarea especifica, por ejemplo:
 
-[TimeTracker](https://addons.mozilla.org/en-US/firefox/addon/1887): Esta es
-un [complemento](https://www.srbyte.com/2008/07/qu-es-un-complementoadd-on-de-firefox.html) de [FireFox](https://www.srbyte.com/2008/07/el-guiness-record-de-firefox-3.html), que nos mantiene un pequeño registro del tiempo que utilizamos en este famoso navegador. ¿Eres de los que abren pestañas más rápido de lo que las puedes cerrar?, ¿Nunca haces las cosas que te propones cuando navegas en Internet? Entonces TimeTracker es para ti, porque te permitirá mantener la pista del tiempo "perdido".
+[TimeTracker](https://addons.mozilla.org/en-US/firefox/addon/1887): Esta es un [complemento](https://www.srbyte.com/2008/07/qu-es-un-complementoadd-on-de-firefox.html) de [FireFox](https://www.srbyte.com/2008/07/el-guiness-record-de-firefox-3.html), que nos mantiene un pequeño registro del tiempo que utilizamos en este famoso navegador. ¿Eres de los que abren pestañas más rápido de lo que las puedes cerrar?, ¿Nunca haces las cosas que te propones cuando navegas en Internet? Entonces TimeTracker es para ti, porque te permitirá mantener la pista del tiempo "perdido".
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SLgZwJL2vuI/AAAAAAAABKA/ao5qApCQcqQ/s320/1.png)    
-"Como ven, TimeTracker no
-usa mucho espacio en FireFox."
+"Como ven, TimeTracker no usa mucho espacio en FireFox."
 
 Algunas características interesantes de TimeTracker son:
 
@@ -10134,8 +9359,7 @@ Algunas características interesantes de TimeTracker son:
 - Muestra el tiempo total gastado por sesión, desde que se instalo el complemento y desde la ultima vez que se reinicio el contador.
 - Si si, también permite reiniciar el contador del tiempo.
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SLgZwNDhF5I/AAAAAAAABJ4/iJpyp7Loc1U/s320/4.jpeg)    
-"TimeTracker cómodamente
-instalado en Firefox"
+"TimeTracker cómodamente instalado en Firefox"
 
 Puedes descargar TimeTracker aquí:
 
@@ -10155,20 +9379,16 @@ post_id: blog-3515952828243908885.post-3510358555177172075
 
 En el mundo de la programación, existen miles de lenguajes (funcionales o no) que sirven para el único propósito de hacer mas fácil la comunicación con las computadoras... decirles como hacer una tarea, ordenarles que hacer y como hacerlo. Cada lenguaje sirve para propósito diferente, es tarea constante para el programador buscar [el lenguaje perfecto](https://rodrigoamaya.blogspot.com/2007/01/el-lenguaje-de-programacion-perfecto.html) para que se sienta cómodo y sea más productivo. Pero entre mas de 1000 lenguajes, esta tarea es como buscar a la pareja perfecta para trabajar en la torre de Babel...
 
-![image](https://bp3.blogger.com/_ayvorITawE4/RdcMZqSA-AI/AAAAAAAAAHs/Z81B9wSjLj8/s200/babel.jpg)    
-Muchos no saben quizás que el programador siempre busca que su código se "vea bien". El programador experimentado puede conocerse por su código: los nombres de variables son significativos, utiliza sangrías (tabulación), comenta su código de forma ordenada, entre otras buenas costumbres:
+![image](https://bp3.blogger.com/_ayvorITawE4/RdcMZqSA-AI/AAAAAAAAAHs/Z81B9wSjLj8/s200/babel.jpg)     Muchos no saben quizás que el programador siempre busca que su código se "vea bien". El programador experimentado puede conocerse por su código: los nombres de variables son significativos, utiliza sangrías (tabulación), comenta su código de forma ordenada, entre otras buenas costumbres:
 
-![image](https://bp1.blogger.com/_ayvorITawE4/RdcYDKSA-BI/AAAAAAAAAH0/VR4xe_c8YSc/s1600/codepro.jpg)  
-En cambio el novato deja mucho que desear...
+![image](https://bp1.blogger.com/_ayvorITawE4/RdcYDKSA-BI/AAAAAAAAAH0/VR4xe_c8YSc/s1600/codepro.jpg)   En cambio el novato deja mucho que desear...
 
-![image](https://bp2.blogger.com/_ayvorITawE4/RdcYVaSA-CI/AAAAAAAAAH8/qDu57i4f6qA/s400/codenewbie.jpg)  
-Por algún lado tenemos que empezar, ¿no?. Uno de los problemas principales en la actualidad a la hora de programar, es la falta de modularidad en el código. Muchos (pero muchos) programadores creen que sus clases tienen que hacer de todo. Estas clases todo (o super clases) son en realidad, El Santo Grial del programador... es decir... la búsqueda inalcanzable de:
+![image](https://bp2.blogger.com/_ayvorITawE4/RdcYVaSA-CI/AAAAAAAAAH8/qDu57i4f6qA/s400/codenewbie.jpg)   Por algún lado tenemos que empezar, ¿no?. Uno de los problemas principales en la actualidad a la hora de programar, es la falta de modularidad en el código. Muchos (pero muchos) programadores creen que sus clases tienen que hacer de todo. Estas clases todo (o super clases) son en realidad, El Santo Grial del programador... es decir... la búsqueda inalcanzable de:
 
 la ultima clase objeto super abstracta genérica y su jerarquía.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/Rdcah6SA-DI/AAAAAAAAAIE/ibuLQ_9qlEo/s400/character3.jpg)    
-"Imagen tomada del comic:
-[c0ders](https://www.pello.info/coders/characters.html)
+"Imagen tomada del comic: [c0ders](https://www.pello.info/coders/characters.html)
 "
 
 Y claro, en esa búsqueda se termina en una bola de código (basura) gigante. Un ejemplo visual perfecto para esto, es un juego que se asemeja mucho al problema que menciono, este juego es [Katamari Damacy](https://es.wikipedia.org/wiki/Katamari_Damacy), que consiste en rodar una bola pegajosa llamada katamari, a lo largo y ancho de distintas pantallas, recolectando todo tipo de objetos hasta que la bola se convierte en una gigantesca esfera de basura... casi lo que sucede con el código de muchos de nosotros:
@@ -10197,11 +9417,9 @@ Divergente es la palabra clave para concatenar con la idea del principio. ¿Que 
 
 En el momento en que el programador (u otra persona) cierra su mente a una mejor solución por seguir el viejo camino: ese sera el día en que la amargura se empalme en su código y pierda su habilidad para solucionar los problemas informáticos que le presenten. La belleza de su código y el arte, con la que soluciona problemas, se vera nublada con la negatividad que esa decisión tan fatídica crea en su vida. ¡Por Dios, es como una tragedia griega! y claro que lo es... Es tan trágico como la muerte del Tío Periquito:
 
-![image](https://bp2.blogger.com/_ayvorITawE4/Rd-cLaSA-HI/AAAAAAAAAJA/amy7CMINjC8/s400/TIO.JPG)    Y tan trágico como
-Monet ciego en 1923 y muriendo de cáncer pulmonar en 1926...
+![image](https://bp2.blogger.com/_ayvorITawE4/Rd-cLaSA-HI/AAAAAAAAAJA/amy7CMINjC8/s400/TIO.JPG)    Y tan trágico como Monet ciego en 1923 y muriendo de cáncer pulmonar en 1926...
 
-![image](https://bp3.blogger.com/_ayvorITawE4/Rd2TKKSA-FI/AAAAAAAAAIo/hyS-MsL0jhc/s400/800px-Claude_Monet_038.jpg)    Waterlilies (Lirios de
-Agua), 1920-26
+![image](https://bp3.blogger.com/_ayvorITawE4/Rd2TKKSA-FI/AAAAAAAAAIo/hyS-MsL0jhc/s400/800px-Claude_Monet_038.jpg)    Waterlilies (Lirios de Agua), 1920-26
 
 Es buen habito para el programador mantener su mente abierta a nuevas posibilidades y horizontes. Hacer todo lo posible para mantener su capacidad de análisis y su creatividad al máximo, en todo momento. Y esto no es solo aplicable para un programador o analista de sistemas...
 > es aplicable evidentemente,
@@ -10236,10 +9454,7 @@ Un ejemplo claro de la perdida del sentido común en el país es:
 > " href="https://www.elsalvador.com/mwedh/nota/nota_opinion.asp?idCat=2892&idArt=1035774">La
 > ley de libre circulación de vehículos en días no feriados en las playas de El
 > Salvador"
-![image](https://bp0.blogger.com/_ayvorITawE4/ReBSfqSA-II/AAAAAAAAAJM/TZsLxRsbYY8/s400/tor.jpg)    
-Me salí un poco del tema principal, pero estoy seguro que me doy a entender.
-[Noam Chomsky](https://es.wikipedia.org/wiki/Noam_Chomsky) (una de las
-personalidades más relevantes en la lingüística y en la ciencia cognitiva contemporánea) nos dice que:
+![image](https://bp0.blogger.com/_ayvorITawE4/ReBSfqSA-II/AAAAAAAAAJM/TZsLxRsbYY8/s400/tor.jpg)     Me salí un poco del tema principal, pero estoy seguro que me doy a entender. [Noam Chomsky](https://es.wikipedia.org/wiki/Noam_Chomsky) (una de las personalidades más relevantes en la lingüística y en la ciencia cognitiva contemporánea) nos dice que:
 
 > “La ciencia trata de cosas muy simples y formula
 > preguntas básicas sobre ellas. Tan pronto como la ciencia se hace más compleja, style="font-weight: bold;">ya no es capaz de responderlas.
@@ -10266,8 +9481,7 @@ post_id: blog-3515952828243908885.post-5173755952151884031
 ---
 
 ![image](https://bp0.blogger.com/_jH77WNrMVRA/R-qoq_a907I/AAAAAAAAAw0/r4Ho663evOs/s320/subversion_logo_hor-468x64.png)    
-"Logo Oficial de
-Subversion"
+"Logo Oficial de Subversion"
 
 ¿Les ha pasado alguna vez que cuando están programando se dan cuenta que las líneas de código que acaban de agregar arruinaron el sistema y desean volver a como lo tenían el día de ayer ya que en ese entonces todavía compilaba, pero ya no se acuerdan qué fue lo último que agregaron para así poder revertirlo?
 
@@ -10309,8 +9523,7 @@ post_id: blog-3515952828243908885.post-6113201256585132819
 ---
 
 ![image](https://bp2.blogger.com/_jH77WNrMVRA/R-hkl_a906I/AAAAAAAAAws/ce-WYz73qGY/s320/156713983_c264885895_o.jpg)    
-"Barquito elaborado con una
-hoja impresa de código HTML"
+"Barquito elaborado con una hoja impresa de código HTML"
 
 Hace poco terminé de desarrollar un sistema X y como programador, siempre acostumbro a dedicarme unos minutos, una vez terminada la creación, a contemplarla y sentirme orgulloso de haber sido capaz de crear algo de la nada usando mi ingenio y habilidades. Algo que puede ser de utilidad a otras personas, algo que vive (en sentido figurado), que tiene la apariencia que yo quise que tuviera y se comporta como yo quise que se comportara. Es algo así como: "Y vió Roberto que era bueno y ese fué el último día de la creación del sistema X".
 
@@ -10334,36 +9547,30 @@ post_id: blog-3515952828243908885.post-6656427961582377854
 El protector de pantallas (salva pantalla o screensaver) se creo con el único propósito de proteger los monitores con tubos de rayos catódicos (TRC):
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RgfelZ7huOI/AAAAAAAAANo/w6BC7VsPPHk/s400/pc081poporta09.jpg)    
-"Monitor
-TRC"
+"Monitor TRC"
 
 Y es que cuando estos comenzaron a ser fabricados eran muy "delicados" y si tenían una imagen durante mucho tiempo en su pantalla esta se "quemaría" (produciría una imagen fantasma) en la misma... Claro, como ahora casi todo mundo tiene un monitor LCD ...
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/RgffUp7huPI/AAAAAAAAANw/vwH3fxx2S9k/s400/monitor_tftlcd_mc.jpg)    
-"Monitor
-LCD"
+"Monitor LCD"
 
 y la calidad de los monitores de TRC ha mejorado considerablemente (al grado de que se necesitan muuuchas horas para quemar una imagen en la pantalla) , en gran medida el tan usado protector de pantalla se fue convirtiendo en un simple accesorio de motivo decorativo o de entretenimiento, usualmente muestran imágenes moviéndose o patrones y algunas veces sonidos para hacer la apariencia del escritorio mas "bonito"... bueno eso se solía decir.
 
 Los protectores de pantalla han hecho de todo... desde acuarios hasta de fogatas, simulaciones de la Matrix y muchas cosas más.
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/Rgfma57huSI/AAAAAAAAAOI/CMCkqGhR0tg/s400/Xscreensaver_xmatrix.png)    
-"Xscreensaver con
-XMatrix"
+"Xscreensaver con XMatrix"
 
 Aunque también existen usos mas útiles (y que cada día se vuelven más populares) para el tiempo que pasa tu PC sin hacer nada. Esta nueva tendencia es la de la [computación distribuida](https://es.wikipedia.org/wiki/Computaci%C3%B3n_distribuida). Algunos proyectos que usan esta tecnología son SETI@Home y Einstein@Home.
 
 Y si de verdad piensan mantener tanto tiempo encendido su monitor LCD y se topan con el [problema de tener un pixel trabado](https://srbyte.blogspot.com/2008/02/arreglar-pixeles-en-un-monitor-lcd.html), pues hay varias cosas que pueden hacer para destrabarlo y que regrese a la normalidad.
 
-Mucha gente enciende su PC y lo tiene horas encendido, incluso cuando no es necesario. A veces nos vamos a tomar un café, o estamos escribiendo algo en un papel, o salimos a pasear al perro, y nuestro PC sigue en marcha, sin realizar ninguna función realmente útil. En esos momentos, cuando el PC no tiene nada que hacer, en vez de tener instalada una estupidez como... un acuario o una fogata...
-![image](https://bp3.blogger.com/_ayvorITawE4/RgfiEZ7huQI/AAAAAAAAAN4/pWR9tW5VbDo/s400/aquarium.jpg)    ![image](https://bp0.blogger.com/_ayvorITawE4/RgfiJp7huRI/AAAAAAAAAOA/7QV9qAAq3_w/s400/fireplace-screen-saver.jpg)    
-"SerenScreen Saver y
-Fireplace Screen Saver"
+Mucha gente enciende su PC y lo tiene horas encendido, incluso cuando no es necesario. A veces nos vamos a tomar un café, o estamos escribiendo algo en un papel, o salimos a pasear al perro, y nuestro PC sigue en marcha, sin realizar ninguna función realmente útil. En esos momentos, cuando el PC no tiene nada que hacer, en vez de tener instalada una estupidez como... un acuario o una fogata... ![image](https://bp3.blogger.com/_ayvorITawE4/RgfiEZ7huQI/AAAAAAAAAN4/pWR9tW5VbDo/s400/aquarium.jpg)    ![image](https://bp0.blogger.com/_ayvorITawE4/RgfiJp7huRI/AAAAAAAAAOA/7QV9qAAq3_w/s400/fireplace-screen-saver.jpg)    
+"SerenScreen Saver y Fireplace Screen Saver"
 
 deberia mejor tener instalado un protector de pantallas que haga algo "util", como el de SETI@home, este protector esta diseñado para que al ser activado, comienze a analizar señales de radio para encontrar vida extraterrestre.
 
-![image](https://bp1.blogger.com/_ayvorITawE4/SG6NjfOghvI/AAAAAAAAA0I/_vxyP9_rWb4/s400/seti_logo.png)    
-Para conocer mas del proyecto SETI@home, pueden visitar su sitio web siguiente el vinculo:
+![image](https://bp1.blogger.com/_ayvorITawE4/SG6NjfOghvI/AAAAAAAAA0I/_vxyP9_rWb4/s400/seti_logo.png)     Para conocer mas del proyecto SETI@home, pueden visitar su sitio web siguiente el vinculo:
 
 > [ style="font-size:130%;">https://setiathome.berkeley.edu/](https://setiathome.berkeley.edu/)
 
@@ -10376,8 +9583,7 @@ La gente que desea bajar su consumo de energía eléctrica y reducir el impacto 
 Así que si estas en la búsqueda de bajar el consumo de energía eléctrica en tu casa o trabajo comienza por desactivar tu protector de pantallas, ¿se imaginan una compañía con 80 PC's encendidas en la hora de almuerzo con el protector de pantallas activado? (ooops!). O por lo menos instala algo que sea util como SETI@Home... quien sabe, tal vez tu computadora sea la que encuentre a E.T. y a su familia.
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/Rgfos57huTI/AAAAAAAAAOQ/Mik2CTTB2vM/s320/et.gif)    
-"E.T. es la creación de
-Steve Spielberg "
+"E.T. es la creación de Steve Spielberg "
 
 Ahorren energía, si no es por el planeta, por lo menos que sea por el gasto de dinero. Hasta la próxima!
 
@@ -10411,8 +9617,7 @@ Que este sea el mantra de esta semana:
 La manera para asegurarte de que este mantra se cumpla lo máximo posible es utilizando las [Pruebas de Uso](https://en.wikipedia.org/wiki/Usability_testing). En el sentido técnico una Prueba de Uso consiste en realizar una prueba de "caja negra" a tu software. Es decir, observar a las personas que van a usar el producto, REALMENTE usándolo para descubrir errores y ÁREAS de mejora.
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SbB842QJbyI/AAAAAAAAB58/nNfPj9A50LY/s320/eyetracking_corporate_site_about_us.png)    
-"Google realiza pruebas de
-uso, para conocer que áreas de una pagina son las que mas son 'visitadas' por el cursor (esto también es conocido como HeatMap)"
+"Google realiza pruebas de uso, para conocer que áreas de una pagina son las que mas son 'visitadas' por el cursor (esto también es conocido como HeatMap)"
 
 Suele ser de caja negra, porque no importa lo que hace en el fondo el sistema, sino la forma. Generalmente una prueba de uso, medirá que tan bien responden los usuarios en cuatro áreas: eficiencia, exactitud, recuerdo o familiaridad (recall), y respuesta emocional...
 - Rendimiento -- ¿Cuanto tiempo y cuantos pasos se requieren para que una persona realice una tarea básica? (Ordenar Productos, Buscar, etc).
@@ -10420,8 +9625,7 @@ Suele ser de caja negra, porque no importa lo que hace en el fondo el sistema, s
 - Recuerdo-- ¿Que tan bien se recuerda el uso del programa, después de largos periodos de no utilizarlo?
 - Respuesta Emocional -- ¿Como se siente una persona al completar una tarea? ¿Estresada, Confiada, Emocionada?
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SbB85fg5RTI/AAAAAAAAB6E/d0x_cYeYKNI/s320/usability_testing_absplit.jpg)    
-"Es necesario conocer que piensa el usuario
-final del software que usara"
+"Es necesario conocer que piensa el usuario final del software que usara"
 
 ¿Fácil no? ¿Ves a donde vamos con la implementar de una Prueba de Uso? Con estas pruebas, nos estamos asegurando que:
 
@@ -10455,8 +9659,7 @@ En el [blog de Robin Good](https://www.masternewmedia.org/es/2007/05/02/pruebas_
 
 Aquí la clave (resaltada en negritas) es no dejar que prevalezca la opinión del que grita mas, sino la mejor opción, pero para el usuario.
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SbB9Vh8ntZI/AAAAAAAAB6M/dlKMuqkiKb8/s320/steveDontMakeMeThink.jpg)    
-Steve Krug en su libro [Don't Make Me Think!](https://www.amazon.com/Think-Common-Sense-Approach-Usability/dp/0789723107), en el capitulo nueve, plantea una serie de aclaraciones sobre las Pruebas de Uso, que toda persona que este encargada de crear software debe de leer, pueden encontrar el capitulo 9 (en Ingles) de la primera edición de este genial libro [dando clic aquí.](https://sensible.com/Downloads/DMMTchapter09_for_personal_use_only.pdf)
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SbB9Vh8ntZI/AAAAAAAAB6M/dlKMuqkiKb8/s320/steveDontMakeMeThink.jpg)     Steve Krug en su libro [Don't Make Me Think!](https://www.amazon.com/Think-Common-Sense-Approach-Usability/dp/0789723107), en el capitulo nueve, plantea una serie de aclaraciones sobre las Pruebas de Uso, que toda persona que este encargada de crear software debe de leer, pueden encontrar el capitulo 9 (en Ingles) de la primera edición de este genial libro [dando clic aquí.](https://sensible.com/Downloads/DMMTchapter09_for_personal_use_only.pdf)
 
 Espero, sinceramente, que la próxima vez que estén en un proyecto de software, que se preocupen constantemente, en la opinión del usuario final, final, final (el que realmente usara tu software todos los dias, para hacer su vida mas fácil). Para que de esta forma, realmente estés produciendo software enfocado al uso o a la "usabilidad".
 
@@ -10474,8 +9677,7 @@ post_id: blog-3515952828243908885.post-8843771815144534157
 ---
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SUMGKyHtOBI/AAAAAAAAFN4/VxG3IJdaoiQ/s400/pupusasblogs08.jpg)    
-"Casi todos los asistentes.
-Algunos ya se habían ido o quedaron en la parte de atrás cubiertos por otros (Clic para agrandar)"
+"Casi todos los asistentes. Algunos ya se habían ido o quedaron en la parte de atrás cubiertos por otros (Clic para agrandar)"
 
 Mas vale tarde que nunca. El día 30 de Noviembre del 2008 los miembros del staff del Sr Byte Ramayac y Robertux asistieron a la reunión de bloggers/twitters/campuseros denominada Pupusas&Blogs. No hubieron temas de discusión ni una agenda a tratar u objetivos a lograr, simplemente nos conocimos en persona, degustamos de un plato de pupusas de arroz e hicimos chiste de las habilidades y calidad del servicio del mesero que nos atendió. A continuación tienen la lista de personas asistentes al evento. Si se nos ha escapado alguna, por favor hacérnoslo saber mediante un comentario. La lista consta de nombre, id de twitter (si es que poseen) y blog (si es que poseen):
 
@@ -10517,19 +9719,16 @@ post_id: blog-3515952828243908885.post-3318491809726672013
 
 Esta nota esta más orientada para nuestros lectores de España, como ven, ya tenemos "audiencia internacional" :)
 
-Desde la empresa [SQS](https://www.sqs.es/es/) en Bilbao, España, les presentamos [QA&TEST 2009](https://www.qatest.org/es/), una Conferencia Internacional sobre Testing y Calidad de Software que este año celebrará en el mes de octubre su octava edición. QA&TEST es la conferencia más importante sobre testing celebrada en España y la única dedicada a los sistemas embebidos (empotrados). Es una oportunidad de formación inigualable que contará con 2 tutoriales, 3 keynotes y más de 20 presentaciones de la mano de grandes expertos como [Mary Poppendieck](https://www.poppendieck.com/), o el Doctor Bruce Douglas (Jefe "Evangelista" de IBM).
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SoId2EMOMbI/AAAAAAAACIc/iSvGFTNnRow/s200/Douglas.png)    
+Desde la empresa [SQS](https://www.sqs.es/es/) en Bilbao, España, les presentamos [QA&TEST 2009](https://www.qatest.org/es/), una Conferencia Internacional sobre Testing y Calidad de Software que este año celebrará en el mes de octubre su octava edición. QA&TEST es la conferencia más importante sobre testing celebrada en España y la única dedicada a los sistemas embebidos (empotrados). Es una oportunidad de formación inigualable que contará con 2 tutoriales, 3 keynotes y más de 20 presentaciones de la mano de grandes expertos como [Mary Poppendieck](https://www.poppendieck.com/), o el Doctor Bruce Douglas (Jefe "Evangelista" de IBM). ![image](https://3.bp.blogspot.com/_ayvorITawE4/SoId2EMOMbI/AAAAAAAACIc/iSvGFTNnRow/s200/Douglas.png)    
 
-"Doctor Bruce Douglas,
-IBM"
+"Doctor Bruce Douglas, IBM"
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SoIdoYiPRZI/AAAAAAAACIM/WSSSlyamaA0/s200/m_poppendieck2.jpg)    
 "Mary Poppendieck"
 
 Esta es la nota oficial del evento:
 
-" La 8ª edición de QA&TEST reunirá en Bilbao a empresas y
-organismos de renombre internacional, como IBM, la NASA o GMV Aerospace and Defense. QA&TEST, la Conferencia Internacional sobre Testing y Calidad de Software en Sistemas Embebidos (Embedded, Empotrados), celebrará su octava edición los días 21, 22 y 23 de octubre en el [Palacio Euskalduna de Bilbao](https://www.google.com.sv/search?hl=es&client=firefox-a&rls=com.ubuntu%3Aen-US%3Aunofficial&hs=K4X&q=Euskalduna+Bilbao&btnG=Buscar&lr=&aq=f&oq=). El Programa de QA&TEST, formado por 2 tutoriales, 3 keynotes y 20 presentaciones, reunirá a expertos en testing y calidad de software conocidos en todo el mundo, como Mary Poppendieck, el Dr. Bruce Douglass, de IBM y Guillaume Brat, de la NASA.
+" La 8ª edición de QA&TEST reunirá en Bilbao a empresas y organismos de renombre internacional, como IBM, la NASA o GMV Aerospace and Defense. QA&TEST, la Conferencia Internacional sobre Testing y Calidad de Software en Sistemas Embebidos (Embedded, Empotrados), celebrará su octava edición los días 21, 22 y 23 de octubre en el [Palacio Euskalduna de Bilbao](https://www.google.com.sv/search?hl=es&client=firefox-a&rls=com.ubuntu%3Aen-US%3Aunofficial&hs=K4X&q=Euskalduna+Bilbao&btnG=Buscar&lr=&aq=f&oq=). El Programa de QA&TEST, formado por 2 tutoriales, 3 keynotes y 20 presentaciones, reunirá a expertos en testing y calidad de software conocidos en todo el mundo, como Mary Poppendieck, el Dr. Bruce Douglass, de IBM y Guillaume Brat, de la NASA.
 
 El keynote inaugural de la Conferencia correrá a cargo del Doctor Bruce Douglass, Chief Evangelist de IBM, considerado internacionalmente una figura clave en la aplicación del UML en tiempo real y sistemas embebidos. El Dr. Douglass tiene más de 30 años de experiencia en el diseño de aplicaciones en tiempo real para sistemas de seguridad crítica y ha impartido diversos cursos acerca de programación orientada a objetos y desarrollo de sistemas en tiempo real.
 
@@ -10558,8 +9757,7 @@ draft: false
 post_id: blog-3515952828243908885.post-3929799434714832811
 ---
 
-![image](https://www.bumptop.com/temp_images/logo.gif)    [BumpTop](https://bumptop.com/) es un programa, que como otros tantos han
-intentado, busca renovar la alianza: entre el aburrido y típico escritorio, y su usuario. Con BumpTop, se propone un cambio completo en la interacción el escritorio que todos conocen. Se puede interactuar con los "iconos" en el escritorio de varias formas:
+![image](https://www.bumptop.com/temp_images/logo.gif)    [BumpTop](https://bumptop.com/) es un programa, que como otros tantos han intentado, busca renovar la alianza: entre el aburrido y típico escritorio, y su usuario. Con BumpTop, se propone un cambio completo en la interacción el escritorio que todos conocen. Se puede interactuar con los "iconos" en el escritorio de varias formas:
 
 - Arreglándolos en pilas: pilas de tipos de archivos por ejemplo.
 - Tirándolos: esto es quizás, para los menos ordenados.
@@ -10567,8 +9765,7 @@ intentado, busca renovar la alianza: entre el aburrido y típico escritorio, y s
 - Cambiando Tamaño: puedes aumentar el tamaño de un archivo, lógicamente para resaltar su importancia, o encogerlo si necesitas espacio.
 - También puedes ordenar lo que exista en el escritorio en diversas formas, agrupando lo que necesitas con gestos del mouse.
 ![image](https://farm4.static.flickr.com/3122/2734506458_22bdf21865.jpg?v=0)    
-"Captura de de un escritorio con BumpTop
-funcionando."
+"Captura de de un escritorio con BumpTop funcionando."
 
 BumpTop hace un uso inteligente de la capacidad innata de las personas de interactuar con objetos de tres dimensiones (3D), añaden un poco de animaciones basadas en física, y en general, mejoran la experiencia del usuario. BumpTop fue presentado en [TED 2007](https://www.ted.com/index.php/talks/view/id/131)...
 
@@ -10576,16 +9773,14 @@ BumpTop hace un uso inteligente de la capacidad innata de las personas de intera
 
 Existen fotos en Flickr, donde muestran capturas del escritorio ["antes" y "despues" de BumpTop](https://flickr.com/groups/bumptops/). Y también una gran variedad de [videos en Youtube](https://www.youtube.com/results?search_query=bumptop&search_type=). Y por supuesto, también existe, una parodia:
 
-"Vídeo:
-Parodia de BumpTop".
+"Vídeo: Parodia de BumpTop".
 
 El viernes pasado (29 de Agosto 08) recibí mi código de invitación para el Beta de BumpTop, puedo hablar de mi experiencia personal con software, seré lo más concreto posible:
 
 Lo Feo: Es Beta (al momento de escribir este articulo, es beta 11)...
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SL1FZVbP6dI/AAAAAAAABOQ/gsYH94j36BY/s320/bumptopbeta11.jpg)    
-"BumpTop es beeeetaaaaa
-:("
+"BumpTop es beeeetaaaaa :("
 
 Lo Malo: Solo es para Winbugs.
 
@@ -10613,8 +9808,7 @@ post_id: blog-3515952828243908885.post-5373456219335214735
 
 Creative Commons, traducido literalmente como "Comunes Creativos", es una organización no gubernamental y sin fines de lucro, fundada y actualmente (marzo 2007) es presidida por [Lawrence Lessig](https://es.wikipedia.org/wiki/Lawrence_Lessig), profesor de derecho en la Universidad de Stanford (este tipo no es cualquier extraño de pelo largo) y ademas especialista en ciberderechos (Woooow!).
 
-![image](https://bp0.blogger.com/_ayvorITawE4/RfP-OMU_3WI/AAAAAAAAAKo/6y-TiYUzA68/s400/gnu-linux.jpg)    
-Creative Commons está inspirada en la licencia GPL (General Public License) de la Free Software Foundation (Pues claro!), sin embargo no es un tipo de licencia de software (libre) aunque trabaja de manera similar.
+![image](https://bp0.blogger.com/_ayvorITawE4/RfP-OMU_3WI/AAAAAAAAAKo/6y-TiYUzA68/s400/gnu-linux.jpg)     Creative Commons está inspirada en la licencia GPL (General Public License) de la Free Software Foundation (Pues claro!), sin embargo no es un tipo de licencia de software (libre) aunque trabaja de manera similar.
 
 > La idea principal es posibilitar un modelo
 > legal, que ayudado por las herramientas informáticas permita facilitar la distribución y el
@@ -10651,8 +9845,7 @@ post_id: blog-3515952828243908885.post-6943288365160740787
 Si has "escaneado" tu máquina con un antivirus, y pasaste minutos de tu vida mirando la barra de progreso y los comentarios en cada archivo, probablemente viste mas de alguna vez (y con cualquier buen antivirus) la palabra: heurística.
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/StaLNqjxc3I/AAAAAAAACMY/PGHIFcanHw8/s320/searchradarpc.jpg)    
-"Fuera interesante ver el
-progreso de escaneo de un ativirus así"
+"Fuera interesante ver el progreso de escaneo de un ativirus así"
 
 En la mayoría de antivirus, la [heurística](https://es.wikipedia.org/wiki/Heur%C3%ADstica_%28inform%C3%A1tica%29) se refiere a una técnica especifica para reconocer código malicioso ([virus](https://es.wikipedia.org/wiki/Virus_%28inform%C3%A1tica%29), [gusanos](https://es.wikipedia.org/wiki/Gusano_%28inform%C3%A1tica%29), [troyanos](https://es.wikipedia.org/wiki/Caballo_de_Troya_%28inform%C3%A1tica%29), etc.) que este (el antivirus) no posea en su base de datos por diversas razones, como que los programas maliciosos sean nuevos o poco divulgados.
 
@@ -10671,8 +9864,7 @@ Cualquiera de las reglas usadas de forma independiente pueden llevar a errores d
 Ahora bien, no todo es bueno con la heurística... si algo podemos decir de un algoritmo cualquiera, es que este se pueda ejecutar varias veces, y su resultado sea óptimo. Por irónico que parezca, un algoritmo heurístico abandona estos objetivos para obtener una buena solucion, que pudiera convertirse arbitrariamente en una mala solucion, como los famosos [falsos positivos en un antivirus](https://foros.softonic.com/seguridad/antivirus-da-falsos-posivos-47252)...
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/StaLOCESF3I/AAAAAAAACMg/hpNieJRhsrU/s320/utorrent-malware.png)    
-":@ esto es lo mas terrible
-del mundo, un falso positivo en un archivo perfectamente sano."
+":@ esto es lo mas terrible del mundo, un falso positivo en un archivo perfectamente sano."
 
 O sino, el algoritmo heurístico se ejecuta razonablemente rápido, pero no hay argumento de que esto siga sucediendo siempre. Finalmente, y con la música de Eurythmics de fondo...
 
@@ -10699,11 +9891,9 @@ Object Relational Mapping, u ORM, O/RM y O/R mapping, es una técnica empleada e
 
 Hay implementaciones comerciales y libres disponibles para crear el "mapeo" (mapping) objeto-relación, aunque algunos programadores (o mejor dicho empresas) optan (por ignorancia o espiritu de aventura... o ambas quizas) por crear sus propias herramientas ORM.
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SqB0O3gwMMI/AAAAAAAACKQ/3FSryZ57OF8/s320/fig02.jpg)    
-Las empresas siempre poseerán una base de datos normalizada, para "ahorrar espacio" (como algunos individuos administrativos lo ven). Para un programador, la tarea de leer estos datos, manipularlos y finalmente modificarlos o eliminarlos pende de un hilo, de acuerdo al grado de ignorancia a la hora de elegir a las herramientas y/o librerías de software (de ORM) empleadas para tales fines.
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SqB0O3gwMMI/AAAAAAAACKQ/3FSryZ57OF8/s320/fig02.jpg)     Las empresas siempre poseerán una base de datos normalizada, para "ahorrar espacio" (como algunos individuos administrativos lo ven). Para un programador, la tarea de leer estos datos, manipularlos y finalmente modificarlos o eliminarlos pende de un hilo, de acuerdo al grado de ignorancia a la hora de elegir a las herramientas y/o librerías de software (de ORM) empleadas para tales fines.
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SqB0PSl4TlI/AAAAAAAACKY/9B4p4sRxVYc/s320/hibernate.gif)    
-Una librería de ORM (como [Hibernate](https://es.wikipedia.org/wiki/Hibernate), [Oracle Toplink](https://en.wikipedia.org/wiki/TopLink) o [Linq](https://es.wikipedia.org/wiki/Language_Integrated_Query)) siempre, absolutamente siempre reducirá la cantidad de código, porque habrá algo que permitirá realizar el proceso de mapeo (como el IDE), y se encargara de crear las clases equivalente u homologas con las tablas en la base, además permitirá manejar diversos tipos de relaciones entre las tablas (uno a uno, uno a muchos, etc), reducirá la cantidad de defectos en esta delicada area, y todo esto, para beneficio del programador, que se concentrara más en codificar la lógica del negocio, que en hacer "INSERT", "UPDATE", "DELETE" y "SELECT" en la base. Otra razón por la que una librería ORM reduce la cantidad de código, es porque permite centralizar los procesos de búsqueda de datos en la base, liberándonos de escribir [consultas ad-hoc innecesarias o "quemadas" en el código](https://www.srbyte.com/2009/04/la-importancia-de-los-procedimientos.html). Sin mencionar que, también gestionara el pool de conexiones a la base de datos. Todo para que el programador, no se convierta en un esclavo codificando algo que ya existe, ustedes ya saben que [en una empresa el codigo es el enemigo](https://www.srbyte.com/2008/12/en-una-empresa-el-codigo-es-el-enemigo.html)... y que [de nada sirve estar reinventando](https://www.srbyte.com/2009/03/si-no-estas-usando-un-framework.html) la rueda...
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SqB0PSl4TlI/AAAAAAAACKY/9B4p4sRxVYc/s320/hibernate.gif)     Una librería de ORM (como [Hibernate](https://es.wikipedia.org/wiki/Hibernate), [Oracle Toplink](https://en.wikipedia.org/wiki/TopLink) o [Linq](https://es.wikipedia.org/wiki/Language_Integrated_Query)) siempre, absolutamente siempre reducirá la cantidad de código, porque habrá algo que permitirá realizar el proceso de mapeo (como el IDE), y se encargara de crear las clases equivalente u homologas con las tablas en la base, además permitirá manejar diversos tipos de relaciones entre las tablas (uno a uno, uno a muchos, etc), reducirá la cantidad de defectos en esta delicada area, y todo esto, para beneficio del programador, que se concentrara más en codificar la lógica del negocio, que en hacer "INSERT", "UPDATE", "DELETE" y "SELECT" en la base. Otra razón por la que una librería ORM reduce la cantidad de código, es porque permite centralizar los procesos de búsqueda de datos en la base, liberándonos de escribir [consultas ad-hoc innecesarias o "quemadas" en el código](https://www.srbyte.com/2009/04/la-importancia-de-los-procedimientos.html). Sin mencionar que, también gestionara el pool de conexiones a la base de datos. Todo para que el programador, no se convierta en un esclavo codificando algo que ya existe, ustedes ya saben que [en una empresa el codigo es el enemigo](https://www.srbyte.com/2008/12/en-una-empresa-el-codigo-es-el-enemigo.html)... y que [de nada sirve estar reinventando](https://www.srbyte.com/2009/03/si-no-estas-usando-un-framework.html) la rueda...
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SqB1g5GiTkI/AAAAAAAACKg/GRtX3evcniI/s320/coding_slave_cover.jpg)    
 
@@ -10713,8 +9903,7 @@ Queda en claro, que una librería ORM, generara el mapeo de tablas a clases de b
 
 Si estas en un proyecto de software, en el que NO te permiten emplear librerías para ORM, eso simplemente refleja la ignorancia de tus inmediatos superiores o de los encargados de tu proyecto. Si ya tienes algo que te asista en el proceso, bien por ti!, pero deberías de estar pensando en emplear herramientas que son prácticamente el estándar de la industria ([Hibernate](https://es.wikipedia.org/wiki/Hibernate)), de comprobado rendimiento ([Oracle Toplink](https://en.wikipedia.org/wiki/TopLink)) y que existen, para que nadie tenga que codificar como esclavo, algo que se puede generar en un par de clics y en no mas de "cien segundos". ORM esta, para facilitar la vida de los programadores, reducir a la mínima expresión un proceso que es terriblemente tedioso, y también, para mejorar y producir mejor software.
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SqB0OEFXKFI/AAAAAAAACKI/xG_FclchQCM/s320/bettersoftware.jpeg)    
-¿Cuantos de ustedes utilizan tecnologías ORM en su trabajo o en la Universidad para proyectos de software?
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SqB0OEFXKFI/AAAAAAAACKI/xG_FclchQCM/s320/bettersoftware.jpeg)     ¿Cuantos de ustedes utilizan tecnologías ORM en su trabajo o en la Universidad para proyectos de software?
 
 Más información sobre ORM en la [Wikipedia](https://es.wikipedia.org/wiki/Mapeo_objeto-relacional).
 
@@ -10732,14 +9921,12 @@ post_id: blog-3515952828243908885.post-5770965253038104265
 Un Cheat Sheet es una agrupación consistente de notas utilizadas para una rápida referencia. Prácticamente, es como la "copia" usada en los exámenes...
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/STanmaErzGI/AAAAAAAABxY/9T0XVqQamLI/s320/Spicker_trinkflasche.jpg)    
-"Cheating Juice Box
-^^"
+"Cheating Juice Box ^^"
 
 Claro, la "copia" como tal, es inapropiada y poco ética. Sin embargo, el acto de preparar uno de estos famosos "papeles de apoyo" u "hojas de referencia" es también una practica útil de educación, y en algunas raras ocasiones (dependiendo de la Universidad, la carrera, la materia, el docente, y miles de factores más) se le puede permitir a un estudiante usar un Cheat Sheet, que el mismo haya hecho...
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/STanmyT-pqI/AAAAAAAABxg/yOJgRfnp18o/s320/800px-Cheating.JPG)    
-"Se estudia para aprender,
-se copia para pasar... Ajá. Ja, ja."
+"Se estudia para aprender, se copia para pasar... Ajá. Ja, ja."
 
 Pero aún así, no estoy hablando de una "copia" pensada para ser utilizada en una evaluación: me estoy refiriendo un papel que contenga informacion fundamental abreviada, que sirva de catalizador para la memoria, o bien como una sencilla referencia.
 
@@ -10750,21 +9937,17 @@ Pero aún así, no estoy hablando de una "copia" pensada para ser utilizada en u
 En la informática, es común ver Cheat Sheets por doquier. Pequeñas hojas que se pueden imprimir fácilmente. Por ejemplo, hay Cheat Sheets con información sobre comandos de Twitter:
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/STarzyrtf4I/AAAAAAAABxo/WZgZ7nMTkb4/s320/tweet_sheet_big.gif)    
-"Twitter cheat sheet, via
-[@jted](https://twitter.com/jted)
+"Twitter cheat sheet, via [@jted](https://twitter.com/jted)
 "
 
-Lista de combinaciones de teclas del [Gimp](https://www.gimp.org/) (una practica muy sana definitivamente para cualquier aplicación):
-[https://docs.gimp.org/en/key-reference.html](https://docs.gimp.org/en/key-reference.html)
+Lista de combinaciones de teclas del [Gimp](https://www.gimp.org/) (una practica muy sana definitivamente para cualquier aplicación): [https://docs.gimp.org/en/key-reference.html](https://docs.gimp.org/en/key-reference.html)
 > href="https://docs.gimp.org/en/key-reference.html">https://docs.gimp.org/en/key-reference.html
-Google también tiene un Cheat Sheet "oficial", muy útil para los olvidadizos:
-[> https://www.google.com/help/cheatsheet.html](https://www.google.com/help/cheatsheet.html)
+Google también tiene un Cheat Sheet "oficial", muy útil para los olvidadizos: [> https://www.google.com/help/cheatsheet.html](https://www.google.com/help/cheatsheet.html)
 
 Y claro, siempre podemos encontrar camisas con un Cheat Sheet de comandos básicos de Linux:
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/STarz8FIw-I/AAAAAAAABxw/a4vponk-8DM/s320/regex_shirt_example.jpg)    
-"Linux Cheat Shirt, via
-[XKCD store](https://store.xkcd.com/)
+"Linux Cheat Shirt, via [XKCD store](https://store.xkcd.com/)
 "
 
 Por cierto, si solo escribo constantemente Cheat Sheet, en vez de "Hoja de referencia" es por el simple motivo de que siempre se encuentran los mejores Cheat Sheets en Ingles.
@@ -10784,38 +9967,32 @@ post_id: blog-3515952828243908885.post-4536594053437362855
 
 Un Complemento o Add-on(en ingles) son mejoras que se pueden instalar a [FireFox](https://srbyte.blogspot.com/2008/07/el-guiness-record-de-firefox-3.html). Un Complemento permite al usuario añadir o aumentar las características de [FireFox](https://srbyte.blogspot.com/2008/07/el-guiness-record-de-firefox-3.html), usar temas visuales y manejar nuevos tipos de contenido dentro del navegador.
 
-![image](https://bp0.blogger.com/_ayvorITawE4/SHVGtfOgiJI/AAAAAAAAA3U/ipKDKVlsIzk/s320/firefox-logo.png)    Un complemento
-también puede ser usado para modificar el comportamiento de las características existentes de la aplicación o añadir comportamientos completamente nuevos. Los complementos son particularmente populares con FireFox, porque cuando se comenzó el proyecto Mozilla (derivado de Netscape), los desarrolladores quisieron que el navegador fuera bastante minimalista, para reducir el numero de posibles errores e inconvenientes que surgen en el ciclo de vida del software, y de esta forma retener un alto grado de flexibilidad para permitir que los usuarios añadan las características que ellos prefieren.
+![image](https://bp0.blogger.com/_ayvorITawE4/SHVGtfOgiJI/AAAAAAAAA3U/ipKDKVlsIzk/s320/firefox-logo.png)    Un complemento también puede ser usado para modificar el comportamiento de las características existentes de la aplicación o añadir comportamientos completamente nuevos. Los complementos son particularmente populares con FireFox, porque cuando se comenzó el proyecto Mozilla (derivado de Netscape), los desarrolladores quisieron que el navegador fuera bastante minimalista, para reducir el numero de posibles errores e inconvenientes que surgen en el ciclo de vida del software, y de esta forma retener un alto grado de flexibilidad para permitir que los usuarios añadan las características que ellos prefieren.
 
 Para ver los complementos instalados (y temas y plugins...) en [Firefox 3.0](https://srbyte.blogspot.com/2008/07/el-guiness-record-de-firefox-3.html), da click al menú Herramientas y luego Complementos:
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SHVB9POgiHI/AAAAAAAAA3E/zNYo65Ek8Sw/s400/menu-tools-addons.jpg)    
-"Accesa a la ventana de
-complementos: Click al menú Herramientas -> y luego a Complementos"
+"Accesa a la ventana de complementos: Click al menú Herramientas -> y luego a Complementos"
 
 Esto abre una nueva ventana que tiene los siguientes iconos:
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/SHVCz_OgiII/AAAAAAAAA3M/iMcGgqfNMOM/s400/addonnavicons.jpg)    
-"Imágenes que usa la ventana de
-complementos"
+"Imágenes que usa la ventana de complementos"
 
 El primero, el de la Caja con una flecha verde, te muestra los complementos recomendados y te permite buscarlos también desde la misma ventana.
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SHVBzPOgiGI/AAAAAAAAA28/DmSli_5TugI/s400/addonsearch.jpg)    
-"Búsqueda de complementos y
-lista de recomendaciones, click para ver más grande"
+"Búsqueda de complementos y lista de recomendaciones, click para ver más grande"
 
 El de la pieza de rompecabezas verde lista los complementos instalados, ademas permite habilitarlos o deshabilitarlos y tambien desinstalarlos. La paleta de pintor lista los temas que tienes instalados, y tambien permite deshabilitarlos o desinstalarlos. Al dar click en el cubo azul de lego se listaran los "Plugins" que permiten ver contenido multimedia en el navegador, estos plugins pueden ser el de QuickTime por ejemplo, o de Windows Media Player, Adobe Flash, etc...
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SHVBwPOgiFI/AAAAAAAAA20/nZIuDk_vHRg/s400/addonplugins.jpg)    
-"Lista de Plugins en la
-ventana de Complementos, click para ver más grande"
+"Lista de Plugins en la ventana de Complementos, click para ver más grande"
 
 Y finalmente el icono del sello amarillo con una flecha blanca (que apunta hacia arriba, con borde, jaja) se muestra cuando hay complementos que se pueden actualizar. Ejemplos de complementos pueden ser los que añaden funciones como lector RSS de noticias, organizador de noticias, barras de herramientas, cliente FTP, lector de correos, herramientas para desarrolladores web, cliente IRC y ¡muchos más!
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/SHVBtfOgiEI/AAAAAAAAA2s/g2Iyl16ZTqQ/s400/addonpage.jpg)    
-"Sitio oficial de
-Complementos(Add-ons) para FireFox"
+"Sitio oficial de Complementos(Add-ons) para FireFox"
 
 Pueden encontrar una extensa lista de complementos que se pueden instalar a su FireFox en la pagina official de complementos de Mozilla
 
@@ -10845,11 +10022,9 @@ Bien, sabemos que un flop es una medida de rendimiento, y "peta" significa 10^15
 Lo importante de conocer este tipo de medidas, es que nos ayuda a tener un indicador del progreso de la capacidad de procesamiento en las ciencias computacionales. De manera que ahora, las supercomputadoras que logran romper la barrera de velocidad del petaflop, se encargaran de llevarnos a nuevos reinos de profundidad conocimiento y cambios muy profundos en la ciencia. Recientemente (lunes 17) un par de computadoras de IBM y Cray lograron romper la barrera que mencione, llegando a velocidades exorbitantes de 1.105 y 1.059 petaflops.
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SSjGAZ83LFI/AAAAAAAABbI/5v-ORO_XQ4g/s320/800px-Protein_folding.png)    
-"Plegamiento de
-Proteínas"
+"Plegamiento de Proteínas"
 
-"Si, si, que bueno que
-sean rápidas" - dirían algunos, pero esto no se trata solo de velocidad, se trata de una capacidad de computo que permite:
+"Si, si, que bueno que sean rápidas" - dirían algunos, pero esto no se trata solo de velocidad, se trata de una capacidad de computo que permite:
 
 - Simulaciones de fenómenos naturales altamente precisas (huracanes, terremotos, maremotos, impactos de asteroides)
 - Desdoblamiento de cadenas de ADN
@@ -10857,14 +10032,12 @@ sean rápidas" - dirían algunos, pero esto no se trata solo de velocidad, se tr
 - Simulación de explosiones nucleares
 - etc...
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SSjGAgr7o5I/AAAAAAAABbQ/QuU41fMu2jA/s320/modsim_2.gif)    
-"Simulación de fenómenos
-naturales: Huracanes"
+"Simulación de fenómenos naturales: Huracanes"
 
 Basta con leer las especificaciones de una de las supercomputadoras de las que les estoy hablando, la Oak Ridge's Jaguar: con 182,000 procesadores AMD quad-core Opterons de 2.3 gigahertz y 362 terabytes de memoria RAM (eso es 362,000 GB de memoria RAM). Es necesario aclarar que la Jaguar esta formada por una agrupación de varias computadoras con recursos compartidos, que ejecuta un "sabor" de Unix llamado: [UNICOS/lc](https://en.wikipedia.org/wiki/UNICOS).
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SSjF_p0K_PI/AAAAAAAABbA/rbSFniD3fF0/s320/jaguar1.jpg)    
-"Oak Ridge's
-Jaguar"
+"Oak Ridge's Jaguar"
 
 Así que, al tener computadoras mucho mas potentes, pues los científicos pueden modelar problemas mas complejos y - probablemente - encontrarles solución. Y es mas, algunos científicos creen que el cerebro humano tiene un poder de procesamiento de 10 petaflops... ¿parece que nos estamos acercando no?
 
@@ -10886,48 +10059,41 @@ post_id: blog-3515952828243908885.post-3961326952602142823
 Un Podcast es una serie de medios digitales, usualmente audio en formato mp3, que se distribuyen en Internet usando [la sindicación de feeds (RSS, Atom u OPML](https://www.srbyte.com/2008/03/que-es-el-rss-feed-rssatomxmlsyndicatio.html)) para reproducirlos principalmente en dispositivos portátiles y también en computadoras.
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SKmiMe_973I/AAAAAAAABFk/v2JtZuKoVdA/s320/podcast.png)    
-"El aparato que inicio
-todo."
+"El aparato que inicio todo."
 
 Muchas personas creen que el termino de "PodCast" tiene algo que ver con el iPod, y en efecto, están en lo correcto ([ver la historia del podcast aquí](https://en.wikipedia.org/wiki/History_of_podcasting)). El termino ingles "Pod" es usado como sinónimo de encapsulación de contenido (pod significa: vaina, en español), al podcast también se le llama "PodCasting". Y al autor de un podcast se le conoce como "PodCaster". Aunque los podcast fueron desarrollados para ser transferidos automáticamente a los iPod, otros dispositivos móviles comenzaron a facilitar esta tecnología para el uso de las masas, y el termino se refino para ser utilizado como la abreviación del acrónimo "Personal On Demand broadCASTING" (transmisión personal en demanda) y así dejar de lado la idea de que solo se puede usar con productos de Apple.
 
 Lo excelente de los podcast, es que permite que te suscribas a el, [como lo harías con cualquier feed](https://www.srbyte.com/2008/03/que-es-el-rss-feed-rssatomxmlsyndicatio.html). En el sentido practico, es como tener entrevistas de radio esperando a ser escuchadas, que puedes tener en tu móvil o reproductor portátil.
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SKmiMB3hjSI/AAAAAAAABFc/9W62Y9wiBFQ/s320/Podcast_CTAP_small.jpg)    
-"Usualmente te suscribes a
-un PodCast como lo haces con un Feed."
+"Usualmente te suscribes a un PodCast como lo haces con un Feed."
 
 Se recomienda mucho suscribirse a los podcast usando Google Reader, porque cuando este detecta que estas suscrito a un podcast (o mejor dicho: cuando detecta un archivo mp3 en el feed) agrega automáticamente un reproductor para escuchar ahí mismo el podcast, y añade un vinculo para descargar el archivo, como lo muestra la siguiente imagen:
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SKkIEyUfUVI/AAAAAAAABFE/d2LYYqVjKmA/s320/screencast.png)    
-"Click par ver el detalle de
-la imagen."
+"Click par ver el detalle de la imagen."
 
 Hasta cierto punto es cómodo, por que por lo menos así ya no dependen de la maquina en la que estén (o del sistema operativo) para escuchar sus podcast favoritos. Aunque también pueden suscribirse a un podcast usando un reproductor musical como [Amarok](https://www.srbyte.com/2007/03/amarok-rocks.html) o [GtkPod](https://www.gtkpod.org/).
 
 Para los amantes de Amarok, pongo un breve ejemplo para suscribirnos a un podcast. Supongamos que queremos escuchar las ultimas noticias del popular [CNET.com](https://news.cnet.com/daily-podcast/?tag=cnetfd.pdcst), para suscribirnos al podcast: posicionate sobre el vinculo de suscripción:
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SKmjO1fTFmI/AAAAAAAABFs/qvYhqZxJT04/s320/news.cnet.png)    
-"En los sitios que ofrecen
-podcast, busca el popular "icono naranja" para suscribirte."
+"En los sitios que ofrecen podcast, busca el popular "icono naranja" para suscribirte."
 
 ... luego da click derecho sobre este y selecciona la opción "Copiar vinculo" (copy link location).
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SKmjPACuGWI/AAAAAAAABF0/829EiXDXTK4/s320/copylinklocation.png)    
-"Lo importante es tener el
-vinculo del feed."
+"Lo importante es tener el vinculo del feed."
 
 En Amarok (asumo que ya lo tienes abierto), selecciona la viñeta "Listas de Reproducción", te tendría que aparecer una "carpeta" llamada Podcasts, da click derecho sobre ella y selecciona la opción "Añadir un podcast", como aparece en la imagen:
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SKmjPeYy-mI/AAAAAAAABF8/ofdrh00TeyM/s320/amarok.addpodcast.png)    
-Te aparecerá un pequeño cuadro de dialogo, en donde colocaras la dirección del vinculo (de suscripción) que habías copiado, tal y como lo muestra la imagen:
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SKmjPeYy-mI/AAAAAAAABF8/ofdrh00TeyM/s320/amarok.addpodcast.png)     Te aparecerá un pequeño cuadro de dialogo, en donde colocaras la dirección del vinculo (de suscripción) que habías copiado, tal y como lo muestra la imagen:
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SKmjPeJwjcI/AAAAAAAABGE/hzhlsEKnQT4/s320/amarok.podcasturl.png)    
 
 Si todo esta bien, Amarok comenzara a obtener la lista de podcast:
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SKmjPgO4zII/AAAAAAAABGM/rsrgkN8Pg2k/s320/amarok.podcastscnetagregado.png)    
-... y ahora todo lo que tienes que hacer es seleccionar el que desees y darle doble click para escucharlos. Por cierto, no conozco muchos Podcasters Salvadoreños, el único es [fafamonge](https://www.fafamonge.com/category/podcast) (advierto que son podcast de una hora aproximadamente). ¿Saben ustedes de otros podcasters Salvadoreños? y ¿A qué podcasts estas suscrito?
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SKmjPgO4zII/AAAAAAAABGM/rsrgkN8Pg2k/s320/amarok.podcastscnetagregado.png)     ... y ahora todo lo que tienes que hacer es seleccionar el que desees y darle doble click para escucharlos. Por cierto, no conozco muchos Podcasters Salvadoreños, el único es [fafamonge](https://www.fafamonge.com/category/podcast) (advierto que son podcast de una hora aproximadamente). ¿Saben ustedes de otros podcasters Salvadoreños? y ¿A qué podcasts estas suscrito?
 
 ---
 
@@ -10956,9 +10122,7 @@ El fractal de la figura, es la conocida Curva de Koch, si, ES una curva matemát
 
 Verdaderamente, las matemáticas son hermosas :) La principal característica de los fractales, se denomina: Self-Similarity (que vagamente podemos traducir como similitud propia), y consiste - como la misma definición del fractal menciona - en que cada fragmento o parte de la figura es una copia de la figura en total. La generación de un fractal matemático, esta basado en una ecuación que es sometida a un proceso iterativo (repetitivo). Como las iteraciones, en teoría pueden ser infinitas, si pudiéramos hacerle "zoom" a un fractal (ampliarlo constantemente) para ver en detalle su estructura, terminaríamos con algo así:
 
-![image](https://upload.wikimedia.org/wikipedia/commons/6/65/Kochsim.gif)  
-"Ampliación del detalle de
-un fractal"
+![image](https://upload.wikimedia.org/wikipedia/commons/6/65/Kochsim.gif)   "Ampliación del detalle de un fractal"
 
 Nuevamente... las matemáticas son hermosas. Otro popular fractal, es el [Mandelbrot](https://en.wikipedia.org/wiki/Mandelbrot_set), nombrado por [Benoît Mandelbrot](https://en.wikipedia.org/wiki/Beno%C3%AEt_Mandelbrot), es una compleja figura geométrica, en cuyos bordes podemos encontrar más fractales:
 
@@ -10966,9 +10130,7 @@ Nuevamente... las matemáticas son hermosas. Otro popular fractal, es el [Mandel
 
 Y justo como con un Copo de nieve de Koch, también podemos ampliar la figura y "viajar" en ella:
 
-![image](https://upload.wikimedia.org/wikipedia/en/b/ba/Mandelbrot_color_zoom.gif)  
-"Ampliación de
-un Mandelbrot"
+![image](https://upload.wikimedia.org/wikipedia/en/b/ba/Mandelbrot_color_zoom.gif)   "Ampliación de un Mandelbrot"
 
 Fractales aproximados (que no parten de formulas matemáticas exactas) se pueden encontrar con mucha frecuencia en la naturaleza. Estos objetos muestran patrones de similitud propia sobre rangos finitos. Algunos ejemplos de fractales en la naturaleza son: nubes, copos de nieves...
 
@@ -11012,8 +10174,7 @@ De manera fundamental, un Java Servlet (o solo: Servlet) es una aplicación que 
 Uno de los temas mas intrigantes, citados y curiosos de los Servlets es su aclamada mejora en el rendimiento versus losCGI. Un CGI tradicional es escrito en Perl (script CGI), C (CGI compilado), etc... y su desventaja es que para servir a cada usuario (usualmente un http request) conectado con el servidor donde se aloje el CGI, el sistema tendrá que crear un nuevo proceso de ese mismo CGI... si hay 10,000 usuarios conectados al servidor solicitando utilizar el CGI "Hola Mundo", este iniciara 10,000 procesos para servir a cada usuario.
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SVenYuEEpeI/AAAAAAAAB1I/mph7ettKGKU/s320/javaservletur2.jpg)    
-"Para la próxima, añade un
-libro de Java a la carta que haces a Santa"
+"Para la próxima, añade un libro de Java a la carta que haces a Santa"
 
 El impacto sucede con CGI que se manejan a niveles corporativos, con miles de solicitudes de usuarios por segundo (req/seg), de esa manera se sobrecarga el CPU y llena la memoria RAM a tal grado que se gasta más tiempo administrando los procesos que sirviendo los usuarios, lo que se traduce a una carga innecesaria para el servidor y que puede influir en el rendimiento del mismo.
 
@@ -11023,8 +10184,7 @@ Usualmente un servlet se une en conjunto con un JSP, en un patrón de codificaci
 
 La API para programar Servlets (Java Servlet API) es una parte "estandar" de la plataforma J2EE.
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SVek339_MMI/AAAAAAAAB1A/Vg69jkGx0-8/s320/Wave.png)    La utilidad de
-conocer que son o como funcionan los Servlets radica en que se utilizan enormemente, tanto en el ámbito empresarial y como en la red. Si estas buscando que tecnología conocer para conseguir trabajo, pues te sugerimos que comiences por aprender a utilizar Servlets y JSP, que es un requerimiento en la mayoría de empresas formales para conseguir trabajo aquí en El Salvador.
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SVek339_MMI/AAAAAAAAB1A/Vg69jkGx0-8/s320/Wave.png)    La utilidad de conocer que son o como funcionan los Servlets radica en que se utilizan enormemente, tanto en el ámbito empresarial y como en la red. Si estas buscando que tecnología conocer para conseguir trabajo, pues te sugerimos que comiences por aprender a utilizar Servlets y JSP, que es un requerimiento en la mayoría de empresas formales para conseguir trabajo aquí en El Salvador.
 
 Algunos recursos adicionales sobre los Servlets:
 
@@ -11043,15 +10203,13 @@ draft: false
 post_id: blog-3515952828243908885.post-4390008489845722822
 ---
 
-![image](https://www.blogday.org/images/badge_blue.gif)    
-¿Que es el BlogDay?BlogDay fue creado con la idea de que los bloggers (el autor de un blog) debería de tener un día dedicado a conocer otros bloggers de otros países o áreas de interés. En ese día, los bloggers recomendaran otros blogs a la gente que visitan sus blogs, haciendo una recomendación de cinco (5) blogs NUEVOS. El BlogDay se celebra anualmente el 31 de Agosto.
+![image](https://www.blogday.org/images/badge_blue.gif)     ¿Que es el BlogDay?BlogDay fue creado con la idea de que los bloggers (el autor de un blog) debería de tener un día dedicado a conocer otros bloggers de otros países o áreas de interés. En ese día, los bloggers recomendaran otros blogs a la gente que visitan sus blogs, haciendo una recomendación de cinco (5) blogs NUEVOS. El BlogDay se celebra anualmente el 31 de Agosto.
 
 De esta forma, todos los autores y lectores de los blogs, se encontraran saltando de un lugar a otro en internet, viendo nuevos y previamente desconocidos blogs.
 
 Visitar la página oficial del BlogDay en:
 
-[> https://www.blogday.org/](https://www.blogday.org/) Y
-si tienes twitter, puedes seguirlo en: @[BlogDay](https://twitter.com/blogday).
+[> https://www.blogday.org/](https://www.blogday.org/) Y si tienes twitter, puedes seguirlo en: @[BlogDay](https://twitter.com/blogday).
 
 El blog del Sr. Byte se une a esta celebración, recomendando (en unas horas) un par de nuestros blogs favoritos (que no son tan nuevos, pero no importa).
 
@@ -11069,8 +10227,7 @@ post_id: blog-3515952828243908885.post-6461637160100217726
 Si usas Internet de manera seguida, entonces habrás visto el creciente aumento de este símbolo en casi todas partes:
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/R-SCakiioOI/AAAAAAAAAmc/b0qbE5y97rA/s400/rss.jpg)    
-"Imagen: Icono común que
-representa un web feed."
+"Imagen: Icono común que representa un web feed."
 
 Es más, el aumento ha sido tan drástico que mucha gente seguramente se preguntara ¿Para que es? ¿Que significa? ¿Por que esta ahí? ¿De que me sirve? y... ¿Hey, por que no funciona bien?. Así que, para solventar toda duda, el Sr. Byte se tomara dos minutos para explicarte que utilidad tiene para ti esta tecnología.
 
@@ -11097,20 +10254,17 @@ Lo explicare de la forma más sencilla:
 ¿Y como lo uso? Fácil, busca un sitio web de tu agrado y busca el icono de Sindicación, el fiel y nuevo amigo naranja que aparece en tu barra de navegador, como este:
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/R-SBM0iioMI/AAAAAAAAAmM/myn8YMbnpb0/s400/rsswiki.jpg)    
-"Imagen: Icono de
-Sindicación en Mozilla FireFox"
+"Imagen: Icono de Sindicación en Mozilla FireFox"
 
 O en Internet Explorer, cuando hay un feed para consumir o al cual suscribirse, aparece habilitado el icono de Sindicación, así:
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/R-Ule0iioPI/AAAAAAAAAmk/O1etzXPs66M/s400/rssexplorer.jpg)    
-"Imagen: Icono de
-Sindicación en Internet Explorer 7.0"
+"Imagen: Icono de Sindicación en Internet Explorer 7.0"
 
 O en forma de icono/imagen en una pagina web, por ejemplo nosotros tenemos uno bastante llamativo que dice "Suscribete al Sr. Byte":
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/R-SBRUiioNI/AAAAAAAAAmU/isfyPfDfVLE/s400/suscribetebyte.jpg)    
-"Imagen: 'Suscribete al Sr.
-Byte'"
+"Imagen: 'Suscribete al Sr. Byte'"
 
 Luego le das click y te suscribes a ese sitio. El proceso para "consumir" un feed es por medio de una suscripción. Tambien puedes usar un programa para consumir un feed, usualmente llamados: Lector de Feeds o lector de noticias (y en ingles news reader o aggregator), estos programas utilizan el proceso de la Sindicación para obtener solo las actualizaciones necesarias de los sitios a los que te suscribes, de esta forma puedes conocer que es lo que hay de nuevo en cada uno de estos, y así, el programa Lector de Feeds, se encarga a su vez de monitorear las actualizaciones de esos sitios.
 
@@ -11134,8 +10288,7 @@ draft: false
 post_id: blog-3515952828243908885.post-1763223259919519193
 ---
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SLRejv_VgYI/AAAAAAAABJQ/gGXYit00VUM/s320/FriendFeed.png)    [FriendFeed](https://www.friendfeed.com) es un servicio de web 2.0 orientado a
-consumir feeds [(RSS, ATOM, XML, etc...)](https://www.srbyte.com/2008/03/que-es-el-rss-feed-rssatomxmlsyndicatio.html) de todo el contenido que la actividad en linea de un usuario produce. FriendFeed consume entradas de 43 servicios de Internet y lo condensa todo en un conveniente [río de información](https://www.srbyte.com/2008/08/el-rio-de-informacion-reflexion.html), lo que permite que individuos como tu y yo, que pasamos horas y horas sentados en la computadora, valorando vídeos en youtube, "amando" canciones en [last.fm](https://www.srbyte.com/2007/03/lastfm-una-revolucin-musical.html), compartiendo artículos en el Google Reader y "twitteando" como dementes, podamos consolidar todas esas actividades en un solo feed, que podemos [compartir con amigos, grupos y usar en otras redes sociales](https://www.srbyte.com/2008/05/medios-sociales-sitios-web-lo-20.html). También puedes seguir los feeds de otros amigos, comentar en las actividades que realizan e interactuar de manera general como en cualquier sitio social conocido.
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SLRejv_VgYI/AAAAAAAABJQ/gGXYit00VUM/s320/FriendFeed.png)    [FriendFeed](https://www.friendfeed.com) es un servicio de web 2.0 orientado a consumir feeds [(RSS, ATOM, XML, etc...)](https://www.srbyte.com/2008/03/que-es-el-rss-feed-rssatomxmlsyndicatio.html) de todo el contenido que la actividad en linea de un usuario produce. FriendFeed consume entradas de 43 servicios de Internet y lo condensa todo en un conveniente [río de información](https://www.srbyte.com/2008/08/el-rio-de-informacion-reflexion.html), lo que permite que individuos como tu y yo, que pasamos horas y horas sentados en la computadora, valorando vídeos en youtube, "amando" canciones en [last.fm](https://www.srbyte.com/2007/03/lastfm-una-revolucin-musical.html), compartiendo artículos en el Google Reader y "twitteando" como dementes, podamos consolidar todas esas actividades en un solo feed, que podemos [compartir con amigos, grupos y usar en otras redes sociales](https://www.srbyte.com/2008/05/medios-sociales-sitios-web-lo-20.html). También puedes seguir los feeds de otros amigos, comentar en las actividades que realizan e interactuar de manera general como en cualquier sitio social conocido.
 
 Un detalle interesante, es todos los fundadores de FriendFeed trabajaron en Google, en proyectos como Gmail y Google Maps: [Paul Buchheit](https://en.wikipedia.org/wiki/Paul_Buchheit), Jim Norris, [Sanjeev Singh](https://en.wikipedia.org/w/index.php?title=Sanjeev_Singh&action=edit&redlink=1) y [Bret Taylor](https://en.wikipedia.org/w/index.php?title=Bret_Taylor&action=edit&redlink=1). Esta es la lista de los servicios que pueden ser agregados a FriendFeed:
 
@@ -11181,8 +10334,7 @@ Un detalle interesante, es todos los fundadores de FriendFeed trabajaron en Goog
 - [YouTube](https://en.wikipedia.org/wiki/YouTube)
 - [Zooomr](https://en.wikipedia.org/wiki/Zooomr)
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SLReCPSKOCI/AAAAAAAABJI/4C94YQ4efqE/s320/ff.jpg)    
-"Captura de servicios que
-consume FriendFeed."
+"Captura de servicios que consume FriendFeed."
 
 El problema, como se imaginaran, es la privacidad, así que si tienen complejos de persecución o psicosis pues, no creo que les agrade mucho la idea de compartir toda su vida digital. Sin embargo para esas situaciones se pueden establecer perfiles privados, para su comodidad, como en Twitter.
 
@@ -11201,14 +10353,12 @@ draft: false
 post_id: blog-3515952828243908885.post-4245530027425592321
 ---
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SZ8F7kqP4CI/AAAAAAAAB5s/d7xPBdvsCY4/s320/amya_itdevpeople.jpg)    Consolidar equipos
-de desarrollo de software es como construir software: es mas fácil describir que NO hacer, que identificar los "bienes" intangibles que hacen buenos equipos de desarrollo. Al menos, ya tenemos claro que la [micro-administración](https://www.srbyte.com/2009/02/acerca-del-micromanagement.html) es uno de los riesgos mas grandes que atentan contra el adecuado funcionamiento de un equipo de desarrollo. Además de eso, DeMarco y Lister, en su libro [Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-Second/dp/0932633439) definen SIETE anti-patrones (patrones que no hay que seguir) que atentan contra los equipos de software. Así que si estas trabajando con un equipo de software, mas te vale que sepas cuales son:
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SZ8F7kqP4CI/AAAAAAAAB5s/d7xPBdvsCY4/s320/amya_itdevpeople.jpg)    Consolidar equipos de desarrollo de software es como construir software: es mas fácil describir que NO hacer, que identificar los "bienes" intangibles que hacen buenos equipos de desarrollo. Al menos, ya tenemos claro que la [micro-administración](https://www.srbyte.com/2009/02/acerca-del-micromanagement.html) es uno de los riesgos mas grandes que atentan contra el adecuado funcionamiento de un equipo de desarrollo. Además de eso, DeMarco y Lister, en su libro [Peopleware](https://www.amazon.com/Peopleware-Productive-Projects-Teams-Second/dp/0932633439) definen SIETE anti-patrones (patrones que no hay que seguir) que atentan contra los equipos de software. Así que si estas trabajando con un equipo de software, mas te vale que sepas cuales son:
 
 1. Administración Defensiva 2. Burocracia 3. Separación Física 4. Fragmentar el tiempo de las personas 5. Reducción de la calidad del producto 6. Falsos tiempos de entrega 7. Control en "Clicas" Y me permito añadir una mas: 8. Dificultades Técnicas (Tecnologías desfasadas)
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SZ728cpZZII/AAAAAAAAB5U/DdjMQ-pkkuI/s320/peopleware.jpeg)    
-"PeopleWare, otro libro que
-hay que leer..."
+"PeopleWare, otro libro que hay que leer..."
 
 Todas estos anti-patrones, promueven una actitud negativa en los individuos, y no les permiten consolidar equipos de desarrollo robustos, integrados y pro-activos, enfocados en desarrollar software y solucionar problemas juntos.
 
@@ -11231,13 +10381,11 @@ Si bien, es cierto en alguna medida. Creo firmemente que: una empresa formal, de
 Al final, todo se puede resumir en una palabra: confianza. Para los individuos y para el equipo de trabajo. Después de todo, ¿si no confías en la gente con la que trabajas (y activamente demuestras tu confianza, escuchando las sugerencias, las propuestas de mejoras, permitiendo que se equivoquen, etc) crees que deberías estar trabajando con ellos?
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SZ728SaelvI/AAAAAAAAB5c/2m7ruynAIGA/s320/trust-web_id690023_size480.jpg)    
-"La primera obligación entre un empleador y un
-empleado: Confianza"
+"La primera obligación entre un empleador y un empleado: Confianza"
 
 Se que una empresa no es un campo de juego, y existe un delicado balance entre complacer a los jefes, y a los subalternos. Pero si tratas a tus empleados como zombies, empleados zombies obtendrás. Y el software que ellos estén produciendo... estará muerto antes de que salga a producción...
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SZ8H1uMg0TI/AAAAAAAAB50/17c_u_53GJ4/s320/RecycleBinFull3.png)    
-"Aquí viene a parar el software hecho por zombies"
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SZ8H1uMg0TI/AAAAAAAAB50/17c_u_53GJ4/s320/RecycleBinFull3.png)     "Aquí viene a parar el software hecho por zombies"
 
 A veces, todo lo que se necesita, es darle lugar a las personas para desarrollar mas habilidades y conocimientos, que tengan espacio para usar su cerebro en un reto que valga la pena. Realmente, no es mucho pedir.
 
@@ -11267,17 +10415,14 @@ draft: false
 post_id: blog-3515952828243908885.post-5615465391984056102
 ---
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SNxgVZW2cRI/AAAAAAAABTc/naWakPLGdL8/s320/nasa.png)    Si, leíste bien,
-¿quieres enviar tu nombre al espacio?... entonces sigue leyendo: El sitio web "Envía tu nombre al Espacio" (Send your name to Space) permite que cualquier persona participe en un misión científica que consiste en poner su nombre en órbita por años venideros, con el fin de entender los efectos de la radiación que emite el sol, entre otras cosas... El sitio en donde puedes ingresar tu nombre es:
-[https://polls.nasa.gov/utilities/sendtospace/jsp/sendName.jsp](https://polls.nasa.gov/utilities/sendtospace/jsp/sendName.jsp)
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SNxgVZW2cRI/AAAAAAAABTc/naWakPLGdL8/s320/nasa.png)    Si, leíste bien, ¿quieres enviar tu nombre al espacio?... entonces sigue leyendo: El sitio web "Envía tu nombre al Espacio" (Send your name to Space) permite que cualquier persona participe en un misión científica que consiste en poner su nombre en órbita por años venideros, con el fin de entender los efectos de la radiación que emite el sol, entre otras cosas... El sitio en donde puedes ingresar tu nombre es: [https://polls.nasa.gov/utilities/sendtospace/jsp/sendName.jsp](https://polls.nasa.gov/utilities/sendtospace/jsp/sendName.jsp)
 
 Al ingresarlo, recibirás un certificado de participación de la NASA, y será este sera grabado en un microchip que formara parte del satélite. La fecha final para enviar tu nombre es Noviembre 1 de 2008.
 
 El nombre del satélite - y de la misión - es Glory, y la idea del mismo es medir la cantidad de partículas de polvo y smog en la atmósfera terrestre con una exactitud jamás alcanzada. Y también la radiación solar, como ya había mencionado.
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SNxg4uA0q0I/AAAAAAAABTk/qdZfI1cD2oo/s320/Glory-Comp011708_02s.jpg)    
-"Posible apariencia del
-satélite Glory"
+"Posible apariencia del satélite Glory"
 
 Glory esta programado para ser lanzado en Junio 2009, desde la la base aérea Vandenberg en California, EUA. Glory también será "miembro" de una serie de satélites llamados "A-Train" que orbitarán la tierra. Estos satélites, se seguirán en la órbita con unos pocos minutos de diferencia cada día.... o al menos eso esperan, recorriendo la tierra cada 100 minutos aproximadamente.
 
@@ -11288,8 +10433,7 @@ Si desean saber más detalles sobre la misión Glory puedes visitar:
 Esta idea publicitaria NASA, particularmente, porque no gozan de mucha popularidad hoy en día. Al principio, sinceramente, pensé que alguien estaba armando asombrosa estrategia para crear una base de datos gigante para enviar SPAM... y aún tengo ese leve temor, pero realmente no hay nada de que preocuparse, yo soy el paranoico... je je (risa nerviosa).
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SNxlskapcRI/AAAAAAAABTs/bgbpLrUEtyc/s320/srbyteenelespacio.png)    
-"El Sr. Byte se va para el
-espacio :D"
+"El Sr. Byte se va para el espacio :D"
 
 Espero que todos nuestros lectores nos acompañen participando en esta partícula oportunidad ¡Saludos!
 
@@ -11338,28 +10482,22 @@ post_id: blog-3515952828243908885.post-8395457015994463954
 el árbol navideño hecho con paneles solares, hay otros igual o más raros que ese. Cada vez se va perdiendo más el tradicionalismo, mezclándose con el modernismo, ideas raras, imaginación, demasiado tiempo libre y quizá algo de ganas de salir de lo común. A continuación la lista de imágenes de estos árboles, con su respectivo comment:
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SVGy4mZnM4I/AAAAAAAAFmE/fDdSkGrMUvQ/s400/solar+energy+xmas+tree.jpg)    
-"Arbol de navidad hecho con
-paneles solares, para ahorrar energia"
+"Arbol de navidad hecho con paneles solares, para ahorrar energia"
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SVGzSwKvjQI/AAAAAAAAFmM/6K7z86UMH20/s400/books+tree.jpg)    
-"Para los que no quieren
-gastar en un árbol, tienen demasiados libros y la librera adecuada"
+"Para los que no quieren gastar en un árbol, tienen demasiados libros y la librera adecuada"
 
 ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SVGz4LifuDI/AAAAAAAAFmU/CZE6dbohfzY/s400/math+tree.jpg)    
-"Arbol navideño al mejor
-estilo matemático. Quien no disfrutaría recibiéndolo mañana en su bandeja de entrada? (no respondan)"
+"Arbol navideño al mejor estilo matemático. Quien no disfrutaría recibiéndolo mañana en su bandeja de entrada? (no respondan)"
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SVG0bJZB6uI/AAAAAAAAFmc/Xtu_SoYIMVU/s400/tree+projector.jpeg)    
-"Así como invocaban a
-Batman, tú puedes invocar a tu arbol navideño y proyectarlo en la pared"
+"Así como invocaban a Batman, tú puedes invocar a tu arbol navideño y proyectarlo en la pared"
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SVG1gi1OJyI/AAAAAAAAFmk/3IFsT1a4O5U/s400/lego+tree.jpg)    
-"No conozco nada que no se
-pueda fabricar con piezas de lego, inclusive árboles de navidad"
+"No conozco nada que no se pueda fabricar con piezas de lego, inclusive árboles de navidad"
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SVG2yTGJjZI/AAAAAAAAFms/1yVeVaTxSlw/s400/pac-man-tree.jpg)    
-"Nos ayudas a adornar el
-árbol? - no. Estoy jugando pacman. - OK haslo en el árbol :D"
+"Nos ayudas a adornar el árbol? - no. Estoy jugando pacman. - OK haslo en el árbol :D"
 
 En tu casa ponen árbol de navidad? ayudas tú a adornarlo? como lo haces?
 
@@ -11378,8 +10516,7 @@ post_id: blog-3515952828243908885.post-314871073493139665
 
 Recordemos un poco sobre el acalorado tema de [DRM o Digital Right Managment](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_derechos_digitales) que esta tan de moda en estos días y amenaza la libertad que maneja los usuarios de computadoras personales.
 
-![image](https://bp3.blogger.com/_ayvorITawE4/RerQG_lE_AI/AAAAAAAAAKI/FWvgHQtkVZc/s400/down-with-drm.jpg)    ¿Que es
-DRM? DRM es la nueva medida para proveer protección al contenido multimedia al que el usuario tiene acceso. Existen diferentes mecanismos de DRM, diseñados por distintas empresas, pero en general todos tienen en común algunas características:
+![image](https://bp3.blogger.com/_ayvorITawE4/RerQG_lE_AI/AAAAAAAAAKI/FWvgHQtkVZc/s400/down-with-drm.jpg)    ¿Que es DRM? DRM es la nueva medida para proveer protección al contenido multimedia al que el usuario tiene acceso. Existen diferentes mecanismos de DRM, diseñados por distintas empresas, pero en general todos tienen en común algunas características:
 - detectan quién accede a cada obra, cuándo y bajo qué condiciones, y reportan esta información al proveedor de la obra
 - autorizan o deniegan de manera inapelable el acceso a la obra, de acuerdo a condiciones que pueden ser cambiadas unilateralmente por el proveedor de la obra;
 - cuando autorizan el acceso, lo hacen bajo condiciones restrictivas que son fijadas unilateralmente por el proveedor de la obra, independientemente de los derechos que la ley otorgue al autor o al público.
@@ -11391,8 +10528,7 @@ Los principales precursores de DRM son las cuatro compañías disqueras mas gran
 
 ¿Qué significa esto para nuestro futuro?...No uso justo, no compra y reventa, no compartir, no respaldar, no intercambiar, no mezclas, no privacidad, no bienes comunes, no control sobre nuestras computadoras. Claro que ataca problemas como la piratería (y la frena muuuucho, lo acepto) pero su implementación es en buen Salvadoreño, como una "patada al pecho".
 
-![image](https://bp3.blogger.com/_ayvorITawE4/RerQd_lE_BI/AAAAAAAAAKQ/kiIAI3r8RAc/s400/drm-is-killing-music.jpg)    
-Cuando damos a otros permiso de controlar nuestras computadoras y de monitorear nuestras acciones: invitamos una vigilancia más profunda y personal a lo que vemos, escuchamos y leemos... ¿debemos o no estar alarmados?.
+![image](https://bp3.blogger.com/_ayvorITawE4/RerQd_lE_BI/AAAAAAAAAKQ/kiIAI3r8RAc/s400/drm-is-killing-music.jpg)     Cuando damos a otros permiso de controlar nuestras computadoras y de monitorear nuestras acciones: invitamos una vigilancia más profunda y personal a lo que vemos, escuchamos y leemos... ¿debemos o no estar alarmados?.
 
 ¿La solución para esta iniciativa?...
 
@@ -11407,21 +10543,17 @@ draft: false
 post_id: blog-3515952828243908885.post-184478229985336110
 ---
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SSIxbk8W4mI/AAAAAAAABaQ/U5aZvuQIltI/s320/dpan_logo.jpg)    Esta mañana,
-leyendo entre la lista interminable lista de feeds, tuve la agradable sorpresa, de encontrarme con una corta noticia sobre una organización llamada [Deaf Performing Artists Network o D-PAN](https://www.d-pan.com/index.html) (Red de Artistas Sordos). Esta organización se encarga de crear medios digitales (videos) para servir (entretener) a las audiencias sordas, mediante el uso de el [ASL (American Sign Lenguage)](https://en.wikipedia.org/wiki/American_Sign_Language).
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SSIxbk8W4mI/AAAAAAAABaQ/U5aZvuQIltI/s320/dpan_logo.jpg)    Esta mañana, leyendo entre la lista interminable lista de feeds, tuve la agradable sorpresa, de encontrarme con una corta noticia sobre una organización llamada [Deaf Performing Artists Network o D-PAN](https://www.d-pan.com/index.html) (Red de Artistas Sordos). Esta organización se encarga de crear medios digitales (videos) para servir (entretener) a las audiencias sordas, mediante el uso de el [ASL (American Sign Lenguage)](https://en.wikipedia.org/wiki/American_Sign_Language).
 
 El ultimo video que esta organización ha realizado es "Beautiful" de Christina Aguilera.
 
 El [video original de "Beautiful"](https://ca.youtube.com/watch?v=KNthqC2fsVw), en lo personal, no me causo ningún impacto... hasta que vi la versión "visualmente aumentada" de D-PAN. El video que les compartimos es un ejemplo perfecto de como combinar música y letra para presentar un mensaje muchísimo mas poderoso del que muchos estamos acostumbrados. El lenguaje corporal de los artistas de D-PAN crea un sentimiento empatía con el espectador, y a esto añadimos los efectos visuales, que si bien son sencillos no dejan de entretener y son acordes con el sentimiento presentado en las diversas escenas del video, termina creando una pieza mucho mejor que el video original:
 
-"Beautiful - interpretado
-por los artistas de D-PAN" Otro video que me gusto es la version de D-PAN de "Where'd You Go" de Fort Minor:
+"Beautiful - interpretado por los artistas de D-PAN" Otro video que me gusto es la version de D-PAN de "Where'd You Go" de Fort Minor:
 
-"Where'd You GO -
-interpretado por los artistas de D-PAN" Se nota la diferencia, "Where'd You Go" fue uno de los primeros videos que D-PAN realizo hace más de dos años. Y aun asi, no deja de causar una agradable impresion y de "hacer click" con el que lo ve.
+"Where'd You GO - interpretado por los artistas de D-PAN" Se nota la diferencia, "Where'd You Go" fue uno de los primeros videos que D-PAN realizo hace más de dos años. Y aun asi, no deja de causar una agradable impresion y de "hacer click" con el que lo ve.
 
-Sin lugar a dudas, esta es una muestra de como utilizar bien tecnología para: presentar, mostrar, transmitir ideas y conectar con los individuos. Definitivamente D-PAN nos enseñan lo que una muy noble causa puede hacer, y además da también una verdadera cátedra de "multimedia". Para más información sobre D-PAN, visita el sitio oficial:
-[https://www.d-pan.com/index.html](https://www.d-pan.com/index.html)
+Sin lugar a dudas, esta es una muestra de como utilizar bien tecnología para: presentar, mostrar, transmitir ideas y conectar con los individuos. Definitivamente D-PAN nos enseñan lo que una muy noble causa puede hacer, y además da también una verdadera cátedra de "multimedia". Para más información sobre D-PAN, visita el sitio oficial: [https://www.d-pan.com/index.html](https://www.d-pan.com/index.html)
 > style="font-size:130%;"> href="https://www.d-pan.com/index.html">https://www.d-pan.com
 ¿Crees que en El Salvador, pudiéramos producir material de esta calidad?
 
@@ -11442,8 +10574,7 @@ La Real Academia de la Lengua Española define el estilo en la redacción como "
 
 ![image](https://2.bp.blogspot.com/_JbB9KsZ238w/SZYvPkKv-PI/AAAAAAAAAT0/4-JCGbjyDpc/s320/pluma.bmp)  
 
-"El estilo es el ropaje del pensamiento; y un pensamiento bien
-vestido, como un hombre bien vestido, se presenta mejor"-- Conde de Chesterfield.
+"El estilo es el ropaje del pensamiento; y un pensamiento bien vestido, como un hombre bien vestido, se presenta mejor"-- Conde de Chesterfield.
 
 Cabe destacar que estilo no es lo mismo que género. El primero tiene que ver más con la estructura; mientras que el segundo hace referencia a la forma y el contenido. Aquí radica la importacia de que el autor tenga muy bien definido su estilo para poder destinguirse y distinguir qué clase de estilo ejerce en un género determinado.
 
@@ -11479,8 +10610,7 @@ draft: false
 post_id: blog-3515952828243908885.post-2477388422239409630
 ---
 
-![image](https://bp1.blogger.com/_ayvorITawE4/R87T-ImBXYI/AAAAAAAAAlw/c09o5W6-EpU/s200/vista-logo-magnified.jpg)    Para todos ustedes
-que lamentablemente han usado Windows Vista y Windows XP, se habrán percatado que el rendimiento al momento de copiar archivos en Windows Vista es notablemente peor que en Windows XP. Eso y la horrible tardanza a la hora de actualizar Vista fue una de las cosas que mas note cuando tuve que usarlo. Pero la ironía es que el algoritmo de copia de archivos de Vista es mejor y rinde muchos mas que el del XP...
+![image](https://bp1.blogger.com/_ayvorITawE4/R87T-ImBXYI/AAAAAAAAAlw/c09o5W6-EpU/s200/vista-logo-magnified.jpg)    Para todos ustedes que lamentablemente han usado Windows Vista y Windows XP, se habrán percatado que el rendimiento al momento de copiar archivos en Windows Vista es notablemente peor que en Windows XP. Eso y la horrible tardanza a la hora de actualizar Vista fue una de las cosas que mas note cuando tuve que usarlo. Pero la ironía es que el algoritmo de copia de archivos de Vista es mejor y rinde muchos mas que el del XP...
 
 > Entonces, ¿Por qué se siente taaaaan
 > lennnnnntoooooooooooo?
@@ -11495,8 +10625,7 @@ Extracto de Mark's Blog, el Sr. Byte traduce:
 Mark puntualiza: la copia de un archivo no es tan fácil como parece al principio. Como con muchas cosas que suceden en la vida - y aquí nos ponemos filosóficos -, la percepción es la realidad: si los usuarios ven que la copia de un archivo es lenta, entonces es lenta. Y en un mundo, en donde "jamas nunca" (o al menos sin [peyote](https://en.wikipedia.org/wiki/Peyote)) se pueden tocar los programas, el usuario final depende de su visión para determinar si algo es o no es más rápido en su PC. A pesar de todas las mejoras en el algoritmo, a pesar de los resultados de copia superiores, el rendimiento de copia de Vista es peor que en XP. ¿Y como ven los usuarios que es lenta o rápida la copia de un archivo? pues mediante la interfaz, osea, la sencilla usual y sobre valorada: Barra de Progreso.
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/R87PZomBXXI/AAAAAAAAAlo/tDtcJVgbxgc/s400/progress_bar.gif)    
-"Imagen: Diversas
-apariencias de barras de progreso."
+"Imagen: Diversas apariencias de barras de progreso."
 
 Ojo, aquí les va un tipo sobre un factor humano secreto, que se omite en el desarrollo de software: El rendimiento percibido es mas importante que el rendimiento actual. ¿Ya se imaginan por donde vamos, verdad? Los elaborados algoritmos de copia no necesariamente ayudan a construir barras de progreso mas rápidos. Pero entender como funciona el cerebro de tus usuarios definitivamente si lo hará, como lo ilustra el articulo [Rethinking the Progress Bar](https://chrisharrison.net/projects/progressbars/ProgBarHarrison.pdf) (Reinventando la barra de progreso):
 
@@ -11509,8 +10638,7 @@ Extracto de [Rethinking the Progress Bar](https://chrisharrison.net/projects/pro
 > para diseñar una barra de progreso que aparente ser mas rápida, aunque la duración sea la
 > misma."
 ![image](https://bp0.blogger.com/_ayvorITawE4/R87OM4mBXWI/AAAAAAAAAlg/vtCgkIFVNiA/s400/progress-function-graph.png)    
-"Gráfico de uso de 8
-comportamientos de una barra de progreso y la reacción del usuario, con respecto a cada una"
+"Gráfico de uso de 8 comportamientos de una barra de progreso y la reacción del usuario, con respecto a cada una"
 
 Aunque todas las barras de progreso del estudio completaban su tarea en el mismo periodo de tiempo, dos características hicieron que los usuarios pensaran que el proceso era mas rápido, ¡aunque en realidad no lo era! :
 
@@ -11533,8 +10661,7 @@ post_id: blog-3515952828243908885.post-5085654374222393901
 ---
 
 ![image](https://bp1.blogger.com/_jH77WNrMVRA/R-q1yPa908I/AAAAAAAAAw8/w8OgPWy2XVg/s320/tortoisesvn_logo_hor468x64.PNG)    
-"Logo Oficial de
-TortoiseSVN"
+"Logo Oficial de TortoiseSVN"
 
 Como montar un servidor de Subversion requiere algo de información sobre servidores y requiere tener acceso a uno también, es mejor utilizar un hosting gratuito como [Sourceforge](https://sourceforge.net/) o [Google Code](https://code.google.com/hosting/). Les recomiendo Google Code por su simplicidad y facilidad de uso. Luego de esto, descargan el cliente adecuado para su sistema operativo, cabe mencionar que Subversion ni sus clientes no están sujetos a un lenguaje de programación en específico. Mas aún, además de código fuente, es posible almacenar en el repositorio archivos de cualquier tipo, tomando en cuenta que los que mejor se administran son los archivos derivados del texto plano, como lo son los archivos de código fuente debido a su facilidad y universalidad de edición y manipulación.
 
@@ -11571,11 +10698,9 @@ Eso si, y duela a quien le duela, y aunque no sea justa la comparación, desplaz
 
 Algo que me llamo la atención, y mucho, es que cuando cuando se activa, selecciona o toca un elemento en el teléfono, este te da una ligera vibración de "feedback", es útil, pero la intensidad no es personalizable. Se puede escribir sobre el aparato (con el stylus), esta característica si se puede calibrar y personalizar en alto grado. Así como también, se puede personalizar el tamaño de la letra (pequeña, normal y grande), el lenguaje, la forma de los menu (lista, cuadricula), intensidad de la luz de la pantalla, duración de la luz de la pantalla, y mil cosas más.
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/Siwkq2gkVlI/AAAAAAAACAo/nh4GG5hepc8/s320/frente.jpg)    
-La pantalla "home" se puede personalizar para agregar contactos favoritos, cambiar el fondo, y demás bondades. El teléfono trae teclado full QWERTY en grande o en pequeño (el pequeño se puede mover de lugar), así como el típico teclado de teléfono celular. Quiero recalcar que el teclado QWERTY sera lo suficientemente grande para la mayoría de usuarios, ya que ocupa toda la pantalla del teléfono, hay un teclado aparte para números y símbolos, y se puede cambiar entre alfabetos de otros lenguajes con el toque de un botón. Existe una tecla shift, barra espaciadora, borrar y enter. Y te puedes desplazar entre el texto que escribes usando el stylus o los dedos, tal y como si este (tus dedos) fueran teclas cursoras o el puntero del mouse.
+![image](https://2.bp.blogspot.com/_ayvorITawE4/Siwkq2gkVlI/AAAAAAAACAo/nh4GG5hepc8/s320/frente.jpg)     La pantalla "home" se puede personalizar para agregar contactos favoritos, cambiar el fondo, y demás bondades. El teléfono trae teclado full QWERTY en grande o en pequeño (el pequeño se puede mover de lugar), así como el típico teclado de teléfono celular. Quiero recalcar que el teclado QWERTY sera lo suficientemente grande para la mayoría de usuarios, ya que ocupa toda la pantalla del teléfono, hay un teclado aparte para números y símbolos, y se puede cambiar entre alfabetos de otros lenguajes con el toque de un botón. Existe una tecla shift, barra espaciadora, borrar y enter. Y te puedes desplazar entre el texto que escribes usando el stylus o los dedos, tal y como si este (tus dedos) fueran teclas cursoras o el puntero del mouse.
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SiwkrEznJAI/AAAAAAAACA4/kmdyEXpexGw/s320/teclado.jpg)    
-Debajo de la pantalla, existen tres controles físicos: Talk, End y Menu. Al costado derecho del 5800 esta el control de volumen, el switch para bloquear la pantalla y el botón para tomar fotos; en el costado izquierdo existen dos ranuras de FÁCIL ACCESO para tarjetas SIM y microSD; en el tope, esta el puerto micro USB, un conector de audífonos (3.5 mm) y el puerto para el cargador.
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SiwkrEznJAI/AAAAAAAACA4/kmdyEXpexGw/s320/teclado.jpg)     Debajo de la pantalla, existen tres controles físicos: Talk, End y Menu. Al costado derecho del 5800 esta el control de volumen, el switch para bloquear la pantalla y el botón para tomar fotos; en el costado izquierdo existen dos ranuras de FÁCIL ACCESO para tarjetas SIM y microSD; en el tope, esta el puerto micro USB, un conector de audífonos (3.5 mm) y el puerto para el cargador.
 
 El 5800 viene con dos lentes de cámara (así es, DOS). El principal, es un lente de 3.2 MegaPixeles ubicado atrás del móvil, justo a la par del flash, mientras que el segundo lente (VGA) esta ubicado justo arriba de la pantalla (es para sacar esas infames fotos personales que iran a parar a Hi5, Facebook y MySpace)...
 
@@ -11586,14 +10711,10 @@ Características: La informacion que se puede ingresar para cada contacto agenda
 Otras características esenciales incluyen modo vibrador, mensajes de texto y multimedia (con la capacidad de borrar múltiples mensajes de una vez), calendario, calculadora, alarma, reloj mundial, block de notas, convertidor de unidades, grabación de voz y parlantes. También trae [Bluethooth](https://en.wikipedia.org/wiki/Bluetooth) con un perfil "stereo", manejador de archivos y aplicaciones, comandos de voz, sincronización de musica y fotos, mensajería instantánea, el 5800 se puede usar como disco duro externo. Lo mejor de todo es el Wi-Fi integrado. Además, tiene un navegador web excelente, y también posee soporte GPS con acceso a "[Nokia Maps](https://www.google.com/search?q=Nokia+Maps)
 ".
 
-La apariencia del reproductor de musica del 5800, es bastante sencillo, nada extravagante, lo cual tiene perfecto sentido para un SmartPhone. Las opciones de sonido que este trae, con amplias sinceramente. Y entre las opciones mas interesantes, esta el uso de listas de reproducción, modo "aeroplano", aleatorio y repetir; además el 5800 soporta radio FM y... suscripción a [podcast](https://www.srbyte.com/2008/08/qu-es-un-podcast-y-como-escuchar.html)!. El proceso para añadir musica es sencillo, los usuarios de Windows pueden usar Windows Media Player si no quieren instalar [Nokia Music Store](https://musicstore.nokia.com/), y los usuarios de Linux, es tan simple como copiar musica de una carpeta a otra (el 5800 es detectado como dispositivo de almacenamiento masivo en Debian 5 y Ubuntu 8.04 ó superior). Para comprar musica, habrá que ver si Nokia abrirá la Nokia Music Store para la región.
-![image](https://3.bp.blogspot.com/_ayvorITawE4/Siwkq9a9BVI/AAAAAAAACAw/mwWVACrNW5c/s320/nowplaying.jpg)    
-El 5800 tiene un excelente navegador HTML. La apariencia es sencilla pero directa, y aunque no es claro lo que algunos botones hacen la primera vez que se usa, luego de 5 minutos es seguro que ya están navegando por la red (la necesidad hace al artista usuario). Me gustaron los menus y submenus del navegador, nuevamente aqui es mejor usar el stylus y no el dedo. Se puede buscar palabras en una pagina, ver fotografías, vídeos de youtube, añadir favoritos, abrir múltiples paginas (o navegadores), y suscribirte a noticias RSS.
+La apariencia del reproductor de musica del 5800, es bastante sencillo, nada extravagante, lo cual tiene perfecto sentido para un SmartPhone. Las opciones de sonido que este trae, con amplias sinceramente. Y entre las opciones mas interesantes, esta el uso de listas de reproducción, modo "aeroplano", aleatorio y repetir; además el 5800 soporta radio FM y... suscripción a [podcast](https://www.srbyte.com/2008/08/qu-es-un-podcast-y-como-escuchar.html)!. El proceso para añadir musica es sencillo, los usuarios de Windows pueden usar Windows Media Player si no quieren instalar [Nokia Music Store](https://musicstore.nokia.com/), y los usuarios de Linux, es tan simple como copiar musica de una carpeta a otra (el 5800 es detectado como dispositivo de almacenamiento masivo en Debian 5 y Ubuntu 8.04 ó superior). Para comprar musica, habrá que ver si Nokia abrirá la Nokia Music Store para la región. ![image](https://3.bp.blogspot.com/_ayvorITawE4/Siwkq9a9BVI/AAAAAAAACAw/mwWVACrNW5c/s320/nowplaying.jpg)     El 5800 tiene un excelente navegador HTML. La apariencia es sencilla pero directa, y aunque no es claro lo que algunos botones hacen la primera vez que se usa, luego de 5 minutos es seguro que ya están navegando por la red (la necesidad hace al artista usuario). Me gustaron los menus y submenus del navegador, nuevamente aqui es mejor usar el stylus y no el dedo. Se puede buscar palabras en una pagina, ver fotografías, vídeos de youtube, añadir favoritos, abrir múltiples paginas (o navegadores), y suscribirte a noticias RSS.
 
 La cámara del 5800, ofrece un lente "[Carl Zeiss](https://en.wikipedia.org/wiki/Carl_Zeiss)
-" que captura imágenes en tres resoluciones. Y tiene muchas opciones, que hasta explican el tamaño máximo de impresión para cada resolución de la imagen capturada. La cámara no tiene nada que envidiarle al nadie... y también puede capturar vídeo en cinco modo. Y hasta se puede usar el flash como luz constante, y se puede cancelar el sonido. La calidad de las fotografías es buena, los se ven "correctos" y el ruido en la imagen es poco. Y lo mismo puedo decir de la calidad del video. ¿Recuerdan el conector del telefono a TV que mencione?, con el podemos mostrar los videos del teléfono directamente en la TV de un amigo, mostrar fotografías o... navegar en grande. El espacio que ofrece el 5800 es bastante sano: 81 MB de memoria interna, y 8 GB de espacio en la microSD.
-![image](https://1.bp.blogspot.com/_ayvorITawE4/Siwkqv9A5zI/AAAAAAAACAg/-A--amER-EU/s320/atras.jpg)    Rendimiento:
-...de esto hablo en la tercera entrega, tengo unas dudas técnicas y necesito resolverlas, pero más que todo es orientado a la duración de la batería. Por lo demas, el aparatito se comporta de lo mejor, aun bajo estrés.
+" que captura imágenes en tres resoluciones. Y tiene muchas opciones, que hasta explican el tamaño máximo de impresión para cada resolución de la imagen capturada. La cámara no tiene nada que envidiarle al nadie... y también puede capturar vídeo en cinco modo. Y hasta se puede usar el flash como luz constante, y se puede cancelar el sonido. La calidad de las fotografías es buena, los se ven "correctos" y el ruido en la imagen es poco. Y lo mismo puedo decir de la calidad del video. ¿Recuerdan el conector del telefono a TV que mencione?, con el podemos mostrar los videos del teléfono directamente en la TV de un amigo, mostrar fotografías o... navegar en grande. El espacio que ofrece el 5800 es bastante sano: 81 MB de memoria interna, y 8 GB de espacio en la microSD. ![image](https://1.bp.blogspot.com/_ayvorITawE4/Siwkqv9A5zI/AAAAAAAACAg/-A--amER-EU/s320/atras.jpg)    Rendimiento: ...de esto hablo en la tercera entrega, tengo unas dudas técnicas y necesito resolverlas, pero más que todo es orientado a la duración de la batería. Por lo demas, el aparatito se comporta de lo mejor, aun bajo estrés.
 
 Finalmente: Agradecer al equipo de [Riot](https://www.riot.com.br/) ([@Valeria](https://twitter.com/ValeriaMoraes) y [@Luciana](https://twitter.com/lureis)), a [@SauloPassos](https://twitter.com/saulopassos) (Social Media Manager de Nokia Latinoamérica), Rodolfo Forster (Ingeniero de Ventas de Nokia Latinoamérica) y el staff que lo acompañaba por tomarnos en cuenta para realizar este review (del que aun debemos dos entregas más).
 
@@ -11612,8 +10733,7 @@ post_id: blog-3515952828243908885.post-9106931158752504922
 
 Encontré este divertido vídeo de Ruby on Rails, así que lo pongo aquí para recordar que tengo que hablar de Ruby más adelante. Fijense bien en el logotipo de los juguetes de los niños... parecen logotipos de aplicaciones... conocidas... ja ja. Espero que les guste:
 
-[https://www.youtube.com/v/H868NSM2yAg](https://www.youtube.com/v/H868NSM2yAg) [https://www.youtube.com/v/H868NSM2yAg](https://www.youtube.com/v/H868NSM2yAg) [https://www.youtube.com/v/H868NSM2yAg](https://www.youtube.com/v/H868NSM2yAg) [https://www.youtube.com/v/H868NSM2yAg](https://www.youtube.com/v/H868NSM2yAg)
-"Vídeo Ruby on
+[https://www.youtube.com/v/H868NSM2yAg](https://www.youtube.com/v/H868NSM2yAg) [https://www.youtube.com/v/H868NSM2yAg](https://www.youtube.com/v/H868NSM2yAg) [https://www.youtube.com/v/H868NSM2yAg](https://www.youtube.com/v/H868NSM2yAg) [https://www.youtube.com/v/H868NSM2yAg](https://www.youtube.com/v/H868NSM2yAg) "Vídeo Ruby on
 
 ---
 
@@ -11632,8 +10752,7 @@ Este formato se impuso a su competidor (es el preferido por el momento), el HD D
 
 El disco Blu-Ray hace uso de un rayo láser de color azul con una longitud de onda corta de 405 nanómetros, a diferencia del DVD, el cual usa un láser de color rojo de 650 nanómetros. Esto, junto con otros avances tecnológicos, permite almacenar sustancialmente más información que el DVD en un disco de las mismas dimensiones y aspecto externo. Blu-ray obtiene su nombre del color azul del rayo láser ("blue ray" en español seria una forma de decir "rayo azul"). La letra "e" de la palabra original "blue" fue eliminada debido a que, en algunos países, no se puede registrar para un nombre comercial una palabra común, simple sentido común.
 
-"Video: Prueba de resistencia discos
-Blu-Ray" Blu-ray fue desarrollado en conjunto por un grupo de compañías tecnológicas llamado Blu-ray Disc Association (BDA), liderado por Sony y Philips y formada por las siguientes empresas (por orden alfabético): 20th Century Fox, Apple Inc., BenQ, Buena Vista Home Entertainment, Dell Inc., Hewlett-Packard Company, Hitachi, Ltd., LG Electronics Inc., Matsushita Electric Industrial Co. Ltd. (Panasonic), Mitsubishi Electric Corporation, Pioneer Corporation, Samsung Electronics Co. Ltd., Sharp Corporation, TDK Corporation, Thomson y Warner Home Video. .
+"Video: Prueba de resistencia discos Blu-Ray" Blu-ray fue desarrollado en conjunto por un grupo de compañías tecnológicas llamado Blu-ray Disc Association (BDA), liderado por Sony y Philips y formada por las siguientes empresas (por orden alfabético): 20th Century Fox, Apple Inc., BenQ, Buena Vista Home Entertainment, Dell Inc., Hewlett-Packard Company, Hitachi, Ltd., LG Electronics Inc., Matsushita Electric Industrial Co. Ltd. (Panasonic), Mitsubishi Electric Corporation, Pioneer Corporation, Samsung Electronics Co. Ltd., Sharp Corporation, TDK Corporation, Thomson y Warner Home Video. .
 
 En el campo del video de alta definición (HD), el Blu-Ray Disc posee una amplia lista de benefactores, entre los que destacan:
 
@@ -11656,8 +10775,7 @@ Paramount Pictures (sólo para los films dirigidos por Steven Spielberg)
 (sólo en España)
 * Mar Studio (sólo en España)
 
-"Video: Comercial PS3 y Capacidad de
-disco Blu-Ray" El DVD ofreció en su momento una alta calidad ya que era capaz de dar una resolución de 720x576 lo que es ampliamente superado por la capacidad de alta definición ofrecida por el Blu ray que es de 1920x1080 (1080p, alta definición). Este último es el formato utilizado por los estudios para archivar sus producciones, que anteriormente se convertía al formato que se quisiese exportar. Esto ya no será necesario, con lo que la industria del cine no tendrá que gastar esfuerzo y tiempo en el cambio de resolución de películas a Blu-ray abaratando ligeramente sus costes. Y en teoría, reflejandolo en una baja de precios para el consumidor final... en teoría.
+"Video: Comercial PS3 y Capacidad de disco Blu-Ray" El DVD ofreció en su momento una alta calidad ya que era capaz de dar una resolución de 720x576 lo que es ampliamente superado por la capacidad de alta definición ofrecida por el Blu ray que es de 1920x1080 (1080p, alta definición). Este último es el formato utilizado por los estudios para archivar sus producciones, que anteriormente se convertía al formato que se quisiese exportar. Esto ya no será necesario, con lo que la industria del cine no tendrá que gastar esfuerzo y tiempo en el cambio de resolución de películas a Blu-ray abaratando ligeramente sus costes. Y en teoría, reflejandolo en una baja de precios para el consumidor final... en teoría.
 
 Más adelante, HD DVD y la batalla entre el Blu ray y el HD DVD. Saludos!
 
@@ -11677,16 +10795,14 @@ Esta es una pequeña guía para todo aquel pobre internauta confundido, que visi
 Si eres de los que ven el nombre del archivo y se pregunta: ¿Que es un Screener?, ¿Que es un DVDRIP?, ¿Que es un CAM?, ¿Que es un DVD Screener?, ¿Que es un TS?, etc... pues no te preocupes, no eres el único con esas dudas, como diría Michael Jackson... "No estas solo".
 
 ![image](https://www.album-art.net/art/albums/m/michael_jackson/visionary/16_you_are_not_alone.jpg)    
-"Imagen: Portada Album You Are Not Alone, Autor: Michael
-Jackson".
+"Imagen: Portada Album You Are Not Alone, Autor: Michael Jackson".
 
 Rayos... ¿No les da miedo cada vez más ese tipo?... en fin, vale. Esta jerga es en realidad un conjunto de abreviaciones que pretenden brindar información de la fuente (origen) del que se obtiene el susodicho "respaldo", estas son las más comunes:
 
 CAM: Un torrent con la palabra "CAM" en su nombre, es un video grabado con una cámara digital. Simple de recordar, ¿verdad? Algunas veces en este proceso de grabación hasta se usa un mini trípode, pero seamos realistas, muuuuchas de las veces que se intenta grabar películas en un cine, pues eso no es posible. Así que la mayoría del tiempo la grabación puede moverse un poco (o mucho). Eso sin contar que se podría grabar la gente que esta delante de la persona que esta usando la cámara. El sonido no es nada bueno, ya que es grabado mediante el mismo micrófono de la cámara, así que se corre el riesgo de grabar los ruidos corporales de alguien que este enfrente del aventurado pirata/camarografo.
 
 ![image](https://www.gearfuse.com/wp-content/uploads/samuel/feb07/xacti_hd2.jpg)    
-"Imagen: Video Camara Digital de
-mano".
+"Imagen: Video Camara Digital de mano".
 
 TELESYNC (TS): Un telesync es de las mismas especificaciones de un CAM, con la diferencia de que se usa una fuente de sonido externa al de la cámara (un micrófono especial colocado en una silla, pared, techo, etc...) Una fuente externa de audio como la mencionada no garantiza la buena calidad del audio ya que mucho ruido de fondo puede interferir con la recepción del mismo. La calidad varia drasticamente, se le recomienda al que busca un "respaldo" de la película, que verifique el video de muestra antes de descargar o no el archivo en cuestión. Ademas, un gran porcentaje de telesync en realidad son CAM mal etiquetados.
 
@@ -11697,8 +10813,7 @@ SCREENER (SCR): A diferencia de lo que muchos creen, un Screener sera una copia 
 DVDRip: Esta es una copia de un DVD liberado comprado directamente por el consumidor (retail). Usualmente es de excelente calidad. Al igual que con los DVDscr, se pueden obtener en formato DivX ó XviD.
 
 ![image](https://xboxer.tv/hd_dvd_bluray.jpg)    
-"Imagen: High Definition DVD
-y Blu-ray Disc".
+"Imagen: High Definition DVD y Blu-ray Disc".
 
 DVD-SCREENER (DVDscr): Un Dvd Screener es la misma premisa de un Screener, pero con un DVD. Usualmente se encuentra sin los cortos o extras que contiene el DVD original. Si la persona que se encarga de "respaldar" el DVD original tiene habilidad, el DVD Screener tendrá muy buena calidad. Se pueden encontrar en formato DivX ó XviD.
 
@@ -11712,8 +10827,7 @@ TVRip: Es un episodio de TV capturado usando cable digital o satelital. Un TVRIP
 Así que, eso es todo, estas son las abreviaturas más comunes para determinar el origen del "respaldo" de un video o película que puedas encontrar en Internet. Solo espero que para todas esos respaldos, también cuenten con una buena dote de "Pop Corn" para acompañar la función casera...
 
 ![image](https://kohm.org/blog/wp-content/uploads/2007/07/800px-popcorn02.jpg)    
-"Imagen: Rosetas de
-Maiz".
+"Imagen: Rosetas de Maiz".
 
 ¡Saludos y hasta la próxima!
 
@@ -11730,8 +10844,7 @@ draft: false
 post_id: blog-3515952828243908885.post-8096485242286520046
 ---
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SiVoyXYPirI/AAAAAAAACAY/BrVsUmSsHKE/s320/search-wars.jpg)    El año pasado,
-recuerdo perfectamente el lanzamiento de Cuil (palabra druida que significa: conocimiento), un motor de búsqueda que alega tener muchísima más [información indexada que Google](https://www.srbyte.com/2008/07/google-tiene-1-trillon-de-paginas.html) (al menos, 124,426,951,803 paginas web indexadas) , sino que también ordena la información con más criterios que (en teoría) garantizan la relevancia de contenidos al usuario... lamentablemente Cuil falló en su empresa de derrocar al "Gran Blanco". Cuil es un un buen concepto (Drill Down Searches), terriblemente implementado...
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SiVoyXYPirI/AAAAAAAACAY/BrVsUmSsHKE/s320/search-wars.jpg)    El año pasado, recuerdo perfectamente el lanzamiento de Cuil (palabra druida que significa: conocimiento), un motor de búsqueda que alega tener muchísima más [información indexada que Google](https://www.srbyte.com/2008/07/google-tiene-1-trillon-de-paginas.html) (al menos, 124,426,951,803 paginas web indexadas) , sino que también ordena la información con más criterios que (en teoría) garantizan la relevancia de contenidos al usuario... lamentablemente Cuil falló en su empresa de derrocar al "Gran Blanco". Cuil es un un buen concepto (Drill Down Searches), terriblemente implementado...
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SiVn9qDnuBI/AAAAAAAAB_4/NlkozASPSrw/s320/cuil.png)    
 "Visita [Cuil](https://www.cuil.com/)
@@ -11740,22 +10853,19 @@ recuerdo perfectamente el lanzamiento de Cuil (palabra druida que significa: con
 Microsoft también esta lanzando un nuevo motor de búsquedas con pitos y campanas... ni siquiera se molestaron en mejorar MSN Search, ellos ya saben que no sirve (y ojala nadie opine lo contrario), así que hicieron otro motor, y el genial nombre que eligieron ponerle fúe: "[Bing](https://www.bing.com/)
 ". Aja... Bing. Me recuerda un negocio de Los Sopranos...
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SiVn9SqidGI/AAAAAAAAB_w/VJOnaBZnXkA/s320/bada_bing_logo_2780.gif)    
-"Bada Bing!, genial Los Sopranos"
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SiVn9SqidGI/AAAAAAAAB_w/VJOnaBZnXkA/s320/bada_bing_logo_2780.gif)     "Bada Bing!, genial Los Sopranos"
 
 Sobre Bing, solo quiero mencionar que esta en estado BETA... y BIEN BETA. Me parece iGoogle con un tema de Microsoft, no tengo nada relevante o que importante que mencionar con respecto a este buscador. Yahoo! (al fin!) se aleja poco a poco de la tradición de presentar resultados como URL's estáticas, y un nuevo, y muuuuy interesante motor de búsquedas ha surgido en el horizonte, nada más y nada menos que: WolframAlpha.
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SiVn94hhtcI/AAAAAAAACAA/yWpySSJWsOk/s320/wolfram-alpha-web-semantica.png)    
-"Asi se ve
-WolframAlpha"
+"Asi se ve WolframAlpha"
 
 La característica prometedora de [WolframAlpha](https://www66.wolframalpha.com/), es que no es un motor de búsquedas de contenido como Google, sino que es un "motor de respuestas". Este es el nicho, que hacia falta explotar, y en el que me atrevo a decir, que puede superar con creces a Google.
 
 Stephen Wolfram, es el genio detrás de WolframAlpha, un científico ingles enfocado en desarrollos en el campo de la álgebra computacional y autor del sistema [Mathematica](https://www.wolfram.com/products/mathematica/index.html), un software multiplataforma especializado en análisis numérico y cálculo simbólico.
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SiVn-KgWdPI/AAAAAAAACAQ/NwD0QJ2nljc/s320/wolf-mathemathica.jpg)    
-"Wolfram
-Mathematica"
+"Wolfram Mathematica"
 
 Usando Mathematica como motor cálculos para realizar las complejas y elaboradas operaciones matemáticas ([David Mejia menciona una que lo hizo llorar](https://damr.net/2009/05/17/wolfram-alpha)), y una base de datos de conocimiento, que consume, digiere y presenta información de una manera tan genial... que solo puedo pensar decir que:
 
@@ -11764,8 +10874,7 @@ Usando Mathematica como motor cálculos para realizar las complejas y elaboradas
 > Wikipedia"
 WolframAlpha es el único al de todos estos, al que le veo utilidad. Desde las cosas mas banales, como conocer mi [edad exacta](https://www40.wolframalpha.com/input/?i=May+19%2C+1985), [hasta operar matrices](https://www40.wolframalpha.com/input/?i=inv%7B%7B3%2C4%2C5%7D%2C%7B-2%2C5%2C-8%7D%2C%7B7%2C-1%2C9%7D%7D), y resolver [ecuaciones matemáticas](https://www40.wolframalpha.com/input/?i=x%5E2+sin%28x%29); realmente me veo usándolo, y esa es la clave de un producto, que pretende ingresar al mercado de los buscadores. En este mundo de gigantes, otro motor de búsquedas intento hacer, y lo sigue intentando, su entrada en el mercado de las búsquedas. True Knowledge, es un motor de búsquedas semánticas, en palabras sencillas: True Knowledge responde tus preguntas.
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SiVn95fkTLI/AAAAAAAACAI/ZZmAM11P3kg/s320/trueknowledge.gif)    
-Usando un indice de aproximadamente 129,498,414 hechos y 5,112,422 cosas (que probablemente ahora sean más), es factible para True Knowledge responder preguntas (unicamente en lenguaje Ingles) como: "Is the koala bear a bear?", True Knowledge responde NO a esta pregunta, porque claro, todo mundo sabe, el "oso koala" NO es un oso... es un marsupial, como los kanguros. En fiiiin... cuando se usa True Knowledge , también se obtiene una lista de suposiciones detrás de la conclusión de una respuesta. Así también se puede aceptar o no lo que True Knowledge supuso para llegar a esa conclusión/respuesta, asi ayudas a "saber" a True Knowledge si cometió o no un error. El concepto de True Knowledge suena como tener al sabio ermitaño de la montaña a un clic de distancia, y para ser totalmente sincero, salvo un par de veces, dudo mucho que lo use diariamente.
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SiVn95fkTLI/AAAAAAAACAI/ZZmAM11P3kg/s320/trueknowledge.gif)     Usando un indice de aproximadamente 129,498,414 hechos y 5,112,422 cosas (que probablemente ahora sean más), es factible para True Knowledge responder preguntas (unicamente en lenguaje Ingles) como: "Is the koala bear a bear?", True Knowledge responde NO a esta pregunta, porque claro, todo mundo sabe, el "oso koala" NO es un oso... es un marsupial, como los kanguros. En fiiiin... cuando se usa True Knowledge , también se obtiene una lista de suposiciones detrás de la conclusión de una respuesta. Así también se puede aceptar o no lo que True Knowledge supuso para llegar a esa conclusión/respuesta, asi ayudas a "saber" a True Knowledge si cometió o no un error. El concepto de True Knowledge suena como tener al sabio ermitaño de la montaña a un clic de distancia, y para ser totalmente sincero, salvo un par de veces, dudo mucho que lo use diariamente.
 
 Un gran impedimento existente para derrocar a Google es que: Google, esta tan enquistados en la cultura, que "googlear" se ha vuelto el sinónimo de: buscar algo en Internet. Y eso si que es un problema, porque la fuerza de la costumbre es tan poderosa, que alguien que quiera competir contra el "Gran Blanco", no solo necesita un producto que sea bueno, útil, usable y eficiente, sino que también necesita volverse parte de la cultura tecnológica del usuario moderno.
 
@@ -11789,12 +10898,10 @@ draft: false
 post_id: blog-3515952828243908885.post-6544694013300982508
 ---
 
-[Senduit](https://www.senduit.com/) es un servicio
-que provee a los usuarios la habilidad para "subir" un archivo (máximo 100 MB), y permite descargarlo mediante una URL especifica. El archivo puede ser descargado un numero ilimitado de veces. Senduit añade un tiempo de caducidad para el archivo en cuestión, desde media hora hasta una semana (luego el archivo caduca y se elimina).
+[Senduit](https://www.senduit.com/) es un servicio que provee a los usuarios la habilidad para "subir" un archivo (máximo 100 MB), y permite descargarlo mediante una URL especifica. El archivo puede ser descargado un numero ilimitado de veces. Senduit añade un tiempo de caducidad para el archivo en cuestión, desde media hora hasta una semana (luego el archivo caduca y se elimina).
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SRGp4uokntI/AAAAAAAABZw/Nce1UpzcpoA/s320/senduit.png)    
-"Un vistazo a la apariencia
-de Senduit"
+"Un vistazo a la apariencia de Senduit"
 
 Lo que mas me intereso de este servicio es:
 
@@ -11825,9 +10932,7 @@ post_id: blog-3515952828243908885.post-6638478040019983651
 
 Si no estas usando un framework para desarrollar software, probablemente estés re-inventando la rueda. La única validez que tiene el proceso de "re-inventar la rueda" es para conocer como funciona. Pero si te están pidiendo elaborar un sistema realmente amplio para una empresa, con una cobertura del 70% de las operaciones, y esa empresa NO se dedica a realizar software... entonces es una seria estupidez desarrollar software sin un framework.
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/Scz0lLDD-HI/AAAAAAAAB7Y/7SoE7SQI5yg/s320/4359967kid-on-bike-square-wheel.jpg)    
-"Cuidad, si re-inventas la rueda, podrías terminar
-así..."
+![image](https://2.bp.blogspot.com/_ayvorITawE4/Scz0lLDD-HI/AAAAAAAAB7Y/7SoE7SQI5yg/s320/4359967kid-on-bike-square-wheel.jpg)     "Cuidad, si re-inventas la rueda, podrías terminar así..."
 
 Un framework, es una estructura de soporte definida mediante la cual, se desarrolla y organiza lógicamente una pieza de software. Entonces, el programa, modulo o sistema en cuestión, se apoya en un framework (en el marco de trabajo) para ser desarrollado. Un framework incluirá soporte para generar programas, una serie de librerías organizadas en módulos lógicos, y un lenguaje (que se ejecuta en una maquina virtual usualmente) para ayudar a desarrollar y unificar los módulos que conformen el proyecto. El uso de un framework, es tan obligatorio en un proyecto de grandes magnitudes, como lo son las típicas practicas de desarrollo de software:
 
@@ -11851,8 +10956,7 @@ Al menos, eso es lo lógico, ¿no? Son los pasos "normales", lo "sano". La misma
 2. Construir la casa, desde CERO (literalmente), de manera que vamos a inventar nuestro propio cemento, pintura, techo, defensas, pisos. Vamos a usar herramientas que no estamos seguros si las vamos a aprovechar y vamos a gastar en cosas completamente innecesarias... como... flamingos rosados de mármol tallados a mano importados de la India para el jardín (wtf?).
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/Scz2hbdJwEI/AAAAAAAAB7g/5a6m61Ycv5M/s320/crazy_house_2.jpg)    
-"NOT so nice. NOT AT
-ALL."
+"NOT so nice. NOT AT ALL."
 
 Y para colmo, creen que se puede realizar la casa, en el mismo tiempo que lo haría de la manera "normal". Se que para muchos lectores, esto suena ridículo, ¡¿verdad?! suena muy ridículo. Es más, seria increíble pensar, que alguien proponga soluciones así.... pero les tengo una noticia...
 
@@ -11861,11 +10965,9 @@ Y para colmo, creen que se puede realizar la casa, en el mismo tiempo que lo har
 Casi a diario, se esta perpetrando este crimen. No solo es una perdida de tiempo, sino que también es un insulto al desarrollador de software que si tiene buenas practicas ([o que intenta tenerlas](https://www.srbyte.com/2008/07/consejos-practicos-de-desarrollo-de.html)). ¿Saben que es lo peor? muchos cometen el error de creer que con solo usar Java o .NET (y solamente eso), ya están usando un framework suficiente para hacer un RIA ([Rich Internet Application](https://en.wikipedia.org/wiki/Rich_Internet_application)) en 3 meses. Pues déjenme decirle, que si ese fuera el caso, no existiría Spring, Struts, IceFaces, MyFaces, ASP.NET MVC, Adobe Flex, RoR, Etc... Lo terrible es que este suceso se sigue perpetrando, y es por simple ignorancia...
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/Scz4WmEi7DI/AAAAAAAAB7w/yHBh0jXfU48/s320/simio-que-ignoras.jpg)    
-"¡Que pena ser
-ignorante!"
+"¡Que pena ser ignorante!"
 
-Empresas, por que rayos ¿no capacitan a sus gerentes de informática?, ¿a sus arquitectos de software?, ¿a sus team leaders?, ¿Por que no escuchan las voces de los programadores, que de cara a semejantes atrocidades, alzan la voz inmediatamente y proponen el cambio?
-[Ya lo dije antes](https://www.srbyte.com/2009/02/acerca-del-micromanagement.html), pero no me molesta volverlo a repetir...
+Empresas, por que rayos ¿no capacitan a sus gerentes de informática?, ¿a sus arquitectos de software?, ¿a sus team leaders?, ¿Por que no escuchan las voces de los programadores, que de cara a semejantes atrocidades, alzan la voz inmediatamente y proponen el cambio? [Ya lo dije antes](https://www.srbyte.com/2009/02/acerca-del-micromanagement.html), pero no me molesta volverlo a repetir...
 > "si un equipo de desarrollo, sumergido hasta el cuello de dificultades técnicas,
 > pretende producir software: simplemente vamos a obtener software que es REFLEJO de las
 > dificultades, problemas, ignorancia, malos requerimientos y mala administración en los que se
@@ -11887,24 +10989,20 @@ draft: false
 post_id: blog-3515952828243908885.post-3337714422395313656
 ---
 
-[Silvermel](https://www.silvermel.net/) (creado por
-Pardal Freudenthal) es un tema sobrio y minimalista para el navegador web [Mozilla Firefox](https://srbyte.blogspot.com/2008/07/el-guiness-record-de-firefox-3.html), posee un perfecto esquema de grises suaves y bien degradados. Sigue el estilo de diseño moderno de temas usando bordes redondeados y sombras en las pestañas y barras de desplazamiento, utiliza un suave contraste de azul para resaltar los botones debajo del cursor, incluye un grupo de iconos agradables a la vista, y muchos y agradables detalles que hacen de este, un tema MUY profesional.
+[Silvermel](https://www.silvermel.net/) (creado por Pardal Freudenthal) es un tema sobrio y minimalista para el navegador web [Mozilla Firefox](https://srbyte.blogspot.com/2008/07/el-guiness-record-de-firefox-3.html), posee un perfecto esquema de grises suaves y bien degradados. Sigue el estilo de diseño moderno de temas usando bordes redondeados y sombras en las pestañas y barras de desplazamiento, utiliza un suave contraste de azul para resaltar los botones debajo del cursor, incluye un grupo de iconos agradables a la vista, y muchos y agradables detalles que hacen de este, un tema MUY profesional.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/SIAT8yO1vkI/AAAAAAAAA6M/Y_cPOtQHGqY/s400/silver-lookgeneral.jpg)    
-"Vista general del tema,
-haga click para ver más grande"
+"Vista general del tema, haga click para ver más grande"
 
 Silvermel añade una serie de iconos de otro tema llamado [Charamel](https://members.shaw.ca/lucx/) (también muy bonito, pero me gusta por mucho más este), que se integran de manera muy agradable para añadir vida a las ventanas:
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/SIAOJyYxAOI/AAAAAAAAA50/PdnVmSVhyYM/s400/silver-opciones.jpg)    
-"Iconos del tema Silvermel
-en la ventana de opciones"
+"Iconos del tema Silvermel en la ventana de opciones"
 
 Todas las ventanas que puedas utilizar en Firefox y Thunderbird están integradas a la perfección en este tema:
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/SIAOI7ZQZfI/AAAAAAAAA5c/n6VTUqKU9qs/s400/silver-descargas.jpg)    
-"Cuadro de descargas con el
-tema Silvermel"
+"Cuadro de descargas con el tema Silvermel"
 
 Y cuando digo todas pues mira por ti mismo:
 
@@ -11923,22 +11021,19 @@ Si deseas renovar el "look" de Firefox y cambiar el tema que trae por defecto (l
 > href="https://www.silvermel.net/"> style="font-size:130%;">https://www.silvermel.net/
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SIAOJvu_iyI/AAAAAAAAA5s/4MjZaIk4dqo/s400/silvermel-web.jpg)    
-"Captura del sitio web del
-tema: Silvermel"
+"Captura del sitio web del tema: Silvermel"
 
 Para instalarlo, dar click en el botón que dice "install" y luego permite a Firefox instalar el tema, si te fijas, aparece un rectángulo en la parte superior de la pagina web, similar a este:
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/SIARh2hwCBI/AAAAAAAAA6E/ieWlY7DIc8I/s400/silver-permitir.jpg)    
-"Aviso que aparece para
-permitir instalar un complemento o un tema en Firefox"
+"Aviso que aparece para permitir instalar un complemento o un tema en Firefox"
 
 Basta con dar click en "Permitir" (Allow) y veras como Firefox te muestra el progreso de la descarga, e instala el tema. Luego reinicia el navegador para ver tema.
 
 O también puedes descargarlo (es un archivo ".jar") y luego abrir el cuadro de diálogos de "Complementos" (Add-ons), en el menú Herramientas->Complementos, seleccionar el icono de la "paleta de pintor" (que dice "Temas" (Themes) abajo), y aparecerá una ventana a la que pueden "arrastrar y soltar" (Drag & Drop) el tema descargado, finalmente se selecciona y se da click en el botón "Usar Tema" (Use Theme), reinicia el navegador y ¡ta-da! ya le diste un nuevo look a tu navegado.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/SIAOKBfW6-I/AAAAAAAAA58/DPVqOKWl5Y4/s400/silver-temas.jpg)    
-"Ventana de Complementos con
-el tema Silvermel"
+"Ventana de Complementos con el tema Silvermel"
 
 Y tú, amante de Firefox, ¿cuál es tu tema es tu preferido?
 
@@ -11956,8 +11051,7 @@ post_id: blog-3515952828243908885.post-2361935392325699883
 Hace un par de semanas, finalmente me canse de estar usando Windows en la laptop del trabajo, así que decidí sacar de su miseria a la pobre maquina, ser infiel al sistema operativo de los gamers y ponerle "otra cosa". La "afortunada" es una Compaq CQ45:
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SeCqtek1PKI/AAAAAAAAB74/svXCN-J6Q7I/s320/CQ50.jpg)    
-"No es una maravilla, pero
-es una buena maquina."
+"No es una maravilla, pero es una buena maquina."
 
 Mi única duda, era si ponerle Debian o Ubuntu de 64bits... recordé las palabras de un blogger Hondureño: "Debian es para Desktops, y Ubuntu es para Laptops." Sinceramente, para mi son lo mismo, pero tenia el disco de Ubuntu a la mano. Para no aburrirlos la laptop ya tiene Ubuntu. Y antes de que se haga un flamewar sobre que distro es mejor, dejen me compartir una idea que siempre he tenido bien clara:
 >
@@ -11979,8 +11073,7 @@ Mi problema es que Skype sólo está disponible en paquetes para arquitectura 32
 3. Bien, si falta alguna dependencia, pues hay que resolverla, y despues de eso, solo nos falta Skype. Debido a la variedad de Hardware y servidores de audio, la tarea de configuración de audio y video, queda a discreción del lector, me exonero de "ese asunto".
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SeCuv0vAxjI/AAAAAAAAB8A/sQTbI4_0sBc/s320/skypeme_big.png)    
-"Ahora ya tienes listo tu
-Skype :)"
+"Ahora ya tienes listo tu Skype :)"
 
 Bien, espero que esta pequeñisima guía le ayude a algun internauta por ahi, a instalar esta util aplicacion. Cabe mencionar que tambien existen aplicaciones 100% libres, que tiene casi la misma utilidad que Skype, como son: [Ekiga](https://www.gnomemeeting.org/) (antes conocido como GnomeMeeting), despues hablaremos un poco del porque usar Software Libre, en vez de Freeware.
 
@@ -11996,8 +11089,7 @@ post_id: blog-3515952828243908885.post-8540291952728622091
 ---
 
 ![image](https://www.fafamonge.com/images/lmvp_logo.jpg)    
-"Logotipo del Podcast 'Lo
-Mas Variado Posible' de Fafamonge"
+"Logotipo del Podcast 'Lo Mas Variado Posible' de Fafamonge"
 
 Uno de los autores de este su blog, tuvo el placer de participar el podcast No. 17 de nuestro compañero blogger, Rafael Monge. Fafa, en su blog, publica regularmente una serie de archivos de [podcasts (grabaciones de audio, capaces de ser escuchadas on-line)](https://www.srbyte.com/2008/08/qu-es-un-podcast-y-como-escuchar.html) en los que entrevista a diferentes personajes de la blogósfera salvadoreña y comentan temas relacionados con la misma, al mismo tiempo que brinda la oportunidad que los escuchas del podcast conozcan mas de dicho personaje entrevistado.
 
@@ -12033,20 +11125,13 @@ draft: false
 post_id: blog-3515952828243908885.post-7566703827103607999
 ---
 
-![image](https://bp0.blogger.com/_ayvorITawE4/RjOaqEK33nI/AAAAAAAAAUg/6lY0Aa1gqow/s400/StarcraftBox.jpg)    Después de 9 largos
-(muuuuy largos) años, millones de horas gastadas por muchos niños Koreanos (y de todas partes del mundo... pero los torneos de StarLeague son lo maximo) que han jugado día y noche el titulo original de StarCraft... Blizzard anuncia que ya tienen rato de trabajar en Star Craft 2 y que debutara l 19 de Mayo (el día mas hermoso del añ ) en el: Blizzard World Wide Invitation en Seoul. Al fin! ya era hora de que Blizzard admitiera que trabajaban en StarCraft 2, después de todo ya habían reservado el nombre de dominio desde hacia rato... Ja! ¿ creían que no sabíamos ?
-[> https://www.starcraft2.com/](https://www.starcraft2.com/) Estoy
-realmente emocionado acerca de esta noticia, solo espero que no suceda como con StarCraft Ghost... aunque si va por ese camino ... y es multiplayer y usan el motor de WOW... y... exigen procesadores Intel Quad Core... ¡Oh Dios! ¡ Ya quiero ver las primeras imágenes, el arte y la siempre fantástica historia de SC2!
+![image](https://bp0.blogger.com/_ayvorITawE4/RjOaqEK33nI/AAAAAAAAAUg/6lY0Aa1gqow/s400/StarcraftBox.jpg)    Después de 9 largos (muuuuy largos) años, millones de horas gastadas por muchos niños Koreanos (y de todas partes del mundo... pero los torneos de StarLeague son lo maximo) que han jugado día y noche el titulo original de StarCraft... Blizzard anuncia que ya tienen rato de trabajar en Star Craft 2 y que debutara l 19 de Mayo (el día mas hermoso del añ ) en el: Blizzard World Wide Invitation en Seoul. Al fin! ya era hora de que Blizzard admitiera que trabajaban en StarCraft 2, después de todo ya habían reservado el nombre de dominio desde hacia rato... Ja! ¿ creían que no sabíamos ? [> https://www.starcraft2.com/](https://www.starcraft2.com/) Estoy realmente emocionado acerca de esta noticia, solo espero que no suceda como con StarCraft Ghost... aunque si va por ese camino ... y es multiplayer y usan el motor de WOW... y... exigen procesadores Intel Quad Core... ¡Oh Dios! ¡ Ya quiero ver las primeras imágenes, el arte y la siempre fantástica historia de SC2!
 
 Después de tanto jugar StarCraft, a muchos jugadores solo esto me hacia falta hacer:
 
-[https://www.youtube.com/v/CYY-g6ionzM](https://www.youtube.com/v/CYY-g6ionzM) [https://www.youtube.com/v/CYY-g6ionzM](https://www.youtube.com/v/CYY-g6ionzM) [https://www.youtube.com/v/CYY-g6ionzM](https://www.youtube.com/v/CYY-g6ionzM) [https://www.youtube.com/v/CYY-g6ionzM](https://www.youtube.com/v/CYY-g6ionzM) [https://www.youtube.com/v/CYY-g6ionzM](https://www.youtube.com/v/CYY-g6ionzM) [https://www.youtube.com/v/CYY-g6ionzM](https://www.youtube.com/v/CYY-g6ionzM) [https://www.youtube.com/v/CYY-g6ionzM](https://www.youtube.com/v/CYY-g6ionzM)
-"Starcraft + Linux + Wine +
-TouchScreen" Aquí esta una muestra de cuan desesperados estábamos los fans por la continuación de la saga:
+[https://www.youtube.com/v/CYY-g6ionzM](https://www.youtube.com/v/CYY-g6ionzM) [https://www.youtube.com/v/CYY-g6ionzM](https://www.youtube.com/v/CYY-g6ionzM) [https://www.youtube.com/v/CYY-g6ionzM](https://www.youtube.com/v/CYY-g6ionzM) [https://www.youtube.com/v/CYY-g6ionzM](https://www.youtube.com/v/CYY-g6ionzM) [https://www.youtube.com/v/CYY-g6ionzM](https://www.youtube.com/v/CYY-g6ionzM) [https://www.youtube.com/v/CYY-g6ionzM](https://www.youtube.com/v/CYY-g6ionzM) [https://www.youtube.com/v/CYY-g6ionzM](https://www.youtube.com/v/CYY-g6ionzM) "Starcraft + Linux + Wine + TouchScreen" Aquí esta una muestra de cuan desesperados estábamos los fans por la continuación de la saga:
 
-[https://www.youtube.com/v/YwOp8WEqlRI](https://www.youtube.com/v/YwOp8WEqlRI) [https://www.youtube.com/v/YwOp8WEqlRI](https://www.youtube.com/v/YwOp8WEqlRI) [https://www.youtube.com/v/YwOp8WEqlRI](https://www.youtube.com/v/YwOp8WEqlRI) [https://www.youtube.com/v/YwOp8WEqlRI](https://www.youtube.com/v/YwOp8WEqlRI) [https://www.youtube.com/v/YwOp8WEqlRI](https://www.youtube.com/v/YwOp8WEqlRI)
-"StarCraft en la vida
-real"
+[https://www.youtube.com/v/YwOp8WEqlRI](https://www.youtube.com/v/YwOp8WEqlRI) [https://www.youtube.com/v/YwOp8WEqlRI](https://www.youtube.com/v/YwOp8WEqlRI) [https://www.youtube.com/v/YwOp8WEqlRI](https://www.youtube.com/v/YwOp8WEqlRI) [https://www.youtube.com/v/YwOp8WEqlRI](https://www.youtube.com/v/YwOp8WEqlRI) [https://www.youtube.com/v/YwOp8WEqlRI](https://www.youtube.com/v/YwOp8WEqlRI) "StarCraft en la vida real"
 
 Noticia original: [TeamLiquid](https://teamliquid.net/forum/viewmessage.php?topic_id=52433)
 
@@ -12066,8 +11151,7 @@ No es solo una persona que a pesar de su terrible condición, nos inspira y hace
 En la navidad de 1962 Hawking había notado que se había vuelto más torpe (con sus habilidades motoras) durante su último año en Oxford y a principios de 1963, pasó dos semanas haciéndose pruebas en el hospital y le diagnosticaron una enfermedad neuronal motora deformativa (Enfermedad de Lou Gehrig).
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/Rjfx9UK33oI/AAAAAAAAAUo/jp3m8wCqYCk/s400/hawking.jpg)    
-"Stephen
-Hawking"
+"Stephen Hawking"
 
 Su estado se deterioró rápidamente y los médicos le pronosticaron que no viviría lo suficiente para acabar su doctorado en física cuántica y relatividad. Sin embargo, Hawking escribió:
 
@@ -12086,8 +11170,7 @@ Su sueño consistía en sentir la ingravidez del espacio, sentirse libre de su s
 Tanta fue la emoción del viaje que Sir Hawking hasta se tomo una fotografía con una manzana, un simbolismo Newtoniano...
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/Rjfz_0K33pI/AAAAAAAAAUw/RDLRmb4QSTU/s400/hawking-zero-g.jpg)    
-"Stephen Hawking con su
-manzana"
+"Stephen Hawking con su manzana"
 
 Sigue, Stephen, con tus teorías sobre el espacio y física cuántica, formulando principios para la creación de agujeros negros y leyes gravitacionales. Pero sobre todas las cosas sigue soñando, así
 
@@ -12137,8 +11220,7 @@ draft: false
 post_id: blog-3515952828243908885.post-1127933576842799232
 ---
 
-![image](https://bp0.blogger.com/_jH77WNrMVRA/R7hxvXl5lXI/AAAAAAAAAg4/114zkBHwWhY/s320/logo.gif)    Prácticamente, el
-rey de los buscadores. El más popular y el que más sitios posee indexado. Una invaluable herramienta a la hora de encontrar información para cosas tan triviales como si existe ... hasta cosas realmente significativas como .... Pero, realmente encuentras lo que buscas en Google? y de ser asi, cuánto tiempo te lleva en promedio?
+![image](https://bp0.blogger.com/_jH77WNrMVRA/R7hxvXl5lXI/AAAAAAAAAg4/114zkBHwWhY/s320/logo.gif)    Prácticamente, el rey de los buscadores. El más popular y el que más sitios posee indexado. Una invaluable herramienta a la hora de encontrar información para cosas tan triviales como si existe ... hasta cosas realmente significativas como .... Pero, realmente encuentras lo que buscas en Google? y de ser asi, cuánto tiempo te lleva en promedio?
 
 Pueda que no estés utilizando todas las características que este aparentemente simple buscador te ofrece para delimitar tus búsquedas y encontrar más rápido lo que necesitas, por eso acá se presentan algunos tips para lograr este cometido:
 
@@ -12172,8 +11254,7 @@ Ademas de los tips anteriores, les recomendaría personalmente realizar búsqued
 
 Acá les dejo un vídeo de algunos "trucos" que se pueden realizar en google:
 
-"Google Shortcuts. Esta en ingles pero aunque no entiendas lo
-que dice, se entiende la idea por el texto que escribe y los resultados obtenidos"
+"Google Shortcuts. Esta en ingles pero aunque no entiendas lo que dice, se entiende la idea por el texto que escribe y los resultados obtenidos"
 
 Les dejo también otro video, pero este para trucos un poco mas divertidos, aunque no tan utiles.
 
@@ -12224,15 +11305,11 @@ Ejemplos de Accesos Directos:
 
 Si aún así no te salen las búsquedas o no te caben en la cabeza tantas cosas a tomar en cuenta a la hora de buscar, pues pronto existirán nuevos buscadores que serán capaces de entender una consulta como la haría cualquier ser humano:
 
-[https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0)
-"Google Brain. Ojalá sea un
-futuro cercano."
+[https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/UC5DS0w9mJ4&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) "Google Brain. Ojalá sea un futuro cercano."
 
 Algún día esta tecnología será implementada en Google. Aunque otros se le están adelantando en esta idea:
 
-[https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0)
-"TrueKnowledge: no mas
-necesidad de consultas ni accesos directos!"
+[https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) [https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0](https://www.youtube.com/v/IONdWQwcmxA&rel=0&color1=0xd6d6d6&color2=0xf0f0f0&border=0) "TrueKnowledge: no mas necesidad de consultas ni accesos directos!"
 
 Aún se encuentra en versión beta y para utilizarlo tienes que suscribirte y esperar a que los webmasters se apiaden de tu persona y decidan aceptarte, pero esperemos que pronto esté disponible para cualquiera.
 
@@ -12249,8 +11326,7 @@ post_id: blog-3515952828243908885.post-5425327993780056652
 
 Algunos creen que redactar es cuestión de sentarse frente a un computador o una página en blanco y hacer una lluvia caótica de ideas sin sentido. La presencia de un texto no radica en la erudición, la retórica, la verborrea o la complejidad de las palabras. Mucho menos en la redundancia, la explicativa y el abuso de argumentos lógicos que apoyen la idea central.
 
-![image](https://3.bp.blogspot.com/_JbB9KsZ238w/Sbxnio66WoI/AAAAAAAAAT8/rXPv_WoSZvE/s320/311501544_ab2a661c03.jpg)  Redactar es todo un arte que
-requiere de coherencia, cohesión, claridad y sencillez.
+![image](https://3.bp.blogspot.com/_JbB9KsZ238w/Sbxnio66WoI/AAAAAAAAAT8/rXPv_WoSZvE/s320/311501544_ab2a661c03.jpg)  Redactar es todo un arte que requiere de coherencia, cohesión, claridad y sencillez.
 
 Esto no quiere decir que hacer uso de un lenguaje culto o científico sea incorrecto. Por el contario, este tipo de lenguaje le da un toque singular al texto, pues muestra el bagaje intelectual del autor. Pero cuando se abusa de él es cuando nuestros escritos pierden toda gracia posible. Lo mismo sucede cuando, por evitar un lenguaje rebuscado, caemos en una simplicidad escrita que evidencia una pobreza de vocabulario y un toque insípido en el texto.
 
@@ -12339,8 +11415,7 @@ post_id: blog-3515952828243908885.post-5516314402714026325
 Teller, del programa "[Penn & Teller](https://es.wikipedia.org/wiki/Penn_y_Teller)
 " por fin habla!... como el único sobreviviente de un ataque de zombies... espero les guste ^^
 
-"Video: &
-Teller"
+"Video: & Teller"
 
 ---
 
@@ -12364,8 +11439,7 @@ En cuestión de minutos apareció [Victor](https://altahoradelanoche.blogspot.co
 
 Los bloggers se fueron sumando poco a poco a la reunión, llego [El Simio](https://elsimio.blogspot.com/) Cuyo singular sentido (flamer) del humor arranco carcajadas... especialmente cuando escribió el URL de su blog con @... Mas Vivo!
 
-![image](https://bp0.blogger.com/_ayvorITawE4/RiuCKlLpwhI/AAAAAAAAASM/oo3eVG0uWfI/s400/cuando+nos+movimos.jpg)    
-Fue necesario unir mesas y cambiarnos de lugar (todos debajo del canopi), luego llega [Oskar](https://comodecialaabuela.blogspot.com/), desde Acajutla, un señor con espíritu joven y alegre. Nos contó que quería llevar a su musa, su abuela (el blog de Oskar se llama "Como decía mi abuela") pero lastimosamente ella tenia un asunto más importante que atender... ¡ jugar Lotería !. Y los bloggers siguieron llegando, [Snipe](https://snipedia.blogspot.com/) y [Gabi Velis](https://gabivelis.blogspot.com/), luego llego [Carlos](https://ysfp.org/) bromeando que era de LPG... pero bien llevo ¡cámara y grabadora! Luego llego [Sir Woody](https://teotihua.org/blog), y al final [Hunnapuh](https://hunnapuh.blogcindario.com/) con uno de sus colaboradores [Jjmar.](https://hunnapuh.blogcindario.com/)
+![image](https://bp0.blogger.com/_ayvorITawE4/RiuCKlLpwhI/AAAAAAAAASM/oo3eVG0uWfI/s400/cuando+nos+movimos.jpg)     Fue necesario unir mesas y cambiarnos de lugar (todos debajo del canopi), luego llega [Oskar](https://comodecialaabuela.blogspot.com/), desde Acajutla, un señor con espíritu joven y alegre. Nos contó que quería llevar a su musa, su abuela (el blog de Oskar se llama "Como decía mi abuela") pero lastimosamente ella tenia un asunto más importante que atender... ¡ jugar Lotería !. Y los bloggers siguieron llegando, [Snipe](https://snipedia.blogspot.com/) y [Gabi Velis](https://gabivelis.blogspot.com/), luego llego [Carlos](https://ysfp.org/) bromeando que era de LPG... pero bien llevo ¡cámara y grabadora! Luego llego [Sir Woody](https://teotihua.org/blog), y al final [Hunnapuh](https://hunnapuh.blogcindario.com/) con uno de sus colaboradores [Jjmar.](https://hunnapuh.blogcindario.com/)
 
 ¿Y el manifiesto blogger?... Mmmm como que hasta que no se redacte mejor, no se va a implementar
 
@@ -12375,8 +11449,7 @@ Por otra parte, quedamos de acuerdo en muchas cosas... que faltan hacer. La idea
 
 La calma, la buena disposiciones, la alegría y el ingenio dominaron durante toda la reunión... ¡ah! y también "#beber"... ja ja!
 
-![image](https://bp2.blogger.com/_ayvorITawE4/RiuCaFLpwiI/AAAAAAAAASU/Ryp4a2LZQQE/s400/los+bloggers.jpg)    
-Aquí dejo la entrada de Snipe [¿Cuantos bloggers se necesitan para hacer un manifiesto?](https://snipedia.blogspot.com/2007/04/la-tertulia-v10-un-xito.html) , que fue redactada al momento de la reunión y en el que todos participamos. Y también vean la foto que Carlos tomo: [Foto censurada de bloggers Salvadoreños](https://ysfp.org/2007/04/22/reunion-blogger-y-llego-el-dia-5/). Fue un gusto conocerlos a todos, espero verlos nuevamente. Se cuidan y Dios los bendiga.
+![image](https://bp2.blogger.com/_ayvorITawE4/RiuCaFLpwiI/AAAAAAAAASU/Ryp4a2LZQQE/s400/los+bloggers.jpg)     Aquí dejo la entrada de Snipe [¿Cuantos bloggers se necesitan para hacer un manifiesto?](https://snipedia.blogspot.com/2007/04/la-tertulia-v10-un-xito.html) , que fue redactada al momento de la reunión y en el que todos participamos. Y también vean la foto que Carlos tomo: [Foto censurada de bloggers Salvadoreños](https://ysfp.org/2007/04/22/reunion-blogger-y-llego-el-dia-5/). Fue un gusto conocerlos a todos, espero verlos nuevamente. Se cuidan y Dios los bendiga.
 
 PD: Si! lo acepto, robe
 
@@ -12393,16 +11466,13 @@ post_id: blog-3515952828243908885.post-3356563084233921536
 
 El jueves 30 de la semana pasada, se celebro una reunión que bien me atrevería a llamar la primera "[Tertulia](https://www.srbyte.com/2007/04/tertulia-10-el-salvador.html) Iberoamericana". La reunión fue convocada en [Twitter](https://twitter.com/damejiar/status/981265928), [Facebook](https://www.facebook.com/home.php#/event.php?eid=47434921139), y en el [Blog de la prensa gráfica](https://www.laprensagrafica.com/campusparty/?p=428) (¡claro!). El lugar fue [La Pizzería Krisspy’s](https://maps.google.es/maps?f=q&hl=es&geocode=&q=13.676992,-89.263079&ie=UTF8&ll=13.677992,-89.26295&spn=0.008757,0.019312&z=16&g=13.676992,-89.263079&iwloc=addr) de Merliot, lo que me pareció un excelente lugar. Aquí dejo unas fotos (la foto es de [Javier Valenzuela](https://www.flickr.com/photos/desdeelsur/)):
 
-![image](https://farm4.static.flickr.com/3242/2987821857_6ffef418ac.jpg?v=0)  
-![image](https://farm4.static.flickr.com/3214/2987884045_196b743240.jpg)  
+![image](https://farm4.static.flickr.com/3242/2987821857_6ffef418ac.jpg?v=0)   ![image](https://farm4.static.flickr.com/3214/2987884045_196b743240.jpg)  
 
 Pizza antes de Bloggers:![image](https://farm4.static.flickr.com/3029/2989215416_1729643256.jpg?v=0)  
 
 Pizza después de Bloggers: ![image](https://farm4.static.flickr.com/3294/2988359549_b2a06813df.jpg?v=0)  
 
-... y lista de asistentes (gracias a [Snipe](https://www.snipedia.net/)):
-[Rafael Monge](https://www.fafamonge.com/), [Stefany Jovel](https://www.stefanyonline.blogspot.com%20/), [Rodrigo Amaya](https://www.srbyte.com%20/),
-[Emilio Velis](https://snipedia.net%20/), [Roberto Cerna](https://racosoft.blogspot.com%20/), [Edwin Alvarado](https://sansivargraphics.wordpress.com%20/), [Óscar Hernández](https://escritosdemas.blogspot.com%20/), [Héctor Rodríguez](https://hemarori.blogspot.com%20/), [Offray Luna](https://www.slcolombia.org/offray), [Hugo Miranda](https://angelcaido666x.blogspot.com/), [Juan Ortega](https://www.juanortega.info%20/), [Roberto Linares](https://www.srbyte.com%20/), [Marlon Melara](https://culturamarketing.blogspot.com%20/), [René Contreras](https://escampusparty.blogspot.com%20/), [José Elías](https://eliax.com%20/), David Cadenas, Orid Ribera, Raúl Martín, [David Mejía](https://damr.net%20/), [Álvaro Quesada](https://memoriafinita.es%20/), [Inti Pérez](https://manesdesidia.blogspot.com%20/), [Jonan Basterra](https://www.pixelydixel.com%20/), [Ferràn Arricivita](https://www.com.es%20/), [Eduardo Ávila](https://vocesbolivarianas.org%20/), [Gustavo Reyes](https://www.interactivaweb.com%20/), [Rubén Araiza Wicochea](https://www.nudonation.com%20/), Rocío Yamileth Barrera, [Freddy Mujica](https://www.ivarochile.org%20/), Paolo Pernia, [Javiera Valenzuela](https://valencia.com.ve/), Carola Css, [Daniel Rodrigo](https://danielrodrigo.net/), [Norman García Aguilar](https://normanaguilar.blogspot.com%20/), Norcecy Centeno Membreño, [Joan Guerrero](https://joanguerrero.net/), [Decacross](https://decacross.wordpress.com%20/), [Yyeshua](https://yyeshua.wordpress.com%20/), [Noelbu](https://noelbuezo.net/), [MadGab](https://gabys.wordpress.com%20/), [Darkmanfred](https://darkmanfred.wordpress.com%20/)
+... y lista de asistentes (gracias a [Snipe](https://www.snipedia.net/)): [Rafael Monge](https://www.fafamonge.com/), [Stefany Jovel](https://www.stefanyonline.blogspot.com%20/), [Rodrigo Amaya](https://www.srbyte.com%20/), [Emilio Velis](https://snipedia.net%20/), [Roberto Cerna](https://racosoft.blogspot.com%20/), [Edwin Alvarado](https://sansivargraphics.wordpress.com%20/), [Óscar Hernández](https://escritosdemas.blogspot.com%20/), [Héctor Rodríguez](https://hemarori.blogspot.com%20/), [Offray Luna](https://www.slcolombia.org/offray), [Hugo Miranda](https://angelcaido666x.blogspot.com/), [Juan Ortega](https://www.juanortega.info%20/), [Roberto Linares](https://www.srbyte.com%20/), [Marlon Melara](https://culturamarketing.blogspot.com%20/), [René Contreras](https://escampusparty.blogspot.com%20/), [José Elías](https://eliax.com%20/), David Cadenas, Orid Ribera, Raúl Martín, [David Mejía](https://damr.net%20/), [Álvaro Quesada](https://memoriafinita.es%20/), [Inti Pérez](https://manesdesidia.blogspot.com%20/), [Jonan Basterra](https://www.pixelydixel.com%20/), [Ferràn Arricivita](https://www.com.es%20/), [Eduardo Ávila](https://vocesbolivarianas.org%20/), [Gustavo Reyes](https://www.interactivaweb.com%20/), [Rubén Araiza Wicochea](https://www.nudonation.com%20/), Rocío Yamileth Barrera, [Freddy Mujica](https://www.ivarochile.org%20/), Paolo Pernia, [Javiera Valenzuela](https://valencia.com.ve/), Carola Css, [Daniel Rodrigo](https://danielrodrigo.net/), [Norman García Aguilar](https://normanaguilar.blogspot.com%20/), Norcecy Centeno Membreño, [Joan Guerrero](https://joanguerrero.net/), [Decacross](https://decacross.wordpress.com%20/), [Yyeshua](https://yyeshua.wordpress.com%20/), [Noelbu](https://noelbuezo.net/), [MadGab](https://gabys.wordpress.com%20/), [Darkmanfred](https://darkmanfred.wordpress.com%20/)
 
 Excelente experiencia, ¡ojala se repita nuevamente!. ¡Saludos!
 
@@ -12417,17 +11487,14 @@ draft: false
 post_id: blog-3515952828243908885.post-2894286069581229619
 ---
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/ShAyRV-3e5I/AAAAAAAAB94/ZRvpVJoFG1Y/s320/banner20.jpg)    
-The Hunt for Gollum es un film corto (de 40 minutos) realizado sin animo de lucro, por un grupo de entusiastas del cine. Este fue realizado con el escaso presupuesto de £3,000 (euros). Las ubicaciones de filmación tomaron lugar en [North Wales](https://en.wikipedia.org/wiki/North_Wales), [Epping Forest](https://en.wikipedia.org/wiki/Epping_Forest) y [Hampstead Heath](https://en.wikipedia.org/wiki/Hampstead_Heath). 160 voluntarios se apuntaron para esta producción. El estilo de producción, dirección y arte fue en base a las aclamadas adaptaciones de Peter Jackson de la trilogía de El Señor de los Anillos.
+![image](https://3.bp.blogspot.com/_ayvorITawE4/ShAyRV-3e5I/AAAAAAAAB94/ZRvpVJoFG1Y/s320/banner20.jpg)     The Hunt for Gollum es un film corto (de 40 minutos) realizado sin animo de lucro, por un grupo de entusiastas del cine. Este fue realizado con el escaso presupuesto de £3,000 (euros). Las ubicaciones de filmación tomaron lugar en [North Wales](https://en.wikipedia.org/wiki/North_Wales), [Epping Forest](https://en.wikipedia.org/wiki/Epping_Forest) y [Hampstead Heath](https://en.wikipedia.org/wiki/Hampstead_Heath). 160 voluntarios se apuntaron para esta producción. El estilo de producción, dirección y arte fue en base a las aclamadas adaptaciones de Peter Jackson de la trilogía de El Señor de los Anillos.
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/ShAyRtvMrZI/AAAAAAAAB-A/uVyDtUwmzjw/s320/Huntforgollumposter1.jpg)    
-La producción comenzó a principios de 2007, cuando el director-escritor Chris Bouchard comenzó a adaptar la historia de los Apéndices de El Señor de los Anillos. En pocas palabras, este pequeño corto: no es un film de fans más, no es un mashup, no es una parodia, ni una historia sin sentido en el universo de Tolkien. Eso es lo que más me llamo la atención de este film: que sea una historia que Tolkien escribió con sus manos, y luego fue adaptada e interpretada por este grupo de fans.
+![image](https://1.bp.blogspot.com/_ayvorITawE4/ShAyRtvMrZI/AAAAAAAAB-A/uVyDtUwmzjw/s320/Huntforgollumposter1.jpg)     La producción comenzó a principios de 2007, cuando el director-escritor Chris Bouchard comenzó a adaptar la historia de los Apéndices de El Señor de los Anillos. En pocas palabras, este pequeño corto: no es un film de fans más, no es un mashup, no es una parodia, ni una historia sin sentido en el universo de Tolkien. Eso es lo que más me llamo la atención de este film: que sea una historia que Tolkien escribió con sus manos, y luego fue adaptada e interpretada por este grupo de fans.
 
 Sinopsis: El film cuenta la historia adaptada de varios elementos de los apéndices de El Señor de los Anillos. La historia sigue al heredero de Isildur; "El mejor cazador y viajero en la Tierra Media" que debe encontrar a la creatura Gollum. La creatura debe ser encontrada para descubrir la verdad acerca de El Anillo, y proteger al futuro individuo que llevara el anillo.
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/ShAyRVPF7OI/AAAAAAAAB9w/zA2UGVk-NZc/s320/about.gif)    
-"Gripe
-porcinaaaa!" Lo Bueno: El film es gratuito, y en teoría se puede descargar de: [https://huntforgollum.com](https://huntforgollum.com/)(¿donde?), pero yo lo vi en linea: [https://thehuntforgollum.s3.amazonaws.com/watchfilm.htm](https://thehuntforgollum.s3.amazonaws.com/watchfilm.htm).
+"Gripe porcinaaaa!" Lo Bueno: El film es gratuito, y en teoría se puede descargar de: [https://huntforgollum.com](https://huntforgollum.com/)(¿donde?), pero yo lo vi en linea: [https://thehuntforgollum.s3.amazonaws.com/watchfilm.htm](https://thehuntforgollum.s3.amazonaws.com/watchfilm.htm).
 
 Lo Malo: La fémina que hace el papel de Arwen Undómiel, ni se le acerca a Liv Tyler. Por lo demás, todo bien.
 
@@ -12447,16 +11514,11 @@ post_id: blog-3515952828243908885.post-3951349049094925047
 Este es una mini guía para aquellas personas que gustan de videos de mayor calidad que la que YouTube provee por defecto. Desde hace algunos meses YouTube ya provee una opción para ver en mayor resolución ciertos videos:
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SS1NTr3fZFI/AAAAAAAABdQ/cVPhIxBqN7Y/s320/youtubehdopcion.jpg)    
-"Opción para ver videos en
-mejor calidad"
+"Opción para ver videos en mejor calidad"
 
 Pero YouTube ha estado "jugando" tras bambalinas con diversas resoluciones de los videos que los usuarios suben. Por esa razón es que podemos añadir "&fmt=18" a la URL de un video, y obtener un video con una resolución de 480x270 y con audio en stereo. Y en algunos otros videos, si se añade "&fmt=22", estos aparecen aun en mayor calidad, de 1280x720 y también en stereo. Con estas opciones, si vale la pena ver videos en pantalla completa :) Les dejo este claro ejemplo de lo mencionado en el párrafo anterior:
 
-[https://www.youtube.com/watch?v=zlfKdbWwruY](https://www.youtube.com/watch?v=zlfKdbWwruY) (formato estándar - audio en mono, con resolución de 320x180)
-[https://www.youtube.com/watch?v=zlfKdbWwruY&fmt=18](https://www.youtube.com/watch?v=zlfKdbWwruY&fmt=18) (audio en stereo,
-resolución 480x270)
-[https://www.youtube.com/watch?v=zlfKdbWwruY&fmt=22](https://www.youtube.com/watch?v=zlfKdbWwruY&fmt=22) (nuevo formato - audio en
-stereo, y una resolución de 1280x720)
+[https://www.youtube.com/watch?v=zlfKdbWwruY](https://www.youtube.com/watch?v=zlfKdbWwruY) (formato estándar - audio en mono, con resolución de 320x180) [https://www.youtube.com/watch?v=zlfKdbWwruY&fmt=18](https://www.youtube.com/watch?v=zlfKdbWwruY&fmt=18) (audio en stereo, resolución 480x270) [https://www.youtube.com/watch?v=zlfKdbWwruY&fmt=22](https://www.youtube.com/watch?v=zlfKdbWwruY&fmt=22) (nuevo formato - audio en stereo, y una resolución de 1280x720)
 
 La diferencia es clara, y hasta cierto punto un alivio para la vista cansada de los internautas. Además es un paso natural que YouTube tiene que dar si quiere mantener su audiencia. A medida que aumenta el ancho de banda, se puede mejorar la resolución de los videos y agradar a mas "YouTubers".
 
@@ -12472,8 +11534,7 @@ y se añade:
 en el código que YouTube proporciona para incrustar videos (Embed)...
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SS1WaD8GtlI/AAAAAAAABdY/KRT_MPtehDo/s320/embedvideocodigo.jpg)    
-"Código para incrustar
-videos en paginas web"
+"Código para incrustar videos en paginas web"
 
 Veamos la calidad de los videos incrustados, con un ejemplo, el cover de la canción "Girls Just Wanna Have Fun"(de Cindy Lauper) interpretada por The Killers:
 
@@ -12496,9 +11557,7 @@ draft: false
 post_id: blog-3515952828243908885.post-3289853482720812936
 ---
 
-![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SuJ5sYPGDtI/AAAAAAAAGEE/sN8caM4EpFk/s400/gappengine.gif)    
-"Logotipo del
-framework Google App Engine"
+![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SuJ5sYPGDtI/AAAAAAAAGEE/sN8caM4EpFk/s400/gappengine.gif)     "Logotipo del framework Google App Engine"
 
 Habiendo salido de mi tesis recientemente, me he interesado en buscar hobbies relacionados con programación y en plasmar muchas ideas de software que vinieron a mi cabeza mientras estaba ocupado haciendo el trabajo de grado. Uno de los inconvenientes que tenemos los desarrolladores Java es que no existen en internet tantas alternativas para hosting de aplicaciones así como la gran variedad disponible para el Stack LAMP (Linux/Apache/Mysql/PHP).
 
@@ -12515,8 +11574,7 @@ Lo único a tener en cuenta es que nada mas puedes subir 10 aplicaciones como m�
 Otro tema que me llamó la atención al navegar entre las soluciones de desarrollo de google fue el GWT, [Google Web Toolkit](https://code.google.com/webtoolkit/). Este es un framework visual para apps web que te permite desarrollar aplicaciones sin la necesidad de escribir HTML o Javascript, generándolo todo desde clases Java. Es un framework bastante joven comparado con JSF, Struts o Tapestry pero teniendo el respaldo de google puede llegar lejos, ademas la idea de no escribir HTML será un alivio para muchos desarrolladores web que no saben mucho de estructuración y decoración de sitios web con HTML/CSS y desean una solución rápida y sencilla para sus interfaces. Al igual que con el App Engine Framework, Google apuesta nuevamente por eclipse brindando soporte para la creación de proyectos de GWT mediante asistentes y el uso de un navegador embedido que te permite realizar pruebas de tus aplicaciones sin necesidad de hacer deploy.
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SuKFrnovl0I/AAAAAAAAGEM/Ri5ZYz6R2lo/s400/sampleGWTapp.png)    
-"Aplicación de ejemplo de
-uso de GWT, creada a partir de un proyecto web de eclipse con el plugin de GWT y App Engine. En la captura pueden apreciar el browser embedido que incluye el framework de GWT."
+"Aplicación de ejemplo de uso de GWT, creada a partir de un proyecto web de eclipse con el plugin de GWT y App Engine. En la captura pueden apreciar el browser embedido que incluye el framework de GWT."
 
 Cabe mencionar que GWT puede ser usado nada más para generar el HTML/Javascript de un sitio, usando cualquier otro lenguaje de programación del lado del server. Como ellos bien lo mencionan, este puede ser usado para generar front-ends en aplicaciones Ruby, Python, etc. Además es full Ajax-enabled trabajando de forma transparente con invocaciones a código del lado del servidor hecho con Java y mediante el uso de XML-RPC para otros lenguajes.
 
@@ -12535,15 +11593,13 @@ Continuando con el tema de la [Ciencia Ficción](https://www.srbyte.com/2009/09/
 
 1. Avatar: Avatar es la historia de un ex-soldado naval, que se ve envuelto entre las hostilidades de un planeta alienígena lleno de formas de vidas exóticas. El, como un Avatar, es decir, una mente humana en un cuerpo alienígena ([más información sobre el concepto de Avatar acá](https://es.wikipedia.org/wiki/Avatar_%28desambiguaci%C3%B3n%29)), se encuentra entre dos mundos, en una desesperante lucha por su propia supervivencia y la de la especie nativa de ese planeta...
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SqmxbY8jvdI/AAAAAAAACKo/hD6lPxDgoXY/s320/avatar-poster.jpg)    
-El director, James Cameron, mejor conocido por dirigir películas como Titanic, [El Secreto del Abismo](https://www.youtube.com/watch?v=lJyRF0Fzl9Y) y Terminator 2, ha pasado los últimos 10 años trabajando en la realización de este genial filme.
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SqmxbY8jvdI/AAAAAAAACKo/hD6lPxDgoXY/s320/avatar-poster.jpg)     El director, James Cameron, mejor conocido por dirigir películas como Titanic, [El Secreto del Abismo](https://www.youtube.com/watch?v=lJyRF0Fzl9Y) y Terminator 2, ha pasado los últimos 10 años trabajando en la realización de este genial filme.
 
 Más información sobre [Avatar en Rotten Tommatoes](https://www.rottentomatoes.com/m/avatar/).
 
 2. Tron Legacy: Más de 25 años después de la [película de culto](https://www.youtube.com/watch?v=QPON5i7Iivw) [Tron](https://www.youtube.com/watch?v=3efV2wqEjEY), aparece una secuela que nos introduce el mundo neón de Tron, con nuevos retos, dificultades, una historia seguramente genial y fantástica, y efectos especiales para degustar la vista...
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SqmxcNCQo4I/AAAAAAAACK4/7y1rPshFKQE/s320/tron-legacy.jpg)    
-Despues de todo, 25 años han pasado desde la original; y también esos años han pasado en el universo de Tron, así que Tron obtuvo un masivo upgrade ;)
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SqmxcNCQo4I/AAAAAAAACK4/7y1rPshFKQE/s320/tron-legacy.jpg)     Despues de todo, 25 años han pasado desde la original; y también esos años han pasado en el universo de Tron, así que Tron obtuvo un masivo upgrade ;)
 
 ¿No les encanta el sonido de las motos? :D
 
@@ -12551,8 +11607,7 @@ Más información de [Tron Legacy en IMDB](https://www.imdb.com/title/tt1104001/
 
 3. District 9: El maestro Peter Jackson produce este filme de ciencia ficción por excelencia, con el debut espectacular de Neill Blomkamp como director...
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/Sqmxb6qgjYI/AAAAAAAACKw/15Hz7MJHWb4/s320/distric9.jpg)    
-District 9 es brillante desde cualquier perspectiva, tiene una historia llena de riqueza técnica y emocional, con efectos especiales en cada escena, pero cuidadosa y exquisitamente medidos hacen de esta película, sin lugar a dudas, una de las MEJORES películas de ciencia ficción de esta decada. Es una analogía entre la mera violencia y la nobleza parte de nuestra naturaleza. Discriminación, abuso de fuerza, avaricia, amor, difamacion y amistad son solo algunos temas profunamente incrustados en la trama...
+![image](https://3.bp.blogspot.com/_ayvorITawE4/Sqmxb6qgjYI/AAAAAAAACKw/15Hz7MJHWb4/s320/distric9.jpg)     District 9 es brillante desde cualquier perspectiva, tiene una historia llena de riqueza técnica y emocional, con efectos especiales en cada escena, pero cuidadosa y exquisitamente medidos hacen de esta película, sin lugar a dudas, una de las MEJORES películas de ciencia ficción de esta decada. Es una analogía entre la mera violencia y la nobleza parte de nuestra naturaleza. Discriminación, abuso de fuerza, avaricia, amor, difamacion y amistad son solo algunos temas profunamente incrustados en la trama...
 
 Más información de [District 9 en IMDB](https://www.imdb.com/title/tt1136608/). Espero que estas peliculas les gusten, saludos!
 
@@ -12568,32 +11623,28 @@ post_id: blog-3515952828243908885.post-8708910136689830358
 ---
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/Siymb7gqwCI/AAAAAAAAFtA/d-rNTzrK0NM/s400/browsers.png)    
-"Logotipos de los
-navegadores mas populares del mercado: Firefox, Internet Explorer, Safari, Opera y Chrome"
+"Logotipos de los navegadores mas populares del mercado: Firefox, Internet Explorer, Safari, Opera y Chrome"
 
 Todo diseñador-desarrollador web ha tenido que lidiar mas de alguna vez con el HTML, el CSS, el Javascript o el DOM de las páginas web, para retocar detalles de apariencia o el funcionamiento del lado del cliente. Aún bloggers con pocos conocimientos de desarrollo web se han aventurado a modificar el CSS de sus blogs para adaptar las plantillas a sus necesidades personales. Los que han pasado estas experiencias también sabrán lo molesto que es tener que comprobar que tus modificaciones se ven y funcionan igual en todos los browsers desde los cuales tus clientes-usuarios-lectores te visitan.
 
 Porque sucede esto? Sucede porque no todos los navegadores web cumplen a cabalidad con los estándares definidos para el web. Además cada navegador quiere sobresalir implementando sus propios estándares para poder hacer más cosas que las demas. Ejemplo de ello son las propiedades CSS que inician con el prefijo -moz- o -webkit-
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/Si810qCVfQI/AAAAAAAAFtI/7Ki22CkyW1k/s400/acid3.png)    
-"Prueba del Acid3. Asi es
-como deberias ver esta imagen al visitar [este sitio](https://acid3.acidtests.org/) si es que tu browser cumple con los estándares aca impelemtados."
+"Prueba del Acid3. Asi es como deberias ver esta imagen al visitar [este sitio](https://acid3.acidtests.org/) si es que tu browser cumple con los estándares aca impelemtados."
 
 Para estar seguro que tu sitio se ve bien en cualquier navegador, sugiero estas tres alternativas:
 
 - Usa Frameworks que te Aseguren la Independencia del Navegador
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/Si9cXLdcggI/AAAAAAAAFtQ/tzNWPRRxoWU/s400/csstest.png)    
-"Página de prueba de la alineación y apariencia
-de los elementos de un formulario, usando Blueprints"
+"Página de prueba de la alineación y apariencia de los elementos de un formulario, usando Blueprints"
 
 - Usa Herramientas para Probar tu Sitio en Multiples Navegadores/Arquitecturas
 
 - Crea una Versión Diferente de tu Sitio por cada Navegador/Arquitectura
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/Si9zN0PgSGI/AAAAAAAAFtY/zZq57EAwPS8/s400/nokiatwitter.jpg)    
-"Versión mobil de Twitter,
-visualizada desde un Nokia n95"
+"Versión mobil de Twitter, visualizada desde un Nokia n95"
 
 Debido a estas diferencias entre los navegadores, existen muchos sitios que solo son capaces de funcionar o lucir bien en uno u otro navegador, de manera que cuando lo visualizas en cualquier otro el sitio es un completo desastre, como los listados en [este sitio](https://toastytech.com/good/badsitelistframe.html).
 
@@ -12612,25 +11663,20 @@ post_id: blog-3515952828243908885.post-3928495759971467839
 
 Revisando algunos tweets de la semana pasada, encontré algunos tweets de sitios que hacen un mash-up muy interesante de [Twitter](https://www.srbyte.com/2008/09/y-para-qu-te-puede-servir-twitter.html) y algún otro servicio Web...
 
-[@marlonmelara](https://twitter.com/marlonmelara) comparte[en su blog](https://www.entreotrascosas.com/): [Twittas?](https://twittas.com/), un servicio que, entre otras cosas,[permite localizar en un mapa a tus followers](https://twittas.com/mapf/), y
-[cuando llegaras al millón de seguidores](https://twittas.com/1million/).
+[@marlonmelara](https://twitter.com/marlonmelara) comparte[en su blog](https://www.entreotrascosas.com/): [Twittas?](https://twittas.com/), un servicio que, entre otras cosas,[permite localizar en un mapa a tus followers](https://twittas.com/mapf/), y [cuando llegaras al millón de seguidores](https://twittas.com/1million/).
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/ShhvNh2ocpI/AAAAAAAAB-4/5JRUxhHZLCc/s320/logov1.jpg)    
-"Quizas lo mejor de
-Twittas?, es el mapa para ver tus followers."
+"Quizas lo mejor de Twittas?, es el mapa para ver tus followers."
 
-[@sinrevelar](https://twitter.com/sinrevelar) tiene en su twittpic
-una captura de [Twoogle](https://twoogle.browsys.com/), que es un sitio que permite buscar en Twitter y en Google todo desde la misma pagina, mostrando los resultados simultáneamente. Twoogle apunta a realizar poderosas búsquedas combinando las características de tiempo real de Twitter y la relevancia de contenido de Google.
+[@sinrevelar](https://twitter.com/sinrevelar) tiene en su twittpic una captura de [Twoogle](https://twoogle.browsys.com/), que es un sitio que permite buscar en Twitter y en Google todo desde la misma pagina, mostrando los resultados simultáneamente. Twoogle apunta a realizar poderosas búsquedas combinando las características de tiempo real de Twitter y la relevancia de contenido de Google.
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/ShhvN5oS63I/AAAAAAAAB_A/hv5TgCxby0A/s320/8810177-c106d49f796b79d46e0b60271d86d002.4a1816f8-full.png)    
-"Busca en Twitter y Google,
-simultáneamente ;)"
+"Busca en Twitter y Google, simultáneamente ;)"
 
 Y finalmente, encontré [VisibleTweets.com](https://visibletweets.com/), que es una pagina para visualizar tweets, esta mini-aplicación, permite buscar twitts marcados con [#hashtags](https://hashtags.org/) específicos, y los muestra con varias interesantes y muy buenas animaciones, sigan a [@visibletweets](https://twitter.com/visibletweets/) para estar pendiente del sitio.
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/ShhvNQFW2QI/AAAAAAAAB-w/pVUGF08N_wI/s320/visibletwitts.jpg)    
-"VisibleTweets: Twitts +
-Animaciones."
+"VisibleTweets: Twitts + Animaciones."
 
 ¿Tienes otro servicio interesante que use contenido de Twitter?, Compartelo!
 
@@ -12649,8 +11695,7 @@ La idea de integrar Pidgin y Twitter, es algo en lo que he pensado mucho las ult
 
 Dicho proyecto se llama: [Microblog-Purple](https://code.google.com/p/microblog-purple/). La idea del proyecto es dotar a las librerías de Pidgin el soporte para integrarse con Twitter. Con el complemento instalado y activado, el usuario puede agregar una cuenta de tipo Twitter a Pidgin e inmediatamente Twitter aparece como un nuevo contacto más con quien se puede "chatear":
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SRhHVLoWD3I/AAAAAAAABaI/P2zJJ6bh4uc/s320/pidgintwitt.png)    
-Además de estar disponible el instalador para Windows y el código fuente para compilarlo uno mismo, existe un repositorio para instalarlo fácilmente en Ubuntu Hardy e Intrepid.
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SRhHVLoWD3I/AAAAAAAABaI/P2zJJ6bh4uc/s320/pidgintwitt.png)     Además de estar disponible el instalador para Windows y el código fuente para compilarlo uno mismo, existe un repositorio para instalarlo fácilmente en Ubuntu Hardy e Intrepid.
 
 - Para instalarlo en Ubuntu sigue las instrucciones explicadas [aquí](https://www.genbeta.com/2008/11/10-microblog-purple-twitter-integrado-en-pidgin).
 - Para descargar Microblog-Purple para [Windows, click aquí](https://code.google.com/p/microblog-purple/).
@@ -12673,16 +11718,14 @@ post_id: blog-3515952828243908885.post-751141320540897991
 ---
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RiekAVLpwcI/AAAAAAAAARw/A4wFXeowxso/s400/my-bu-704.jpg)    
-"Ubuntu 7.04 (imagen tomada
-de engadget)"
+"Ubuntu 7.04 (imagen tomada de engadget)"
 
 Ya se puede conseguir la versión más reciente de Ubuntu 7.04 "Feisty Fawn"... el problema es que todo mundo quiere una también.
 > Existe una caída de los servidores de Ubuntu.com por la demanda de
 > la descarga.
 Velocidad baja de transferencia, la respuesta lenta del sitio y ocasionales errores 503 son los síntomas que se presentan... parece que ni siquiera la gente de Ubuntu estaba preparada para la demanda de una de las distribuciones mas populares de GNU\Linux del mundo.[https://www.ubuntu.com/GetUbuntu/releasenotes/704](https://www.ubuntu.com/GetUbuntu/releasenotes/704)
 
-[Las notas de la nueva versión 7.04](https://www.ubuntu.com/GetUbuntu/releasenotes/704) están disponibles, así como la [pagina de descargase](https://releases.ubuntu.com/feisty/). A los usuarios se
-les advierte de todos estos síntomas y se recomienda el uso de [Bittorrent](https://srbyte.blogspot.com/2007/03/bittorrent-todo-mundo-ama-bittorrent.html) para descargar la imagen. Si aun así prefieren una descarga directa, usen esta lista de [mirrors](https://www.ubuntu.com/getubuntu/downloadmirrors) para elegir el servidor mas cercano a su ubicación. Entre las mejoras de la nueva versión están un mejor soporte para multimedia y dispositivos inalámbricos (wireless), un kit de migración a Windows para hacer las cosas mas fáciles para los usuarios que tienen arranque dual.
+[Las notas de la nueva versión 7.04](https://www.ubuntu.com/GetUbuntu/releasenotes/704) están disponibles, así como la [pagina de descargase](https://releases.ubuntu.com/feisty/). A los usuarios se les advierte de todos estos síntomas y se recomienda el uso de [Bittorrent](https://srbyte.blogspot.com/2007/03/bittorrent-todo-mundo-ama-bittorrent.html) para descargar la imagen. Si aun así prefieren una descarga directa, usen esta lista de [mirrors](https://www.ubuntu.com/getubuntu/downloadmirrors) para elegir el servidor mas cercano a su ubicación. Entre las mejoras de la nueva versión están un mejor soporte para multimedia y dispositivos inalámbricos (wireless), un kit de migración a Windows para hacer las cosas mas fáciles para los usuarios que tienen arranque dual.
 
 ---
 
@@ -12697,8 +11740,7 @@ post_id: blog-3515952828243908885.post-1840591703957484055
 
 Los blogs no son "una moda pasajera de jóvenes", son - usados sabiamente - más bien una robusta plataforma en donde virtualmente cualquier tipo de negocios, puede cosechar beneficios casi inmediatamente...
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SPgEdoxR1aI/AAAAAAAABV4/NbrTeg1uuCA/s320/blog-blogging.jpg)    
-"¿Qué esperas para tener un blog?"
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SPgEdoxR1aI/AAAAAAAABV4/NbrTeg1uuCA/s320/blog-blogging.jpg)     "¿Qué esperas para tener un blog?"
 
 Si tu negocio no tiene un blog, o tienes dudas sobre porque deberías de tenerlo, quizás este articulo te ayude un poco a mejorar tus ideas, sigue leyendo ;)
 
@@ -12706,8 +11748,7 @@ Si tu negocio no tiene un blog, o tienes dudas sobre porque deberías de tenerlo
 
 Esta es una pequeña explicación (en Ingles) de qué es un blog:
 
-"Video: Blogs in Plain
-English"
+"Video: Blogs in Plain English"
 
 Los blogs pueden entrar en dos categorías:
 
@@ -12727,9 +11768,7 @@ Los blogs de negocios están obteniendo lucro de la popularidad de este fenómen
 - Actualizar un blog, es un proceso más rápido que contactar a un diseñador web para cambiar información del sitio. Hasta para cambiar el diseño, basta con dar un par de clicks y se cambia todo el aspecto del mismo.
 - El software que te permite escribir en un blog es de lo más sencillo de usar. Compañías como [Movable Type](https://www.moveabletype.org/), [Blogger](https://blogger.com/) y Typepad ofrecen una plataforma con mucha flexibilidad y sin complicaciones para comenzar a escribir en el blog sobre tu negocio... ![image](https://www.majordojo.com/images/mt4-logo.png)    También puede ser un poderoso punto de beneficio para consultores, puesto que les permite exponer sus ideas, pensamientos, experiencias y conocimiento (no todo, por supuesto, sino no seria negocio) para darse a conocer en un mercado global.
 
-Ejemplos de blogs de negocios:
-[Gizmodo](https://gizmodo.com/) es un blog sobre cualquier dispositivo tecnológico que se puedan
-imaginar, o como se les suele llamar: gadgets y gizmos. Gizmodo es como una revista web, y han construido una audiencia especial de consumidores de dispositivos electrónicos a quienes dirigen los anuncios y la publicidad que les hace ganar dinero. [Joel on Software](https://www.joelonsoftware.com/) es un blog que muestra las opiniones y el (inmenso) conocimiento de Joel Spolsky's sobre el desarrollo de software. Su blog, actúa como muestra de la experiencia que Joel tiene, y sirve para promover su pequeño negocio: Fog Creek Software.
+Ejemplos de blogs de negocios: [Gizmodo](https://gizmodo.com/) es un blog sobre cualquier dispositivo tecnológico que se puedan imaginar, o como se les suele llamar: gadgets y gizmos. Gizmodo es como una revista web, y han construido una audiencia especial de consumidores de dispositivos electrónicos a quienes dirigen los anuncios y la publicidad que les hace ganar dinero. [Joel on Software](https://www.joelonsoftware.com/) es un blog que muestra las opiniones y el (inmenso) conocimiento de Joel Spolsky's sobre el desarrollo de software. Su blog, actúa como muestra de la experiencia que Joel tiene, y sirve para promover su pequeño negocio: Fog Creek Software.
 
 [Jupiter Research](https://weblogs.jupiterresearch.com/) una compañía que va a la vanguardia de las investigaciones y análisis de mercados, tienen un blog por cada analista de la compañía. Esto les permite que los analistas se "conecten" periódicamente con la audiencia que los lee (clientes en potencia).
 
@@ -12758,12 +11797,9 @@ Una vez ya instalado, el programa corre sin ningún problema y despliega una pan
 
 En la parte superior, se muestran un total de ocho herramientas diferentes, las cuales facilitan y ayudan al usuario al momento de seleccionar, cortar o duplicar alguna parte de la pista que está trabajando. Cabe mencionar que, según la acción que se esté realizando, las herramientas aparecen activas.
 
-![image](https://1.bp.blogspot.com/_JbB9KsZ238w/SSonxN386xI/AAAAAAAAAQQ/-S41eHbxv_c/s320/captura+2.JPG)    
-En la captura se observa la diferencia entre el área de trabajo el área de archivos. Específicamente en el área de archivos, se despliega otra pestaña llamada "Efectos", que permite al usuario tener un atajo para la aplicación de los diferentes efectos. Entre ellos, la amplitud, efectos de retardo, especial, filtros, restauración, tiempo/tonos y los efectos de multiplistas.
+![image](https://1.bp.blogspot.com/_JbB9KsZ238w/SSonxN386xI/AAAAAAAAAQQ/-S41eHbxv_c/s320/captura+2.JPG)     En la captura se observa la diferencia entre el área de trabajo el área de archivos. Específicamente en el área de archivos, se despliega otra pestaña llamada "Efectos", que permite al usuario tener un atajo para la aplicación de los diferentes efectos. Entre ellos, la amplitud, efectos de retardo, especial, filtros, restauración, tiempo/tonos y los efectos de multiplistas.
 
-A diferencia del Cool Edito Pro, el Adobe Audition presenta un botón que envía al usuario a una segunda área de trabajo, en la cual es posible editar más de dos pistas. Esta es la famosa aplicación multipistas.
-![image](https://4.bp.blogspot.com/_JbB9KsZ238w/SSouU7-8ffI/AAAAAAAAAQg/NoLeJqu_Sjw/s320/captura+3.JPG)    
-Esta aplicación es de gran utilidad cuando el usuario necesita mezclar diversos sonidos y fundirlos en uno solo de manera previa. Cada banda de edición cuenta con su propia área de ecualización y de mezcla, lo cual hace más facil operar los niveles de volumen de los sonidos.
+A diferencia del Cool Edito Pro, el Adobe Audition presenta un botón que envía al usuario a una segunda área de trabajo, en la cual es posible editar más de dos pistas. Esta es la famosa aplicación multipistas. ![image](https://4.bp.blogspot.com/_JbB9KsZ238w/SSouU7-8ffI/AAAAAAAAAQg/NoLeJqu_Sjw/s320/captura+3.JPG)     Esta aplicación es de gran utilidad cuando el usuario necesita mezclar diversos sonidos y fundirlos en uno solo de manera previa. Cada banda de edición cuenta con su propia área de ecualización y de mezcla, lo cual hace más facil operar los niveles de volumen de los sonidos.
 
 En la parte inferior, el programa ofrece una visualización más amplia de las aplicaciones, especialmente, los niveles de ecualización de la música y los sonidos con los cuales el usuario se encuentra trabajando.
 
@@ -12782,9 +11818,7 @@ post_id: blog-3515952828243908885.post-5488626534291677829
 
 Entrada de tipo personal:
 
-![image](https://lh5.google.com/image/Ramayac/RjiW5UK33xI/AAAAAAAAAVw/uqp-8c0HEFI/s800/last_ch.gif)  
-"Calvin and Hobbes"
-Gracias Señor: por un año mas de vida. Gracias por la familia, por los amigos y porque cuando abrí los ahora en la mañana sentí que todo era nuevo... y cada día (en efecto) lo es.
+![image](https://lh5.google.com/image/Ramayac/RjiW5UK33xI/AAAAAAAAAVw/uqp-8c0HEFI/s800/last_ch.gif)   "Calvin and Hobbes" Gracias Señor: por un año mas de vida. Gracias por la familia, por los amigos y porque cuando abrí los ahora en la mañana sentí que todo era nuevo... y cada día (en efecto) lo es.
 
 "Count yout garden by the flowers;
 
@@ -12819,20 +11853,17 @@ Software Libre NO es lo mismo que OpenSource (código abierto), y aunque son por
 
 Veamos un "pequeño" diagrama de la fauna de categorías de software (click para verlo más grande):
 
-![image](https://www.gnu.org/philosophy/category.es.png)  
-Este diagrama ha sido diseñado por Chao-Kuei para explicar las diferentes categorías de software.
+![image](https://www.gnu.org/philosophy/category.es.png)   Este diagrama ha sido diseñado por Chao-Kuei para explicar las diferentes categorías de software.
 
 Si quieres decir que un programa es software libre, por favor no digas que está disponible "gratuitamente" o "de forma gratuita". Ya que esas expresiones concretas pueden ser asociadas con un precio nulo (precio cero) y nuevamente el software libre es una cuestión de libertad, no de precio (aunque el software libre puede ser cargado con un arancel monetario o cobrando una cantidad por la distribución).
 
 Como alguna vez dije (y muchos mas dijeron también) el software libre es una bendición para los países "en vías de desarrollo" (¡hay que ser positivos!). Pero un proyecto de software libre es como un pequeño cachorro, si leyeron bien.
 
-![image](https://bp3.blogger.com/_ayvorITawE4/Rb9QtzD_h5I/AAAAAAAAABg/m6EqFC1DoUA/s400/puppy.jpg)    
-Un pequeño cachorro que hay que alimentar, cuidar y toma años para que crezca. Así que, para todos ustedes fanáticos de windows, si alguna vez por la web se cruzan con un software libre que les interesa, lo bajan e instalan (suponiendo que este disponible para windows) y este apenas en una versión beta o alpha: no pueden, repito, no pueden criticarlo.
+![image](https://bp3.blogger.com/_ayvorITawE4/Rb9QtzD_h5I/AAAAAAAAABg/m6EqFC1DoUA/s400/puppy.jpg)     Un pequeño cachorro que hay que alimentar, cuidar y toma años para que crezca. Así que, para todos ustedes fanáticos de windows, si alguna vez por la web se cruzan con un software libre que les interesa, lo bajan e instalan (suponiendo que este disponible para windows) y este apenas en una versión beta o alpha: no pueden, repito, no pueden criticarlo.
 
 O acaso ¿criticas a un cachorro (de un mes de edad) que llevas a la casa porque no pueda ir a traer: el periódico, tus chanchletas y una Kolashampan cuando suenes tus dedos? No, con los proyectos de software libre hay que esperar: por el tiempo para hacer las cosas, para conseguir dinero, equipo o personas, recursos en general... y aun así hay programas/proyectos fantásticos como: amaroK, Blender, KDE, Gnome, Enlightenment, Xgl, PyGame, iFolder, NUnit, Beaggle, etc que pueden hacer "trucos" realmente buenos...
 
-![image](https://bp0.blogger.com/_ayvorITawE4/Rb9SBDD_h6I/AAAAAAAAABo/-8fT2qC3DmQ/s400/puppy2.jpg)    
-El problema es que muchos proyectos quedan como cachorros, y no pueden salir adelante, por falta de apoyo en lo que necesiten. Y quien sabe, quizás la próxima herramienta que necesites este entre ellos...
+![image](https://bp0.blogger.com/_ayvorITawE4/Rb9SBDD_h6I/AAAAAAAAABo/-8fT2qC3DmQ/s400/puppy2.jpg)     El problema es que muchos proyectos quedan como cachorros, y no pueden salir adelante, por falta de apoyo en lo que necesiten. Y quien sabe, quizás la próxima herramienta que necesites este entre ellos...
 
 ---
 
@@ -12845,8 +11876,7 @@ draft: false
 post_id: blog-3515952828243908885.post-8311296546419745089
 ---
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SM2-CTy9_UI/AAAAAAAABP4/hHrgVFM8ZcY/s320/Chrome_nav_150x75.jpg)    [El nuevo navegador de Google](https://www.srbyte.com/2008/09/navegador-web-de-google.html) ha logrado llenar la web de opiniones y un sin fin de expectativas:
-¿Destronara a IE?, ¿Erradicara a Firefox? y podemos añadir un sin fin de comentarios y "twits" de anuncian el fin, o el principio del fin, para los principales navegadores. De toda eso ya se pueden encontrar mucho en Internet, de lo que nadie habla, es de Google Chrome desde el punto de vista de un Desarrollador de Software. Pues bien, para eso estamos ;)
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SM2-CTy9_UI/AAAAAAAABP4/hHrgVFM8ZcY/s320/Chrome_nav_150x75.jpg)    [El nuevo navegador de Google](https://www.srbyte.com/2008/09/navegador-web-de-google.html) ha logrado llenar la web de opiniones y un sin fin de expectativas: ¿Destronara a IE?, ¿Erradicara a Firefox? y podemos añadir un sin fin de comentarios y "twits" de anuncian el fin, o el principio del fin, para los principales navegadores. De toda eso ya se pueden encontrar mucho en Internet, de lo que nadie habla, es de Google Chrome desde el punto de vista de un Desarrollador de Software. Pues bien, para eso estamos ;)
 
 ¿Si Google Chrome es Open Source, donde esta el código? Seamos exactos: NO hay código de Google Chrome. Lo que si esta disponible es el codigo de Google Chromium. Podemos decir con toda propiedad que:
 
@@ -12856,8 +11886,7 @@ post_id: blog-3515952828243908885.post-8311296546419745089
 La primera parada para los incrédulos es revisar la guía de documentación de Chromium en [dev.chromium.org](https://dev.chromium.org/)....
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SM2_wG05awI/AAAAAAAABQQ/sr072SSnQ-Q/s320/chormium.png)    
-"El logo de Chormium es en
-escala de azules."
+"El logo de Chormium es en escala de azules."
 
 Así es amigos y amigas, "Chormium" es el nombre de la versión open source de Chrome, y Chrome a su vez, es la versión oficial y estable de Google.
 
@@ -12876,9 +11905,7 @@ Lo que si es cierto, es que la versión de Chrome para Windows esta diseñada pa
 
 Puntualizando: no esperen una versión para Mac o Linux en algún momento cercano, simplemente, falta mucho para que eso suceda.
 
-Quiero descargar el código y compilarlo: ¿vale la pena?
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SM3BVvq9bVI/AAAAAAAABQY/2PugazfGiTU/s200/subversion_logo-384x332.png)    No, obtener el
-código es mas difícil de solo de dar un click y descargar. Por que además de eso, hay que instalar las librerias que "la solucion" demanda, y tambien hay que instalar una serie de scripts que permiten el [acceso al repositorio SVN](https://www.srbyte.com/2008/03/programemos-mejor-subversion.html) de Chromium. Si bien son scripts para la consola, se sienten lo suficientemente familiares para cualquier desarrollador con un poco de experiencia. Lo que implica trabajar con un repositorio SVN, es que se obtiene la ultima versión del código, pero obtenerlo en estos momentos, me parece un poco ridículo, porque Chomium es un proyecto en constante movimiento. Sin mencionar que el código es terriblemente pesado y puede alcanzar cerca de 2.4 GB de código, incluyendo pruebas para depurar WebKit (el renderizador de las paginas web). Solo el código de Chromium mide cerca de 500 MB comprimido. Repito, no, no vale la pena descargar el código e intentar compilarlo. Si desean aprender a compilar proyectos ajenos, comiencen compilando archivos ".tar.gz" pequeños, luego el Kernel de Linux, Mozilla Firefox, y finalmente KDE o GNOME.
+Quiero descargar el código y compilarlo: ¿vale la pena? ![image](https://3.bp.blogspot.com/_ayvorITawE4/SM3BVvq9bVI/AAAAAAAABQY/2PugazfGiTU/s200/subversion_logo-384x332.png)    No, obtener el código es mas difícil de solo de dar un click y descargar. Por que además de eso, hay que instalar las librerias que "la solucion" demanda, y tambien hay que instalar una serie de scripts que permiten el [acceso al repositorio SVN](https://www.srbyte.com/2008/03/programemos-mejor-subversion.html) de Chromium. Si bien son scripts para la consola, se sienten lo suficientemente familiares para cualquier desarrollador con un poco de experiencia. Lo que implica trabajar con un repositorio SVN, es que se obtiene la ultima versión del código, pero obtenerlo en estos momentos, me parece un poco ridículo, porque Chomium es un proyecto en constante movimiento. Sin mencionar que el código es terriblemente pesado y puede alcanzar cerca de 2.4 GB de código, incluyendo pruebas para depurar WebKit (el renderizador de las paginas web). Solo el código de Chromium mide cerca de 500 MB comprimido. Repito, no, no vale la pena descargar el código e intentar compilarlo. Si desean aprender a compilar proyectos ajenos, comiencen compilando archivos ".tar.gz" pequeños, luego el Kernel de Linux, Mozilla Firefox, y finalmente KDE o GNOME.
 
 Pero si aun así, siguen de necios, [aquí están las instrucciones](https://dev.chromium.org/developers/how-tos/build-instructions-windows).
 
@@ -12887,8 +11914,7 @@ El código fuente: El código, hasta donde lo vi (si, lo descargue, pero NO lo c
 Notas Finales: Por ser un Beta, no esperen grandes cosas aún de Google Chrome/Chromium. Personalmente no me agrado darme cuenta de la "movida" de Google al dividir su proyecto en una versión "pulida y comercial" y en otra que no lo es tanto. Desde un punto de vista comercial, es sabio y conveniente hacerlo así. Pero por un breve instante, que confieso: fue muuuuy ingenuo de mi parte, quería que Google Chrome fuera en su totalidad Open Source. Si bien Google Chrome es una interesante propuesta es solo
 > ...otro navegador web más.
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SM2-vr0AjBI/AAAAAAAABQI/VkDhdlHtAJ0/s320/googlechrome_450x257.jpg)    
-"Así es, Chrome es solamente
-otro navegador web mas."
+"Así es, Chrome es solamente otro navegador web mas."
 
 Ni siquiera Microsoft se ha podido deshacer aún de IE 6, mucho menos Chrome podrá erradicar de la faz de la tierra a Opera, Safari, IE y a Firefox. ¿Pronosticos?, reservado... ¿por qué? Simple porque Chrome es beta, y nadie en su sano juicio demanda, exige o emite pronósticos de software de un beta "0.2"; como se haría con un producto completo. Ahora, como Desarrollador Web bueno, esa es otra historia que se comentará luego ...
 
@@ -12907,8 +11933,7 @@ post_id: blog-3515952828243908885.post-6368577229254448922
 
 Si aún continuas jugando los [juegos de NES que te recomendamos](https://www.srbyte.com/2008/12/feliz-navidad.html) y te quedaste con el ambiente de los antiguos juegos de vídeo 8 bits, pues acá te dejamos aún mas material para que continúes lo que queda de la época navideña escuchando villancicos en 8 bits, igual que tus juegos de Atari-Nintendo de esas épocas.
 
-![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SVR0AhTQgMI/AAAAAAAAFm0/SgUTq_KKX8Y/s400/8bitjesusfullsmall.jpg)    
-La colección en sí se llama 8-Bit Jesus, y consiste en una recopilación de los tradicionales villancicos que las personas suelen cantar o reproducir en sus aparatos de sonido, solo que esta vez elaborados con sonidos en 8 bits.
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SVR0AhTQgMI/AAAAAAAAFm0/SgUTq_KKX8Y/s400/8bitjesusfullsmall.jpg)     La colección en sí se llama 8-Bit Jesus, y consiste en una recopilación de los tradicionales villancicos que las personas suelen cantar o reproducir en sus aparatos de sonido, solo que esta vez elaborados con sonidos en 8 bits.
 
 Elaborados por [Doctor Octoroc](https://www.doctoroctoroc.com/) y liberados gratuitamente para que los puedas descargar y escuchar en tu computadora. A continuación te dejamos el link para que los puedas descargar compilados en un archivo .zip:
 
@@ -12937,8 +11962,7 @@ Debido a esto, [Will Savage](https://www.willsavage.com/) ha elaborado una muy i
 
 P.D. Esta campaña solamente una broma, los geeks no necesitamos visitas en casa, suficiente con twitter y la mensajería instantánea xD. Hay tantas otras personas que realmente pasan una navidad/año nuevo o cualquier celebración de una manera solitaria a la cual no caería mal que le hiciéramos una visita al estilo ImprovEverywhere:
 
-"Improv
-Everywhere en sus inicios, the Hug Patrol"
+"Improv Everywhere en sus inicios, the Hug Patrol"
 
 Les queda abierta la iniciativa para dar mas que recibir en estas fiestas que se acercan.
 
@@ -12983,15 +12007,13 @@ Pero de toda esta información que existen en Internet...¿Quien ordena estos da
 con Etiquetas (Tags), que son palabras claves, así se vuelve mas fácil las búsquedas y lo más buscado se vuelve más importante.
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RiLnUPXLh6I/AAAAAAAAAQ0/Oo7FZv6HkKQ/s320/800px-Web_2.0_Map.svg.png)    
-"Nube de etiquetas, Web 2.0"
-Así se "enseña" a la maquina que mostrar cuando lo pedimos. Así la red se vuelve personal, se llena de nuestras preferencias y gustos, se vuelve como nosotros, porque...
+"Nube de etiquetas, Web 2.0" Así se "enseña" a la maquina que mostrar cuando lo pedimos. Así la red se vuelve personal, se llena de nuestras preferencias y gustos, se vuelve como nosotros, porque...
 
 > nosotros la ordenamos como
 > queremos.
 Esto es la Web 2.0, es acerca de vincular gustos, unir personas... que comparten, intercambian y colaboran (como el caso de Wikipedia). Se refiere a una serie de servicios (de segunda generación, por eso el 2.0) de red, como sitios de redes sociales, herramientas de comunicación y demás... con énfasis en el trabajo en linea y la interacción social entre los usuarios. Lo que plantea la re-definición de privacidad, derechos de autor (solucionado con [Creative Commons](https://srbyte.blogspot.com/2007/03/qu-es-creative-commons.html)), ética. Dejo el vídeo que me inspiro a hacer este articulo, como esta bajo licencia Creative Commons, me tome la libertad de usarlo como guía.
 
-[https://www.youtube.com/v/NLlGopyXT_g](https://www.youtube.com/v/NLlGopyXT_g) [https://www.youtube.com/v/NLlGopyXT_g](https://www.youtube.com/v/NLlGopyXT_g) [https://www.youtube.com/v/NLlGopyXT_g](https://www.youtube.com/v/NLlGopyXT_g) [https://www.youtube.com/v/NLlGopyXT_g](https://www.youtube.com/v/NLlGopyXT_g) [https://www.youtube.com/v/NLlGopyXT_g](https://www.youtube.com/v/NLlGopyXT_g)
-"Web 2.0 en 5 minutos"
+[https://www.youtube.com/v/NLlGopyXT_g](https://www.youtube.com/v/NLlGopyXT_g) [https://www.youtube.com/v/NLlGopyXT_g](https://www.youtube.com/v/NLlGopyXT_g) [https://www.youtube.com/v/NLlGopyXT_g](https://www.youtube.com/v/NLlGopyXT_g) [https://www.youtube.com/v/NLlGopyXT_g](https://www.youtube.com/v/NLlGopyXT_g) [https://www.youtube.com/v/NLlGopyXT_g](https://www.youtube.com/v/NLlGopyXT_g) "Web 2.0 en 5 minutos"
 
 Hasta la próxima!
 
@@ -13006,8 +12028,7 @@ draft: false
 post_id: blog-3515952828243908885.post-2309706133110783938
 ---
 
-![image](https://bp3.blogger.com/_ayvorITawE4/SIVsUetrGlI/AAAAAAAAA7E/Ai09Gf7rn58/s400/4490.png)    [WebMail Notifier](https://addons.mozilla.org/en-US/firefox/addon/4490), es
-una [complemento/add-on](https://srbyte.blogspot.com/2008/07/qu-es-un-complementoadd-on-de-firefox.html) de [Firefox 3.0](https://srbyte.blogspot.com/2008/07/el-guiness-record-de-firefox-3.html) que revisa periódicamente diversas cuentas de correo y notifica ademas el numero de emails que tienes sin leer cada cuenta que configures. Así que si posees varias cuentas de correo electrónico, como una yahoo, otra hotmail y otra en gmail ( como yo :P ) y pasas revisando compulsivamente cada una de tus cuentas, esperando que llegue un emocionante correo...solo para darte cuenta que es una "Alerta" de Google... este complemento es definitivamente para ti. Las cuentas de correo que WebMail Notifier soporta son:
+![image](https://bp3.blogger.com/_ayvorITawE4/SIVsUetrGlI/AAAAAAAAA7E/Ai09Gf7rn58/s400/4490.png)    [WebMail Notifier](https://addons.mozilla.org/en-US/firefox/addon/4490), es una [complemento/add-on](https://srbyte.blogspot.com/2008/07/qu-es-un-complementoadd-on-de-firefox.html) de [Firefox 3.0](https://srbyte.blogspot.com/2008/07/el-guiness-record-de-firefox-3.html) que revisa periódicamente diversas cuentas de correo y notifica ademas el numero de emails que tienes sin leer cada cuenta que configures. Así que si posees varias cuentas de correo electrónico, como una yahoo, otra hotmail y otra en gmail ( como yo :P ) y pasas revisando compulsivamente cada una de tus cuentas, esperando que llegue un emocionante correo...solo para darte cuenta que es una "Alerta" de Google... este complemento es definitivamente para ti. Las cuentas de correo que WebMail Notifier soporta son:
 
 - mail.google.com(Gmail)
 - mail.yahoo.com (yahoo.com, ymail.com, rocketmail.com)
@@ -13021,14 +12042,12 @@ Y tambien añade algunas que -sinceramente- ni sabia que existían:
 Todo esto se visualiza -de una manera terriblemente sencilla- en un conveniente icono que se aloja en la barra de estado de Firefox, en la esquina inferior derecha de la ventana, al que se accesa con un sencillo click derecho (sobre ese icono ¡por supuesto!):
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/SIVrbS8GjUI/AAAAAAAAA60/ZzAXlVkzEDU/s400/1.png)    
-"Como ven WebMail no quita
-espacio en el navegador."
+"Como ven WebMail no quita espacio en el navegador."
 
 Y si no esta la cuenta extraña de correos que utilizas quizás eres un spammer, puedes añadir otros proveedores de correo electrónico, utilizando una útil opción en las preferencias (de complemento) llamada "User Script", este boton sirve para buscar archivos de javascript".js" que contengan la informacion para accesar a algun proveedor de servicio que quizas WebMail Notifier no soporta por defecto.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/SIVrbd4O8yI/AAAAAAAAA6s/eGCMiSb9zHY/s400/webmailshot.jpg)    
-"Esta es la ventana de
-Preferencias, donde se añaden las cuentas y scripts para aumentar la funcionalidad de WebMail Notifier."
+"Esta es la ventana de Preferencias, donde se añaden las cuentas y scripts para aumentar la funcionalidad de WebMail Notifier."
 
 Algunos de esos archivos javascripts soportan los siguientes proveedores:
 
@@ -13039,12 +12058,9 @@ Algunos de esos archivos javascripts soportan los siguientes proveedores:
 - www.orkut.com
 - freemail.web.de
 - poczta.fm(poczta.interia.pl)
-Y si no esta el proveedor que utilizas y conoces javascript: puedes realizar tu propio script para tu cuenta de correo. Si deseas más información sobre esta extensión este es el sitio oficial (en algún lenguaje asiático que ignoro por completo):
-[https://tobwithu.tistory.com/category/WebMailNotifier](https://tobwithu.tistory.com/category/WebMailNotifier)
+Y si no esta el proveedor que utilizas y conoces javascript: puedes realizar tu propio script para tu cuenta de correo. Si deseas más información sobre esta extensión este es el sitio oficial (en algún lenguaje asiático que ignoro por completo): [https://tobwithu.tistory.com/category/WebMailNotifier](https://tobwithu.tistory.com/category/WebMailNotifier)
 > href="https://tobwithu.tistory.com/category/WebMailNotifier">https://tobwithu.tistory.com/category/WebMailNotifier
-Y nuevamente, el sitio para descargar el complemento es:
-[> https://addons.mozilla.org/en-US/firefox/addon/4490](https://addons.mozilla.org/en-US/firefox/addon/4490)¿Y
-tu que usas para revisar todas las cuentas de correo que posees?
+Y nuevamente, el sitio para descargar el complemento es: [> https://addons.mozilla.org/en-US/firefox/addon/4490](https://addons.mozilla.org/en-US/firefox/addon/4490)¿Y tu que usas para revisar todas las cuentas de correo que posees?
 
 ---
 
@@ -13064,8 +12080,7 @@ Wikipedia, la enciclopedia online más popular (y libre), hará una incursión a
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RjiTWkK33wI/AAAAAAAAAVo/9mOgzvdlNnA/s400/Wikipedia05.JPG)    
 
-"Aspecto del Wikipedia
-on DVD edición Inglesa"
+"Aspecto del Wikipedia on DVD edición Inglesa"
 
 El CD, disponible por catorce dólares desde hoy en la web [wikipediaondvd.com](https://wikipediaondvd.com/), está dirigido a, por ejemplo, colegios que no disponen de acceso a internet. Y claro, tambien puede ser descargado. La fundación señaló que está planeando lanzar más CDs con más artículos y, en el futuro, añadirá más lenguajes. No es la primera vez que Wikipedia se escapa al mundo offline. Con anterioridad lanzó una versión en alemán, y se espera otra versión polaca en las próximas semanas.
 
@@ -13089,8 +12104,7 @@ post_id: blog-3515952828243908885.post-2757394948983613142
 El Anuncio de Steve Ballmer (hace algunos días) de un nuevo sistema operativo de Microsoft, que hace un extensivo de [Cloud Computing](https://www.srbyte.com/2008/08/qu-es-cloud-computing.html), no deja de parecerme... extraño, bizarro... irreal.
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SOZOPuLK2xI/AAAAAAAABUo/gk5CKeGGWRA/s320/4BFAx1500y1500.jpg)    
-"Windows Cloud...
-conveniente la imagen ¿verdad? :)"
+"Windows Cloud... conveniente la imagen ¿verdad? :)"
 
 [Steve Ballmer dijo lo siguiente](https://www.theregister.co.uk/2008/10/01/steve_ballmer_windows_cloud/) en una entrevista :
 
@@ -13118,8 +12132,7 @@ Esencialmente (como ya dije), seria un sistema que utilizara servicios y product
 Todos sabemos que Microsoft es grande y lento, y que el desarrollo de software es un largo proceso y, todo esto es muy ambicioso, lo que complica más las cosas. ¿Por qué es ambicioso? Windows Cloud es un arma de negocios, y con ella veremos si Microsoft es realmente capaz de competir contra Google o no. No sería una sorpresa, que esas cuatro semanas que Ballmer promete se convertirán en meses. Pero ya veremos que sucede...
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SOZP-Tmh47I/AAAAAAAABUw/wKV6DE-qCbA/s320/steve-ballmer.jpg)    
-"Steve Ballmer...
-¿Explicando Cloud Computing?"
+"Steve Ballmer... ¿Explicando Cloud Computing?"
 
 Para mí es simplemente Ballmer que desboca y promete mostrar proyectos que ni siquiera tienen nombres oficiales aún. O puede ser que Ballmer: simplemente no pudo expresar que tendrá un borrador de borrador de borrador de Windows Cloud para la fecha prometido... dándole a Google suficiente tiempo para contra-atacar (si es que necesita tiempo), en todo caso sabremos más a finales de este mes...
 
@@ -13136,24 +12149,21 @@ draft: false
 post_id: blog-3515952828243908885.post-8221122611615572164
 ---
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SOo0Yt0qFkI/AAAAAAAABVA/1WZWbhuWsA0/s200/cloud_win.jpg)    El anuncio de
-Microsoft, de crear otro sistema operativo ([Windows Cloud OS](https://www.srbyte.com/2008/10/windows-cloud-os-el-anuncio.html)) que no tenga nada que ver con Windows es increíble, pero ¿De donde sale este sistema? ¿Y por qué Microsoft trabaja en algo que no sea Windows? Para contestar estas preguntas, primero quiero resaltar dos ideas que hay que tener en mente:
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SOo0Yt0qFkI/AAAAAAAABVA/1WZWbhuWsA0/s200/cloud_win.jpg)    El anuncio de Microsoft, de crear otro sistema operativo ([Windows Cloud OS](https://www.srbyte.com/2008/10/windows-cloud-os-el-anuncio.html)) que no tenga nada que ver con Windows es increíble, pero ¿De donde sale este sistema? ¿Y por qué Microsoft trabaja en algo que no sea Windows? Para contestar estas preguntas, primero quiero resaltar dos ideas que hay que tener en mente:
 - Microsoft es una empresa de software (por propósitos prácticos, obviemos el Zune).
 - Microsoft es una empresa agresiva de negocios.
 - Windows es el software con más rendimiento económico que existe.
 - Windows es la base de la plataforma de negocios de Microsoft... si no hay Windows, no hay donde correr el software que Microsoft produce.
 ¿Se capta la idea?, Hacer un nuevo sistema operativo, es aumentar las posibilidades de negocios para Microsoft. A esto añadamos que la presión de acaparar el mercado es aun mayor, porque Windows Vista no es tan popular como se suponía que sería, aun se prefiere Windows XP y algunos usuarios consideran usar Linux en sus sistemas. Por cierto, aparentemente la versión de Vista de 64 bits es: buena, veloz y más estable que la "normal" de 32 bits, pero... el usuario general no se preocupa si sus aplicaciones tienen 32 bits o 64... el solo quiere hacer su trabajo, y Vista no es muy bueno dejándote hacer tu trabajo...
 
-"... sin
-comentarios." En fin... de acuerdo a los reportes, Microsoft no solo busca darnos un nuevo Windows ([Windows 7, también llamado "Mojave"](https://www.srbyte.com/2008/09/capturas-del-nuevo-windows-7.html)), sino que busca ampliar sus horizontes. Para no complicarnos, y ejemplificar mejor la idea:
+"... sin comentarios." En fin... de acuerdo a los reportes, Microsoft no solo busca darnos un nuevo Windows ([Windows 7, también llamado "Mojave"](https://www.srbyte.com/2008/09/capturas-del-nuevo-windows-7.html)), sino que busca ampliar sus horizontes. Para no complicarnos, y ejemplificar mejor la idea:
 > "Digamos que Microsoft tiene años de tener la
 > misma serie de carros de motor diésel, y ahora quiere ampliar su horizonte de negocios y
 > darnos un vehículo nuevo y con un motor eléctrico."
 Microsoft esta buscando ir más allá de las tecnologías que Windows nos brinda. Y para eso, precisamente, crearon [Midori](https://en.wikipedia.org/wiki/Midori_%28operating_system%29). Este nuevo sistema aparentemente esta saliendo de su fase de incubación. Un articulo de "The Daily Times" dice que Redmon tiene al menos un equipo que trabaja activamente en el nuevo sistema. La base de la nueva plataforma se centra en los resultados de las investigaciones de Microsoft en otro proyecto, medio secreto, llamado [Singularity](https://en.wikipedia.org/wiki/Singularity_%28operating_system%29).
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SOozLv54E6I/AAAAAAAABU4/8kPmvQ7PQeU/s320/Singularity_v1.png)    
-"Captura de Singularity en
-proceso de arranque."
+"Captura de Singularity en proceso de arranque."
 
 Supuestamente, la visión de Singularity es servir de portada a un sistema distribuido de aplicaciones, documentos y conectividad; general que este apoyada en la [nube](https://www.srbyte.com/2008/08/qu-es-cloud-computing.html). Este sistema se podrá ejecutar de manera nativa en una sola computadora o en varias. Además, el equipo de investigadores están trabajando para Singularity utilice una distribución paralela y concurrente de los recursos de hardware de los equipos en los que funcione, así como también un método para manejar aplicaciones en varias computadoras separadas (la antigua promesa de una arquitectura de hardware asíncrona).
 
@@ -13161,11 +12171,7 @@ Ambos proyectos, como ya mencione, están relacionados: Singularity es más un p
 
 > "Singularity es a Midori, lo que Google Chromium es a Google
 > Chrome."
-Para Microsoft, Midory es la realización del sueño de ver aplicaciones ejecutándose en una multitud variada de topologías de red, como: cliente-servidor, multi-tier, p2p y [Cloud Datacenters](https://www.srbyte.com/2008/08/qu-es-cloud-computing.html). Todas esas topologías, forman un medio heterogéneo donde las diversas capacidades del Sistema Operativo, puede existir en diversos lugares. Realmente, es muy, pero muy interesante. Pero irónicamente, me suena a un sistema operativo [Multics(el abuelo de Unix)](https://www.multicians.org/) distribuido...
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SOo1oahUm2I/AAAAAAAABVI/xrw_HxZ0t-Y/s320/multics-logo.jpg)    ¿Quieres los
-detalles técnicos? Visita el sitio de Singularity:
-[> https://research.microsoft.com/os/singularity/](https://research.microsoft.com/os/singularity/) Y
-tu, ¿Piensas que Microsoft debería de limitarse a Windows y hacerlo bien, en vez de intentar acaparar el mercado con otros sistemas, que no se sabe si serán tan "exitosos" como Vista?
+Para Microsoft, Midory es la realización del sueño de ver aplicaciones ejecutándose en una multitud variada de topologías de red, como: cliente-servidor, multi-tier, p2p y [Cloud Datacenters](https://www.srbyte.com/2008/08/qu-es-cloud-computing.html). Todas esas topologías, forman un medio heterogéneo donde las diversas capacidades del Sistema Operativo, puede existir en diversos lugares. Realmente, es muy, pero muy interesante. Pero irónicamente, me suena a un sistema operativo [Multics(el abuelo de Unix)](https://www.multicians.org/) distribuido... ![image](https://2.bp.blogspot.com/_ayvorITawE4/SOo1oahUm2I/AAAAAAAABVI/xrw_HxZ0t-Y/s320/multics-logo.jpg)    ¿Quieres los detalles técnicos? Visita el sitio de Singularity: [> https://research.microsoft.com/os/singularity/](https://research.microsoft.com/os/singularity/) Y tu, ¿Piensas que Microsoft debería de limitarse a Windows y hacerlo bien, en vez de intentar acaparar el mercado con otros sistemas, que no se sabe si serán tan "exitosos" como Vista?
 
 ---
 
@@ -13178,8 +12184,7 @@ draft: false
 post_id: blog-3515952828243908885.post-1927953540873832768
 ---
 
-![image](https://bp2.blogger.com/_ayvorITawE4/Rc9ltaSA90I/AAAAAAAAAFc/Y38pFNmKPAc/s400/vista_likes_linux.jpg)    Esta es época de
-retos para Microsoft... Desde los primeros días de DOS (inclusive con Mac OS), ha existido un cambio en las tendencias en los conceptos de sistemas operativos, desde aumento de funcionalidad hasta aumento de características, todas en el espectro visual, características orientadas exclusivamente a atraer al usuario como moscas a la miel. El tema de la seguridad fue dejado de lado por muchos años (por Microsoft) y al fin llego el momento en que no hay suficientes actualizaciones para tapar todos los problemas o para añadir las características privativas tan de moda en Vista (DRM)... la única solución es sacar un nuevo sistema operativo con mas efectos y enfocado (aparentemente) a la seguridad (con características que seguramente traumaran a millones de usuarios).
+![image](https://bp2.blogger.com/_ayvorITawE4/Rc9ltaSA90I/AAAAAAAAAFc/Y38pFNmKPAc/s400/vista_likes_linux.jpg)    Esta es época de retos para Microsoft... Desde los primeros días de DOS (inclusive con Mac OS), ha existido un cambio en las tendencias en los conceptos de sistemas operativos, desde aumento de funcionalidad hasta aumento de características, todas en el espectro visual, características orientadas exclusivamente a atraer al usuario como moscas a la miel. El tema de la seguridad fue dejado de lado por muchos años (por Microsoft) y al fin llego el momento en que no hay suficientes actualizaciones para tapar todos los problemas o para añadir las características privativas tan de moda en Vista (DRM)... la única solución es sacar un nuevo sistema operativo con mas efectos y enfocado (aparentemente) a la seguridad (con características que seguramente traumaran a millones de usuarios).
 
 Por ejemplo: el otro día me obligaron a usar una laptop con Windows XP Home... sin mentir o exagerar, tardo aproximadamente 8 minutos en cargar, es decir que el dueño gasta 8 minutos de su vida, diariamente, solo en esperar que Windows cargue. ¿No es triste?
 
@@ -13254,8 +12259,7 @@ post_id: blog-3515952828243908885.post-1038926833403809365
 
 Mas confusión... (lee la [primera parte](https://rodrigoamaya.blogspot.com/2007/02/windows-vista-y-sus-problemitas-parte-i.html))
 
-![image](https://bp2.blogger.com/_ayvorITawE4/RcaRLzD_iDI/AAAAAAAAADY/DGbt5RDzbwU/s400/quick_vista.gif)    Ahora Vista es más
-fácil de actualizar... al menos eso dice la publicidad y claro que, con los precios por los que ronda cualquier edición de Windows Vista muchas personas preferiran actualizar a Vista antes que comprar una versión completa. Según los precios en Amazon.com (versión completa/ versión actualización):
+![image](https://bp2.blogger.com/_ayvorITawE4/RcaRLzD_iDI/AAAAAAAAADY/DGbt5RDzbwU/s400/quick_vista.gif)    Ahora Vista es más fácil de actualizar... al menos eso dice la publicidad y claro que, con los precios por los que ronda cualquier edición de Windows Vista muchas personas preferiran actualizar a Vista antes que comprar una versión completa. Según los precios en Amazon.com (versión completa/ versión actualización):
 
 - Windows Vista Home Basic, $199/$99.95
 - Windows Vista Home Premium, $239/$159
@@ -13278,8 +12282,7 @@ Todos los usuarios de Windows saben que para trabajar bien y por largo rato con 
 
 ¿Increíble no?, a esto solo se puede decir... BAD BAD BAD Vista!
 
-![image](https://bp0.blogger.com/_ayvorITawE4/Rciy6jfQLdI/AAAAAAAAADw/8W1fyvJd6Wk/s400/BadVista.png)    Como ya saben, el
-requerimiento mínimo para el Upgrade de Vista es tener XP/2000 ya instalado. Con respecto a si se necesita o no realmente una instalación de XP/2000 "limpia" (es decir instalar XP/2000 desde cero y luego Vista) la respuesta en un RESONANTE:
+![image](https://bp0.blogger.com/_ayvorITawE4/Rciy6jfQLdI/AAAAAAAAADw/8W1fyvJd6Wk/s400/BadVista.png)    Como ya saben, el requerimiento mínimo para el Upgrade de Vista es tener XP/2000 ya instalado. Con respecto a si se necesita o no realmente una instalación de XP/2000 "limpia" (es decir instalar XP/2000 desde cero y luego Vista) la respuesta en un RESONANTE:
 
 ¿Quizás?
 
@@ -13302,20 +12305,16 @@ draft: false
 post_id: blog-3515952828243908885.post-8195922108950999487
 ---
 
-Sigue la controversia:
-[(lea el articulo anterior)](https://rodrigoamaya.blogspot.com/2007/03/windows-vista-y-sus-problemitas-parte.html)
-Microsoft en vez de innovar el entorno gráfico de Windows Vista se ha limitado a mimetizar otros entornos graficos. Practica hecha a lo largo de los años en varios de sus productos. Vean este vídeo divertido e irónico que ejemplifica lo dicho anteriormente:
+Sigue la controversia: [(lea el articulo anterior)](https://rodrigoamaya.blogspot.com/2007/03/windows-vista-y-sus-problemitas-parte.html) Microsoft en vez de innovar el entorno gráfico de Windows Vista se ha limitado a mimetizar otros entornos graficos. Practica hecha a lo largo de los años en varios de sus productos. Vean este vídeo divertido e irónico que ejemplifica lo dicho anteriormente:
 
 Como pueden ver, Vista esta agregando características que son solamente innovadoras en SU producto... porque en otros sistemas operativos existen desde hace BUEN RATO. Nada acerca de Windows Vista es innovador o atrayente. ¿Y de quien "toma" estas características? pues nada menos que de el sistema operativo de [Apple Inc.](https://www.apple.com/):
 
 > href="https://www.apple.com/macosx/leopard/index.html">Mac OS X Leopard
 Un sistema operativo verdaderamente amigable:
 
-![image](https://images.apple.com/macosx/leopard/images/indexdesktop20060807.jpg)    
-Y superior a Vista en términos de usabilidad y calidad:
+![image](https://images.apple.com/macosx/leopard/images/indexdesktop20060807.jpg)     Y superior a Vista en términos de usabilidad y calidad:
 
-![image](https://bp0.blogger.com/_ayvorITawE4/RcqJODfQLfI/AAAAAAAAAEE/6uOE7Men7BI/s400/OSchart.jpg)    Además Windows
-Vista incluye una extensiva re-codificación de elementos críticos de el núcleo del sistema para proveer protección al "contenido premium", típicamente datos de [Blu-Ray](https://es.wikipedia.org/wiki/Blu-ray) y High Definition DVD's. Al proveer esta protección (con complicados algoritmos para encriptar y des-encriptar estos datos) se incurre en costos muy considerables en términos de desempeño, estabilidad de sistema, soporte técnico inclusive y costo de hardware y software. Al comprar una computadora con Vista se obtiene una PC de alto rendimiento, pero con Vista instalado es como: quebrarle las piernas a un corredor, ponerle muletas y ver que tan rápido "corre" con ellas. Esto afecta no solo a los usuarios de Vista, sino también a toda la industria de las PC's. Y los efectos de protección como [Digital Right Managment (DRM)](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_derechos_digitales) afectan la privacidad de los consumidores (como siempre). Existen diferentes mecanismos de DRM, diseñados por distintas empresas, pero en general todos tienen en común algunas características:
+![image](https://bp0.blogger.com/_ayvorITawE4/RcqJODfQLfI/AAAAAAAAAEE/6uOE7Men7BI/s400/OSchart.jpg)    Además Windows Vista incluye una extensiva re-codificación de elementos críticos de el núcleo del sistema para proveer protección al "contenido premium", típicamente datos de [Blu-Ray](https://es.wikipedia.org/wiki/Blu-ray) y High Definition DVD's. Al proveer esta protección (con complicados algoritmos para encriptar y des-encriptar estos datos) se incurre en costos muy considerables en términos de desempeño, estabilidad de sistema, soporte técnico inclusive y costo de hardware y software. Al comprar una computadora con Vista se obtiene una PC de alto rendimiento, pero con Vista instalado es como: quebrarle las piernas a un corredor, ponerle muletas y ver que tan rápido "corre" con ellas. Esto afecta no solo a los usuarios de Vista, sino también a toda la industria de las PC's. Y los efectos de protección como [Digital Right Managment (DRM)](https://es.wikipedia.org/wiki/Gesti%C3%B3n_de_derechos_digitales) afectan la privacidad de los consumidores (como siempre). Existen diferentes mecanismos de DRM, diseñados por distintas empresas, pero en general todos tienen en común algunas características:
 - detectan quién accede a cada obra, cuándo y bajo qué condiciones, y reportan esta información al proveedor de la obra (ya comienzo a sentirme paranoico)
 - autorizan o deniegan de manera inapelable el acceso a la obra, de acuerdo a condiciones que pueden ser cambiadas unilateralmente por el proveedor de la obra;
 - cuando autorizan el acceso, lo hacen bajo condiciones restrictivas que son fijadas unilateralmente por el proveedor de la obra, independientemente de los derechos que la ley otorgue al autor o al público.
@@ -13346,12 +12345,9 @@ Cuando Microsoft habilito la descarga del paquete Vista Ultimate Extras (practic
 - Un juego de Texas Hold 'Em
 - "Mejoras para BitLocker y EFS"
 - Y pocas actualizaciones de seguridad
-¿No es emocionante comprar un sistema operativo de $399 para obtener un juego de
-"Texas Hold 'Em" y actualizaciones de seguridad? (tan
-rápido???)
+¿No es emocionante comprar un sistema operativo de $399 para obtener un juego de "Texas Hold 'Em" y actualizaciones de seguridad? (tan rápido???)
 
-![image](https://www.blogsmithmedia.com/www.engadget.com/media/2007/01/vista-ult-update-3.jpg)    
-Y claro, también ya detectaron la primera actualización critica en Vista, en su sistema de reconocimiento de voz, dejo un [vinculo](https://www.technewsworld.com/rsstory/55542.html) con la critica mas objetiva del problema. Ah! y se me olvido mencionar una versión MAS de Vista!... Y hay que ser un completo fanático de Microsoft/Windows/Vista para pensar en comprarla:
+![image](https://www.blogsmithmedia.com/www.engadget.com/media/2007/01/vista-ult-update-3.jpg)     Y claro, también ya detectaron la primera actualización critica en Vista, en su sistema de reconocimiento de voz, dejo un [vinculo](https://www.technewsworld.com/rsstory/55542.html) con la critica mas objetiva del problema. Ah! y se me olvido mencionar una versión MAS de Vista!... Y hay que ser un completo fanático de Microsoft/Windows/Vista para pensar en comprarla:
 
 Microsoft Windows Vista Ultimate Limited Numbered Signature Edition
 
@@ -13361,20 +12357,16 @@ Ni siquiera imagine que Microsoft fuera capaz de hacer algo como eso, pero al me
 - numeración;
 - y una mancha gris en la caja que dice "Bill Gates".
 
-![image](https://bp1.blogger.com/_ayvorITawE4/Rcx_16SA9uI/AAAAAAAAAEU/8aT0TYkY0ig/s400/ultimate-limited-edition.jpg)    ... el contenido
-(Vista) es exactamente el mismo, ni siquiera trae Texas Hold 'Em pre-instalado, hay que descargarlo... Microsoft deberías seguir el ejemplo: cuando Apple saco al mercado el U2 iPod...
+![image](https://bp1.blogger.com/_ayvorITawE4/Rcx_16SA9uI/AAAAAAAAAEU/8aT0TYkY0ig/s400/ultimate-limited-edition.jpg)    ... el contenido (Vista) es exactamente el mismo, ni siquiera trae Texas Hold 'Em pre-instalado, hay que descargarlo... Microsoft deberías seguir el ejemplo: cuando Apple saco al mercado el U2 iPod...
 
-![image](https://bp3.blogger.com/_ayvorITawE4/RcyBWaSA9wI/AAAAAAAAAEk/1IyusteoqJI/s400/ipodu2.JPG)    
-es cierto que no traía música gratis de U2 precargada, pero si un poster y un cupón de $50 dolares para "[The Complete U2](https://www.amazon.com/Apple-video-Special-Black-Generation/dp/B000IJVETY/sr=8-1/qid=1171030541/ref=pd_bbs_sr_1/103-1155249-1863044?ie=UTF8&s=electronics)
+![image](https://bp3.blogger.com/_ayvorITawE4/RcyBWaSA9wI/AAAAAAAAAEk/1IyusteoqJI/s400/ipodu2.JPG)     es cierto que no traía música gratis de U2 precargada, pero si un poster y un cupón de $50 dolares para "[The Complete U2](https://www.amazon.com/Apple-video-Special-Black-Generation/dp/B000IJVETY/sr=8-1/qid=1171030541/ref=pd_bbs_sr_1/103-1155249-1863044?ie=UTF8&s=electronics)
 ", un paquete digital con mas de 400 canciones de U2.
 
 Pero bueno... no comparemos manzanas con ventanas.
 
 Creo que la renovada iniciativa de seguridad para Vista es buena, sus efectos especiales bonitos... y estoy seguro que Vista sera tremendamente popular en un par de años (¿bajo que costo para el consumidor?). No detesto ni odio a Microsoft ni a su nuevo sistema, simplemente ya estoy aburrido y cansado de Vista... tal vez me animo a usarlo en 1 año o mejor... NO.
 
-![image](https://bp2.blogger.com/_ayvorITawE4/RcyDMKSA9xI/AAAAAAAAAEs/L7mxHrhFtCo/s400/BadVista_no_littering.png)    
-Bibliografía digital:
-[https://badvista.fsf.org/](https://badvista.fsf.org/)
+![image](https://bp2.blogger.com/_ayvorITawE4/RcyDMKSA9xI/AAAAAAAAAEs/L7mxHrhFtCo/s400/BadVista_no_littering.png)     Bibliografía digital: [https://badvista.fsf.org/](https://badvista.fsf.org/)
 > href="https://badvista.fsf.org/">https://badvista.fsf.org/
 > href="https://www.fsf.org/">https://www.fsf.org/
 > href="https://www.gnu.org/">https://www.gnu.org/
@@ -13390,20 +12382,15 @@ draft: false
 post_id: blog-3515952828243908885.post-3438877290201396886
 ---
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SO4iXafv1iI/AAAAAAAABVo/Pt8UhAP_NAQ/s320/header_01.png)  [XDRTB](https://www.xdrtb.org/)(Extreme Drug Resistant Tuberculosis) es el
-nombre que se le da, en ingles, al bacilo de la Tuberculosis que es extremadamente resistente a fármacos. No suelo hacer este tipo de artículos, sin embargo, realmente detestaría saber que esta enfermedad comienza a surgir, en mi pequeño terruño, por culpa de la negligencia medica o del mismo paciente, por falta de información o de conciencia social... especialmente con estas lluvias.
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SO4iXafv1iI/AAAAAAAABVo/Pt8UhAP_NAQ/s320/header_01.png)  [XDRTB](https://www.xdrtb.org/)(Extreme Drug Resistant Tuberculosis) es el nombre que se le da, en ingles, al bacilo de la Tuberculosis que es extremadamente resistente a fármacos. No suelo hacer este tipo de artículos, sin embargo, realmente detestaría saber que esta enfermedad comienza a surgir, en mi pequeño terruño, por culpa de la negligencia medica o del mismo paciente, por falta de información o de conciencia social... especialmente con estas lluvias.
 
 Si bien la Tuberculosis es una enfermedad que, al ser tratada con prontitud es fácil de erradicar, el XDRTB se desarrolla por no terminar o cumplir el tratamiento de la Tuberculosis, y así el bacilo desarrolla inmunidad y, eventualmente mata a la mayoría de pacientes.
 
-"Vídeo sobre el XDRTB (el
-original, no esta disponible para este país... típico de youtube)"
+"Vídeo sobre el XDRTB (el original, no esta disponible para este país... típico de youtube)"
 
 Espero que esta entrada sirva, para crear un poquito de conciencia sobre la existencia de esta enfermedad. También espero que si tienen amigos o familiares que son Doctores o Enfermeras, les pregunten sobre los tratamientos de Tuberculosis en El Salvador (o en otros países en Latinoamérica). ¿Qué tiene que ver esto con tecnología?, precisamente para ESTO es la tecnología, para: informar, unir y fomentar el bienestar de todos los que la usamos.
 
-Para obtener más información, pueden visitar:
-[https://www.xdrtb.org/](https://www.xdrtb.org/)
-[https://es.wikipedia.org/wiki/Tuberculosis](https://es.wikipedia.org/wiki/Tuberculosis)
-[https://en.wikipedia.org/wiki/Multi-drug_resistant_TB](https://en.wikipedia.org/wiki/Multi-drug_resistant_TB)
+Para obtener más información, pueden visitar: [https://www.xdrtb.org/](https://www.xdrtb.org/) [https://es.wikipedia.org/wiki/Tuberculosis](https://es.wikipedia.org/wiki/Tuberculosis) [https://en.wikipedia.org/wiki/Multi-drug_resistant_TB](https://en.wikipedia.org/wiki/Multi-drug_resistant_TB)
 
 Mañana reanudamos nuestra actividad usual de opiniones sobre tecnología ;) ¡Saludos!
 
@@ -13422,19 +12409,15 @@ post_id: blog-3515952828243908885.post-4367936812775147870
 
 No, XGL no se hizo multiplataforma, lo que sucede es que a [Christian Salmon](https://chsalmon.club.fr/index.php?en/Yod-m-3d-about) le dio envidia y decidió hacer y publicar una herramienta tremenda mente parecida al ya muy popular [XLG](https://es.wikipedia.org/wiki/Xgl) (o [Beryl](https://es.wikipedia.org/wiki/Beryl)) en los escritorios GNU/Linux.
 
-"Video de XGL en
-acción"
+"Video de XGL en acción"
 
 Estamos hablando de la aplicación llamada de [Yod’m 3D](https://chsalmon.club.fr/index.php?en/) que significa:
 
 > "Yet
 > anOther Desktop Manager 3D"
-![image](https://bp0.blogger.com/_ayvorITawE4/RhBig_TPf8I/AAAAAAAAAPg/hr6dMocNryg/s400/yodm3Dlogo.png)    
-[https://chsalmon.club.fr/index.php?en/](https://chsalmon.club.fr/index.php?en/) Yod'm 3D es un programa gratuito que
-intenta ofrecer a los usuarios de Windows un sistema "parecido" (y nótese las comillas) al que se ofrece con XGL en GNU/Linux en cuanto a la posibilidad de distribuir más de un escritorio en las caras de un gran cubo 3D. Este es un vídeo de Yod'm 3D...
+![image](https://bp0.blogger.com/_ayvorITawE4/RhBig_TPf8I/AAAAAAAAAPg/hr6dMocNryg/s400/yodm3Dlogo.png)     [https://chsalmon.club.fr/index.php?en/](https://chsalmon.club.fr/index.php?en/) Yod'm 3D es un programa gratuito que intenta ofrecer a los usuarios de Windows un sistema "parecido" (y nótese las comillas) al que se ofrece con XGL en GNU/Linux en cuanto a la posibilidad de distribuir más de un escritorio en las caras de un gran cubo 3D. Este es un vídeo de Yod'm 3D...
 
-"Yod'm 3D
-trabajando..."
+"Yod'm 3D trabajando..."
 
 El manejo del cubo 3D se realiza mediante el teclado, básicamente con las teclas CTRL+SHIFT+flechas de dirección, así seremos capaces de controlar todos sus movimientos de rotación y zoom.
 
@@ -13447,8 +12430,7 @@ Este programa es otra buena razón (aparte de estas cuatro adicionales adicional
 - Visual Tooltip
 Pero como siempre, GNU/Linux gana...
 
-"¿Puede tu Windows hacer
-esto?"
+"¿Puede tu Windows hacer esto?"
 
 ---
 
@@ -13461,46 +12443,36 @@ draft: false
 post_id: blog-3515952828243908885.post-8685817943495929934
 ---
 
-[Xkcd](https://www.xkcd.com/) es una tira cómica que
-lanzo al estrellato a Randall Munroe (el autor de la tira). El nombre xkcd no significa absolutamente nada, y la tira cómica trata sobre: romance, sarcasmo, matemática y lenguaje. La tira esta dibujada como "hombres de palitos", pero ocasionalmente el autor incluye paisajes o también patrones matemáticos (como fractales) de fondo para sus tiras. Cada nueva tira puede variar mucho de tema. Algunas son declaraciones sobre el amor y la vida, otras son sobre matemáticas y otras chistes científicos. Algunas hacen referencia a humor simple y a la cultura popular... Pero este día (07 Julio 08), xkcd hizo referencia a la entrada sobre "Wood" (madera) en la wikipedia en ingles, haciendo un chiste sobre "el uso de la madera en la cultura popular":
+[Xkcd](https://www.xkcd.com/) es una tira cómica que lanzo al estrellato a Randall Munroe (el autor de la tira). El nombre xkcd no significa absolutamente nada, y la tira cómica trata sobre: romance, sarcasmo, matemática y lenguaje. La tira esta dibujada como "hombres de palitos", pero ocasionalmente el autor incluye paisajes o también patrones matemáticos (como fractales) de fondo para sus tiras. Cada nueva tira puede variar mucho de tema. Algunas son declaraciones sobre el amor y la vida, otras son sobre matemáticas y otras chistes científicos. Algunas hacen referencia a humor simple y a la cultura popular... Pero este día (07 Julio 08), xkcd hizo referencia a la entrada sobre "Wood" (madera) en la wikipedia en ingles, haciendo un chiste sobre "el uso de la madera en la cultura popular":
 
 ![image](https://imgs.xkcd.com/comics/in_popular_culture.png)    
-"La
-tira que causo estragos en la Wikipedia"
+"La tira que causo estragos en la Wikipedia"
 
 Al ver la tira muchas personas (incluyéndome) decidieron ir a ver si existía tal barbaridad en la wikipedia, pensé que era algún tipo de denuncia (como otras veces el autor ha hecho)... pues no, era solo una ocurrencia.
 
 Sin embargo muchos seguidores de xkcd se dedicaron a modificar la entrada de "Wood" (madera) para que la se viera idéntica a la tira, y le añadieron muchas más tonterías. Tal fue el "vandalismo" que provocaron los seguidores de la tira, que provocaron que se deshabilitara la edición en dicha entrada:
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/SHLBxfOgiAI/AAAAAAAAA2M/HVYkoup0G_c/s400/wiki-lol.jpg)    
-"Aviso de la Wikipedia de
-edición deshabilitada"
+"Aviso de la Wikipedia de edición deshabilitada"
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SHLY5_OgiDI/AAAAAAAAA2k/osw2bPapvBI/s400/wiki-lol2.jpg)    
-"La advertencia actual, que
-protege la entrada por vandalismo"
+"La advertencia actual, que protege la entrada por vandalismo"
 
 Esto es casi tan gracioso, como cuando otro grupo de fans de xkcd enviaron una katana (una espada samurai) a Richard Stallman, y luego lo atacaron (vestidos de ninja) en una conferencia en Yale:
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SHLCt_OgiBI/AAAAAAAAA2U/HqN6FLsJ2Wk/s400/Richard_Stallman_attacked_by_ninjas,_October_17,_2007.jpg)    
-"Estudiantes vestidos de
-ninjas, atacando a Richard Stallman"
+"Estudiantes vestidos de ninjas, atacando a Richard Stallman"
 
 Todo gracias a la inspiración de esta tira (siempre de xkcd):
 
-![image](https://imgs.xkcd.com/comics/open_source.png)    
-O también, como la gente que inspirado en esta tira:
+![image](https://imgs.xkcd.com/comics/open_source.png)     O también, como la gente que inspirado en esta tira:
 
-![image](https://bp3.blogger.com/_ayvorITawE4/SHLEC_OgiCI/AAAAAAAAA2c/ANrFFTYFZEo/s400/chess+photo.png)    
-...se sube a montañas rusas para tomarse fotos jugando ajedrez (¡esto lo tengo que hacer!):
+![image](https://bp3.blogger.com/_ayvorITawE4/SHLEC_OgiCI/AAAAAAAAA2c/ANrFFTYFZEo/s400/chess+photo.png)     ...se sube a montañas rusas para tomarse fotos jugando ajedrez (¡esto lo tengo que hacer!):
 
 ![image](https://imgs.xkcd.com/chesscoaster/xkcd_logride.jpg)    
-"Gente jugando ajedrez en una montaña rusa,
-LOL!"
+"Gente jugando ajedrez en una montaña rusa, LOL!"
 
-...pueden encontrar más imágenes similares en esta pagina:
-[> https://xkcd.com/chesscoaster/](https://xkcd.com/chesscoaster/) En
-fin, xkcd, no deja de sorprenderme y de mostrarme lo que un par de trazos sencillos y una gran imaginación (impulsada por mucha ciencia y un grupo de seguidores dementes) puede hacer. Si aun no te has suscrito a xkcd, puedes hacerlo en:
+...pueden encontrar más imágenes similares en esta pagina: [> https://xkcd.com/chesscoaster/](https://xkcd.com/chesscoaster/) En fin, xkcd, no deja de sorprenderme y de mostrarme lo que un par de trazos sencillos y una gran imaginación (impulsada por mucha ciencia y un grupo de seguidores dementes) puede hacer. Si aun no te has suscrito a xkcd, puedes hacerlo en:
 
 > href="https://xkcd.com/">https://xkcd.com/
 Y si ya estas suscrito, el Sr. Byte quiere saber: ¿Cual es tu tira de xkcd favorita?
@@ -13521,8 +12493,7 @@ Creo que en algún momento o de alguna u otra forma, ya habrán escuchado que es
 > "Imaginen un bosque, lleno de pequeñas aves, cantando cada actividad
 > que para ellos sea interesante. Esa es la visión
 > romántica de Twitter."
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SMSuDu0f_xI/AAAAAAAABO4/AppsskeN9Co/s320/tour_2.gif)    
-Lo que en realidad sucede con Twitter, es que esta conformado por una creciente comunidad de miles de personas aleatorias y desconocidas, que manteniendo informadas a otros cientos de personas aleatorias y también desconocidas, de la actividad que realizan diariamente. Enredado, pero acertado. Twitter es la herramienta social orientada al micro-bloggin más popular que se pueda encontrar. Y es realmente popular, ¿pero por qué es tan popular?, y más importante aún: ¿Para que te puede servir?...
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SMSuDu0f_xI/AAAAAAAABO4/AppsskeN9Co/s320/tour_2.gif)     Lo que en realidad sucede con Twitter, es que esta conformado por una creciente comunidad de miles de personas aleatorias y desconocidas, que manteniendo informadas a otros cientos de personas aleatorias y también desconocidas, de la actividad que realizan diariamente. Enredado, pero acertado. Twitter es la herramienta social orientada al micro-bloggin más popular que se pueda encontrar. Y es realmente popular, ¿pero por qué es tan popular?, y más importante aún: ¿Para que te puede servir?...
 
 ...para saber que es lo que hace las personas interesante:
 
@@ -13535,8 +12506,7 @@ Si bien existen millones de usuarios de Twitter, cada uno contando cualquier ton
 - ¿Que herramientas utilizan los programadores de software con blogs exitosos?
 - ¿Como es el mundo en el que estas personas se manejan?
 - ¿Como es un día típico de negocios para ellos?
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SMSuDQQtTbI/AAAAAAAABOw/ETEhHEZOzy4/s320/tour_1.gif)    
-Esas son el tipo de respuestas que Twitter me ayudo a responder, en alguna medida. Basta recordar que el éxito se puede aprender, si se rodean de gente exitosa, interesante, divertida, sana o mejores que ustedes, lo más probable es que este tipo de comportamiento o preferencias poco a poco serán aplicados a tu vida cotidiana. Eso, es útil.
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SMSuDQQtTbI/AAAAAAAABOw/ETEhHEZOzy4/s320/tour_1.gif)     Esas son el tipo de respuestas que Twitter me ayudo a responder, en alguna medida. Basta recordar que el éxito se puede aprender, si se rodean de gente exitosa, interesante, divertida, sana o mejores que ustedes, lo más probable es que este tipo de comportamiento o preferencias poco a poco serán aplicados a tu vida cotidiana. Eso, es útil.
 
 ... sirve para notificar:
 
@@ -13555,8 +12525,7 @@ Y ni siquiera necesitas una computadora para notificar a tus usuarios o seguidor
 
 Puedes "seguir" a sitios web que utilizan Twitter, para mantenerte informado casi inmediatamente de las ultimas noticias, sin necesidad de visitar el sitio, leer correos, feeds, u otro medio. Si hay un terremoto, seguramente alguien - en vez de salir corriendo - [lo va a poner en Twitter.](https://twitter.com/Truncale/statuses/911526938)..
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SMSuDIu_GMI/AAAAAAAABOo/HUuu774EYsY/s320/twitt.png)    
-Si arrestan a alguna persona, o alguien tiene un accidente, probablemente usar Twitter sobre esa situación sea una buena idea. Twitter ayudo a sacar a [este estudiante](https://www.cnn.com/2008/TECH/04/25/twitter.buck/) de una cárcel en Egipto.
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SMSuDIu_GMI/AAAAAAAABOo/HUuu774EYsY/s320/twitt.png)     Si arrestan a alguna persona, o alguien tiene un accidente, probablemente usar Twitter sobre esa situación sea una buena idea. Twitter ayudo a sacar a [este estudiante](https://www.cnn.com/2008/TECH/04/25/twitter.buck/) de una cárcel en Egipto.
 
 ... Sirve para ser productivo: Twitter no te hace perder tiempo como un Blog o un Chat, estas son las razones:
 
@@ -13577,8 +12546,7 @@ draft: false
 post_id: blog-3515952828243908885.post-1930079345954609576
 ---
 
-[CollegeHumor](https://www.collegehumor.com/video:1886349) nos presenta una
-historia muy diferente (y mas espeluznante) que la propuesta por los [Hermanos Wachowski](https://en.wikipedia.org/wiki/Wachowski_brothers): Neo, Morpheus, Trinity y Cipher deben vencer al agente Smith para liberar a la humanidad de un destino peor que la muerte misma... ¡el mundo entero ejecutando Windows XP!
+[CollegeHumor](https://www.collegehumor.com/video:1886349) nos presenta una historia muy diferente (y mas espeluznante) que la propuesta por los [Hermanos Wachowski](https://en.wikipedia.org/wiki/Wachowski_brothers): Neo, Morpheus, Trinity y Cipher deben vencer al agente Smith para liberar a la humanidad de un destino peor que la muerte misma... ¡el mundo entero ejecutando Windows XP!
 
 "¿Y si la Matrix corriera en Windows?"
 
@@ -13597,9 +12565,7 @@ post_id: blog-3515952828243908885.post-8200463012366721425
 
 En su séptima edición, Imgine Cup 2008 estuvo enfocada en la búsqueda de soluciones tecnológicas para resolver los problemas reales del mundo.
 
-Pero, ¿Qué es Imagine Cup? Este es un evento a nivel mundial que desde 2002, alienta a los más talentosos diseñadores de software, programadores, desarrolladores de juegos, fotógrafos y cineastas a crear propuestas innovadoras que puedan hacerle frente a los problemas más difíciles que enfrenta el mundo. Este evento, más que un simple concurso, es un desafío dentro del mundo tecnológico para todos aquellos que gustan de la creacción de software, jugar, reforzar sus conocimientos, pero sobre todo que desean hacer una diferencia en el mundo.
-![image](https://4.bp.blogspot.com/_JbB9KsZ238w/SVo4mJcDNqI/AAAAAAAAARw/McUBk1RUMvE/s320/imagen11.jpg)    
-En año pasado, alrededor de 200,000 estudiantes que se desempeñan en las diferentes ramas de la tecnología, provenientes de 100 países y regiones del mundo, acudieron a la sede de ese año, París, Francia. De ellos, 124 fueron los equipos finalistas que se disputaron los premios en las nueve categorías que ofrece el certamen.
+Pero, ¿Qué es Imagine Cup? Este es un evento a nivel mundial que desde 2002, alienta a los más talentosos diseñadores de software, programadores, desarrolladores de juegos, fotógrafos y cineastas a crear propuestas innovadoras que puedan hacerle frente a los problemas más difíciles que enfrenta el mundo. Este evento, más que un simple concurso, es un desafío dentro del mundo tecnológico para todos aquellos que gustan de la creacción de software, jugar, reforzar sus conocimientos, pero sobre todo que desean hacer una diferencia en el mundo. ![image](https://4.bp.blogspot.com/_JbB9KsZ238w/SVo4mJcDNqI/AAAAAAAAARw/McUBk1RUMvE/s320/imagen11.jpg)     En año pasado, alrededor de 200,000 estudiantes que se desempeñan en las diferentes ramas de la tecnología, provenientes de 100 países y regiones del mundo, acudieron a la sede de ese año, París, Francia. De ellos, 124 fueron los equipos finalistas que se disputaron los premios en las nueve categorías que ofrece el certamen.
 
 El primer lugar se lo agenció Australia, Team SOAK, quienes ganaron en la categoría mundial de Diseño de Software. En la categoría de Desarrollo integrado, el ganador fue Trail Blazer de Singapur. De Latinoamérica, los dignos ganadores fueron Mother Gaia Studio de Brasil como ganador de la categoría de Desarrollo de Juegos y Lava Lamp de México, como segundo lugar en la categoría de Cortometraje.
 
@@ -13622,16 +12588,14 @@ draft: false
 post_id: blog-3515952828243908885.post-5066177446388395978
 ---
 
-![image](https://bp1.blogger.com/_ayvorITawE4/RgnjW_TPf1I/AAAAAAAAAOo/5GceiJ74MnU/s400/yahoo245x183.jpg)    El décimo
-aniversario de Yahoo Mail se acerca y nuestros amigos de Yahoo quieren celebrar... DE VERDAD. Todo aquel que tenga una cuenta de correo con Yahoo se le ofrecerá [CAPACIDAD DE CORREO ILIMITADO](https://yodel.yahoo.com/2007/03/27/yahoo-mail-goes-to-infinity-and-beyond) comenzando desde Mayo de 2007 y luego aplicándose a todos los usuarios de Yahoo Mail.
+![image](https://bp1.blogger.com/_ayvorITawE4/RgnjW_TPf1I/AAAAAAAAAOo/5GceiJ74MnU/s400/yahoo245x183.jpg)    El décimo aniversario de Yahoo Mail se acerca y nuestros amigos de Yahoo quieren celebrar... DE VERDAD. Todo aquel que tenga una cuenta de correo con Yahoo se le ofrecerá [CAPACIDAD DE CORREO ILIMITADO](https://yodel.yahoo.com/2007/03/27/yahoo-mail-goes-to-infinity-and-beyond) comenzando desde Mayo de 2007 y luego aplicándose a todos los usuarios de Yahoo Mail.
 
 La versión actual de Yahoo Mail comenzó en 1997 cuando Yahoo adquirió RocketMail (casi la misma movida de Microsoft cuando compro Hotmail) y ofreció la cuantiosa cantidad de espacio en el buzón de 4 MB... en ese tiempo si que era mucho. Hmmmm, ¿qué cabría en ese espacio ahora?...
 
 Para el año 2005 aumentaron la capacidad a 100 MB (nada mal), y actualmente cuenta con 1 GB. Lo interesante de esta característica en Yahoo mail es que al parecer no hay limite inmediato, lo contrario a Gmail que "crece" con el tiempo. Eso significa que... bien podría hacer un backup de toda mi música en una cuenta de Yahoo Mail. Definitivamente es una propuesta interesante... y Yahoo una vez mas, nos demuestra que no es un adversario fácil de eliminar.
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/RgnlD_TPf2I/AAAAAAAAAOw/4ThV0p-lKlI/s320/liam_storage.jpg)    
-"Yahoo Mail esta a punto de
-cambiar de talla"
+"Yahoo Mail esta a punto de cambiar de talla"
 
 ¿Qué hará Microsoft y Google al respecto?... si creyeron que la guerra de los correos electrónicos se había terminado... jamás se equivocaron
 
@@ -13646,29 +12610,22 @@ draft: false
 post_id: blog-3515952828243908885.post-7537335898152599645
 ---
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SU8KzPFnqyI/AAAAAAAAB0k/XGtY6wpZwYw/s320/yofrankie_psp.jpg)    Se recuerdan de un
-corto animado hecho en Blender llamado [Big Buck Bunny](https://www.srbyte.com/2008/06/big-buck-bunny-una-animacion-en.html). Bien, Big Buck Bunny es parte de un proyecto llamado "Apricot", que básicamente existe para demostrar la capacidad que tiene Blender para producir multimedia de calidad. Entre otra de las muestras que nos dan, esta este juego de plataformas 3D llamado: [Yo Frankie!](https://www.yofrankie.org/).
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SU8KzPFnqyI/AAAAAAAAB0k/XGtY6wpZwYw/s320/yofrankie_psp.jpg)    Se recuerdan de un corto animado hecho en Blender llamado [Big Buck Bunny](https://www.srbyte.com/2008/06/big-buck-bunny-una-animacion-en.html). Bien, Big Buck Bunny es parte de un proyecto llamado "Apricot", que básicamente existe para demostrar la capacidad que tiene Blender para producir multimedia de calidad. Entre otra de las muestras que nos dan, esta este juego de plataformas 3D llamado: [Yo Frankie!](https://www.yofrankie.org/).
 
 "Yo Frankie!"
 
 Yo Frankie! fue desarrollado por tres artistas de blender (modeladores 3D), dos desarrolladores de [Crystal Space](https://www.crystalspace3d.org/main/Main_Page) (un motor 3D para juegos) y un desarrollador de Blender, en un periodo de seis meses, para crear un juego que no deja en duda la calidad que se puede alcanzar utilizando Software Libre. El juego esta basado en la malvada ardilla Frankie:
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SU8KylPZzVI/AAAAAAAAB0U/Jw_0EzMaVbQ/s320/frankie.png)    
-Lo mas interesante de esto, es el uso del nuevo y mejorado BGE (Blender Graphics Engine) y también el nivel de profesionalismo que manejaron a lo largo del proyecto, vean:
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SU8KylPZzVI/AAAAAAAAB0U/Jw_0EzMaVbQ/s320/frankie.png)     Lo mas interesante de esto, es el uso del nuevo y mejorado BGE (Blender Graphics Engine) y también el nivel de profesionalismo que manejaron a lo largo del proyecto, vean:
 
-"Blender Game Engine
-Demo"
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SU8Ky1QVIfI/AAAAAAAAB0c/y9HbQKQH6C0/s320/yofrankie10.jpg)    
-"Yo Frankie! ejecutándose
-sobre el Blender Game Engine"
+"Blender Game Engine Demo" ![image](https://2.bp.blogspot.com/_ayvorITawE4/SU8Ky1QVIfI/AAAAAAAAB0c/y9HbQKQH6C0/s320/yofrankie10.jpg)    
+"Yo Frankie! ejecutándose sobre el Blender Game Engine"
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SU8Kye5rKsI/AAAAAAAAB0M/h4NdRExxOB0/s320/forest2.jpg)    
-"Arte Concepto Yo
-Frankie!"
+"Arte Concepto Yo Frankie!"
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SU8KxnIaKiI/AAAAAAAAB0E/ky2sW9YPEbs/s320/crystal001.png)    
-"Yo Frankie! con Crystal
-Space"
+"Yo Frankie! con Crystal Space"
 
 Sus desarrolladores ya han puesto a la venta el juego en Linux, Mac OS X y Windows en formato DVD. ¿En venta?, si, en venta. El dinero que se recauda va directamente para los desarrolladores y para la Blender Foundation, para seguir desarrollando Blender (cuya próxima versión es la 2.5 e incluye el BGE mejorado), pero al final, el juego también es Software Libre, así que puedes descargar el código aquí:[https://www.yofrankie.org/download/](https://www.yofrankie.org/download/)
 
@@ -13680,8 +12637,7 @@ Para ejecutar el juego, necesitas Blender 2.48 o anterior, lo puedes descargar a
 > href="https://www.blender.org/">https://www.blender.org/
 También les recomiendo que visiten la galería de imágenes de Yo Frankie!:
 
-[> https://www.yofrankie.org/gallery/](https://www.yofrankie.org/gallery/)
-Reitero, blender no tiene absolutamente nada que envidiar a sus contrapartes comerciales. Ojala (y pronto) veamos productos Salvadoreños (o Latinoamericanos) que usan mas y mas Software Libre para producir multimedia como esta.
+[> https://www.yofrankie.org/gallery/](https://www.yofrankie.org/gallery/) Reitero, blender no tiene absolutamente nada que envidiar a sus contrapartes comerciales. Ojala (y pronto) veamos productos Salvadoreños (o Latinoamericanos) que usan mas y mas Software Libre para producir multimedia como esta.
 
 ¿Qué crees que Blender necesita para ser utilizado en producción?
 
@@ -13696,37 +12652,31 @@ draft: false
 post_id: blog-3515952828243908885.post-2657622383134251371
 ---
 
-![image](https://bp3.blogger.com/_ayvorITawE4/R8G3A7TZHkI/AAAAAAAAAkk/WPQWqofPD3Y/s200/Transformers+Autobot+Shield.jpg)    El Optimus Maximus,
-si bien tiene nombre de transformer... no lo es. Es, para ser mas preciso, un teclado. Pero no es un teclado cualquiera. Es un teclado muy especial, y seguramente, cuando vean los vídeos y las imágenes, ustedes digan:
+![image](https://bp3.blogger.com/_ayvorITawE4/R8G3A7TZHkI/AAAAAAAAAkk/WPQWqofPD3Y/s200/Transformers+Autobot+Shield.jpg)    El Optimus Maximus, si bien tiene nombre de transformer... no lo es. Es, para ser mas preciso, un teclado. Pero no es un teclado cualquiera. Es un teclado muy especial, y seguramente, cuando vean los vídeos y las imágenes, ustedes digan:
 
 ¡Yo quiero ESO!
 
 ¿Que tiene de especial este teclado con complejo de autobot? Pues, cada tecla tiene un pequeño display [OLED](https://es.wikipedia.org/wiki/OLED) que puede cambiar dinámicamente para adaptar el esquema en uso del teclado, o para mostrar la función de una tecla. Y no se preocupen por la durabilidad, son teclas de polímero extra resistente.
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/R8G11bTZHjI/AAAAAAAAAkc/QEZTXFtU6Cs/s320/optimus-maximus-hands-on-29.jpg)    
-"Cada tecla del Optimus
-Maximus puede ser cambiada y tiene (si no le derraman café o algo ;) de aproximadamente 5 años."
+"Cada tecla del Optimus Maximus puede ser cambiada y tiene (si no le derraman café o algo ;) de aproximadamente 5 años."
 
 El "Optimus" permitiría una increíble interacción con el usuario, supliendo cada necesidad imaginable al cambiar el display de cada tecla dinámicamente para mostrar su nueva función.
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/R8GzpbTZHiI/AAAAAAAAAkU/TBN-ROodplM/s320/optimus-maximus-hands-on-top.jpg)    
-"Fotografía de un teclado
-Optimus Maximus con sus teclas adicionales configuradas"
+"Fotografía de un teclado Optimus Maximus con sus teclas adicionales configuradas"
 
 El ejemplo más sencillo, ocurre cuando el usuario usa la tecla "shift", en ese instante la imagen de las teclas cambia de minúscula a mayúscula. Y también permitiría cambiar el teclado, sin cambiarlo, es decir, usar un esquema de idioma de teclado diferente: Ingles, Español, Chino, etc. Realmente, cualquier persona puede sacarle jugo a este tipo de tecnología:
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/R8GzibTZHhI/AAAAAAAAAkM/WQ0Hi7IEzMs/s320/Optimus_Keyboard_Quake_III_layout.jpg)    
-"Esquema de teclas para
-Quake III para Gamers."
+"Esquema de teclas para Quake III para Gamers."
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/R8GzdbTZHgI/AAAAAAAAAkE/fRZr1JFcQ7A/s320/Optimus_Keyboard_Photoshop_layout.jpg)    
-"Esquema de teclas de
-Photoshop para Diseñadores Gráficos"
+"Esquema de teclas de Photoshop para Diseñadores Gráficos"
 
 Ademas el "Optimus" incluye un "key" saver, que es un screen saver para las teclas, soporta ademas animaciones en las teclas de hasta 10 FPS, y un sensor de luz para ajustar el brillo de las teclas. Pero bien... para que seguirlos aburriendo con imágenes... mejor vean el teclado funcionando:
 
-"Video: Teclado Optimus
-Maximus funcionando." Increíble teclado, y por lo que cuentan... parece que Apple va por ese camino también, planeando incluir en sus computadoras, teclados con teclas con display [OLED](https://es.wikipedia.org/wiki/OLED). Es algo que yo sinceramente, nunca espere, un teclado "dinámico". Pero quizás lo más increíble, es que esta tecnología es más antigua de lo que parece, profundizaremos en ese tema más adelante.
+"Video: Teclado Optimus Maximus funcionando." Increíble teclado, y por lo que cuentan... parece que Apple va por ese camino también, planeando incluir en sus computadoras, teclados con teclas con display [OLED](https://es.wikipedia.org/wiki/OLED). Es algo que yo sinceramente, nunca espere, un teclado "dinámico". Pero quizás lo más increíble, es que esta tecnología es más antigua de lo que parece, profundizaremos en ese tema más adelante.
 
 ¡Hasta la próxima!
 
@@ -13742,8 +12692,7 @@ post_id: blog-3515952828243908885.post-2287875234791157716
 ---
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/R_oze0iiowI/AAAAAAAAArY/lGYsWJQ71Pw/s400/captura2.png)    
-"Imagen: Logo
-YouTorrent"
+"Imagen: Logo YouTorrent"
 
 Youtorrent es un es un sitio de búsquedas de archivos "torrent", lo que lo diferencia de los demás sitios con esta idea, es que YouTorrent permite búsquedas paralelas en lo que se podría decir que son los 10 mejores sitios de búsqueda de torrents que hay. Para visitar YouTorrent sigue el vinculo:
 
@@ -13752,8 +12701,7 @@ Youtorrent es un es un sitio de búsquedas de archivos "torrent", lo que lo dife
 Entre los sitios que YouTorrent busca, están: Mininova, The Pirate Bay, isoHunt, SumoTorrent, FullDls, Monova, NewTorrents, BTJunkie, Vuze y Bittorrent.com
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/R_oyIkiiovI/AAAAAAAAArQ/adSiOTrsyq4/s400/captura1.jpg)    
-"Captura de sitios en los
-que busca YouTorrent"
+"Captura de sitios en los que busca YouTorrent"
 
 Insisto, YouTorrent no es un tracker, es un sitio de búsquedas como lo es: Altavista, Google o Yahoo. El sitio es tan bueno, que al usarlo: se sufre de un terrible deseo de descargar información, programas y películas ilegales con licencia Creative Commons ^^
 
@@ -13773,21 +12721,18 @@ post_id: blog-3515952828243908885.post-7787899773040694351
 ---
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/STCY9hCB0OI/AAAAAAAAExY/dqRTcD-1kAY/s400/YouTube+-+Live%27s+Channel.png)    
-"Banner del evento Youtube
-Live celebrado el sabado 22 de noviembre"
+"Banner del evento Youtube Live celebrado el sabado 22 de noviembre"
 
 Para los que no se dieron cuenta, hace exactamente una semana Youtube se vistió de gala celebrando un festival denominado Youtube Live en el cual invitó a grandes estrellas no solamente de los escenarios de Hollywood o cantantes, sino también a personajes que obtuvieron gran popularidad por sus vídeos publicados en youtube, como por ejemplo FunTwo, intérprete del [Canon Rock](https://www.youtube.com/watch?v=QjA5faZF1A8&feature=related) o a blendtec, personaje del popular programa [Will it blend?](https://www.willitblend.com/) que casi me provoca un ataque cuando vi el episodio en el que trituraban un iPhone 3G.
 
 El evento fue transmitido en vivo mediante live Streaming y luego de ello crearon [un canal](https://www.youtube.com/user/Live) donde se pueden observar cada uno de los shows presentados. Ademas, aparte de poder ver cada show por separado, es posible disfrutar de la transmisión completa de un poco más de dos horas en un unico video, mediante [este vínculo](https://www.youtube.com/watch?v=wTnsBP9u-TQ).
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/STCa_1cKmoI/AAAAAAAAExg/TW8OmoWUMEA/s400/YoutubeLive.png)    
-"Canal de Youtube donde se
-puede reproducir cada show por separado o de forma completa y contínua"
+"Canal de Youtube donde se puede reproducir cada show por separado o de forma completa y contínua"
 
 Algunas de las atracciones que se pudieron observar en este show es, por ejemplo, a FunTwo(Freddie Wong) tocando guitarra en dueto con Joe Satriani ([link](https://www.youtube.com/watch?v=OBHfb2sVWV4)), a Adam Savage de los Mythbusters disparando un chorro de pintura con la máquina Leonardo 2.0 sobre el cuerpo de Jamie Hyneman ([link](https://www.youtube.com/watch?v=7A0sjIh6_YQ)) o a Katy Perry interpretando Hot N Cold en la apertura del evento:
 
-"Katy Perry interpretado Hot N Cold en
-la apertura del evento Youtube Live"
+"Katy Perry interpretado Hot N Cold en la apertura del evento Youtube Live"
 
 ---
 
@@ -13807,14 +12752,12 @@ Originalmente esto empezó por la publicación de vídeos con contenido sujeto a
 Youtube empezó a ceder, restringiendo algunos vídeos para que no puedan ser vistos fuera de los estados unidos:
 
 ![image](https://bp1.blogger.com/_jH77WNrMVRA/SJTKbV0uW5I/AAAAAAAAB5Y/iuIgRKlwr7U/s320/postimage1.png)    
-"This video is not available
-in your country"
+"This video is not available in your country"
 
 Luego de esto, ni siquiera para Estados Unidos permitieron la reproducción de estos vídeos así que ahora ya no es posible reproducirlos de ninguna forma. Habrá que irnos despidiendo de muchas escenas de películas y videoclips:
 
 ![image](https://bp2.blogger.com/_jH77WNrMVRA/SJTKtU-39RI/AAAAAAAAB5g/5IlOss3yLyw/s320/postimage2.png)    
-"No longer available due to copyright
-claims..."
+"No longer available due to copyright claims..."
 
 Lo bueno es que Google se preocupo por guardar nuestra privacidad, negándose a revelar la base de datos de las IPs de sus usuarios. Este era uno de los requisitos de los demandantes con el propósito de comprobar que el contenido con copyrights es el mas popular en el sitio.
 
@@ -13828,11 +12771,9 @@ Para que estas compañías se den cuenta del valor que youtube agrega a los lanz
 
 "X-Men Origins: Wolverine"
 
-"Transformers 2: Rise of the
-Decepticons"
+"Transformers 2: Rise of the Decepticons"
 
-"Dragon Ball Z, The
-Movie"
+"Dragon Ball Z, The Movie"
 
 ---
 
@@ -13846,8 +12787,7 @@ post_id: blog-3515952828243908885.post-8972450777597994202
 ---
 
 ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/Sx8EzahcduI/AAAAAAAAGII/rnNPT-vXtq0/s400/zen.jpg)    
-"Libérate del Stress de
-escribir páginas HTML a mano"
+"Libérate del Stress de escribir páginas HTML a mano"
 
 Todo desarrollador web alguna vez tuvo que ensuciarse las manos escribiendo código HTML y se habrá dado cuenta de lo inmenso y engorroso que este puede volverse y de la poca eficiencia de los IDEs con capacidades WYSIWYG existentes. Aún teniendo frameworks como [GWT](https://www.srbyte.com/2009/10/trabajando-con-google-web-toolkit-y.html) que nos generan automáticamente todo el HTML y Javascript de nuestro sitio, en muchas ocasiones estos no resuelven nuestras necesidades específicas o "no forman parte del estándar de soluciones viables en nuestra empresa".
 
@@ -13863,9 +12803,7 @@ html:xt>div#header>h1#logo+ul#nav>li.item-$*5>a
 y el código HTML que este genera:
 
 ```
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-"https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en"> <head> <title></title> <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" /> </head> <body> <div id="header"> <h1 id="logo"></h1>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"> <html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en"> <head> <title></title> <meta http-equiv="Content-Type" content="text/html;charset=UTF-8" /> </head> <body> <div id="header"> <h1 id="logo"></h1>
 
 <ul id="nav"> <li class="item-1"><a href=""></a></li> <li class="item-2"><a href=""></a></li> <li class="item-3"><a href=""></a></li> <li class="item-4"><a href=""></a></li> <li class="item-5"><a href=""></a></li> </ul> </div> </body> </html>
 
@@ -13873,8 +12811,6 @@ y el código HTML que este genera:
 
 Este framework puede ser incrustado en diferentes IDEs por medio de plugins como por ejemplo Netbeans, Eclipse (y sus derivados), Textmate (mac), WebIDE, Aptana Studio, entre otros. Todos ellos se pueden descargar desde la [página oficial de Zen Coding](https://code.google.com/p/zen-coding/) en Google Code.
 
-[En ese link](https://zen-coding.ru/demo/) puedes probar un demo versión web,
-por si no deseas descargar ninguna de sus versiones asociadas a estos IDEs de desarrollo.
+[En ese link](https://zen-coding.ru/demo/) puedes probar un demo versión web, por si no deseas descargar ninguna de sus versiones asociadas a estos IDEs de desarrollo.
 
-"Video demostrativo del
-funcionamiento del framework Zen Coding"
+"Video demostrativo del funcionamiento del framework Zen Coding"

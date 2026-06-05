@@ -14,8 +14,7 @@ Esto suele pasar, especialmente a los usuarios novatos, que deciden bajarse cuan
 En cualquiera de los dos escenarios, debemos tomar en cuenta la manera como nuestro sistema operativo nos permite acceder a los programas instalados para que sea de la manera mas rápida productiva. Windows XP lo hace de esta manera:
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SU8fVbanNxI/AAAAAAAAFlM/_SvpwxU_l94/s400/509252546_8bb15d8685_o.jpg)    
-"Captura de Pantalla del
-Menú de Windows XP, con Demasiados Programas Instalados"
+"Captura de Pantalla del Menú de Windows XP, con Demasiados Programas Instalados"
 
 Como se puede ver, en Windows era un tanto dificil administrar la cantidad de programas instalados en la computadora. Afortunadamente Windows Vista ahora incorpora una única columna con una barra de desplazamiento y la capacidad de realizar búsquedas de programas.
 
@@ -35,12 +34,10 @@ Launchy: Este es similar al gnome-do con la diferencia de que existen tanto vers
 
 Katapult: Es la alternativa de KDE al Gnome Do. Al igual que los anteriores, pudes mostrar la ventana con una combinación de teclas, luego empiezas a teclear el nombre de lo que buscas y este se va autocompletando para que lo ejecutes.
 
-![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SVByqW_wBxI/AAAAAAAAFls/W13PHioq-6c/s400/katapul.png)    
-Avant Window Navigator: Este es un dock bar multiusos extensible mediante plugins. Originalmente te sirve nada más como un taskbar, para mostrar íconos de los programas abiertos pero es posible agregarle íconos para ejecutar aplicaciones y otros accesorios, como un reloj, calendario, comics de Dilbert, etc.
+![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SVByqW_wBxI/AAAAAAAAFls/W13PHioq-6c/s400/katapul.png)     Avant Window Navigator: Este es un dock bar multiusos extensible mediante plugins. Originalmente te sirve nada más como un taskbar, para mostrar íconos de los programas abiertos pero es posible agregarle íconos para ejecutar aplicaciones y otros accesorios, como un reloj, calendario, comics de Dilbert, etc.
 
 ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SVB1Zd7DA1I/AAAAAAAAFl0/a8-CIuaj9BI/s400/awn.jpg)    
 
 Kiba Dock: Otro dock bar para el escritorio, muy parecido al avant pero mucho mas sencillo y con mejor rendimiento. Orientado especialmente a mostrar íconos para lanzar aplicaciones.
 
-![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SVB2yzsRI1I/AAAAAAAAFl8/rRkpbthsfwo/s400/kibadock.jpg)    
-Ya habrán notado también que en Linux no dejan de existir los menús principales con cierta lista de programas, pero la tendencia en Linux es no tener un único lugar desde donde ejecutar tus programas sino varios, dependiendo de tus necesidades, por ejemplo, con combinaciones de teclas, íconos en el escritorio o en dock bars, lanzándolos directamente desde consola, etc.
+![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SVB2yzsRI1I/AAAAAAAAFl8/rRkpbthsfwo/s400/kibadock.jpg)     Ya habrán notado también que en Linux no dejan de existir los menús principales con cierta lista de programas, pero la tendencia en Linux es no tener un único lugar desde donde ejecutar tus programas sino varios, dependiendo de tus necesidades, por ejemplo, con combinaciones de teclas, íconos en el escritorio o en dock bars, lanzándolos directamente desde consola, etc.

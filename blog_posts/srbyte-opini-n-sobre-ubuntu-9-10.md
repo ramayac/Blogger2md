@@ -13,8 +13,7 @@ Estoy molesto con Ubuntu, hice un upgrade de la distribución, el error fue deja
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SvdXefwbqZI/AAAAAAAACN8/WHar5tiqeJY/s320/ubuntu910.jpg)    
 
-"¿Será mejor una instalación
-desde cero?"
+"¿Será mejor una instalación desde cero?"
 
 Después de solventar el problema desde la consola (viva apt!), comencé a utilizar el sistema, lo que impacta inmediatamente, es el nuevo tema de GDM, su suavidad y velocidad para responder a la selección de teclado, usuario o entorno gráfico.
 
@@ -44,7 +43,6 @@ Sin embargo, esta más que claro que Ubuntu 9.10 es solo una versión de transic
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SvdXjorf2AI/AAAAAAAACOM/VC2eC1ldlmA/s320/6585x1500y1500.jpg)    
 
-"Los koalas no se reponen de la fiesta, por eso esta
-buggy el ubuntu :P"
+"Los koalas no se reponen de la fiesta, por eso esta buggy el ubuntu :P"
 
 Al menos, esa es mi experiencia personal y la recomendación que puedo hacer con respecto de Karmic Koala. Me quedo con la curiosidad del Ubuntu Netbook Remix,

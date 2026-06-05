@@ -8,8 +8,7 @@ post_id: blog-3515952828243908885.post-5061763892267912496
 ---
 
 ![image](https://bp1.blogger.com/_jH77WNrMVRA/SBhvFvmVlfI/AAAAAAAAA1s/6sh19Yh4MTo/s320/shoot1.png)    
-"Nueva Caracteristica del
-iGoogle: Artist Themes"
+"Nueva Caracteristica del iGoogle: Artist Themes"
 
 iGoogle ahora ha habilitado una nueva característica: aplicarle temas (tamibén llamados [skins](https://es.wikipedia.org/wiki/Skin_%28software%29)) artísticos (o temas diseñados por artistas), los cuales están muy peculiares y llamativos, con los que podes hacer todavía mas lenta tu pagina de inicio de Google o iGoogle pero que se vea mas vistoso y te motive a usar su sin igual caja de texto de búsqueda y sus [widgets](https://es.wikipedia.org/wiki/Widget) (también llamados [gadgets](https://es.wikipedia.org/wiki/Gadget)).
 
@@ -24,8 +23,6 @@ Además de los gadgets, como dije al principio, iGoogle te permite personalizar 
 
 iGoogle con un tema comun:
 
-![image](https://bp2.blogger.com/_jH77WNrMVRA/SBhv9_mVlgI/AAAAAAAAA10/xnjYpXk7JGY/s320/shoot2.png)    iGoogle con un tema
-artístico:
+![image](https://bp2.blogger.com/_jH77WNrMVRA/SBhv9_mVlgI/AAAAAAAAA10/xnjYpXk7JGY/s320/shoot2.png)    iGoogle con un tema artístico:
 
-![image](https://bp2.blogger.com/_jH77WNrMVRA/SBhw7_mVlhI/AAAAAAAAA18/rXTxuQ1tqos/s320/shoot3.png)    
-Cabe destacar que tanto los temas personalizados como el exeso de widgets harán el sitio web más lento a la hora de cargar la información.
+![image](https://bp2.blogger.com/_jH77WNrMVRA/SBhw7_mVlhI/AAAAAAAAA18/rXTxuQ1tqos/s320/shoot3.png)     Cabe destacar que tanto los temas personalizados como el exeso de widgets harán el sitio web más lento a la hora de cargar la información.

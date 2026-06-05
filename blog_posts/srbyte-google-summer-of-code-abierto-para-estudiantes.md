@@ -8,8 +8,7 @@ post_id: blog-3515952828243908885.post-3221408087273400056
 ---
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/Scm8pWBtlPI/AAAAAAAAFro/pCuEM2nIEyg/s400/2009+summer+of+code+logo+final+r3-01.png)    
-"Logo del Google Summer of
-Code de este año"
+"Logo del Google Summer of Code de este año"
 
 Como todos los años desde el 2005, Google lanza su iniciativa para promover el desarrollo de aplicaciones Open Source y al mismo tiempo iniciar a estudiantes universitarios en el desarrollo de software en la vida real mediante este programa llamado Google Summer of Code.
 

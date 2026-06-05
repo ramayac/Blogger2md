@@ -11,8 +11,7 @@ Para atender las crecientes necesidades de los programadores, que tratan de mant
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SwS-mUkMBkI/AAAAAAAACOk/hY-KI2fQ37c/s320/struts2-merger2.png)    
 
-"Struts 2 es otro
-exitoso proyecto de Apache.org"
+"Struts 2 es otro exitoso proyecto de Apache.org"
 
 En el lugar donde trabajo, no utilizan un Web Frameworks en el proyecto en el que me encuentro, algo que por supuesto, reduce enormemente la productividad, trauma y molesta... mucho, realmente mucho. Supongo que en varias empresas sucedera lo mismo, si es ese el caso, es una lastima, porque estan perdiendo el tiempo reinventando la rueda. Y recordemos que en las empresas, el tiempo es dinero.
 
@@ -32,8 +31,7 @@ El primero consiste en una encuesta realizada por [Kimberly McClintock](https://
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SwS-nBS0M8I/AAAAAAAACOs/pI7VCuD7Pzw/s320/openxava.jpeg)    
 
-"OpenXava: El framework que te hace los CRUD
-automáticamente"
+"OpenXava: El framework que te hace los CRUD automáticamente"
 
 Y el segundo, consiste en una matriz comparativa de frameworks que utilizan la amena combinación de JSF + Ajax, esta matriz resulta de lo mas útil para los que están en la prisa de justificar porque usar uno u otro producto para un proyecto, así que recomiendo mucho que visiten la [JSFMatrix](https://www.jsfmatrix.net/).
 

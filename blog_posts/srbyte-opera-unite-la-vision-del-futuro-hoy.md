@@ -7,11 +7,9 @@ draft: false
 post_id: blog-3515952828243908885.post-4644376070365646645
 ---
 
-![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SjhnLTLkTMI/AAAAAAAAFt4/ckadEM4Yu3I/s400/Opera+Unite.png)    
-"Logotipo de Opera Unite"
+![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SjhnLTLkTMI/AAAAAAAAFt4/ckadEM4Yu3I/s400/Opera+Unite.png)     "Logotipo de Opera Unite"
 
-[Opera](https://www.opera.com/) acaba de lanzar lo que
-muchos llamarían "el futuro de la web", y esto porque su nueva versión del navegador viene incorporado por una nueva tecnología llamada [Opera Unite](https://unite.opera.com/), ahora cuenta con facilidades para convertir tu PC en todo un servidor de Internet, permitiéndote compartir música y comunicarte con tus amigos y conocidos sin necesidad de usar servicios de terceros.
+[Opera](https://www.opera.com/) acaba de lanzar lo que muchos llamarían "el futuro de la web", y esto porque su nueva versión del navegador viene incorporado por una nueva tecnología llamada [Opera Unite](https://unite.opera.com/), ahora cuenta con facilidades para convertir tu PC en todo un servidor de Internet, permitiéndote compartir música y comunicarte con tus amigos y conocidos sin necesidad de usar servicios de terceros.
 
 Hace un tiempo escuchábamos también propuestas de Mozilla para revolucionar nuestro modo de utilizar la web mediante mashups e interacciones mas naturales para controlar el browser mediante su tecnología [Ubiquity](https://labs.mozilla.com/projects/ubiquity/) y también hace poco recibimos una propuesta por parte de Google para facilitarnos la forma como nos comunicamos y compartimos recursos en el web, mediante [Google Wave](https://wave.google.com/). Todo esto nos indica que la web como la conocemos hoy pronto dejará de existir, dándole paso a una nueva plataforma donde ya no solamente navegaremos por páginas con hipervínculos para leer contenido web, sino que ahora los browsers serán verdaderas y poderosas herramientas para estar en contacto con nuestros amigos/colegas/conocidos y compartir recursos mas fácilmente para cumplir el objetivo del Internet, el cual [Katherine](https://www.queith.net/) me lo recordó una vez con un twitt diciendo que: "Internet es realmente una conexión entre personas, no entre computadoras"
 
@@ -26,8 +24,7 @@ Entre los servicios que se pueden montar en este navegador se encuentran:
 Para poder experimentar esta nueva tecnología de opera, es necesario descargarse la [versión 10-beta de dicho navegador](https://labs.opera.com/news/2009/06/16/) y crear una cuenta (o iniciar sesión) de [My Opera](https://my.opera.com/community/).
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/Sjh6ZwaPOSI/AAAAAAAAFuM/TRYp3M5QrlU/s400/robertux+opera+unite.png)    
-"Opera Unite, mostrando mi
-perfil y servicios disponibles"
+"Opera Unite, mostrando mi perfil y servicios disponibles"
 
 Este vídeo nos explica la ideología de Opera respecto a su nueva tecnología:
 

@@ -8,8 +8,7 @@ post_id: blog-3515952828243908885.post-4897511027394864358
 ---
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/RjiPW0K33tI/AAAAAAAAAVQ/fCEw6sfxCZc/s400/logo_main_sl.gif)    
-"Logo de Microsoft
-Silverlight"
+"Logo de Microsoft Silverlight"
 
 Siguiendo su larga trayectoria de hacer productos que no tienen ningún tipo de innovación, Microsoft libera el beta de su (infame) Silverligth... un producto de tercera categoría similar (terriblemente) a Adobe Flash.
 
@@ -32,8 +31,7 @@ Ray Ozzie, pronto la nueva cabeza de Microsoft, ha criticado con anterioridad la
 Es más que evidente que el mercado de las tecnologías web quieran algo que se ejecute en cualquier cosa, un servidor web, un Iceweasel en Debian, en un Arch Linux, en Opera, o en un Safari.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/RjiPhUK33uI/AAAAAAAAAVY/12VhqpUsjFk/s400/manybrowsers.png)    
-"Muchos navegadores
-web"
+"Muchos navegadores web"
 
 Mike Schroepfer, vicepresidente de Mozilla menciona que el Software Libre es vital para el espíritu creativo que miles de personas empeñan en la web.
 

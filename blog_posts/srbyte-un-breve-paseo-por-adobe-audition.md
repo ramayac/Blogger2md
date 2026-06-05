@@ -15,12 +15,9 @@ Una vez ya instalado, el programa corre sin ningún problema y despliega una pan
 
 En la parte superior, se muestran un total de ocho herramientas diferentes, las cuales facilitan y ayudan al usuario al momento de seleccionar, cortar o duplicar alguna parte de la pista que está trabajando. Cabe mencionar que, según la acción que se esté realizando, las herramientas aparecen activas.
 
-![image](https://1.bp.blogspot.com/_JbB9KsZ238w/SSonxN386xI/AAAAAAAAAQQ/-S41eHbxv_c/s320/captura+2.JPG)    
-En la captura se observa la diferencia entre el área de trabajo el área de archivos. Específicamente en el área de archivos, se despliega otra pestaña llamada "Efectos", que permite al usuario tener un atajo para la aplicación de los diferentes efectos. Entre ellos, la amplitud, efectos de retardo, especial, filtros, restauración, tiempo/tonos y los efectos de multiplistas.
+![image](https://1.bp.blogspot.com/_JbB9KsZ238w/SSonxN386xI/AAAAAAAAAQQ/-S41eHbxv_c/s320/captura+2.JPG)     En la captura se observa la diferencia entre el área de trabajo el área de archivos. Específicamente en el área de archivos, se despliega otra pestaña llamada "Efectos", que permite al usuario tener un atajo para la aplicación de los diferentes efectos. Entre ellos, la amplitud, efectos de retardo, especial, filtros, restauración, tiempo/tonos y los efectos de multiplistas.
 
-A diferencia del Cool Edito Pro, el Adobe Audition presenta un botón que envía al usuario a una segunda área de trabajo, en la cual es posible editar más de dos pistas. Esta es la famosa aplicación multipistas.
-![image](https://4.bp.blogspot.com/_JbB9KsZ238w/SSouU7-8ffI/AAAAAAAAAQg/NoLeJqu_Sjw/s320/captura+3.JPG)    
-Esta aplicación es de gran utilidad cuando el usuario necesita mezclar diversos sonidos y fundirlos en uno solo de manera previa. Cada banda de edición cuenta con su propia área de ecualización y de mezcla, lo cual hace más facil operar los niveles de volumen de los sonidos.
+A diferencia del Cool Edito Pro, el Adobe Audition presenta un botón que envía al usuario a una segunda área de trabajo, en la cual es posible editar más de dos pistas. Esta es la famosa aplicación multipistas. ![image](https://4.bp.blogspot.com/_JbB9KsZ238w/SSouU7-8ffI/AAAAAAAAAQg/NoLeJqu_Sjw/s320/captura+3.JPG)     Esta aplicación es de gran utilidad cuando el usuario necesita mezclar diversos sonidos y fundirlos en uno solo de manera previa. Cada banda de edición cuenta con su propia área de ecualización y de mezcla, lo cual hace más facil operar los niveles de volumen de los sonidos.
 
 En la parte inferior, el programa ofrece una visualización más amplia de las aplicaciones, especialmente, los niveles de ecualización de la música y los sonidos con los cuales el usuario se encuentra trabajando.
 

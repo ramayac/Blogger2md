@@ -17,8 +17,7 @@ Para tener una idea de como son las licencias de software propietario, imaginemo
 > esta llave es ÚNICA y no puede ser copiada, traspasada, recuperada o compartida bajo ninguna
 > circunstancia. Al hacer esto usted esta violando el acuerdo de esta
 > licencia.
-"Ni modo" - dice nuestro amigo. Y se
-dispone a usar este vistoso y hermoso auto. 29 días después el hijo de Pedro, Pedrito, decide prestarle el carro a su padre para llevarlo a una fiesta. Pedro confiando en su hijo le entrega la llave, violando la clausula 1.a, y la clausula 1.b que dice:
+"Ni modo" - dice nuestro amigo. Y se dispone a usar este vistoso y hermoso auto. 29 días después el hijo de Pedro, Pedrito, decide prestarle el carro a su padre para llevarlo a una fiesta. Pedro confiando en su hijo le entrega la llave, violando la clausula 1.a, y la clausula 1.b que dice:
 
 > Clausula 1.b: Ninguna persona
 > (familiar, amigo, empleado, etc), bajo ninguna circunstancia, podrá usar el asiento de
@@ -39,5 +38,4 @@ Pedrito intenta llamar a su padre desde el hermoso teléfono del carro, pero no 
 Algunos pensaran que este escenario es un poco drástico, pero creanme que se apega bastante a la realidad. El problema, como siempre, es la falta de información. Los medios no hacen mucho para que la gente entienda que al comprar Software Propietario, realmente solo compran el permiso para usarlo. La protección del software propietario es exactamente igual que la de la música, si compro el nuevo disco de "[Marito Rivera y su grupo Bravo](https://www.maritorivera.com/)
 " no soy dueño de la música, pero puedo escucharla.
 
-![image](https://bp1.blogger.com/_ayvorITawE4/Ra47mjD_h0I/AAAAAAAAAAg/hWIIT3HzlQ4/s400/18.jpg)    
-Es una movida bastante ingeniosa para ganar dinero y demandar, pero no es muy justa con el usuario final. Y si, lo acepto, el software propietario tiene ciertas ventajas sobre el software libre, pero no pesan lo suficiente para que decida
+![image](https://bp1.blogger.com/_ayvorITawE4/Ra47mjD_h0I/AAAAAAAAAAg/hWIIT3HzlQ4/s400/18.jpg)     Es una movida bastante ingeniosa para ganar dinero y demandar, pero no es muy justa con el usuario final. Y si, lo acepto, el software propietario tiene ciertas ventajas sobre el software libre, pero no pesan lo suficiente para que decida

@@ -11,8 +11,7 @@ Este es un grupo de fotografías variadas de la Campus Party:
 
 Campus Party en general:
 
-![image](https://farm4.static.flickr.com/3033/2981620703_6d9bab9522_b.jpg)  
-Fotografía panorámica por [Edwingraf](https://www.flickr.com/photos/photosivar/), todos los derechos reservados.
+![image](https://farm4.static.flickr.com/3033/2981620703_6d9bab9522_b.jpg)   Fotografía panorámica por [Edwingraf](https://www.flickr.com/photos/photosivar/), todos los derechos reservados.
 
 Vista desde la tarima: ![image](https://farm4.static.flickr.com/3142/2985295440_fbf7e20ccc.jpg?v=0)  
 

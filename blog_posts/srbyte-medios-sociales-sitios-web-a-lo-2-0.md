@@ -25,7 +25,6 @@ Entre las características de los sitios web considerados como medios sociales o
 
 No hay duda que los sitios al estilo web 2.0 con contenido social (o medios sociales, como lo quieran llamar) aumentan su productividad y popularidad. Una mejor manera de explicarlo es a través de un vídeo demostrativo (hecho con dibujos a lápiz en piezas de papel!), elaborado por [commoncraft](https://www.commoncraft.com/):
 
-"Commoncraft: Social Media in Plain
-English"
+"Commoncraft: Social Media in Plain English"
 
 Algo mas que deseen aportar sobre el tema?

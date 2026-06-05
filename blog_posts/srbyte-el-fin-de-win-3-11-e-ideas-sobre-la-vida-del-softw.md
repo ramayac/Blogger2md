@@ -10,8 +10,7 @@ post_id: blog-3515952828243908885.post-323149589924915319
 El 1º de Noviembre de 2008 terminó oficialmente la vida de Windows 3.11 (Embedded Edition). No tenia la mas mínima idea de que Microsoft aun estaba dando licencias para un sistema operativo tan anciano como Win 3.11. Es mas, hasta donde se sabe - y por eso me parece tan curioso ese anuncio - Microsoft solo tiene publicada información sobre dos sistemas operativos incrustables (embedded en Ingles), y estos son: [Windows CE 6.0](https://support.microsoft.com/lifecycle/search/default.aspx?sort=PN&alpha=windows+embedded&Filter=FilterNO) y Windows XP Embedded Service Pack 2 (en la linea de los [Embedded XP](https://support.microsoft.com/lifecycle/search/default.aspx?sort=PN&alpha=XP+embedded&Filter=FilterNO), para maquinas de bajo costo). Y ademas la base de datos de soporte de productos de Microsoft, muestra que se descontinuo las licencias para [Windows For Workgroups](https://support.microsoft.com/lifecycle/search/default.aspx?sort=PN&alpha=windows+for+workgroups&Filter=FilterNO) (3.11 Workgroups) en 2001.
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SRXOFtF0XmI/AAAAAAAABZ4/QlY3VE3Lx6o/s320/win311logo_2.gif)    
-"¡Bye bye Windows
-3.11!"
+"¡Bye bye Windows 3.11!"
 
 Si, si, todo eso es muy peculiar y bueno, pero ¿el punto es?....
 > style="font-size:130%;">El ciclo de vida del software.
@@ -32,5 +31,4 @@ Otro dato que podemos obtener de esta curiosa noticia, es algo que sinceramente 
 
 Quizás lo que mas me motivo a escribir sobre esto, fue que cuando lo leí: no pude dejar de sentir 0.00001% de nostalgia. Después de todo Windows 3.11 fue el primer Sistema Operativo con el que interactúe de verdad (aunque lo tenia que "ejecutar" desde DOS), dejo un vídeo para los nostálgicos :D
 
-"¡Nostalgiaaaaaa!"
-Un saludo especial a todos aquellos lectores que usaron DOS y Windows 3.x ;) Y tu ¿Qué haces para que tus programas "vivan" más tiempo?
+"¡Nostalgiaaaaaa!" Un saludo especial a todos aquellos lectores que usaron DOS y Windows 3.x ;) Y tu ¿Qué haces para que tus programas "vivan" más tiempo?

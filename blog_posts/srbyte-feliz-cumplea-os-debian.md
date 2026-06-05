@@ -8,8 +8,7 @@ post_id: blog-3515952828243908885.post-5743602935186279806
 ---
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SKcNwgYNEGI/AAAAAAAACAE/aEUGnhgTB6Y/s320/DSCN3332.sized.jpg)    
-"Pastel de Cumpleaños con la
-Espiral de Debian"
+"Pastel de Cumpleaños con la Espiral de Debian"
 
 Un día como hoy, 16 de agosto de 1993 fue iniciado el proyecto que dio lugar a la tan popular distribución de GNU/Linux: [Debian](https://www.debian.org/).
 
@@ -25,12 +24,10 @@ Algunos datos curiosos acerca de Debian:
 
 - Ha servido como base para una gran cantidad de distribuciones "hijas" como por ejemplo Knoppix y Ubuntu, por mencionar algunas de las mas populares ([acá](https://www.debian.org/misc/children-distros) esta la lista completa).
 ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SKcSYGVVndI/AAAAAAAACAM/gVJO1zVjKFM/s320/buzz.jpg)    
-"El origen de la espiral de
-Debian: La barbilla de Buzz Light Year"
+"El origen de la espiral de Debian: La barbilla de Buzz Light Year"
 
 Por tal motivo, cada 14 de agosto se celebra el Día Debian ([Debian Day](https://wiki.debian.org/DebianDay2008)) brindando las tradicionales charlas, install fest, LAN party, reuniones y todo lo que se les pueda ocurrir a un grupo de geeks para homenajear a una de las distribuciones que mas han aportado a la difusión de GNU/Linux y el software libre en general.
 
 Para terminar los dejo con un vídeo de los ya conocidos sorprendentes efectos de Compiz Fusion, corriendo sobre un Debian GNU/Linux:
 
-"Efectos de Compiz Fusion, sobre Debian
-GNU/Linux"
+"Efectos de Compiz Fusion, sobre Debian GNU/Linux"

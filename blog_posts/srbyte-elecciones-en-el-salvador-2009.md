@@ -10,8 +10,7 @@ post_id: blog-3515952828243908885.post-7987489366654744050
 A pesar de que, usualmente, presento una apatía total por la política, estas ultimas elecciones me emocionaron mucho. Parte de la emoción fue debido a que al fin pude mantenerme al tanto de los resultados, por lo medios que a mi más me agradan... y de esos precisamente voy a escribirles brevemente en esta ocasión.
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/Sb22agJN3PI/AAAAAAAAB7I/e24X2493X_c/s320/social+media.jpg)    
-"La actividad en los medios
-sociales se hizo presente en estas elecciones."
+"La actividad en los medios sociales se hizo presente en estas elecciones."
 
 De lo que les quiero comentar, y de lo que muchos en todo caso ya saben, es de la disponibilidad de datos, de la cobertura de los medios y del papel genial que la comunidad de Twitters y Bloggers han jugado, al mantener totalmente informados a prácticamente todo aquel que estuviese buscando resultados de las elecciones en Internet.
 
@@ -23,8 +22,7 @@ De lo que les quiero comentar, y de lo que muchos en todo caso ya saben, es de l
 3. Twitt-radar: También quiero felicitar a [Adolfo Fitoria](https://fitoria.net/) e [Igor Guerrero](https://igordevlog.blogspot.com/) por el uso de una aplicación que usa el framework de Google Aplications, y la informacion generada en Twitter, nos compartieron el Twitt-radar:
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/Sb2ur_EwrTI/AAAAAAAAB64/DOGKy0-wuFs/s320/igorPolitiquero.png)    
-"Captura del Twitt-radar, en
-acción."
+"Captura del Twitt-radar, en acción."
 
 En lo personal, una de las iniciativas que más fue de mi agrado. Felicitaciones.
 
@@ -44,8 +42,7 @@ Gracias a [Chero07](https://www.chero07.info/) por compartir estos vínculos.
 6. ¿Que me habría gustado ver?: ¿Se acuerdan de las elecciones del Presidente Barak Obama?, Google utilizo su tecnología de Google Maps para crear un mapa que mostraba los estados de la union, coloreados segun el partido que ganaba.
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/Sb2xuPpsNyI/AAAAAAAAB7A/6jj8LQmkkNk/s320/googlemaps.png)    
-"Google Maps
-Mashup"
+"Google Maps Mashup"
 
 ¿Sería mucho pedir, que el Tribunal Supremo Electoral hiciera algo así? (Se vale soñar) También me habría gustado ver un poco más de calma entre las personas que comentan en el Cover-it-Live, no entiendo cual es el "ajolotamiento" de algunos individuos. En fin, muy emocionante el desenlace de esta campaña, también quiero mencionar el blog de [Hunnapuh](https://hunnapuh.blogcindario.com/), del que pase muy pendiente. Y no queda más que felicitar nuevamente a todos los involucrados, e invitar a los medios masivos de comunicacion Salvadoreña, a reconocer el peso, y la importancia que las comunidades de Bloggers y Twitters tienen en la cobertura de este tipo de eventos.
 

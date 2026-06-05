@@ -13,10 +13,7 @@ Revolucionando el software con NeXTSTEP un sistema operativo orientado a objetos
 
 Mejorando nuevamente el mercado de las computadoras personales con la iMac:
 
-![image](https://bp0.blogger.com/_ayvorITawE4/RdOcH6SA95I/AAAAAAAAAGU/TLQeSTmuRVU/s400/SteveiMac.jpg)    
-Entreteniendo nuestra vida con el ya famoso iPod (mejor que el Zune, pero sumamente restrictivo):
-![image](https://bp3.blogger.com/_ayvorITawE4/RdOdLqSA97I/AAAAAAAAAGk/bMosdnNVBpA/s200/ipodu2.JPG)    Y continuando con
-su revolución, Apple se supera así mismo una vez mas, con el lanzamiento de un nuevo invento... el [iPhone:](https://www.apple.com/iphone/)
+![image](https://bp0.blogger.com/_ayvorITawE4/RdOcH6SA95I/AAAAAAAAAGU/TLQeSTmuRVU/s400/SteveiMac.jpg)     Entreteniendo nuestra vida con el ya famoso iPod (mejor que el Zune, pero sumamente restrictivo): ![image](https://bp3.blogger.com/_ayvorITawE4/RdOdLqSA97I/AAAAAAAAAGk/bMosdnNVBpA/s200/ipodu2.JPG)    Y continuando con su revolución, Apple se supera así mismo una vez mas, con el lanzamiento de un nuevo invento... el [iPhone:](https://www.apple.com/iphone/)
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/RdOTiqSA94I/AAAAAAAAAGM/YOhh_id6O5M/s400/indexhero20070109.jpg)    
 

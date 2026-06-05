@@ -10,8 +10,7 @@ post_id: blog-3515952828243908885.post-6461637160100217726
 Si usas Internet de manera seguida, entonces habrás visto el creciente aumento de este símbolo en casi todas partes:
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/R-SCakiioOI/AAAAAAAAAmc/b0qbE5y97rA/s400/rss.jpg)    
-"Imagen: Icono común que
-representa un web feed."
+"Imagen: Icono común que representa un web feed."
 
 Es más, el aumento ha sido tan drástico que mucha gente seguramente se preguntara ¿Para que es? ¿Que significa? ¿Por que esta ahí? ¿De que me sirve? y... ¿Hey, por que no funciona bien?. Así que, para solventar toda duda, el Sr. Byte se tomara dos minutos para explicarte que utilidad tiene para ti esta tecnología.
 
@@ -38,20 +37,17 @@ Lo explicare de la forma más sencilla:
 ¿Y como lo uso? Fácil, busca un sitio web de tu agrado y busca el icono de Sindicación, el fiel y nuevo amigo naranja que aparece en tu barra de navegador, como este:
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/R-SBM0iioMI/AAAAAAAAAmM/myn8YMbnpb0/s400/rsswiki.jpg)    
-"Imagen: Icono de
-Sindicación en Mozilla FireFox"
+"Imagen: Icono de Sindicación en Mozilla FireFox"
 
 O en Internet Explorer, cuando hay un feed para consumir o al cual suscribirse, aparece habilitado el icono de Sindicación, así:
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/R-Ule0iioPI/AAAAAAAAAmk/O1etzXPs66M/s400/rssexplorer.jpg)    
-"Imagen: Icono de
-Sindicación en Internet Explorer 7.0"
+"Imagen: Icono de Sindicación en Internet Explorer 7.0"
 
 O en forma de icono/imagen en una pagina web, por ejemplo nosotros tenemos uno bastante llamativo que dice "Suscribete al Sr. Byte":
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/R-SBRUiioNI/AAAAAAAAAmU/isfyPfDfVLE/s400/suscribetebyte.jpg)    
-"Imagen: 'Suscribete al Sr.
-Byte'"
+"Imagen: 'Suscribete al Sr. Byte'"
 
 Luego le das click y te suscribes a ese sitio. El proceso para "consumir" un feed es por medio de una suscripción. Tambien puedes usar un programa para consumir un feed, usualmente llamados: Lector de Feeds o lector de noticias (y en ingles news reader o aggregator), estos programas utilizan el proceso de la Sindicación para obtener solo las actualizaciones necesarias de los sitios a los que te suscribes, de esta forma puedes conocer que es lo que hay de nuevo en cada uno de estos, y así, el programa Lector de Feeds, se encarga a su vez de monitorear las actualizaciones de esos sitios.
 

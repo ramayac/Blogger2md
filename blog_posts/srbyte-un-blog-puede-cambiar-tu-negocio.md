@@ -9,8 +9,7 @@ post_id: blog-3515952828243908885.post-1840591703957484055
 
 Los blogs no son "una moda pasajera de jóvenes", son - usados sabiamente - más bien una robusta plataforma en donde virtualmente cualquier tipo de negocios, puede cosechar beneficios casi inmediatamente...
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SPgEdoxR1aI/AAAAAAAABV4/NbrTeg1uuCA/s320/blog-blogging.jpg)    
-"¿Qué esperas para tener un blog?"
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SPgEdoxR1aI/AAAAAAAABV4/NbrTeg1uuCA/s320/blog-blogging.jpg)     "¿Qué esperas para tener un blog?"
 
 Si tu negocio no tiene un blog, o tienes dudas sobre porque deberías de tenerlo, quizás este articulo te ayude un poco a mejorar tus ideas, sigue leyendo ;)
 
@@ -18,8 +17,7 @@ Si tu negocio no tiene un blog, o tienes dudas sobre porque deberías de tenerlo
 
 Esta es una pequeña explicación (en Ingles) de qué es un blog:
 
-"Video: Blogs in Plain
-English"
+"Video: Blogs in Plain English"
 
 Los blogs pueden entrar en dos categorías:
 
@@ -39,9 +37,7 @@ Los blogs de negocios están obteniendo lucro de la popularidad de este fenómen
 - Actualizar un blog, es un proceso más rápido que contactar a un diseñador web para cambiar información del sitio. Hasta para cambiar el diseño, basta con dar un par de clicks y se cambia todo el aspecto del mismo.
 - El software que te permite escribir en un blog es de lo más sencillo de usar. Compañías como [Movable Type](https://www.moveabletype.org/), [Blogger](https://blogger.com/) y Typepad ofrecen una plataforma con mucha flexibilidad y sin complicaciones para comenzar a escribir en el blog sobre tu negocio... ![image](https://www.majordojo.com/images/mt4-logo.png)    También puede ser un poderoso punto de beneficio para consultores, puesto que les permite exponer sus ideas, pensamientos, experiencias y conocimiento (no todo, por supuesto, sino no seria negocio) para darse a conocer en un mercado global.
 
-Ejemplos de blogs de negocios:
-[Gizmodo](https://gizmodo.com/) es un blog sobre cualquier dispositivo tecnológico que se puedan
-imaginar, o como se les suele llamar: gadgets y gizmos. Gizmodo es como una revista web, y han construido una audiencia especial de consumidores de dispositivos electrónicos a quienes dirigen los anuncios y la publicidad que les hace ganar dinero. [Joel on Software](https://www.joelonsoftware.com/) es un blog que muestra las opiniones y el (inmenso) conocimiento de Joel Spolsky's sobre el desarrollo de software. Su blog, actúa como muestra de la experiencia que Joel tiene, y sirve para promover su pequeño negocio: Fog Creek Software.
+Ejemplos de blogs de negocios: [Gizmodo](https://gizmodo.com/) es un blog sobre cualquier dispositivo tecnológico que se puedan imaginar, o como se les suele llamar: gadgets y gizmos. Gizmodo es como una revista web, y han construido una audiencia especial de consumidores de dispositivos electrónicos a quienes dirigen los anuncios y la publicidad que les hace ganar dinero. [Joel on Software](https://www.joelonsoftware.com/) es un blog que muestra las opiniones y el (inmenso) conocimiento de Joel Spolsky's sobre el desarrollo de software. Su blog, actúa como muestra de la experiencia que Joel tiene, y sirve para promover su pequeño negocio: Fog Creek Software.
 
 [Jupiter Research](https://weblogs.jupiterresearch.com/) una compañía que va a la vanguardia de las investigaciones y análisis de mercados, tienen un blog por cada analista de la compañía. Esto les permite que los analistas se "conecten" periódicamente con la audiencia que los lee (clientes en potencia).
 

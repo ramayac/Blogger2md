@@ -10,8 +10,7 @@ post_id: blog-3515952828243908885.post-6943288365160740787
 Si has "escaneado" tu máquina con un antivirus, y pasaste minutos de tu vida mirando la barra de progreso y los comentarios en cada archivo, probablemente viste mas de alguna vez (y con cualquier buen antivirus) la palabra: heurística.
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/StaLNqjxc3I/AAAAAAAACMY/PGHIFcanHw8/s320/searchradarpc.jpg)    
-"Fuera interesante ver el
-progreso de escaneo de un ativirus así"
+"Fuera interesante ver el progreso de escaneo de un ativirus así"
 
 En la mayoría de antivirus, la [heurística](https://es.wikipedia.org/wiki/Heur%C3%ADstica_%28inform%C3%A1tica%29) se refiere a una técnica especifica para reconocer código malicioso ([virus](https://es.wikipedia.org/wiki/Virus_%28inform%C3%A1tica%29), [gusanos](https://es.wikipedia.org/wiki/Gusano_%28inform%C3%A1tica%29), [troyanos](https://es.wikipedia.org/wiki/Caballo_de_Troya_%28inform%C3%A1tica%29), etc.) que este (el antivirus) no posea en su base de datos por diversas razones, como que los programas maliciosos sean nuevos o poco divulgados.
 
@@ -30,8 +29,7 @@ Cualquiera de las reglas usadas de forma independiente pueden llevar a errores d
 Ahora bien, no todo es bueno con la heurística... si algo podemos decir de un algoritmo cualquiera, es que este se pueda ejecutar varias veces, y su resultado sea óptimo. Por irónico que parezca, un algoritmo heurístico abandona estos objetivos para obtener una buena solucion, que pudiera convertirse arbitrariamente en una mala solucion, como los famosos [falsos positivos en un antivirus](https://foros.softonic.com/seguridad/antivirus-da-falsos-posivos-47252)...
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/StaLOCESF3I/AAAAAAAACMg/hpNieJRhsrU/s320/utorrent-malware.png)    
-":@ esto es lo mas terrible
-del mundo, un falso positivo en un archivo perfectamente sano."
+":@ esto es lo mas terrible del mundo, un falso positivo en un archivo perfectamente sano."
 
 O sino, el algoritmo heurístico se ejecuta razonablemente rápido, pero no hay argumento de que esto siga sucediendo siempre. Finalmente, y con la música de Eurythmics de fondo...
 

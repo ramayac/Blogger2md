@@ -25,8 +25,7 @@ Y no es de extrañarnos, con [Firefox 3.5](https://www.srbyte.com/2009/06/usar-f
 
 Justo como IE ofrece el modo de "Navegación en Privado" (InPrivate Browsing), Mozilla Firefox 3.5 tiene tiene el modo de "Navegación Privada". Una vez que esta modalidad esta activada, el usuario puede visitar cualquier sitio y no quedara NINGUN rastro de la visita a este sitio, eso quiere decir que no quedan: cookies, archivos temporales, información de búsqueda y de formularios.
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SlDQj-RtGcI/AAAAAAAACGQ/zGcnaLHK6Hk/s320/firefox-private.jpg)    
-Pero mas alla de esa característica, si un usuario quiere eliminar rastros de donde ha estado (y no entro en la modalidad de Navegación Privada) entonces, puede utilizar la característica "Olvidate de este sitio". Esta eliminara toda la información asociada con ese sitio web.
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SlDQj-RtGcI/AAAAAAAACGQ/zGcnaLHK6Hk/s320/firefox-private.jpg)     Pero mas alla de esa característica, si un usuario quiere eliminar rastros de donde ha estado (y no entro en la modalidad de Navegación Privada) entonces, puede utilizar la característica "Olvidate de este sitio". Esta eliminara toda la información asociada con ese sitio web.
 
 3. Soporte Multimedia: Como Firefox 3.5 soporta la etiqueta HTML 5 de elementos de audio y video, los usuarios pueden ver videos y escuchar música directamente en la pagina web, sin la necesidad de usar un algo externo (Windows Media Player, Totem, Adobe Flash).
 

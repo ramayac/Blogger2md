@@ -12,8 +12,7 @@ No se necesita tener una PDA, un celular complejo con acceso a Internet o tener 
 > style="font-size:130%;">Firefox y Google
 Google en estos últimos años ha implementado una serie de herramientas fantásticas para trabajar en linea, que sustituyen aplicaciones de escritorio que usamos día a día. Es hora de dejar de pensar en el escritorio y comenzar a pensar OnLine, todas las herramientas están en nuestras narices.
 
-![image](https://bp3.blogger.com/_ayvorITawE4/RhsTt_XLh3I/AAAAAAAAAQY/DzVmchvGrXU/s400/google.jpg)    
-Documentos de Word y Excel: El sobrecargado Microsoft Office y el (a veces) lento OpenOffice.org pueden ser fácilmente remplazados con [Google Docs & Spreadsheets](https://www.google.com/google-d-s/intl/en/tour1.html). No solo Google Docs & Spreadsheets ofrece una poderosa interfaz web hecha en AJAX sino que se integra (como todos los servicios de Google) de manera transparente en una cuenta de Google existente (si tienes cuenta de Gmail tienes cuenta con Google).
+![image](https://bp3.blogger.com/_ayvorITawE4/RhsTt_XLh3I/AAAAAAAAAQY/DzVmchvGrXU/s400/google.jpg)     Documentos de Word y Excel: El sobrecargado Microsoft Office y el (a veces) lento OpenOffice.org pueden ser fácilmente remplazados con [Google Docs & Spreadsheets](https://www.google.com/google-d-s/intl/en/tour1.html). No solo Google Docs & Spreadsheets ofrece una poderosa interfaz web hecha en AJAX sino que se integra (como todos los servicios de Google) de manera transparente en una cuenta de Google existente (si tienes cuenta de Gmail tienes cuenta con Google).
 
 Email: Evidentemente la respuesta en Gmail ([aunque la nueva iniciativa de yahoo mail intriga mucho](https://srbyte.blogspot.com/2007/03/yahoo-mail-ilimitado.html)), Gmail es rápido, eficiente y mejor que muchas aplicaciones de escritorio que hacen "lo mismo".
 

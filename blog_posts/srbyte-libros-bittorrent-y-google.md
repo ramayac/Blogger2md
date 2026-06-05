@@ -17,16 +17,13 @@ Advertencia: Recuerden que la mayoría de estos libros tienen que haberlos compr
 Pero no temas! existen alternativas libres y legales...
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/Rgph0vTPf3I/AAAAAAAAAO4/4KTxGKeWEbM/s400/legaltorrents.jpg)    
-"Legal Torrents mantiene la
-pista de archivos con licencia Creative Commons"
+"Legal Torrents mantiene la pista de archivos con licencia Creative Commons"
 
 Por ejemplo la pagina Legal Torrents, ofrece archivos .torrent 100% amparados bajo la licencia [Creative Commons 3.0](https://srbyte.blogspot.com/2007/03/qu-es-creative-commons.html):
 
-[> https://www.legaltorrents.com/](https://www.legaltorrents.com/index.htm)
-Y ademas se puede buscar Libros (u otra información) en la pagina de la licencia Creative Commons:
+[> https://www.legaltorrents.com/](https://www.legaltorrents.com/index.htm) Y ademas se puede buscar Libros (u otra información) en la pagina de la licencia Creative Commons:
 
-[> https://search.creativecommons.org/](https://search.creativecommons.org/)
-Google no se queda atrás, ofrece la búsqueda de libros en su pagina [Google Book Search](https://books.google.com/):
+[> https://search.creativecommons.org/](https://search.creativecommons.org/) Google no se queda atrás, ofrece la búsqueda de libros en su pagina [Google Book Search](https://books.google.com/):
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/Rgpk6vTPf5I/AAAAAAAAAPI/_FGWd3lFsi8/s400/googlebooks.png)    
 "©2007 Google"

@@ -9,8 +9,7 @@ post_id: blog-3515952828243908885.post-8499818573577577942
 
 En estos dorados tiempos, la mayoría de aplicaciones web no pueden ser liberadas a la audiencia mundial, sin usar alguna de las millones de librerías de JavaScript que "pululan" en Internet. En un articulo anterior, se mencionaron los beneficios de usar alguna de las librerías más populares para obtener el máximo de compatibilidad en tu sitio web. Si bien todas estas librerías (Prototype, Scriptaculous, Dojo, jQuery) son muy buenas, en esta ocasión quiero escribir de la librería, que a mi me salva todos los días en el trabajo... jQuery.
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SkD8ZuQG_JI/AAAAAAAACDg/33VKLTOS9xM/s320/jquery-logo.gif)     jQuery es uno de
-tantos hijos que Prototype tiene regados en Internet, pero no por eso lo vean de menos. Si bien jQuery reusa extensivamente la función $() , también la lleva a niveles que uno no se imagina hasta que trabajas mucho con el. Es más, jQuery básicamente esta basado en el signo $. En jQuery, el $ manda ;) En fin, estas son mis cinco simples razones, por la cual yo prefiero jQuery...
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SkD8ZuQG_JI/AAAAAAAACDg/33VKLTOS9xM/s320/jquery-logo.gif)     jQuery es uno de tantos hijos que Prototype tiene regados en Internet, pero no por eso lo vean de menos. Si bien jQuery reusa extensivamente la función $() , también la lleva a niveles que uno no se imagina hasta que trabajas mucho con el. Es más, jQuery básicamente esta basado en el signo $. En jQuery, el $ manda ;) En fin, estas son mis cinco simples razones, por la cual yo prefiero jQuery...
 
 Primera razón: Selectores jQuery soporta muchos "selectores", un selector es una forma de obtener un etiquetas html, div's o elementos CSS, lo que antes tenia que obtener con document.getElementById("idelemento"); ahora lo puedo obtener con $("#identificador") .
 

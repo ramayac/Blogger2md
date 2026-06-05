@@ -16,8 +16,7 @@ No, ENIAC no fue la primera computadora controlada por programas, tampoco UNIVAC
 Konrad Zuse, comienza la construcción de su increíble maquina en 1936 aislado completamente en Alemania. Su primera computadora, la Z1, terminada dos años mas tarde ya tenia características como memoria y cierto nivel para ser programadas (no eran 100% [Maquinas Universales de Turing](https://srbyte.blogspot.com/2007/12/la-maquina-de-turing.html)). Lo increíble de la Z1 es que era completamente mecánica, es algo así como el eslabón perdido entre el hombre y el mono, o entre los engranes y los tubos al vacío, porque aun no podemos hablar de transistores... osea... un capitán cavernícola completo.
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/R5dsWNp6J2I/AAAAAAAAAiU/tNbv4Q3nR7Q/s320/capitanc.gif)    
-"Imagen del Capitán
-Cavernícola"
+"Imagen del Capitán Cavernícola"
 
 Lamentablemente la Z1 nunca funciono de la manera más confiable (como el capitán cavernícola), debido a la falta de precisión de sus partes mecánicas. El segundo intento de Zuse, la computadora Z3 (si, el segundo intento fue la Z3, es como con el reproductor musical Winamp... se saltaron del 3 al 5...) fue terminada en 1941 y estaba construida con "relays" usados en los teléfonos, y lo más importante es que cumplía con su trabajo satisfactoriamente. La Z3 entonces se convirtió en la primera computadora funcional controlada por programas, multipropiedad y digamos... digital. En muchas formas esta computadora era similar a las maquinas modernas, siendo pionera en muchos avances, como el calculo de números flotantes, que de por si es muuuuuuuuuy complicado. Otro avance de la Z3 fue el uso de un sistema binario, en vez del [sistema decimal propuesto por Charles Babbage.](https://srbyte.blogspot.com/2007/08/del-abaco-las-calculadoras.html) El significativo hecho de usar un sistema binario para hacer los cálculos, hizo que la Z3 fuera muchísimo mas fácil de construir y que increíblemente seria potencialmente mas confiable debido a las tecnologías disponibles en esa época.
 
@@ -35,8 +34,7 @@ Pero los Alemanes no se quedaron de brazos cruzados... así que diseñaron una s
 Colossus fue, definitivamente, la primera y TOTAL computadora electrónica. Colossus ya no usaba engranes, ni relays, ahora estaban de moda: los tubos al vacío.
 
 ![image](https://www.columbia.edu/acis/history/tubes.jpg)    
-"Memoria hecha de tubos al
-vacío." Los detalles de la existencia, diseño, y uso de Colossus fue mantenido como un secreto hasta 1970. Winston Churchill personalmente ordeno la destrucción de Colossus en piezas no mas grandes que la mano de un hombre. Debido a que su existencia fue mantenida como un secreto durante tanto tiempo, Colossus no fue incluido mucho en la historia de la computación, vaya final para este gigante de hierro.
+"Memoria hecha de tubos al vacío." Los detalles de la existencia, diseño, y uso de Colossus fue mantenido como un secreto hasta 1970. Winston Churchill personalmente ordeno la destrucción de Colossus en piezas no mas grandes que la mano de un hombre. Debido a que su existencia fue mantenida como un secreto durante tanto tiempo, Colossus no fue incluido mucho en la historia de la computación, vaya final para este gigante de hierro.
 
 ENIAC
 
@@ -48,14 +46,11 @@ Bien, la famosa ENIAC (Electronic Numerical Integrator and Computer) fue la prim
 Cuando su diseño fue propuesto, muchos científicos creían que los miles de delicados tubos al vació se quemarían con demasiada rapidez, lo que haría que ENIAC se convirtiera automáticamente en una maquina inútil, ya que debería de pasar la mayor de su tiempo en reparación. Sin embargo, el equipo encargado de ENIAC demostró lo contrario... y ENIAC permanecía un buen tiempo operativa... antes de que se quemara un tubo.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/R5nma9p6J3I/AAAAAAAAAic/XbO2jVxCUgI/s320/725682.JPG)    
-"Caricatura: Brain Drain
-ENIAC"
+"Caricatura: Brain Drain ENIAC"
 
-Lo que ENIAC hizo, por las computadoras, fue validar públicamente el uso de computadoras de larga escala. Esto fue crucial para el desarrollo de la computación moderna.
-![image](https://bp3.blogger.com/_ayvorITawE4/R5novtp6J4I/AAAAAAAAAik/wq5hp9UVkIM/s320/eniac_front_new.png)    
+Lo que ENIAC hizo, por las computadoras, fue validar públicamente el uso de computadoras de larga escala. Esto fue crucial para el desarrollo de la computación moderna. ![image](https://bp3.blogger.com/_ayvorITawE4/R5novtp6J4I/AAAAAAAAAik/wq5hp9UVkIM/s320/eniac_front_new.png)    
 
-"Imagen
-Álbum ENIAC de Tony Mckenzie, rock contemporáneo instrumental"
+"Imagen Álbum ENIAC de Tony Mckenzie, rock contemporáneo instrumental"
 
 ENIAC era una maquina "Turing completa" (osea, una maquina universal de Turing). Sin embargo los programas eran definidos por los estados de sus cables y switches, es decir, el programa estaba alambrado en la maquina. Programar en ENIAC significaba re-alambrarla. Pero para 1948 ya se había hecho posible ejecutar programas almacenados en la tabla de memoria del ENIAC.
 

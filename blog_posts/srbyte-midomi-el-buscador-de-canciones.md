@@ -7,32 +7,27 @@ draft: false
 post_id: blog-3515952828243908885.post-3076634438102502473
 ---
 
-![image](https://bp3.blogger.com/_ayvorITawE4/SHjqYfOgiTI/AAAAAAAAA4k/nodHzATQ9oU/s400/midomi-logo.jpg)    Midomi es un
-buscador de música, pero no como los que conoces. Midomi implementa un avanzado sistema de búsqueda de música, en el que para encontrar una canción usas el micrófono de tu computadora para cantar o tararear una canción. Cuantas veces no has pasado días con una canción metida en tu cabeza, y no sabes de que canción se trata, y la tarareas a tus amigos para saber si ellos la conocen, y sueñas, con que algún día, puedas buscar música/sonidos en Internet. A mí me pasa muy seguido.
+![image](https://bp3.blogger.com/_ayvorITawE4/SHjqYfOgiTI/AAAAAAAAA4k/nodHzATQ9oU/s400/midomi-logo.jpg)    Midomi es un buscador de música, pero no como los que conoces. Midomi implementa un avanzado sistema de búsqueda de música, en el que para encontrar una canción usas el micrófono de tu computadora para cantar o tararear una canción. Cuantas veces no has pasado días con una canción metida en tu cabeza, y no sabes de que canción se trata, y la tarareas a tus amigos para saber si ellos la conocen, y sueñas, con que algún día, puedas buscar música/sonidos en Internet. A mí me pasa muy seguido.
 
 Así que tenia que probar si era cierto, me dispuse a ingresar a la pagina de Midomi, y comencé a cantar una canción algo popular (Best Of You, de los Foo Fighters) para ver si Midomi funciona tan bien como dicen:
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/SHjpoPOgiRI/AAAAAAAAA4U/MocOn0EKaTE/s400/midomi-tarareando.jpg)    
-"Se recomienda que se cante
-la canción al menos durante 10 segundos."
+"Se recomienda que se cante la canción al menos durante 10 segundos."
 
 Cuando termine de hacer el ridículo cantar, apareció esta pagina de búsqueda, muy entretenida de ver:
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/SHjpn_OgiQI/AAAAAAAAA4M/OdlzeeeptJo/s400/midomi-search.jpg)    
-"Midomi buscando la
-canción..."
+"Midomi buscando la canción..."
 
 Y, suerte la mía, a la primera salio la búsqueda correcta:
 
 ![image](https://bp1.blogger.com/_ayvorITawE4/SHjpn_OgiPI/AAAAAAAAA4E/HkJV5MP5yy4/s400/midomi-found.jpg)    
-"El primer resultado era la
-canción que había buscado!"
+"El primer resultado era la canción que había buscado!"
 
 Este primer experimento resulto bastante satisfactorio, pero cuando busque (cante) otras canciones... pues... digamos que los resultados fueron menos que satisfactorios:
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/SHjr9vOgiUI/AAAAAAAAA4s/v9hfivv4IQM/s400/midomi-wtf.jpg)    
-"Resultados... extraños en
-Midomi"
+"Resultados... extraños en Midomi"
 
 Digamos que el detalle de una búsqueda exitosa esta en: cantar la canción con los labios cerrados ([Hum](https://www.spanishdict.com/translate/Hum)), pero NO tararear. Eso mejora en cierto porcentaje la búsqueda de canciones. Y si conoces parte de la letra de la canción, entonces a cantar lo mejor posible y siempre trata de que no exista ruido de fondo en el lugar donde estés.
 

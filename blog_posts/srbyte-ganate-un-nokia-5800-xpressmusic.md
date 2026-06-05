@@ -13,8 +13,7 @@ Como aviso rápido, el [Sr. Byte](https://twitter.com/srbyte) se une a la campa�
 Basta con que llenes tus datos (nombre y correo) en el "Nokia 5800" de la derecha, y contestes la pregunta que aparece, de la forma más creativa posible....
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SjkkwrshdxI/AAAAAAAACCo/4cj0AnJxJic/s320/nokia5800.png)    
-"¡Participa y gana!... puro
-anuncio ja ja."
+"¡Participa y gana!... puro anuncio ja ja."
 
 Pero antes, hay unos puntos que tengo que aclarar:
 

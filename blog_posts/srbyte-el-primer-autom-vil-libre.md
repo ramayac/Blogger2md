@@ -9,8 +9,7 @@ post_id: blog-3515952828243908885.post-1048434911414980648
 
 Cuando el leí el articulo original, solo pude decir... Wow!
 
-![image](https://bp3.blogger.com/_ayvorITawE4/Rg2dBfTPf7I/AAAAAAAAAPY/RVGwMhn4Fl8/s400/cmmn-autorai.jpg)    
-En la imagen aparece el primer automóvil libre... ¿Que les parece la idea de obtener el diseño de este automóvil, cada pieza, hasta el ultimo tornillo y tuerca?... ahora ustedes dicen Wow.
+![image](https://bp3.blogger.com/_ayvorITawE4/Rg2dBfTPf7I/AAAAAAAAAPY/RVGwMhn4Fl8/s400/cmmn-autorai.jpg)     En la imagen aparece el primer automóvil libre... ¿Que les parece la idea de obtener el diseño de este automóvil, cada pieza, hasta el ultimo tornillo y tuerca?... ahora ustedes dicen Wow.
 
 Este carro que usa hidrógeno (también es limpio!) llamado
 

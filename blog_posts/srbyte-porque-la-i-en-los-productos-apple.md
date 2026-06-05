@@ -18,5 +18,4 @@ Según la conferencia que dio Steve Jobs en la que presento la iMac en 1998, la 
 
 Desde entonces, la "i" ha sido sinónimo también de la innovación que causan los productos Apple que han surgido desde entonces como el iPod y el iPhone. Ademas siempre existen personas que hacen parodias tanto de la tendencia "i" en [productos no tan relacionados con la informatica](https://www.freakingnews.com/Odd-Apple-Products-Pictures--519.asp) y personas que hacen uso de los productos Apple [como una moda](https://www.linkinn.com/_Funny_Apple_Product_And_Design) hasta el punto de crear una [imagen de Steve Jobs con un collage de productos e Apple](https://www.geekologie.com/2008/03/steve_jobs_picture_made_of_app.php).
 
-"Apple iMac Ad: Steps to Connect to
-Internet"
+"Apple iMac Ad: Steps to Connect to Internet"

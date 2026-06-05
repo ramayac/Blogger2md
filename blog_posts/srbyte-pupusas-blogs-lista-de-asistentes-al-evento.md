@@ -8,8 +8,7 @@ post_id: blog-3515952828243908885.post-8843771815144534157
 ---
 
 ![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SUMGKyHtOBI/AAAAAAAAFN4/VxG3IJdaoiQ/s400/pupusasblogs08.jpg)    
-"Casi todos los asistentes.
-Algunos ya se habían ido o quedaron en la parte de atrás cubiertos por otros (Clic para agrandar)"
+"Casi todos los asistentes. Algunos ya se habían ido o quedaron en la parte de atrás cubiertos por otros (Clic para agrandar)"
 
 Mas vale tarde que nunca. El día 30 de Noviembre del 2008 los miembros del staff del Sr Byte Ramayac y Robertux asistieron a la reunión de bloggers/twitters/campuseros denominada Pupusas&Blogs. No hubieron temas de discusión ni una agenda a tratar u objetivos a lograr, simplemente nos conocimos en persona, degustamos de un plato de pupusas de arroz e hicimos chiste de las habilidades y calidad del servicio del mesero que nos atendió. A continuación tienen la lista de personas asistentes al evento. Si se nos ha escapado alguna, por favor hacérnoslo saber mediante un comentario. La lista consta de nombre, id de twitter (si es que poseen) y blog (si es que poseen):
 

@@ -160,7 +160,7 @@ def clean_text_to_markdown(text: str) -> str:
                 current_paragraph = []
             improved_lines.append('')  # Preserve empty line
         # Lines starting with special markdown (headers, lists, code fences, links, images, quotes, etc.) start new paragraphs
-        elif line.startswith(('#', '-', '*', '+', '>', '```', '|', '[', '!', '"', "'")) or line.strip() in ['---', '***', '___']:
+        elif line.startswith(('#', '-', '*', '+', '>', '```', '|')) or line.strip() in ['---', '***', '___']:
             # Finish current paragraph first
             if current_paragraph:
                 paragraph_text = ' '.join(current_paragraph).strip()

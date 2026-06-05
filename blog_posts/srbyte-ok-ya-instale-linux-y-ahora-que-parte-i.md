@@ -10,20 +10,17 @@ post_id: blog-3515952828243908885.post-2379895716858352709
 Gracias a las nuevas versiones de Ubuntu las cuales cada vez se vuelven más populares y mas sencillas de usar, muchos usuarios han decidido darle una probada a eso que le llaman software libre que por ahí también tiene una pantalla negra con símbolos raros y un cubito con cuatro escritorios que rotan:
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SRyJte9EnqI/AAAAAAAAEFM/TvabewsBIgY/s400/compizfusion-cube2.png)    
-"Pantallazo de un escritorio con Compiz Fusion,
-mostrando el plugin de DesktopCube. Una de las atracciones que ha influido para que los usuarios prueben GNU/Linux"
+"Pantallazo de un escritorio con Compiz Fusion, mostrando el plugin de DesktopCube. Una de las atracciones que ha influido para que los usuarios prueben GNU/Linux"
 
 Una vez que ha pasado el efecto de impresión hay que ir pensando en adaptar el sistema, hacerle las modificaciones debidas para que se ajuste a nuestros gustos y necesidades lo cual implicaría instalar un par de aplicaciones y quizá realizar unas cuantas configuraciones básicas, dependiendo de cada usuario.
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SRyQfXHkpII/AAAAAAAAEFc/wPnM87N_Ukw/s400/transicion.png)    
-"Transicion de la apariencia
-por defecto de Ubuntu a una apariencia adaptada al gusto del usuario"
+"Transicion de la apariencia por defecto de Ubuntu a una apariencia adaptada al gusto del usuario"
 
 Tomando el caso especifíco de los sistemas que traen a Gnome como gestor de escritorios predeterminado (Debian, Ubuntu y afines), es posible cambiar la apariencia del sistema desde el menú Sistema -> Preferencias -> Apariencia. Desde acá podemos cambiar entre los temas que trae por defecto nuestro sistema o instalar nuevos, los cuales pueden ser descargados desde sitios como [gnome-look.org](https://gnome-look.org/). Hay algunos desconsiderados que llegan al punto de disfrazar a sus sistemas GNU/Linux para que luzcan lo mas parecido posible a un Windows XP o Vista.
 
 ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SRyVViCDRTI/AAAAAAAAEFk/xqL7n9xFSRg/s400/linsta%26notxp.png)    
-"Capturas de pantalla de
-escritorios con los temas [Linsta](https://gnome-look.org/content/show.php/Murrina-LiNsta+%28LiNsta+is+Not+Vista+%3B-%29?content=61068) y [NotXP](https://gnome-look.org/content/show.php/NotXP?content=73782)
+"Capturas de pantalla de escritorios con los temas [Linsta](https://gnome-look.org/content/show.php/Murrina-LiNsta+%28LiNsta+is+Not+Vista+%3B-%29?content=61068) y [NotXP](https://gnome-look.org/content/show.php/NotXP?content=73782)
 "
 
 Mostramos a continuacion algunos temas recomendados(clic en las capturas para verlas de tamaño real):

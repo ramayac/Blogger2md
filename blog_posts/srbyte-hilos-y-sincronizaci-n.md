@@ -32,8 +32,7 @@ Pero los hilos comenzaron a molestarse, ya que en determinados momentos y circun
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SuUNGQUN_BI/AAAAAAAACNM/Dgem8LKcuqs/s320/578px-Dining_philosophers.png)    
 
-"El dilema de los Filosofos
-(Concurrencia)"
+"El dilema de los Filosofos (Concurrencia)"
 
 ¿La solución? Sincronizar los hilos. Al menos la solución sencilla de implementar, consiste en emplear la palabra reservada de Java: Synchronize, para asegurarnos que un bloque de código (o un método completo) sea "[Thread Safe](https://en.wikipedia.org/wiki/Thread_Safe)
 ", es decir, que en ese preciso bloque, los hilos harán "fila" para usarlo.
