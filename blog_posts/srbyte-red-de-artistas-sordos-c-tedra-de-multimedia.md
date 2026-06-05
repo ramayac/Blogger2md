@@ -18,5 +18,5 @@ El [video original de "Beautiful"](https://ca.youtube.com/watch?v=KNthqC2fsVw), 
 
 Sin lugar a dudas, esta es una muestra de como utilizar bien tecnología para: presentar, mostrar, transmitir ideas y conectar con los individuos. Definitivamente D-PAN nos enseñan lo que una muy noble causa puede hacer, y además da también una verdadera cátedra de "multimedia". Para más información sobre D-PAN, visita el sitio oficial:
 [https://www.d-pan.com/index.html](https://www.d-pan.com/index.html)
-> style="font-size:130%;"> href="https://www.d-pan.com/index.html">https://www.d-pan.com
+> [https://www.d-pan.com](https://www.d-pan.com/index.html)
 ¿Crees que en El Salvador, pudiéramos producir material de esta calidad?

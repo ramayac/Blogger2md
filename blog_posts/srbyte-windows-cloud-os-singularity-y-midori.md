@@ -30,5 +30,6 @@ Ambos proyectos, como ya mencione, están relacionados: Singularity es más un p
 Para Microsoft, Midory es la realización del sueño de ver aplicaciones ejecutándose en una multitud variada de topologías de red, como: cliente-servidor, multi-tier, p2p y [Cloud Datacenters](https://www.srbyte.com/2008/08/qu-es-cloud-computing.html). Todas esas topologías, forman un medio heterogéneo donde las diversas capacidades del Sistema Operativo, puede existir en diversos lugares. Realmente, es muy, pero muy interesante. Pero irónicamente, me suena a un sistema operativo [Multics(el abuelo de Unix)](https://www.multicians.org/) distribuido...
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SOo1oahUm2I/AAAAAAAABVI/xrw_HxZ0t-Y/s320/multics-logo.jpg)    ¿Quieres los
 detalles técnicos? Visita el sitio de Singularity:
-[> https://research.microsoft.com/os/singularity/](https://research.microsoft.com/os/singularity/) Y
-tu, ¿Piensas que Microsoft debería de limitarse a Windows y hacerlo bien, en vez de intentar acaparar el mercado con otros sistemas, que no se sabe si serán tan "exitosos" como Vista?
+[
+> https://research.microsoft.com/os/singularity/
+](https://research.microsoft.com/os/singularity/) Y tu, ¿Piensas que Microsoft debería de limitarse a Windows y hacerlo bien, en vez de intentar acaparar el mercado con otros sistemas, que no se sabe si serán tan "exitosos" como Vista?

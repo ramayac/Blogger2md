@@ -29,15 +29,16 @@ Lo mas interesante de esto, es el uso del nuevo y mejorado BGE (Blender Graphics
 
 Sus desarrolladores ya han puesto a la venta el juego en Linux, Mac OS X y Windows en formato DVD. ¿En venta?, si, en venta. El dinero que se recauda va directamente para los desarrolladores y para la Blender Foundation, para seguir desarrollando Blender (cuya próxima versión es la 2.5 e incluye el BGE mejorado), pero al final, el juego también es Software Libre, así que puedes descargar el código aquí:[https://www.yofrankie.org/download/](https://www.yofrankie.org/download/)
 
-> href="https://www.yofrankie.org/download/">https://www.yofrankie.org/download/
+> [https://www.yofrankie.org/download/](https://www.yofrankie.org/download/)
 Para ejecutar el juego, necesitas Blender 2.48 o anterior, lo puedes descargar aquí:
 
 [https://www.blender.org/](https://www.blender.org/)
 
-> href="https://www.blender.org/">https://www.blender.org/
+> [https://www.blender.org/](https://www.blender.org/)
 También les recomiendo que visiten la galería de imágenes de Yo Frankie!:
 
-[> https://www.yofrankie.org/gallery/](https://www.yofrankie.org/gallery/)
-Reitero, blender no tiene absolutamente nada que envidiar a sus contrapartes comerciales. Ojala (y pronto) veamos productos Salvadoreños (o Latinoamericanos) que usan mas y mas Software Libre para producir multimedia como esta.
+[
+> https://www.yofrankie.org/gallery/
+](https://www.yofrankie.org/gallery/) Reitero, blender no tiene absolutamente nada que envidiar a sus contrapartes comerciales. Ojala (y pronto) veamos productos Salvadoreños (o Latinoamericanos) que usan mas y mas Software Libre para producir multimedia como esta.
 
 ¿Qué crees que Blender necesita para ser utilizado en producción?

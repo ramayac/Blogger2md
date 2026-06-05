@@ -21,4 +21,6 @@ conejo gigante y muy ... eh... ¿amable?, con un corazón definitivamente más g
 Con un presupuesto de 150,000 Euros (como 240,000 USD) el equipo Peach nos demuestra nuevamente el poder de Blender, y la calidad que las herramientas Open Source pueden alcanzar. Los dejo con el corto animado, espero que les guste tanto como a mi:
 
 Pueden visitar el sitio web, con galería y la página para descargar el corto aquí:
-[> https://www.bigbuckbunny.org](https://www.bigbuckbunny.org/)¡Bendiciones!
+[
+> https://www.bigbuckbunny.org
+](https://www.bigbuckbunny.org/)¡Bendiciones!

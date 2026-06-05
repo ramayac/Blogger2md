@@ -29,7 +29,28 @@ Por ejemplo, si tienes el siguiente método escrito en java:
 > }
 Podrias construir un Unit Test que se encargue de invocar a ese método pasándole parámetros de muestra y comparando (mediante un Assert) los resultados obtenidos con resultados esperados. Acá es donde el test te avisa si estos son idénticos (el Test pasa) o difieren (El test falla). Asi de simple es como funciona un Unit Test.
 
-> italic;">@Test > public void > testGetMayor() { > Comparador t > = new Comparador(); > int > esperado = 5; > int obtenido = > t.getMayor(new int[]{1, 2, 3, 4, 2, 3, 5}); > style="font-style: italic;"> assertEquals(esperado, obtenido); > } Si el valor esperado es diferente al valor obtenido, el método assertEquals nos avisará de ello mediante un mensaje. Las ventajas de probar nuestros métodos con Unit Testing es que podemos saber justo después de codificarlos si ellos funcionan como es debido o no, además también podremos conservar los tests y pasarlos cada vez que modifiquemos el código para asegurarnos que los nuevos cambios realizados no afectaron el funcionamiento original de nuestro método y sigue devolviendo los valores esperados. Con la experiencia, un programador aprende a conocer todas las posibles fallas que se podrían producir en una porción de código y prevenirlas antes que ocurran. Usando Unit Testing se puede comprobar que dichas fallas fueron mitigadas correctamente. Como recomendación, cada programador debe aprender a ser pesimista con su código, a pensar siempre lo peor de manera que su aplicación esté preparada para ello. Buscar todas las posibles fallas que pueda tener el código, sin importar qué tan ridículas, absurdas o imposibles estas sean. Sino, recuerden esa vez que estaban refinando su aplicación unas horas antes de su defensa final y por arte de magia, a última hora todo dejó de funcionar por culpa de un error que pasaron por alto y no creyeron que fuera a afectar tanto el proyecto. ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SUBVIJTJdgI/AAAAAAAAFNo/cOn0lvCAhPg/s400/murphys_law_poster.jpg)  
-"Como decía Murphy: Todo lo
-que puede salir mal, saldrá mal" Para poder hacer uso de los Unit Tests, necesitas instalar el framework apropiado dependiendo del lenguaje de programación que estes utilizando para desarrollar y a veces este ya viene integrado en los IDEs o entornos de desarrollo. Por ejemplo, Java hace uso de la librería [JUnit](https://www.junit.org/), la cual ya viene integrada en [Netbeans](https://www.netbeans.org/), Python hace uso de [PyUnit](https://pyunit.sourceforge.net/), Microsoft .Net utiliza [NUnit](https://www.nunit.org/index.php), el cual se puede integrar con el IDE [SharpDevelop](https://www.icsharpcode.net/OpenSource/SD/), entre otros. ![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SUBb1ATdcxI/AAAAAAAAFNw/tnFVnw_VhAU/s400/NetbeansShot.png)  
+> @Test
+> public void
+> testGetMayor() {
+> Comparador t
+> = new Comparador();
+> int
+> esperado = 5;
+> int obtenido =
+> t.getMayor(new int[]{1, 2, 3, 4, 2, 3, 5});
+> assertEquals(esperado, obtenido);
+> }
+
+Si el valor esperado es diferente al valor obtenido, el método assertEquals nos avisará de ello mediante un mensaje.
+
+Las ventajas de probar nuestros métodos con Unit Testing es que podemos saber justo después de codificarlos si ellos funcionan como es debido o no, además también podremos conservar los tests y pasarlos cada vez que modifiquemos el código para asegurarnos que los nuevos cambios realizados no afectaron el funcionamiento original de nuestro método y sigue devolviendo los valores esperados.
+
+Con la experiencia, un programador aprende a conocer todas las posibles fallas que se podrían producir en una porción de código y prevenirlas antes que ocurran. Usando Unit Testing se puede comprobar que dichas fallas fueron mitigadas correctamente. Como recomendación, cada programador debe aprender a ser pesimista con su código, a pensar siempre lo peor de manera que su aplicación esté preparada para ello. Buscar todas las posibles fallas que pueda tener el código, sin importar qué tan ridículas, absurdas o imposibles estas sean. Sino, recuerden esa vez que estaban refinando su aplicación unas horas antes de su defensa final y por arte de magia, a última hora todo dejó de funcionar por culpa de un error que pasaron por alto y no creyeron que fuera a afectar tanto el proyecto.
+
+![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SUBVIJTJdgI/AAAAAAAAFNo/cOn0lvCAhPg/s400/murphys_law_poster.jpg)  
+"Como decía Murphy: Todo lo que puede salir mal, saldrá mal"
+
+Para poder hacer uso de los Unit Tests, necesitas instalar el framework apropiado dependiendo del lenguaje de programación que estes utilizando para desarrollar y a veces este ya viene integrado en los IDEs o entornos de desarrollo. Por ejemplo, Java hace uso de la librería [JUnit](https://www.junit.org/), la cual ya viene integrada en [Netbeans](https://www.netbeans.org/), Python hace uso de [PyUnit](https://pyunit.sourceforge.net/), Microsoft .Net utiliza [NUnit](https://www.nunit.org/index.php), el cual se puede integrar con el IDE [SharpDevelop](https://www.icsharpcode.net/OpenSource/SD/), entre otros.
+
+![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SUBb1ATdcxI/AAAAAAAAFNw/tnFVnw_VhAU/s400/NetbeansShot.png)  
 "Captura de pantalla del IDE Netbeans, mostrando los resultados de la ejecución de los Unit Tests en un proyecto de Java (Clic para agrandar)"

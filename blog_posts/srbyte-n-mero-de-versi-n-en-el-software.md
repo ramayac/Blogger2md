@@ -17,7 +17,7 @@ Parece ridículo ahora, pero fue un riesgo significativo en su momento, y para s
 - Un modelo de numeración basado en años es fácil de entender que un modelo de numeración tradicional.
 Un problema frecuente con mucho Software Libre es que muchos desarrolladores sigue los lineamientos de numeración de versiones del Kernel de Linux, por ejemplo la versión de numeración de un Kernel Linux, son tres números separados por un punto:
 
-> style="font-size:130%;"> 2.4.19
+> 2.4.19
 este número se descompone así:
 
 - Número Mayor: Representa cambios muy significativos en el Software.

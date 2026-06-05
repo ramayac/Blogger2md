@@ -20,8 +20,7 @@ Su estado se deterioró rápidamente y los médicos le pronosticaron que no vivi
 La verdadera razón por la que progresó su investigación fue que encontró a una chica con la quería casarse y se dio cuenta que tenía que acabar su doctorado para conseguir un trabajo:
 > " ... por lo tanto comencé a > trabajar por primera vez en mi vida. Para mi sorpresa descubrí que me > gustaba."
 Desde entonces su cuerpo ha sufrido terribles estragos, pero la enfermedad no a tocado su cerebro... en donde habita verdaderamente, una mente brillante. Seguramente todo aquel que lea este articulo o sabe de la historia de Stephen Hawking viajando al espacio se quita el sombrero.
-> El href="https://www.engadget.com/2007/01/08/stephen-hawking-in-space-space-space/">dijo que lo
-> haría, y vaya que lo hizo.
+> El [dijo que lo haría](https://www.engadget.com/2007/01/08/stephen-hawking-in-space-space-space/), y vaya que lo hizo.
 Su sueño consistía en sentir la ingravidez del espacio, sentirse libre de su silla de ruedas y sentirse mas cerca de las leyes que rigen el universo y que tanto estudian. En un avión 727, el brillante científico realizo 8 vuelos, para obtener en 30 segundos de gravedad cero y una sonrisa de felicidad que permanecerá en la mente de muchos...
 
 Tanta fue la emoción del viaje que Sir Hawking hasta se tomo una fotografía con una manzana, un simbolismo Newtoniano...

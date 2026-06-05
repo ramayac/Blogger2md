@@ -40,8 +40,9 @@ O también, como la gente que inspirado en esta tira:
 "Gente jugando ajedrez en una montaña rusa, LOL!"
 
 ...pueden encontrar más imágenes similares en esta pagina:
-[> https://xkcd.com/chesscoaster/](https://xkcd.com/chesscoaster/) En
-fin, xkcd, no deja de sorprenderme y de mostrarme lo que un par de trazos sencillos y una gran imaginación (impulsada por mucha ciencia y un grupo de seguidores dementes) puede hacer. Si aun no te has suscrito a xkcd, puedes hacerlo en:
+[
+> https://xkcd.com/chesscoaster/
+](https://xkcd.com/chesscoaster/) En fin, xkcd, no deja de sorprenderme y de mostrarme lo que un par de trazos sencillos y una gran imaginación (impulsada por mucha ciencia y un grupo de seguidores dementes) puede hacer. Si aun no te has suscrito a xkcd, puedes hacerlo en:
 
-> href="https://xkcd.com/">https://xkcd.com/
+> [https://xkcd.com/](https://xkcd.com/)
 Y si ya estas suscrito, el Sr. Byte quiere saber: ¿Cual es tu tira de xkcd favorita?

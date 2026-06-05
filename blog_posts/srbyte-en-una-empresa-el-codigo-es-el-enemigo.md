@@ -45,7 +45,7 @@ La comodidad de un desarrollador de software no puede ser discutida. Estos merec
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SWJian06lYI/AAAAAAAAB1w/dl6B-PcG_OM/s320/no_hacking.gif)    
 Repitan conmigo:
-> style="font-size:130%;">"desarrolladores infelices, producen mal código, que aumenta mis > costos".
+> "desarrolladores infelices, producen mal código, que aumenta mis > costos".
 En la empresa en la que estoy trabajando, la mayoría de desarrolladores piensan que los "usuarios" son los enemigos. Para mi, el código es el enemigo, y para la empresa también.
 
 Una cosa más, para los desarrolladores que leen este articulo... sigan como consejo la sabiduría innegable de xkcd: ![image](https://2.bp.blogspot.com/_ayvorITawE4/SWJiaF7V27I/AAAAAAAAB1g/KJwtCBX2VU8/s320/goto.png)

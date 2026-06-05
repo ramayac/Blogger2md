@@ -17,7 +17,7 @@ Así que, si eres uno de ellos, o deseas aprender a realizar preguntas, pues uti
 
 Lamentablemente, este servicio aun esta en beta y es en Ingles, pero como se que eso no detiene a muchos dejo el vinculo aquí:
 
-> href="https://moderator.appspot.com/">https://moderator.appspot.com/
+> [https://moderator.appspot.com/](https://moderator.appspot.com/)
 Algunos detalles interesantes, es que esta herramienta, creada por [Taliver Heath](https://googleappengine.blogspot.com/2008/09/introducing-google-moderator-on-app.html), esta creada sobre [Google App Engine](https://code.google.com/appengine/), y es una copia de una herramienta existente y, al parecer, ampliamente usada en internamente en Google, en donde se le llama: Dory (por el pez que sale en la película "Finding Nemo" que hace preguntas constantemente).
 
 ¿Y tú, eres bueno formulando preguntas?

@@ -30,7 +30,7 @@ Flash Earth ofrece (de forma primitiva) los intuitivos controles de Google Earth
 
 ¿Y bien, qué estas esperando para usarlo?, visita:
 
-> href="https://www.flashearth.com/"> style="font-size:130%;">https://www.flashearth.com
+> [https://www.flashearth.com](https://www.flashearth.com/)
 Solo recuerda aumentar el cache de flash con esa pagina para obtener un máximo rendimiento. Click derecho sobre el "flash", luego configuración o settings, selecciona la viñeta de almacenamiento local (la carpeta con una flecha verde), cambia el tamaño del "cache" a 10 MB o a ilimitado con el riesgo de tener toneladas de imágenes en el cache de Flash Earth y cierra el cuadro.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/RjFNNkK33mI/AAAAAAAAAT0/dTHR5dsudgc/s400/cacheflashearth.jpg)    

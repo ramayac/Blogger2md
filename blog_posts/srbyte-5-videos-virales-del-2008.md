@@ -26,7 +26,7 @@ Sabemos que es muy difícil domesticar un animal salvaje, pero si podemos ganar 
 
 Mario al fin vence a sus enemigos y rescata a la mujer que tanto tiempo ha tratado de salvar. Lamentablemente, la princesa no esta muy impresionada por lo que ve. Directo de la mente de Seth MacFarlane, creador de los populares Family Guy y American Dad, surge este corto animado que seguro sacara mas de alguna carcajada a los "viejos" que jugaron Super Mario. Más cortos animados con el sello de MacFarlane, en su canal de Youtube:
 [https://www.youtube.com/user/SethComedy](https://www.youtube.com/user/SethComedy)
-> href="https://www.youtube.com/user/SethComedy">https://www.youtube.com/user/SethComedy
+> [https://www.youtube.com/user/SethComedy](https://www.youtube.com/user/SethComedy)
 
 5. Reportero Iraquí lanza Zapato a George Bush
 

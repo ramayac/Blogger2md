@@ -18,6 +18,6 @@ Otro detalle interesante, es que Google 2001 ofrece vínculos al [Internet Archi
 
 Si alguna vez se preguntaron como seria Google en el 2001, ¡ahora tienen la oportunidad de saber como era y usarlo!:
 
-> href="https://www.google.com/search2001.html">https://www.google.com/search2001.html
+> [https://www.google.com/search2001.html](https://www.google.com/search2001.html)
 
 Y tú ¿Tenias Internet y usabas Google en el 2001? ¿Realmente se veía así?

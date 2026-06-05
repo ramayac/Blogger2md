@@ -37,7 +37,7 @@ deberia mejor tener instalado un protector de pantallas que haga algo "util", co
 ![image](https://bp1.blogger.com/_ayvorITawE4/SG6NjfOghvI/AAAAAAAAA0I/_vxyP9_rWb4/s400/seti_logo.png)    
 Para conocer mas del proyecto SETI@home, pueden visitar su sitio web siguiente el vinculo:
 
-> [ style="font-size:130%;">https://setiathome.berkeley.edu/](https://setiathome.berkeley.edu/)
+> [https://setiathome.berkeley.edu/](https://setiathome.berkeley.edu/)
 
 En GNU/Linux existen miles de protectores de pantalla listos para ser instalados, algunos hacen cosas muy interesantes (dibujan fractales o simulan [el juego de la vida de Conway](https://es.wikipedia.org/wiki/Juego_de_la_vida)) y otros no hacen nada mas que añadir detalles vistosos al escritorio (como el efecto de la Matrix). Pero lo que TODOS los protectores de pantalla de cualquier sistema operativo tienen en común es...
 

@@ -17,7 +17,7 @@ Fue tanto el impacto que me causo conocer esa "técnica de selección", que inme
 Es mas, uno de los principales motivadores para comenzar a bloggear, fue y sigue siendo eso. Este blog, actúa como carta de presentación y como herramienta de conocimiento personal-técnico, y claro, a más de alguien también le ayuda en algo :)
 
 ¿A que viene toda esta historia?, bien todo se resumen en dos palabras:
-> class="Apple-style-span" style="font-weight: bold;">Identidad
+> Identidad
 > Digital...
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SNZ0XCRJOOI/AAAAAAAABQo/gw-msGTfmT8/s320/identidad.png)    

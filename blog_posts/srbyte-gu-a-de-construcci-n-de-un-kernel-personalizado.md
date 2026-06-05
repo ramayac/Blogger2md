@@ -44,11 +44,11 @@ En el sitio [https://kernel.org](https://kernel.org/) se publica el codigo del k
 > cd /usr/src
 y ahora:
 
-> style="font-family:verdana;">wget
+> wget
 > https://kernel.org/pub/linux/kernel/v2.6/linux-2.6.22.1.tar.bz2
 O lo puedes descargar con Firefox o Kget o d4x... cualquiera que sea tu gestor de descargas, lo importante es que el archivo este en "/usr/src", para no perdernos. Ahora vamos a desempaquetar el Kernel y realizar un "acceso directo" (no me tiren tomates) o "symlink" al directorio creado por el proceso de desempaquetado del Kernel:
 
-> style="font-family:verdana;">tar xvf linux-2.6.22.1.tar.bz2
+> tar xvf linux-2.6.22.1.tar.bz2
 > ln -s linux-2.66.22.1 linux
 > cd linux
 Ahora estamos en "/usr/src/linux", compruebalo con el comando "pwd".
@@ -63,7 +63,7 @@ Este es el proceso que mas interacción exige del usuario en la compilación del
 
 Como consejo, es buena costumbre usar la configuración del Kernel que tienes funcionando en este momento, para tener una solida base para la personalizacion de mismo. Este paso es opcional; para usar la configuración de tu Kernel actual (y funcional), basta con copiarlo a la carpeta /usr/src/linux con el nombre .config:
 
-> style="font-family:verdana;">cp /boot/config-`uname -r`
+> cp /boot/config-`uname -r`
 > ./.config
 uname es un programa de consola que imprime la información del sistema, uname con el argumento "-r" imprime la versión del Kernel actual. El comando anterior, suponiendo que tienes un Kernel 2.6.18-4-686, seria interpretado de la siguiente forma:
 
@@ -96,7 +96,7 @@ Cuando salgas, si has cambiado alguna configuración y no has salvado el ".confi
 
 En resumen...
 
-> style="font-weight: bold;">Tiene que existir un archivo llamado ".config" en la carpeta del
+> Tiene que existir un archivo llamado ".config" en la carpeta del
 > código fuente del Kernel ¡¡¿ok?!?
 1.5 Construyendo e Instalando el nuevo Kernel
 
@@ -121,7 +121,7 @@ El nuevo Kernel ahora esta instalado en tu sistema, pero necesita un "ramdisk", 
 
 Además necesitamos actualizar el GRUB para que muestre el nuevo Kernel. Bien, lo primero es hacer el "ramdisk", asumiendo que tenemos el Kernel :
 
-> style="font-family:verdana;">depmod 2.6.22.1
+> depmod 2.6.22.1
 Este comando realiza un mapa de las dependencias de los módulos que usa tu Kernel, basándonos en este mapa podemos crear un ramdisk que tenga todos los modulosa necesarios que usa nuestro Kernel. Para mas información de depmod ... [RFTM](https://es.wikipedia.org/wiki/RTFM).
 
 Suponiendo que no tienes instalado mkinitramfs, evidentemente habrá que instalarlo...
@@ -130,7 +130,7 @@ Suponiendo que no tienes instalado mkinitramfs, evidentemente habrá que instala
 > initramfs-tools
 Y ahora que tenemos instalado mkinitramfs, hagamos nuestro ramdisk con:
 
-> style="font-family:verdana;">mkinitramfs -o /boot/initrd.img-2.6.22.1
+> mkinitramfs -o /boot/initrd.img-2.6.22.1
 > 2.6.22.1
 Esto genera el ramdisk con respecto a los módulos específicos compilados para nuestro Kernel. Ahora actualizaremos GRUB con:
 

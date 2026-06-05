@@ -32,8 +32,22 @@ La solución inmediata, fue reasignar la prioridad al servidor, a un nivel de pr
 
 Mi solución, radical y simple:
 
-> quitar Windows 2003 Server y usar un italic;">SO especifico para maquinas virtuales. Si bien Windows 2003 Server, es bastante estable, cualquier experto puede concordar conmigo con que este no es un Sistema Operativo optimizado para ejecutarse como una máquina virtual, ¿entonces para que molestarse en tenerlo instalado en una, y gastar además en su licencia? Para las máquinas virtuales, siempre hay que usar una regla de oro: > Usa un sistema operativo OPTIMIZADO para > máquinas virtuales. ![image](https://2.bp.blogspot.com/_ayvorITawE4/SllbyxmroEI/AAAAAAAACHI/nTGSFCS7WpM/s320/vmware-player-ubuntu-install-1.png)     Un PERFECTO ejemplo de esto: [Ubuntu Server Edition JeOS](https://www.ubuntu.com/products/whatisubuntu/serveredition/jeos) (que se pronuncia como jugo en Ingles: "Juice"). Beneficios inmediatos de usar JeOS son: - Mejor rendimiento en el mismo "hardware" comparado a un sistema operativo completo no optimizado. - Menos espacio en disco - Menor cantidad de actualizaciones (mas consolidadas y de mas importancia), lo que reduce la cantidad de mantenimiento del mismo. Sistemas operativos como Ubuntu Jeos están afinados, de manera que aprovechen el máximo rendimiento de productos como VMware y KVM, lo que se traduce en mas eficiencia para escenarios de virtualización mayores. ![image](https://2.bp.blogspot.com/_ayvorITawE4/SllbD-T71UI/AAAAAAAACHA/YtGBpiTEunk/s320/365x230.jpg)    
-"JeOS = núcleo de SO {Kernel, Drives, Login} + Mínimo Mantenimiento + Mínimo "user space tools"" Si la idea es "sacarle" el jugo a los equipos actuales, y mejorar el rendimiento sin incurrir en gastos por la "crisis", entonces hay que hacer conciencia sobre soluciones que usen Software Libre, y
-ofrecerlo como una opción REALISTA a los problemas informáticos empresariales.
+> quitar Windows 2003 Server y usar un SO especifico para maquinas virtuales.
+Si bien Windows 2003 Server, es bastante estable, cualquier experto puede concordar conmigo con que este no es un Sistema Operativo optimizado para ejecutarse como una máquina virtual, ¿entonces para que molestarse en tenerlo instalado en una, y gastar además en su licencia?
+
+Para las máquinas virtuales, siempre hay que usar una regla de oro:
+> Usa un sistema operativo OPTIMIZADO para
+> máquinas virtuales.
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SllbyxmroEI/AAAAAAAACHI/nTGSFCS7WpM/s320/vmware-player-ubuntu-install-1.png)    
+Un PERFECTO ejemplo de esto: [Ubuntu Server Edition JeOS](https://www.ubuntu.com/products/whatisubuntu/serveredition/jeos) (que se pronuncia como jugo en Ingles: "Juice"). Beneficios inmediatos de usar JeOS son:
+
+- Mejor rendimiento en el mismo "hardware" comparado a un sistema operativo completo no optimizado.
+- Menos espacio en disco
+- Menor cantidad de actualizaciones (mas consolidadas y de mas importancia), lo que reduce la cantidad de mantenimiento del mismo.
+Sistemas operativos como Ubuntu Jeos están afinados, de manera que aprovechen el máximo rendimiento de productos como VMware y KVM, lo que se traduce en mas eficiencia para escenarios de virtualización mayores.
+
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SllbD-T71UI/AAAAAAAACHA/YtGBpiTEunk/s320/365x230.jpg)    
+"JeOS = núcleo de SO {Kernel, Drives, Login} + Mínimo Mantenimiento + Mínimo "user
+space tools"" Si la idea es "sacarle" el jugo a los equipos actuales, y mejorar el rendimiento sin incurrir en gastos por la "crisis", entonces hay que hacer conciencia sobre soluciones que usen Software Libre, y ofrecerlo como una opción REALISTA a los problemas informáticos empresariales.
 
 ¿En tu trabajo, usan virtualización?

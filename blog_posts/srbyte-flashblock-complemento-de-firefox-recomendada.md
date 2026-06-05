@@ -21,5 +21,6 @@ FlashBlock bloquea este tipo de contenido:
 - Macromedia Shockwave
 - Macromedia Authorware
 Así que, para la gente que detesta ver flash por todos lados, o ingresar a una pagina y escuchar musica de la nada, FlashBlock probablemente es el complemento para ti. Para descargar directamente este complemento puedes hacer click [aquí](https://addons.mozilla.org/en-US/firefox/downloads/file/28413/flashblock-1.5.6-fx.xpi)(ver 1.5.6), sino, visita la pagina de FlashBlock:
-[> https://addons.mozilla.org/en-US/firefox/addon/433](https://addons.mozilla.org/en-US/firefox/addon/433)¡Espero
-que les sirva!
+[
+> https://addons.mozilla.org/en-US/firefox/addon/433
+](https://addons.mozilla.org/en-US/firefox/addon/433)¡Espero que les sirva!

@@ -13,7 +13,7 @@ Microsoft en vez de innovar el entorno gráfico de Windows Vista se ha limitado 
 
 Como pueden ver, Vista esta agregando características que son solamente innovadoras en SU producto... porque en otros sistemas operativos existen desde hace BUEN RATO. Nada acerca de Windows Vista es innovador o atrayente. ¿Y de quien "toma" estas características? pues nada menos que de el sistema operativo de [Apple Inc.](https://www.apple.com/):
 
-> href="https://www.apple.com/macosx/leopard/index.html">Mac OS X Leopard
+> [Mac OS X Leopard](https://www.apple.com/macosx/leopard/index.html)
 Un sistema operativo verdaderamente amigable:
 
 ![image](https://images.apple.com/macosx/leopard/images/indexdesktop20060807.jpg)    
@@ -26,7 +26,7 @@ Vista incluye una extensiva re-codificación de elementos críticos de el núcle
 - cuando autorizan el acceso, lo hacen bajo condiciones restrictivas que son fijadas unilateralmente por el proveedor de la obra, independientemente de los derechos que la ley otorgue al autor o al público.
 ¿Qué problema no?...por eso
 
-> style="font-size:130%;">Vista es controversial
+> Vista es controversial
 Ja! y ¿creíste que no tenia buenas razones?. La tecnología DRM que ocupa es un problema real que crece día a día para todos los usuarios de computadoras. DRM se usa típicamente para restringir el uso de las copias de trabajos publicadas de un individuo. Para aplicar estas restricciones, el software DRM, y ahora el hardware (lo que puede tocar de su computadora, las partes físicas), tiene que monitorear y controlar el COMPORTAMIENTO del usuario en SU computadora. Vale aclarar que Vista no es el único que usa DRM, tambien el iPod y Amazon.com con su servicio de peliculas usan DRM. Pero con Vista... un sistema operativo orientado al 80% de los usuarios de PC's las cosas cambian.
 
 ¿Qué significa esto para nuestro futuro?...No uso justo, no compra y reventa, no compartir, no respaldar, no intercambiar, no mezclas, no privacidad, no bienes comunes, no control sobre nuestras computadoras. Claro que ataca problemas como la piratería (y la frena muuuucho, lo acepto) pero su implementación es en buen Salvadoreño, como una "patada al pecho".

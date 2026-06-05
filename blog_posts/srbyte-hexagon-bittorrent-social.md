@@ -32,7 +32,7 @@ Para mi, la evolución de los sitios de BitTorrent la podemos poner en cuatro si
 1. Indice de Torrents ([suprnova](https://en.wikipedia.org/wiki/Suprnova.org)) 2. Indice de Torrents + Tracker ([piratebay](https://en.wikipedia.org/wiki/The_pirate_bay)) 3. Indice de Torrents Exclusivo o Privado + Tracker ([demonoid](https://en.wikipedia.org/wiki/Demonoid)) 4. (Indice de Torrents + Tracker) Social (hexagon) Así que Hexagon, es la evolución natural de las redes asociadas con BitTorrent, esperemos que Hexagon tenga mucho éxito, y que los lectores se animen a participar y hacer uso de este excelente servicio. Y de paso, invitarlos a que se unan al grupo de ["El Salvador" que ya existe en Hexagon](https://elsalvador.hexagon.cc/).
 
 > Y la URL de
-> invitación general es: href="https://lobby.hexagon.cc/invitations/kLVGYtaQmG">https://lobby.hexagon.cc/invitations/kLVGYtaQmG
+> invitación general es: [https://lobby.hexagon.cc/invitations/kLVGYtaQmG](https://lobby.hexagon.cc/invitations/kLVGYtaQmG)
 >
 
 Espero que les sirva mucho esta pagina, ya que

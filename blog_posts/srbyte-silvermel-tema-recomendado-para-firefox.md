@@ -37,7 +37,7 @@ Te recordamos que [los temas de Firefox se pueden instalar justo como los Comple
 
 Si deseas renovar el "look" de Firefox y cambiar el tema que trae por defecto (llamado Strata), basta con visitar la pagina web del tema:
 
-> href="https://www.silvermel.net/"> style="font-size:130%;">https://www.silvermel.net/
+> [https://www.silvermel.net/](https://www.silvermel.net/)
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SIAOJvu_iyI/AAAAAAAAA5s/4MjZaIk4dqo/s400/silvermel-web.jpg)    
 "Captura del sitio web del tema: Silvermel"

@@ -38,11 +38,11 @@ Y este es un ejemplo de lo que Electric Sheep puede producir con la ayuda colabo
 
 Hay cliente de Electric Sheep para Linux, Windows y Mac OS X, como ya mencione, se instala con un ScreenSaver. Pueden visitar la pagina de ElectricSheep en:
 
-> href="https://electricsheep.org/">https://electricsheep.org/
+> [https://electricsheep.org/](https://electricsheep.org/)
 
 Recomiendo que revisen los archivos de "Sheeps" exitosos:
 
-> href="https://electricsheep.org/archive/">https://electricsheep.org/archive/
+> [https://electricsheep.org/archive/](https://electricsheep.org/archive/)
 Y también les dejo una lista de programas (para windows, en otro articulo hago otra para Linux con más detalle) que se puede usar para generar Arte Fractal:
 
 - [Apophysis](https://www.apophysis.org/)
@@ -58,8 +58,9 @@ El proceso de la Decalcomania consiste en verter [gouache](https://en.wikipedia.
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SUEx8cyhL1I/AAAAAAAABzU/UUFZqy8XXoU/s320/ernst3.jpg)    
 El proceso de Decalcomania fue extensamente utilizado por varios artistas, las tres imagenes mostradas pertenecen al artista [Max Ernst](https://www.abcgallery.com/E/ernst/ernst.html). Más sobre la Decalcomania aquí:
-[> https://en.wikipedia.org/wiki/Decalcomania](https://en.wikipedia.org/wiki/Decalcomania) Como
-pueden ver, los fractales son versátiles y ampliamente utilizados en la vida cotidiana. Algunos ejemplos más del uso de los fractales son en: Algoritmos de Compresión, Generación de Terrenos (en CG y Video Juegos)...
+[
+> https://en.wikipedia.org/wiki/Decalcomania
+](https://en.wikipedia.org/wiki/Decalcomania) Como pueden ver, los fractales son versátiles y ampliamente utilizados en la vida cotidiana. Algunos ejemplos más del uso de los fractales son en: Algoritmos de Compresión, Generación de Terrenos (en CG y Video Juegos)...
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SUE3IC0iEkI/AAAAAAAABzs/jmP5aZIW_Uc/s320/Mandelbrot_island.jpg)    ![image](https://upload.wikimedia.org/wikipedia/commons/6/6d/Animated_fractal_mountain.gif)    
 

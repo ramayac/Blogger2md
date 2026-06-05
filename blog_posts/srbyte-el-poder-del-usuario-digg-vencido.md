@@ -28,12 +28,12 @@ Claro, los responsables de Digg censuraron dicha noticia a petición de la indus
 Jay Adelson, uno de los responsables del sitio, intento [explicar](https://blog.digg.com/?p=73) que no lo borraban por gusto, sino por un requerimiento de los poseedores de la propiedad intelectual y porque Digg no puede saltarse la ley si quiere sobrevivir.
 
 > Razonable, pero
-> insuficiente style="font-weight: normal;"> para una comunidad
+> insuficiente para una comunidad
 > poco interesada en la ley.
 
 Esa es la realidad, en china, en El Salvador, en Canadá y en todas partes del mundo. Tal fue el berrinche de los usuarios que incluso hubo quien atacó y dejó el sitio inaccesible durante un tiempo. Al final, y en apenas 48 horas, Kevin Rose, el fundador, ha tenido que [sucumbir](https://blog.digg.com/?p=74) al poder de su comunidad:
 
-> "Los hemos escuchado y, con efecto inmediato, no eliminaremos > historias o comentarios que contengan href="https://digg.com/tech_news/Digg_This_09_f9_11_02_9d_74_e3_5b_d8_41_56_c5_63_56_88_c0_4" > target="_blank">el código, y cargaremos con las consecuencias sean cuales > sean".
+> "Los hemos escuchado y, con efecto inmediato, no eliminaremos > historias o comentarios que contengan [el código](https://digg.com/tech_news/Digg_This_09_f9_11_02_9d_74_e3_5b_d8_41_56_c5_63_56_88_c0_4), y cargaremos con las consecuencias sean cuales > sean".
 
 Rose remata su comentario con un heroico:
 
@@ -48,4 +48,4 @@ Camisas:
 
 Nombres de dominio, noticias falsas con el contenido de la noticia verdadera, anuncios, etc, etc, etc... ¿Y si hay demanda contra Digg? Quizá alguien recuerde la polémica y decida ayudar a costear la ayuda legal (o quizás no) Eso si, esto ha dejado en claro quien manda...
 > Digg.com bienvenido a la
-> realidad de [la web > 2.0](https://srbyte.blogspot.com/2007/04/web-20-qu-es.html).
+> realidad de [la web 2.0](https://srbyte.blogspot.com/2007/04/web-20-qu-es.html).

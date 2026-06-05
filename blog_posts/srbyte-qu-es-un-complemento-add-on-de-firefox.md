@@ -39,5 +39,5 @@ Y finalmente el icono del sello amarillo con una flecha blanca (que apunta hacia
 
 Pueden encontrar una extensa lista de complementos que se pueden instalar a su FireFox en la pagina official de complementos de Mozilla
 
-> href="https://addons.mozilla.org/es-ES/firefox/">https://addons.mozilla.org/es-ES/firefox/
+> [https://addons.mozilla.org/es-ES/firefox/](https://addons.mozilla.org/es-ES/firefox/)
 ¿Y tú, que complementos son los que más utilizas? ¿Cuales son tus favoritos?, ¡dejanos un comentario y mencionalos!

@@ -14,4 +14,4 @@ A pocos minutos de comenzar, queremos compartir el evento de innaguracion de la 
 
 Visiten el canal de Justin.tv de la Campus Party Iberoamerica haciendo click en:
 [https://es.justin.tv/campus_party](https://es.justin.tv/campus_party)
-> href="https://es.justin.tv/campus_party">https://es.justin.tv/campus_party
+> [https://es.justin.tv/campus_party](https://es.justin.tv/campus_party)

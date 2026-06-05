@@ -10,7 +10,8 @@ post_id: blog-3515952828243908885.post-4190213998999427981
 El Software Libre es un asunto de libertad, no de precio. Libertad con ciertos limites lógicos (copyright por ejemplo, para asegurar que se da de alguna forma u otra el reconocimiento apropiado al autor del software) pero que otorga un permiso legal para copiar, distribuir y/o modificar el software, permitiendo usar el software de maneras que las licencias de [software propietario jamas permitirían](https://rodrigoamaya.blogspot.com/2007/01/el-software-propietario-la-realidad.html).
 > De modo más
 > preciso, se refiere a cuatro libertades de los usuarios del software:
-- La > libertad de usar el programa, con cualquier propósito( bold;">libertad 0). - La libertad de estudiar el > funcionamiento del programa, y adaptarlo a las necesidades( bold;">libertad 1). El acceso al código fuente es una condición previa para > esto.
+- La > libertad de usar el programa, con cualquier propósito(libertad 0).
+- La libertad de estudiar el > funcionamiento del programa, y adaptarlo a las necesidades(libertad 1). El acceso al código fuente es una condición previa para > esto.
 - La libertad de distribuir copias, con lo que puede ayudar a > otros(libertad 2).
 - La > libertad de mejorar el programa y hacer públicas las mejoras, de modo que toda la comunidad se > beneficie(libertad 3). De igual forma que > la libertad 1 el acceso al código fuente es un requisito > previo.
 

@@ -14,7 +14,7 @@ El Anuncio de Steve Ballmer (hace algunos días) de un nuevo sistema operativo d
 
 [Steve Ballmer dijo lo siguiente](https://www.theregister.co.uk/2008/10/01/steve_ballmer_windows_cloud/) en una entrevista :
 
-> style="font-style: italic;">“We need a new operating system designed for the cloud and we
+> “We need a new operating system designed for the cloud and we
 > will introduce one in about four weeks, we’ll even have a name to give you by then. But let’s
 > just call it for the purposes of today ‘Windows Cloud.”
 
@@ -24,11 +24,11 @@ Esencialmente (como ya dije), seria un sistema que utilizara servicios y product
 > "Necesitamos un nuevo sistema > operativo, diseñado para la nube, y les vamos a presentar uno en aproximadamente cuatro > semanas".
 ¿Solo cuatro semanas? (casualmente para el [Professional Developers Conference](https://www.microsoftpdc.com/) en Los Ángeles). Bueno, fieles creyentes y seguidores de Microsoft, permitan me recordarles que:
 
-> style="font-size:130%;"> ese no es el
+> ese no es el
 > estilo de Microsoft
 ...o al menos no lo era hasta que Billy G se retiró, ¿Me equivoco? Claro que NO, basta recordar con los atrasos de Windows XP, Vista, Live Mesh, etc.
 
-> style="font-size:130%;">¡Pero ni los Service Packs salen a
+> ¡Pero ni los Service Packs salen a
 > tiempo!
 Todos sabemos que Microsoft es grande y lento, y que el desarrollo de software es un largo proceso y, todo esto es muy ambicioso, lo que complica más las cosas. ¿Por qué es ambicioso? Windows Cloud es un arma de negocios, y con ella veremos si Microsoft es realmente capaz de competir contra Google o no. No sería una sorpresa, que esas cuatro semanas que Ballmer promete se convertirán en meses. Pero ya veremos que sucede...
 

@@ -39,6 +39,6 @@ Creo que la renovada iniciativa de seguridad para Vista es buena, sus efectos es
 ![image](https://bp2.blogger.com/_ayvorITawE4/RcyDMKSA9xI/AAAAAAAAAEs/L7mxHrhFtCo/s400/BadVista_no_littering.png)    
 Bibliografía digital:
 [https://badvista.fsf.org/](https://badvista.fsf.org/)
-> href="https://badvista.fsf.org/">https://badvista.fsf.org/
-> href="https://www.fsf.org/">https://www.fsf.org/
-> href="https://www.gnu.org/">https://www.gnu.org/
+> [https://badvista.fsf.org/](https://badvista.fsf.org/)
+> [https://www.fsf.org/](https://www.fsf.org/)
+> [https://www.gnu.org/](https://www.gnu.org/)

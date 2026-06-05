@@ -51,6 +51,10 @@ def clean_text_to_markdown(text: str) -> str:
     # Remove script/style blocks entirely
     text = re.sub(r'<\s*(script|style)[^>]*>.*?</\s*\1\s*>', '', text, flags=re.IGNORECASE | re.DOTALL)
 
+    # Normalize whitespace inside all HTML tags so they don't span multiple lines
+    # (prevents blockquote/list formatting from splitting in the middle of a tag)
+    text = re.compile(r'<[^>]+>', re.DOTALL).sub(lambda m: re.sub(r'\s+', ' ', m.group(0)), text)
+
     # Code blocks: <pre><code>...</code></pre> or just <pre>...</pre> -> fenced blocks
     def _pre_repl(m):
         inner = m.group(1)
@@ -77,6 +81,27 @@ def clean_text_to_markdown(text: str) -> str:
 
     # Line breaks
     text = re.sub(r'<\s*br\s*/?>', '\n', text, flags=re.IGNORECASE)
+
+    # Images -> ![alt](src)
+    def _img_repl(m):
+        attrs = m.group(0)
+        src_match = re.search(r'src\s*=\s*(["\'])(.*?)\1', attrs, flags=re.IGNORECASE)
+        alt_match = re.search(r'alt\s*=\s*(["\'])(.*?)\1', attrs, flags=re.IGNORECASE)
+        src = src_match.group(2) if src_match else ''
+        alt = alt_match.group(2) if alt_match else 'image'  # Use 'image' as default alt text
+        return f'![{alt}]({src})' if src else ''
+    text = re.sub(r'<\s*img\b[^>]*>', _img_repl, text, flags=re.IGNORECASE)
+
+    # Links -> [text](href) (use href if text is empty)
+    def _a_repl(m):
+        href = m.group(1) or ''
+        label = m.group(2).strip()
+        label_clean = re.sub(r'\s+', ' ', label)
+        if not label_clean:
+            label_clean = href
+        return f'[{label_clean}]({href})' if href else label_clean
+    text = re.sub(r'<\s*a[^>]*href\s*=\s*"([^"]*)"[^>]*>(.*?)</\s*a\s*>', lambda m: _a_repl(m), text, flags=re.IGNORECASE | re.DOTALL)
+    text = re.sub(r"<\s*a[^>]*href\s*=\s*'([^']*)'[^>]*>(.*?)</\s*a\s*>", lambda m: _a_repl(m), text, flags=re.IGNORECASE | re.DOTALL)
 
     # Blockquote
     def _blockquote_repl(m):
@@ -106,27 +131,6 @@ def clean_text_to_markdown(text: str) -> str:
     text = re.sub(r'<\s*p[^>]*>', '', text, flags=re.IGNORECASE)
     text = re.sub(r'</\s*div\s*>', '\n', text, flags=re.IGNORECASE)
     text = re.sub(r'<\s*div[^>]*>', '', text, flags=re.IGNORECASE)
-
-    # Images -> ![alt](src)
-    def _img_repl(m):
-        attrs = m.group(0)
-        src_match = re.search(r'src\s*=\s*(["\'])(.*?)\1', attrs, flags=re.IGNORECASE)
-        alt_match = re.search(r'alt\s*=\s*(["\'])(.*?)\1', attrs, flags=re.IGNORECASE)
-        src = src_match.group(2) if src_match else ''
-        alt = alt_match.group(2) if alt_match else 'image'  # Use 'image' as default alt text
-        return f'![{alt}]({src})' if src else ''
-    text = re.sub(r'<\s*img\b[^>]*>', _img_repl, text, flags=re.IGNORECASE)
-
-    # Links -> [text](href) (use href if text is empty)
-    def _a_repl(m):
-        href = m.group(1) or ''
-        label = m.group(2).strip()
-        label_clean = re.sub(r'\s+', ' ', label)
-        if not label_clean:
-            label_clean = href
-        return f'[{label_clean}]({href})' if href else label_clean
-    text = re.sub(r'<\s*a[^>]*href\s*=\s*"([^"]*)"[^>]*>(.*?)</\s*a\s*>', lambda m: _a_repl(m), text, flags=re.IGNORECASE | re.DOTALL)
-    text = re.sub(r"<\s*a[^>]*href\s*=\s*'([^']*)'[^>]*>(.*?)</\s*a\s*>", lambda m: _a_repl(m), text, flags=re.IGNORECASE | re.DOTALL)
 
     # Remove any remaining HTML tags
     text = re.sub(r'<[^>]+>', '', text)

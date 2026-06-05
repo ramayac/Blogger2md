@@ -13,7 +13,7 @@ El 1º de Noviembre de 2008 terminó oficialmente la vida de Windows 3.11 (Embed
 "¡Bye bye Windows 3.11!"
 
 Si, si, todo eso es muy peculiar y bueno, pero ¿el punto es?....
-> style="font-size:130%;">El ciclo de vida del software.
+> El ciclo de vida del software.
 O mejor dicho, el tiempo de "vida" del Software. ¿No les sorprende cuanto tiempo siguió siendo utilizado Win 3.11? ¿Como se le siguió sacando ganancias? Y no solo es increíble desde el punto de vista lucrativo... también hay que pensar en como se sentirán los desarrolladores que participaron en la codificación de Win 3.11, probablemente orgulloso... ¿no?
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SRXP4fLjoHI/AAAAAAAABaA/7yI0J4e7UxE/s320/happy.jpg)    

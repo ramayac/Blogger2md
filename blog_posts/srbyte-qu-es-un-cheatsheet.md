@@ -31,9 +31,11 @@ En la informática, es común ver Cheat Sheets por doquier. Pequeñas hojas que 
 
 Lista de combinaciones de teclas del [Gimp](https://www.gimp.org/) (una practica muy sana definitivamente para cualquier aplicación):
 [https://docs.gimp.org/en/key-reference.html](https://docs.gimp.org/en/key-reference.html)
-> href="https://docs.gimp.org/en/key-reference.html">https://docs.gimp.org/en/key-reference.html
+> [https://docs.gimp.org/en/key-reference.html](https://docs.gimp.org/en/key-reference.html)
 Google también tiene un Cheat Sheet "oficial", muy útil para los olvidadizos:
-[> https://www.google.com/help/cheatsheet.html](https://www.google.com/help/cheatsheet.html)
+[
+> https://www.google.com/help/cheatsheet.html
+](https://www.google.com/help/cheatsheet.html)
 
 Y claro, siempre podemos encontrar camisas con un Cheat Sheet de comandos básicos de Linux:
 

@@ -16,7 +16,7 @@ Blizzard ya tiene una pagina de Diablo III en su sitio con un poco de informaciÃ
 
 Esta es la direcciÃ³n del sitio:
 
-> style="font-size:130%;"> href="https://www.blizzard.com/diablo3/">https://www.blizzard.com/diablo3/
+> [https://www.blizzard.com/diablo3/](https://www.blizzard.com/diablo3/)
 No duden en ver los videos (trailers)... estoy seguro que al "examinarlos", se recordaran de la pelicula Final Fantasy Spirit Within...
 
 ![image](https://bp3.blogger.com/_ayvorITawE4/SGeuKvOghcI/AAAAAAAAAxw/hN1cFp9yMsI/s400/d3pareceFFSW.jpg)    

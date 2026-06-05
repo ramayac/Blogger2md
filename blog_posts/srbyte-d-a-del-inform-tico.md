@@ -9,7 +9,7 @@ post_id: blog-3515952828243908885.post-6224843781496121440
 
 Cuando comencé mi carrera, como a todos, los compañeros solían preguntarme: ¿Porque estudias Sistemas?. Yo usualmente respondía así:
 
-> style="font-size:100%;">"Estudio sistemas, porque cuando ordeno algo a la máquina, esta no > se equivoca, y si lo hace, es mi culpa, y no de nadie > mas."
+> "Estudio sistemas, porque cuando ordeno algo a la máquina, esta no > se equivoca, y si lo hace, es mi culpa, y no de nadie > mas."
 
 Simple, practico y directo... yo no quería tener absolutamente nada que ver con personas y "manejarlas" (administrarlas), y por algún tiempo pensé que seria posible hacerlo... y vaya que estaba terriblemente equivocado.
 

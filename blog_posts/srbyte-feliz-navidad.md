@@ -18,7 +18,9 @@ Y... aquí les dejo un regalito ... bastante geek ;) ¿Saben que es lo que hacia
 Y también [Battle City](https://www.1980-games.com/us/old-games/nintendo/b/Battle_City/big-game.php):
 ![image](https://amog.com/wp-content/uploads/2008/11/battle-city-300x281.png)    
 
-Sin lugar a dudas, más de alguno hizo igual que yo, así que aquí, el regalo nostálgico-geek (y útil en momentos de ocio) es una lista de... [> 95 Juegos de > Nintendo para jugar en linea](https://amog.com/tech/gaming/oldschool-videogames/) y también un...
+Sin lugar a dudas, más de alguno hizo igual que yo, así que aquí, el regalo nostálgico-geek (y útil en momentos de ocio) es una lista de... [
+> 95 Juegos de Nintendo para jugar en linea
+](https://amog.com/tech/gaming/oldschool-videogames/) y también un...
 
-> [Emulador de juegos de Nintendo en > linea (vNES)](https://www.virtualnes.com/)
+> [Emulador de juegos de Nintendo en linea (vNES)](https://www.virtualnes.com/)
 ¡Que los disfruten!, y nuevamente: ¡Feliz Navidad! :)

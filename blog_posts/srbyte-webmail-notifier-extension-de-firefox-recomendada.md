@@ -40,7 +40,8 @@ Algunos de esos archivos javascripts soportan los siguientes proveedores:
 - poczta.fm(poczta.interia.pl)
 Y si no esta el proveedor que utilizas y conoces javascript: puedes realizar tu propio script para tu cuenta de correo. Si deseas más información sobre esta extensión este es el sitio oficial (en algún lenguaje asiático que ignoro por completo):
 [https://tobwithu.tistory.com/category/WebMailNotifier](https://tobwithu.tistory.com/category/WebMailNotifier)
-> href="https://tobwithu.tistory.com/category/WebMailNotifier">https://tobwithu.tistory.com/category/WebMailNotifier
+> [https://tobwithu.tistory.com/category/WebMailNotifier](https://tobwithu.tistory.com/category/WebMailNotifier)
 Y nuevamente, el sitio para descargar el complemento es:
-[> https://addons.mozilla.org/en-US/firefox/addon/4490](https://addons.mozilla.org/en-US/firefox/addon/4490)¿Y
-tu que usas para revisar todas las cuentas de correo que posees?
+[
+> https://addons.mozilla.org/en-US/firefox/addon/4490
+](https://addons.mozilla.org/en-US/firefox/addon/4490)¿Y tu que usas para revisar todas las cuentas de correo que posees?

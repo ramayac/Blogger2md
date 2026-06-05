@@ -29,7 +29,7 @@ Todos los usuarios de Windows saben que para trabajar bien y por largo rato con 
 - la versión Upgrade de Vista requiere que instales XP y Vista seguidos, duplicando - muy probablemente - el tiempo que requiere reformatear/reinstalar y aumentando los 7 pasos anteriores en al menos 35 minutos.
 - La versión Upgrade requiere tus discos originales de Windows XP/2000. MUUUUCHAS personas tienen estos discos en forma de "recovery CDs" que pueden poseer una instalación [OEM](https://es.wikipedia.org/wiki/OEM) que traiga toda clase de programas inútiles añadidos a su instalación (aumentando más el tiempo de instalación).
 - Muchos usuarios han perdido, o jamas se les dio, sus discos de instalación de XP/2000 con su PC, porque ya venia instalado en sus computadoras. Estos usuarios, si deciden comprar una versión Upgrade - por ahorrar dinero - deben estar consientes de que si su disco duro muere o por cualquier razón necesitan reformatear/reinstalar tendrían que comprar una segunda copia de Vista, y esta vez, seria la versión completa.... OUUUUCHHHH!!!
-- Usar una copia de XP o 2000 como prueba para la versión Upgrade de Vista invalida la llave XP y su licencia (leyó bien), según la licencia de Usuario Final de Vista (el ahora famoso y popular End User License Agreement, EULA). La EULA declara, en parte: > style="font-weight: bold;">"Upon upgrade, this agreement takes the place of the agreement > for the software you upgraded from. After you upgrade, you may no longer use the software you > upgraded from." traducción de Sr. Byte:
+- Usar una copia de XP o 2000 como prueba para la versión Upgrade de Vista invalida la llave XP y su licencia (leyó bien), según la licencia de Usuario Final de Vista (el ahora famoso y popular End User License Agreement, EULA). La EULA declara, en parte: > "Upon upgrade, this agreement takes the place of the agreement > for the software you upgraded from. After you upgrade, you may no longer use the software you > upgraded from." traducción de Sr. Byte:
 
 ¿Increíble no?, a esto solo se puede decir... BAD BAD BAD Vista!
 
@@ -42,6 +42,6 @@ Ese es el problema... y los tres puntos anteriores, que con MUCHA razón, están
 
 Mi consejo:
 
-> NO compren una versión style="font-size:130%;"> Upgrade de
+> NO compren una versión Upgrade de
 > Vista.
 ...continua la [tercera parte](https://rodrigoamaya.blogspot.com/2007/02/windows-vista-y-sus-problemitas-parte.html).

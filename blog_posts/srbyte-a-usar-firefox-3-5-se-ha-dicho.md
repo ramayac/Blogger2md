@@ -27,7 +27,7 @@ Les comparto el vídeo de las nuevas características de FireFox 3.5:
 
 "Lo nuevo en Firefox 3.5" Como pueden ver, se avecinan muy buenos tiempos para las aplicaciones Web, y para el contenido multimedia, y que bueno que sea un producto Open Source el que esta elevando el estandar. Ahora ya pueden dejar de usar [Google Chrome](https://www.srbyte.com/2008/09/navegador-web-de-google.html) (porque la única excusa de muchos para usarlo, era la velocidad), y olvidarte completamente de IE 8 (¿¿¿por qué diablos usas IE8???), y comenzar a usar un navegador web de verdad....
 
-> Descarga Firefox 3.5 aquí: href="https://es-ar.www.mozilla.com/es-AR/">https://es-ar.www.mozilla.com/es-AR/
+> Descarga Firefox 3.5 aquí: [https://es-ar.www.mozilla.com/es-AR/](https://es-ar.www.mozilla.com/es-AR/)
 >
 ![image](https://sfx-images.mozilla.org/affiliates/Buttons/Firefox3.5/468x60.png)    
 

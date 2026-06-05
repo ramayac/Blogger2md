@@ -36,4 +36,4 @@ Midomi también añade una red social (vaya que esto esta de moda), donde tenemo
 
 ¡Prueba Midomi!, solo necesitas un micrófono y Adobe Flash en tu navegador favorito:
 
-> href="https://www.midomi.com/"> style="font-size:130%;">https://www.midomi.com/
+> [https://www.midomi.com/](https://www.midomi.com/)

@@ -41,7 +41,7 @@ Lo Bueno:
 - En dos minutos se aprende a usar, y en menos tiempo (4 segundos) se puede ir de un escritorio que se ve así: ![image](https://1.bp.blogspot.com/_ayvorITawE4/SL1FZrM3iGI/AAAAAAAABOY/4f8Jb0qc4Bg/s320/crap-bumptop-ramayac.jpg)     A uno que se ve así: ![image](https://2.bp.blogspot.com/_ayvorITawE4/SL1FZ26DzaI/AAAAAAAABOg/sm1g8-mAss8/s320/neat-bumptop-ramayac.jpg)    
 Pueden visitar el sitio oficial de BumpTop en:
 
-> href="https://bumptop.com/">https://bumptop.com/
+> [https://bumptop.com/](https://bumptop.com/)
 Y también pueden seguir los avisos de BumpTop en twitter: [@bumptop](https://twitter.com/bumptop)
-> href="https://twitter.com/bumptop">
+> [https://twitter.com/bumptop](https://twitter.com/bumptop)
 ¿Te animarías a usar un escritorio así?, ¿Crees que alguien haga algún proyecto open-source similar?

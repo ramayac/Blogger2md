@@ -10,7 +10,7 @@ post_id: blog-3515952828243908885.post-8632268147772671493
 Sabemos perfectamente que Microsoft es en este momento el centro de muchas criticas... desde el lanzamiento de Windows Millenium Edition 2.0 (también conocido como Vista) hasta el estúpido Zune (cargado de privaciones para el usuario) Microsoft pierde terreno día a día enfrente de otras compañías mas audaces y jóvenes que, aunque trillado, son la vanguardia del momento como alguna vez lo fue IBM y el mismo Microsoft.
 
 Existen muy pocos autores/escritores de respeto en el mundo de la tecnología, y entre ellos es aun menor el numero que se atreven a escribir el epitafio de Microsoft (aunque todos sabemos que sucederá eventualmente). Paul Graham (partner de startup VC [Y Combinator](https://ycombinator.com/)) publico hace poco un intrigante y muy interesante ensayo titulado
-> " href="https://www.paulgraham.com/microsoft.html">Microsoft is > Dead"
+> "[Microsoft is Dead"](https://www.paulgraham.com/microsoft.html)
 Lo interesante del ensayo es que Paul Graham no propone una teoría ridícula (por el momento), como OpenOffice.org destituyendo a Microsoft Office 2007 del reino de las aplicaciones de oficina en todos los escritorios (con plataforma propietaria) o GNU\Linux o Solaris remplazando Windows en todos los escritorios, sino que, el ensayo apunta a la perdida de presencia de Microsoft como compañía en el mundo de la tecnología.
 
 > La verdad es que

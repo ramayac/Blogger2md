@@ -9,7 +9,7 @@ post_id: blog-3515952828243908885.post-5739418024177795492
 
 En las ciencias computacionales un [FLOP (o flops o flop/s](https://es.wikipedia.org/wiki/FLOPS)) es un acrónimo que significa:
 
-> " bold;">FLoating point bold;">Operations Per > Second" u Operaciones de punto(o coma)
+> "FLoating point Operations Per > Second" u Operaciones de punto(o coma)
 > flotante por segundo.
 Los FLOPS son una medida de rendimiento de una computadora, especialmente en el campo científico, en donde se utiliza mucho las operaciones con datos de tipo flotante, para realizar simulaciones precisas y obtener resultados fidedignos. Podemos equiparar esta medida de rendimiento con los conocidos [MIPS (Millones de instrucciones por segundo)](https://es.wikipedia.org/wiki/MIPS), que es la medida de rendimiento mas usual en las computadoras de escritorio.
 

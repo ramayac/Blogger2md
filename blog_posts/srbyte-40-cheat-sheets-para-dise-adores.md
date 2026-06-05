@@ -47,5 +47,5 @@ InDesign).
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/STa57G4RTNI/AAAAAAAABy4/X8BOLhddQlc/s320/30-29_standard_web_banners.png)    
 El articulo original con los 40 Cheat Sheets se encuentra en [SixRevisions](https://sixrevisions.com/):
 
-> href="https://sixrevisions.com/graphics-design/40-useful-cheat-sheets-for-designers/">https://sixrevisions.com/graphics-design/40-useful-cheat-sheets-for-designers/
+> [https://sixrevisions.com/graphics-design/40-useful-cheat-sheets-for-designers/](https://sixrevisions.com/graphics-design/40-useful-cheat-sheets-for-designers/)
 Espero que les sirvan, ¡saludos!

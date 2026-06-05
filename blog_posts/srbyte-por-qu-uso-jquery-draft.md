@@ -32,9 +32,9 @@ Se puede añadir tantas clases CSS como se deseen. Y si son observadores, habran
 
 Con jQuery me olvide de manipular Ajax, para mi eso es cosa del pasado. Usar Ajax es tan facil como escribir 1, 2 y 3...
 
-> $.post class="br0">( class="st0">"https://www.elsitio.com/eltexto",
-> function(data class="br0">){
-> alert("obtuve el > siguiente texto: " + data); class="br0">});
+> $.post("https://www.elsitio.com/eltexto",
+> function(data){
+> alert("obtuve el > siguiente texto: " + data);});
 
 Cuarta razón: Documentación y Comunidad
 

@@ -25,19 +25,27 @@ Siento estrictamente objetivos, y desde el punto de vista de negocios, si eres N
 ¿Ahora pregunto? Valdrá la pena, desde el punto de vista de negocio, contratar un equipo de programadores, para que realicen tan magna tarea? ... no, realmente no vale la pena. Es más lógica la INVERSIÓN en una alianza entre la gigante empresa de Software, que ya tienen toda la infraestructura, el equipo, los programadores con la experiencia y la marca, y hasta quizas tienen casi listo el producto.
 
 Como dice el párrafo del anuncio:
-> italic;">"Además de la colaboración en software y
-> servicios existentes, ambas usarán sus activos para diseñar conjuntamente una gama de nuevas
-> experiencias de usuario para los dispositivos futuros de
-> Nokia." ¿Tiene sentido? claro que si, y no solo eso, sino que tambien es una alianza natural. Yo tengo el hardware, y tu le pones el software. En las grandes ligas, las empresas se miden y se juntan pensando en atributos (filosofía, estilo de codificación, licencias, ideales, lenguajes) que van mas allá del software y del hardware, y se adentran, a ese terrible y brutal territorio llamado Marketing... ![image](https://4.bp.blogspot.com/_ayvorITawE4/SodUApYUCaI/AAAAAAAACJA/acC2-uQ6iOc/s320/MarketingEvil.jpg)     Pero no me atrevo a hablar de Marketing, porque es como hablar en la [lengua de Mordor](https://en.wikipedia.org/wiki/Black_Speech). Mejor me aviento a resumir este negocio en tres atributos excepcionales: Marca, Mercado y Experiencia (Trayectoria), y como el lector ya sabe, estas empresas tienen mucho de lo mencionado. Estos son atributos en los que, como desarrolladores de software, no se nos cruzan mucho por la mente (al menos, no a mi) pero que son factores determinantes para que el software que produces, o en el que trabajas, llegue a millones de usuarios y genere también millones de dolares. ¿Y saben que es lo mas increíble? Estos atributos también se aplican y existen en el mundo del software libre. Usemos un ejemplo real y perfecto, el popular navegador web: [Mozilla Firefox](https://es-ar.www.mozilla.com/es-AR/). ![image](https://3.bp.blogspot.com/_ayvorITawE4/SodT-tW7L_I/AAAAAAAACIw/9B-V6dWI5vY/s320/firefox-logo.png)    
-"Todos amamos Firefox
-:)" Marca: Si te muestran una imagen de un "zorro" rojo ([es un oso en realidad](https://en.wikipedia.org/wiki/Red_Panda)) sobre un mundo, inmediatamente piensas en Firefox. Eso, es marca. Y como bien saben el trabajo de Mozilla Foundation, llega a millones de personas en todo el mundo, sin generar muchos millones de dolares. Mercado: > "El alcance
-> de la alianza entre Microsoft y Nokia, así como el valor potencial para las empresas y los
-> usuarios individuales es significativo", manifestó Stephen Drake, vicepresidente de Movilidad > y Telecomunicaciones en IDC. "Llevando las soluciones de productividad de Microsoft a la gran
-> clientela de Nokia, ambas empresas podrán servir mejor las necesidades de la creciente
-> población de trabajadores móviles, calculada por IDC en 1.000 millones en todo el mundo para
-> el 2011" Nokia maneja un mercado de usuario que se apoyan en la tecnología como extensión de productividad, Microsoft naturalmente desea incursionar en el mercado móvil, y Nokia quiere un bono adicional para sus telefonos, lo que se traduce en amplitud de mercado para ambos. ![image](https://2.bp.blogspot.com/_ayvorITawE4/SodT_JwARSI/AAAAAAAACI4/TND37Dab67o/s320/mail_for_exchange_inbox_lowres.jpg)    
-"Algunos de los modelos más
-populares de telefonos móviles de Nokia"
+> "Además de la colaboración en software y > servicios existentes, ambas usarán sus activos para diseñar conjuntamente una gama de nuevas > experiencias de usuario para los dispositivos futuros de > Nokia."
+¿Tiene sentido? claro que si, y no solo eso, sino que tambien es una alianza natural. Yo tengo el hardware, y tu le pones el software. En las grandes ligas, las empresas se miden y se juntan pensando en atributos (filosofía, estilo de codificación, licencias, ideales, lenguajes) que van mas allá del software y del hardware, y se adentran, a ese terrible y brutal territorio llamado Marketing...
+
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SodUApYUCaI/AAAAAAAACJA/acC2-uQ6iOc/s320/MarketingEvil.jpg)    
+Pero no me atrevo a hablar de Marketing, porque es como hablar en la [lengua de Mordor](https://en.wikipedia.org/wiki/Black_Speech). Mejor me aviento a resumir este negocio en tres atributos excepcionales: Marca, Mercado y Experiencia (Trayectoria), y como el lector ya sabe, estas empresas tienen mucho de lo mencionado.
+
+Estos son atributos en los que, como desarrolladores de software, no se nos cruzan mucho por la mente (al menos, no a mi) pero que son factores determinantes para que el software que produces, o en el que trabajas, llegue a millones de usuarios y genere también millones de dolares. ¿Y saben que es lo mas increíble? Estos atributos también se aplican y existen en el mundo del software libre. Usemos un ejemplo real y perfecto, el popular navegador web: [Mozilla Firefox](https://es-ar.www.mozilla.com/es-AR/).
+
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SodT-tW7L_I/AAAAAAAACIw/9B-V6dWI5vY/s320/firefox-logo.png)    
+"Todos amamos Firefox :)"
+
+Marca: Si te muestran una imagen de un "zorro" rojo ([es un oso en realidad](https://en.wikipedia.org/wiki/Red_Panda)) sobre un mundo, inmediatamente piensas en Firefox. Eso, es marca. Y como bien saben el trabajo de Mozilla Foundation, llega a millones de personas en todo el mundo, sin generar muchos millones de dolares.
+
+Mercado:
+
+> "El alcance > de la alianza entre Microsoft y Nokia, así como el valor potencial para las empresas y los > usuarios individuales es significativo", manifestó Stephen Drake, vicepresidente de Movilidad
+> y Telecomunicaciones en IDC. "Llevando las soluciones de productividad de Microsoft a la gran > clientela de Nokia, ambas empresas podrán servir mejor las necesidades de la creciente > población de trabajadores móviles, calculada por IDC en 1.000 millones en todo el mundo para > el 2011"
+Nokia maneja un mercado de usuario que se apoyan en la tecnología como extensión de productividad, Microsoft naturalmente desea incursionar en el mercado móvil, y Nokia quiere un bono adicional para sus telefonos, lo que se traduce en amplitud de mercado para ambos.
+
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SodT_JwARSI/AAAAAAAACI4/TND37Dab67o/s320/mail_for_exchange_inbox_lowres.jpg)    
+"Algunos de los modelos más populares de telefonos móviles de Nokia"
 
 El mercado de Firefox son los clientes inconformes y enojados que Internet Explorer 5 y 6 produjo en la época de la Web 1.0 y principios de la web 2.0, un mercado que asciende a más 1,596 millones de internautas (fuente: [Internet World Stats](https://www.internetworldstats.com/stats.htm)).
 

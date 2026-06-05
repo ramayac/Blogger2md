@@ -14,28 +14,26 @@ Librerías "simples", motores de bases de datos (aunque terriblemente lentos) f�
 
 En un sistema libre, hay tanto que usar que no se sabe donde comenzar. Pero se tienen varias opciones según el lenguaje que prefiera, listo algunos a continuación:
 
-> style="font-weight: bold;">C/C++: onclick="BLOG_clickHandler(this)" class="blsp-spelling-error" id="SPELLING_ERROR_28">
-> Anjuta, style="font-weight: bold;" onclick="BLOG_clickHandler(this)" class="blsp-spelling-error"
-> id="SPELLING_ERROR_29">KDevelop
-> onclick="BLOG_clickHandler(this)" class="blsp-spelling-error"
-> id="SPELLING_ERROR_30">VisualBasic:
+> C/C++:
+> Anjuta, KDevelop
+> VisualBasic:
 > Gambas
-> onclick="BLOG_clickHandler(this)" class="blsp-spelling-error"
-> id="SPELLING_ERROR_31">FreePascal:
-> class="blsp-spelling-error" id="SPELLING_ERROR_32">Lazarus
-> style="font-weight: bold;">Mono (. onclick="BLOG_clickHandler(this)" class="blsp-spelling-error"
-> id="SPELLING_ERROR_33">Net):
-> class="blsp-spelling-error" id="SPELLING_ERROR_34">MonoDevelop
+> FreePascal:
+> Lazarus
+> Mono (.Net):
+> MonoDevelop
 Pero si bien, estos entornos solucionan algunos problemas de adaptación, no son solución alguna para el desarrollo de aplicaciones multiplataforma bajo un lema de:
 
-> "compile once, class="blsp-spelling-error" id="SPELLING_ERROR_38">run onclick="BLOG_clickHandler(this)" class="blsp-spelling-error" > id="SPELLING_ERROR_39">everywhere..."
+> "compile once, run everywhere..."
 Verán, no me gusta enredarme entre el (¿tedioso? o ¿problemático?, probablemente por MIS practicas de programación) proceso de re-compilar una solución informatica completa en un sistema y en otro. Evidentemente si utilizo herramientas que de por si son multiplataforma como: OpenAL, OpenGL, SDL, MySQL, SQLite, PostgreSQL, GTK, QT, etc...no tendría muchos problemas. Pero aun así tendría que cambiar el lema anterior por:
 
-> italic;">" onclick="BLOG_clickHandler(this)" class="blsp-spelling-error"
-> id="SPELLING_ERROR_56">run once,
-> compile class="blsp-spelling-error" id="SPELLING_ERROR_57">everywhere style="font-style: italic;">...many times" Definitivamente una idea no tan atractiva. Ya que mi deseo es producir, indiferente del SO (sea libre o propietario), y que mi producto pueda ser usado en cualquier SO. Bajo esta idea de producir y distribuir sin dificultades, simplemente puedo usar: > Java: Eclipse, > class="blsp-spelling-error" id="SPELLING_ERROR_59">NetBeans style="font-weight: bold;">, onclick="BLOG_clickHandler(this)" class="blsp-spelling-error" > id="SPELLING_ERROR_60">XDevelop, > class="blsp-spelling-error" id="SPELLING_ERROR_61">JDevelop > class="blsp-spelling-error" id="SPELLING_ERROR_62">Python: style="font-weight: bold;"> Boa Constructor, bold;" onclick="BLOG_clickHandler(this)" class="blsp-spelling-error"
-> id="SPELLING_ERROR_63">Eric,
-> class="blsp-spelling-error" id="SPELLING_ERROR_64">Stani style="font-weight: bold;">'s onclick="BLOG_clickHandler(this)" class="blsp-spelling-error"
-> id="SPELLING_ERROR_65">Python
+> "run once, > compile everywhere...many times"
+Definitivamente una idea no tan atractiva. Ya que mi deseo es producir, indiferente del SO (sea libre o propietario), y que mi producto pueda ser usado en cualquier SO. Bajo esta idea de producir y distribuir sin dificultades, simplemente puedo usar:
+
+> Java: Eclipse,
+> NetBeans, XDevelop,
+> JDevelop
+> Python: Boa Constructor, Eric,
+> Stani's Python
 > Editor
 Como IDE para aplicaciones que seguramente podre compilar y luego correr en cualquier SO (y que funcionen de acuerdo a mis necesidades, después de todo los mismos IDE funcionan en Windows o GNU/Linux). Mono es prometedor, pero existen ciertas diferencias entre el y .Net, esperemos que el "pacto" entre Novell y Microsoft lleve a nuevos rumbos la virtualización y la interoperabilidad... aunque lo mas probable sea que Micro introduzca su modelo de negocio tan nocivo para los países subdesarrollados como este. Tiempos interesantes

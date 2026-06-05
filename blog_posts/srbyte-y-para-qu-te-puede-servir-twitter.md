@@ -36,8 +36,13 @@ Supongamos el caso, de que eres alguien que tiene una tienda que alquila vídeos
 Entonces Twitter es la solución, porque Twitter te permite tener un Feed para que tus clientes se suscriban, y así permitirles recibir actualizaciones de las actividades de tu tienda. Además, si tus clientes usan Twitter, recibirán inmediatamente los avisos, casi igual que con la mensajería instantánea, pero sin la necesidad de estar avisando persona por persona. Simplemente tu mensaje se publica, y cuando lo hace, este es recibido por la gente que te "sigue" (en Twitter).
 
 > Twitter puede funcionar como los avisos de estado que
-> la gente usa en los programas de mensajería instantánea, italic;">sin la necesidad de que dejes la computadora encendida para que siempre vean tu > estado. Y ni siquiera necesitas una computadora para notificar a tus usuarios o seguidores sobre algún suceso importante. Se puede utilizar Mensajes Simples de Texto (SMS), aunque lamentablemente esta característica no funciona en El Salvador... típico. ... sirve para estar informado: Puedes "seguir" a sitios web que utilizan
-Twitter, para mantenerte informado casi inmediatamente de las ultimas noticias, sin necesidad de visitar el sitio, leer correos, feeds, u otro medio. Si hay un terremoto, seguramente alguien - en vez de salir corriendo - [lo va a poner en Twitter.](https://twitter.com/Truncale/statuses/911526938)..
+> la gente usa en los programas de mensajería instantánea, sin la necesidad de que dejes la computadora encendida para que siempre vean tu
+> estado.
+Y ni siquiera necesitas una computadora para notificar a tus usuarios o seguidores sobre algún suceso importante. Se puede utilizar Mensajes Simples de Texto (SMS), aunque lamentablemente esta característica no funciona en El Salvador... típico.
+
+... sirve para estar informado:
+
+Puedes "seguir" a sitios web que utilizan Twitter, para mantenerte informado casi inmediatamente de las ultimas noticias, sin necesidad de visitar el sitio, leer correos, feeds, u otro medio. Si hay un terremoto, seguramente alguien - en vez de salir corriendo - [lo va a poner en Twitter.](https://twitter.com/Truncale/statuses/911526938)..
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SMSuDIu_GMI/AAAAAAAABOo/HUuu774EYsY/s320/twitt.png)    
 Si arrestan a alguna persona, o alguien tiene un accidente, probablemente usar Twitter sobre esa situación sea una buena idea. Twitter ayudo a sacar a [este estudiante](https://www.cnn.com/2008/TECH/04/25/twitter.buck/) de una cárcel en Egipto.

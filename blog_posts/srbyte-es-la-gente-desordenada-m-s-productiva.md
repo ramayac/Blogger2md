@@ -9,7 +9,7 @@ post_id: blog-3515952828243908885.post-5586088093860213971
 
 Recientemente leí un interesante articulo publicado esta semana en [Extreme Tech](https://www.extremetech.com/) bajo el titulo:
 
-> class="headline">"Are You a Slob? Good, You're More Productive" style="font-weight: bold;">
+> "Are You a Slob? Good, You're More Productive"
 Traducción de Sr. Byte: "¿Eres un desordenado? Bien, eres mas productivo". Todo este articulo simplemente discute la (¿errónea?) idea de que al ser un desordenado se puede ser mas productivo que la gente extremadamente organizada.
 
 Un "caos organizado" te permite ser mas eficiente y productivo. El empeño que se "gasta" en ser organizado todos los días gasta dinero y tiempo, pero dejar que tu trabajo se quede ... como lo dejas, permite que se tenga (supuestamente) un mejor flujo de trabajo y permite cambiar de tareas "suavemente".

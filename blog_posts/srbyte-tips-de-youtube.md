@@ -27,10 +27,9 @@ Si necesitas incrustar un video de YouTube en su blog, en un foro o en un sitio 
 > "https://www.youtube.com/v/IDENTIFICADORVIDEO"
 y se añade:
 
-> "https://www.youtube.com/v/IDENTIFICADORVIDEO style="font-weight:
-> bold;">&ap=%2526fmt%3D18"
+> "https://www.youtube.com/v/IDENTIFICADORVIDEO&ap=%2526fmt%3D18"
 ó
-> "https://www.youtube.com/v/IDENTIFICADORVIDEO style="font-weight: bold;">&ap=%2526fmt%3D22"
+> "https://www.youtube.com/v/IDENTIFICADORVIDEO&ap=%2526fmt%3D22"
 en el código que YouTube proporciona para incrustar videos (Embed)...
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/SS1WaD8GtlI/AAAAAAAABdY/KRT_MPtehDo/s320/embedvideocodigo.jpg)    

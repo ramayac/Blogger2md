@@ -33,8 +33,9 @@ Algunas caracteristicas de Opera son:
 "Accesa al 'modo' de bloqueo de contenido con Opera"
 
 Para ver una lista de Extensiones Problemáticas para Firefox visita esta pagina:
-[> https://kb.mozillazine.org/Problematic_extensions](https://kb.mozillazine.org/Problematic_extensions) Opera
-incluye una herramienta de bloqueo de contenido, y un filtro de URL's, ejecuta mas rápido Java-Script, incluye una poderosa herramienta de desarrollo web ([https://dev.opera.com/tools/](https://dev.opera.com/tools/)), y lo mas importante es que posee caracteristicas "innatas" a el, que no requiere la instalación adicional de componentes.
+[
+> https://kb.mozillazine.org/Problematic_extensions
+](https://kb.mozillazine.org/Problematic_extensions) Opera incluye una herramienta de bloqueo de contenido, y un filtro de URL's, ejecuta mas rápido Java-Script, incluye una poderosa herramienta de desarrollo web ([https://dev.opera.com/tools/](https://dev.opera.com/tools/)), y lo mas importante es que posee caracteristicas "innatas" a el, que no requiere la instalación adicional de componentes.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/RvkQSlmN2PI/AAAAAAAAAe8/9Pm3CHchPjA/s400/clock-widget.png)    
 "Widgets para Opera"
@@ -45,7 +46,7 @@ Al menos para la navegación "light" de la Web en general, osea las trivialidade
 
 Realmente solo tengo una duda...
 
-> style="font-size:180%;">¡¿Cuando sera mi FF/IW tan lindo como
+> ¡¿Cuando sera mi FF/IW tan lindo como
 > Opera?!
 ¿Alguien tiene una idea? Espero que con la salida de FF 3.0, todo el asunto se solucione ;)
 

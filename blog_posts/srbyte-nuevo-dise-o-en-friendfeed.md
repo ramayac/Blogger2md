@@ -27,7 +27,7 @@ También se puede obtener resúmenes de lo mejor del día y lo mejor de la seman
 ![image](https://beta.friendfeed.com/static/images/tour-rooms.jpg?v=bd6948206ef3686f5464e72b272a1e74)   La barra lateral fue rediseñada con el objetivo de darte toda la información que te interesa mas con un solo click del mouse.
 
 Estas son algunas de las características nuevas de FriendFeed, para comenzarlas a usar solo tienen que visitar el siguiente vinculo:
-> href="https://beta.friendfeed.com/">https://beta.friendfeed.com/
+> [https://beta.friendfeed.com/](https://beta.friendfeed.com/)
 [https://beta.friendfeed.com/](https://beta.friendfeed.com/)
 
 ¿Quienes de ustedes usan FriendFeed? Si desean seguirnos, puede hacerlo en las siguientes direcciones: Robertux: [https://friendfeed.com/robertux](https://friendfeed.com/robertux) Ramayac: [https://friendfeed.com/ramayac](https://friendfeed.com/ramayac)

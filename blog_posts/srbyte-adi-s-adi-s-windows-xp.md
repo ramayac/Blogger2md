@@ -29,7 +29,7 @@ NO, la GUI de Vista NO ESTA UNIFICADA, ¿no me creen?, aquí hay algunos ejemplo
 
 Y pueden ver mas inconsistencias (y agregar las suyas) aquí:
 [https://www.istartedsomething.com/taskforce/](https://www.istartedsomething.com/taskforce/)
-> style="font-size:130%;"> href="https://www.istartedsomething.com/taskforce/">https://www.istartedsomething.com/taskforce/
+> [https://www.istartedsomething.com/taskforce/](https://www.istartedsomething.com/taskforce/)
 ... son un poco más de 800 inconsistencias de diseño de interfaz en todo el sistema, sin contar otro tipo de errores y particularidades. ¿Y por esto la gente paga más de $120 USD?
 
 Pero bueno, estoy divagando, la idea es: que mal por Windows XP, porque a estas alturas, XP si es un buen sistema operativo - 7 años después de que salio y con dos service packs en el lomo-, bastante robusto, pero pesado, aunque versiones "Lite" ilegales que sobre abundan en Internet funcionan mucho mejor que los originales (al menos asi me han dicho ;-) )... nuevamente estoy divagando, el punto es que cumple con su cometido. En cambio Vista... bueno, Vista... es mejor verlo de lejitos, porque al conocerlo... pues se puede sufrir de una gran inconformidad y de disgustos peores que los que aquejaron alguna vez a los usuarios de Windows ME, quizás es porque también hay que esperar 7 años para que sea tan "estable" como XP, pero para cuando eso suceda... ya lo estarán sacando del mercado.

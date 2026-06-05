@@ -54,6 +54,9 @@ Pero lo realmente importante, y por lo que vale la pena mencionar a Python en es
 Ya sea que estés comenzando, o simplemente estés cansado de Perl, de Awk, o de los ridículos archivos batch de Windows, etc.
 
 Así que... a bajar Python:
-[> https://www.python.org/download/releases/3.0/](https://www.python.org/download/releases/3.0/) Y
-la documentación de Python 3.0 (Py3K) puedes encontrarla aquí:
-[> https://docs.python.org/3.0/](https://docs.python.org/3.0/) Saludos!
+[
+> https://www.python.org/download/releases/3.0/
+](https://www.python.org/download/releases/3.0/) Y la documentación de Python 3.0 (Py3K) puedes encontrarla aquí:
+[
+> https://docs.python.org/3.0/
+](https://docs.python.org/3.0/) Saludos!

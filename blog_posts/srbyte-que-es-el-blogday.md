@@ -14,7 +14,8 @@ De esta forma, todos los autores y lectores de los blogs, se encontraran saltand
 
 Visitar la página oficial del BlogDay en:
 
-[> https://www.blogday.org/](https://www.blogday.org/) Y
-si tienes twitter, puedes seguirlo en: @[BlogDay](https://twitter.com/blogday).
+[
+> https://www.blogday.org/
+](https://www.blogday.org/) Y si tienes twitter, puedes seguirlo en: @[BlogDay](https://twitter.com/blogday).
 
 El blog del Sr. Byte se une a esta celebración, recomendando (en unas horas) un par de nuestros blogs favoritos (que no son tan nuevos, pero no importa).

@@ -12,8 +12,7 @@ post_id: blog-3515952828243908885.post-2287875234791157716
 
 Youtorrent es un es un sitio de búsquedas de archivos "torrent", lo que lo diferencia de los demás sitios con esta idea, es que YouTorrent permite búsquedas paralelas en lo que se podría decir que son los 10 mejores sitios de búsqueda de torrents que hay. Para visitar YouTorrent sigue el vinculo:
 
-> href="https://youtorrent.com/" class="external free" title="https://youtorrent.com"
-> rel="nofollow">https://youtorrent.com
+> [https://youtorrent.com](https://youtorrent.com/)
 Entre los sitios que YouTorrent busca, están: Mininova, The Pirate Bay, isoHunt, SumoTorrent, FullDls, Monova, NewTorrents, BTJunkie, Vuze y Bittorrent.com
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/R_oyIkiiovI/AAAAAAAAArQ/adSiOTrsyq4/s400/captura1.jpg)    
