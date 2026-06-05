@@ -6,6 +6,14 @@ Welcome to the SrByte blog backup project! This document serves as a guide for t
 
 SrByte.py is a Blogger XML/Atom export to Markdown converter written in Python. It parses XML feeds, extracts posts/comments, converts HTML to clean Markdown, and formats metadata as YAML frontmatter.
 
+Focus only on srbyte.py and the README.md for now, as they contain the core logic and documentation. The README provides an overview of features, usage instructions, and future enhancement ideas.
+
+Keep it simple, focus on the only purpose of this project: converting Blogger exports to Markdown files. Avoid adding unrelated features or overcomplicating the codebase.
+
+KISS (Keep It Simple, Stupid) is the guiding principle here. The code should be straightforward, easy to understand, and maintainable for future contributors.
+
+Don't assume, don't over-engineer, and don't add unnecessary complexity. The goal is to have a clean, functional script that does one thing well: convert Blogger XML/Atom feeds into Markdown files.
+
 ### Completed in Last Session
 - **Drafts Excluded by Default**: Modified the XML parser to skip exporting drafts by default.
 - **Added `--export-drafts` Flag**: Added a CLI argument `--export-drafts` to allow optional export of draft posts if requested.
@@ -36,26 +44,3 @@ The codebase consists of a single python script: [srbyte.py](./srbyte.py).
 
 4. **[bundle_markdown_files(output_dir, bundle_path, skip_comments, skip_drafts)](./srbyte.py#L389)**:
    - Merges all `.md` files in a folder into a single file (like `big.md`), separated by `---`.
-
----
-
-## Future Enhancements & Next Steps
-
-If you are continuing development, here are several high-value next steps:
-
-### 1. Implement Unit Tests
-- Add a testing suite (`tests/` directory) using `unittest` or `pytest` to test:
-  - Markdown cleaning behavior in [clean_text_to_markdown](./srbyte.py#L38) for various HTML tags.
-  - Slug generation stability in [create_slug](./srbyte.py#L8).
-  - Draft skipping logic under different namespaces.
-
-### 2. Download and Localize Media
-- Currently, image URLs point to the original Blogger/Google hostnames.
-- Enhancement: Download these images locally to an `images/` folder and rewrite the markdown image references (e.g. `![image](images/some-slug.jpg)`) to make the archive fully self-contained.
-
-### 3. Replace Regex Parser with BeautifulSoup
-- The regex-based HTML-to-Markdown parser is lightweight but can be fragile for complex nested HTML tags.
-- Consider refactoring [clean_text_to_markdown](./srbyte.py#L38) to use `BeautifulSoup` (`bs4`) for safer HTML tree traversal and conversion.
-
-### 4. Custom Frontmatter Formatting
-- Allow passing custom YAML frontmatter templates via command-line options or a config file (e.g., to support different static site generators like Hugo, Jekyll, or Astro).
