@@ -3,6 +3,7 @@ title: Energia Renovable y Barata Para las Fiestas
 date: 2008-12-15
 author: Robertux
 tags: dinero, economia, año nuevo, luz, buscar, solar, tecnologia, energia, green
+draft: false
 post_id: blog-3515952828243908885.post-1474971236922812077
 ---
 

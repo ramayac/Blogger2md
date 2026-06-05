@@ -3,6 +3,7 @@ title: Después de las barras vienen las cortinillas
 date: 2009-01-04
 author: Wendy Aparicio
 tags: video, divertido, diseño, cine, animacion, tv
+draft: false
 post_id: blog-3515952828243908885.post-6726524978148075221
 ---
 

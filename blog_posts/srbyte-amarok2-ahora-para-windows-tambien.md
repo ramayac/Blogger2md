@@ -3,6 +3,7 @@ title: Amarok2, ahora para Windows tambien ...
 date: 2007-05-14
 author: Rodrigo Amaya
 tags: amarok, libre, linux, free, software, fantastico, windows
+draft: false
 post_id: blog-3515952828243908885.post-215225930204970146
 ---
 

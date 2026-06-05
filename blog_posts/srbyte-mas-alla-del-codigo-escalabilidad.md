@@ -3,6 +3,7 @@ title: Mas Alla del Codigo: Escalabilidad
 date: 2009-01-20
 author: Robertux
 tags: elecciones, politica, computadoras, cloud, desarrollo, codigo, el salvador, programacion, twitter, empresa
+draft: false
 post_id: blog-3515952828243908885.post-4883452891109540459
 ---
 

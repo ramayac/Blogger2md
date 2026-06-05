@@ -3,6 +3,7 @@ title: 5 Videos Virales del 2008
 date: 2008-12-14
 author: Rodrigo Amaya
 tags: video, viral, youtube
+draft: false
 post_id: blog-3515952828243908885.post-545305937266753616
 ---
 

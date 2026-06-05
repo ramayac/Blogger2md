@@ -3,6 +3,7 @@ title: Amarok... rocks!
 date: 2007-03-25
 author: Rodrigo Amaya
 tags: last.fm, amarok, web 2.0, libre, linux, free, software, musica
+draft: false
 post_id: blog-3515952828243908885.post-8912245146214367140
 ---
 

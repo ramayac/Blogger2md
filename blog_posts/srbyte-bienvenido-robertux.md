@@ -3,6 +3,7 @@ title: Bienvenido Robertux
 date: 2008-02-01
 author: Rodrigo Amaya
 tags: bienvenida, hola
+draft: false
 post_id: blog-3515952828243908885.post-8700356741849167237
 ---
 

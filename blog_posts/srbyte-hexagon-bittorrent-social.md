@@ -3,6 +3,7 @@ title: Hexagon (BitTorrent Social)
 date: 2009-12-05
 author: Rodrigo Amaya
 tags: hexagon, social, bittorrent, tracker, isohunt, redes sociales
+draft: false
 post_id: blog-3515952828243908885.post-7375509271132513888
 ---
 

@@ -3,6 +3,7 @@ title: OK Ya Instale Linux. Y ahora que? (Parte II)
 date: 2008-11-28
 author: Robertux
 tags: screenlet, debian, recomendado, gnu, linux, gadget, gmail, tutorial, google, gnome, herramienta, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-7576868522322839364
 ---
 

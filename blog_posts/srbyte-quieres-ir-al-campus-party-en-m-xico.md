@@ -3,6 +3,7 @@ title: ¿Quieres ir al Campus Party en México?
 date: 2009-10-25
 author: Rodrigo Amaya
 tags: campus, party
+draft: false
 post_id: blog-3515952828243908885.post-1466532951233472195
 ---
 

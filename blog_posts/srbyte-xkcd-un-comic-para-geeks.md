@@ -3,6 +3,7 @@ title: xkcd ... un comic para geeks :)
 date: 2008-07-07
 author: Rodrigo Amaya
 tags: divertido, fun
+draft: false
 post_id: blog-3515952828243908885.post-8685817943495929934
 ---
 

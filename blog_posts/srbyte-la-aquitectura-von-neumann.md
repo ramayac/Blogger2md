@@ -3,6 +3,7 @@ title: La Aquitectura Von Neumann
 date: 2007-12-31
 author: Rodrigo Amaya
 tags: computadoras, arquitectura
+draft: false
 post_id: blog-3515952828243908885.post-8581992345864867649
 ---
 

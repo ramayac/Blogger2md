@@ -3,6 +3,7 @@ title: Administrando ancho de banda con Trickle
 date: 2007-10-10
 author: Rodrigo Amaya
 tags: administrar, linux, limitar, trickle, internet, bandwith
+draft: false
 post_id: blog-3515952828243908885.post-8103715126442289826
 ---
 

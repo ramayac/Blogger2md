@@ -3,6 +3,7 @@ title: El IDE perfecto... y un pacto.
 date: 2007-01-16
 author: Rodrigo Amaya
 tags: gnu, linux, novell, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-5178716428570510580
 ---
 

@@ -213,14 +213,17 @@ def parse_blogger_xml(file_path: str, output_dir: str = "blog_posts", include_co
     """
     Parses the Blogger XML file and creates individual Markdown files for each entry.
     - If include_comments=False, entries tagged with 'http://schemas.google.com/blogger/2008/kind#comment' are skipped.
-    - Each post includes YAML frontmatter with title, date, author, and tags.
+    - Each post includes YAML frontmatter with title, date, author, tags, draft status, and post ID.
     """
     # Parse the XML file
     tree = ET.parse(file_path)
     root = tree.getroot()
     
-    # Namespace handling (if any)
-    namespaces = {'atom': 'http://www.w3.org/2005/Atom'}
+    # Namespace handling
+    namespaces = {
+        'atom': 'http://www.w3.org/2005/Atom',
+        'app': 'http://purl.org/atom/app#'
+    }
     
     # Find all <entry> tags
     entries = root.findall('atom:entry', namespaces)
@@ -230,28 +233,57 @@ def parse_blogger_xml(file_path: str, output_dir: str = "blog_posts", include_co
     
     for entry in entries:
         # Extract <id>
-        entry_id = entry.find('atom:id', namespaces)
-        if entry_id is None:
+        entry_id_elem = entry.find('atom:id', namespaces)
+        if entry_id_elem is None:
             continue
+        entry_id_text = entry_id_elem.text or ''
 
-        # Check entry_id, it has to have the string ".post-"
-        if ".post-" not in entry_id.text:
-            continue
-
-        entry_id = entry_id.text.split(':')[-1]  # Use the last part of the ID as the filename
-        
         # Extract <category> terms (used for filtering and metadata)
         categories = entry.findall('atom:category', namespaces)
         category_terms = [cat.attrib.get('term', '') for cat in categories]
         
-        # Skip comments unless explicitly included
-        is_comment = any('blogger/2008/kind#comment' in term for term in category_terms)
-        if is_comment and not include_comments:
+        # Identify entry kind using the scheme "http://schemas.google.com/g/2005#kind"
+        entry_kind = None
+        for cat in categories:
+            if cat.attrib.get('scheme') == 'http://schemas.google.com/g/2005#kind':
+                entry_kind = cat.attrib.get('term', '')
+                break
+        
+        # Fallback if entry_kind is missing (robustness for variant XML schemas)
+        if entry_kind is None:
+            if ".post-" in entry_id_text:
+                is_comment = any('blogger/2008/kind#comment' in term for term in category_terms)
+                if is_comment:
+                    entry_kind = 'http://schemas.google.com/blogger/2008/kind#comment'
+                else:
+                    entry_kind = 'http://schemas.google.com/blogger/2008/kind#post'
+            else:
+                continue
+
+        # Process posts and comments, skip settings, templates, etc.
+        if entry_kind == 'http://schemas.google.com/blogger/2008/kind#comment':
+            is_comment = True
+            if not include_comments:
+                continue
+        elif entry_kind == 'http://schemas.google.com/blogger/2008/kind#post':
+            is_comment = False
+        else:
+            # Skip templates, settings, pages, etc.
             continue
+
+        entry_id = entry_id_text.split(':')[-1]  # Use the last part of the ID as the identifier
+
+        # Check draft status using the correct 'app' namespace
+        is_draft = False
+        control = entry.find('app:control', namespaces)
+        if control is not None:
+            draft = control.find('app:draft', namespaces)
+            if draft is not None and draft.text == 'yes':
+                is_draft = True
 
         # Extract title
         title_element = entry.find('atom:title', namespaces)
-        title = title_element.text if title_element is not None else entry_id
+        title = title_element.text if title_element is not None and title_element.text else entry_id
         
         # Extract published date
         published_element = entry.find('atom:published', namespaces)
@@ -290,6 +322,7 @@ title: {title}
 date: {published_date}
 author: {author}
 tags: {tags}
+draft: {str(is_draft).lower()}
 post_id: {entry_id}
 ---
 
@@ -300,17 +333,22 @@ post_id: {entry_id}
         
         # Create slug from title for filename
         title_slug = create_slug(title)
+        if is_comment:
+            title_slug = f"{title_slug}-comment-{entry_id}"
+        elif is_draft:
+            title_slug = f"{title_slug}-draft"
         
-        # Write to a .md file with new naming convention
+        # Write to a .md file
         output_file = os.path.join(output_dir, f"srbyte-{title_slug}.md")
         with open(output_file, 'w', encoding='utf-8') as f:
             f.write(markdown_content)
         print(f"Created: {output_file}")
 
-def bundle_markdown_files(output_dir: str = "blog_posts", bundle_path: str = "big.md", skip_comments: bool = True) -> str:
+def bundle_markdown_files(output_dir: str = "blog_posts", bundle_path: str = "big.md", skip_comments: bool = True, skip_drafts: bool = True) -> str:
     """
     Concatenate all .md files from output_dir into a single bundle_path file.
-    If skip_comments is True, any file whose content includes 'kind#comment' will be excluded.
+    If skip_comments is True, any file whose content includes 'kind#comment' or '-comment-' in name will be excluded.
+    If skip_drafts is True, draft posts are excluded.
     Returns the path to the created bundle file.
     """
     if not os.path.isdir(output_dir):
@@ -330,8 +368,15 @@ def bundle_markdown_files(output_dir: str = "blog_posts", bundle_path: str = "bi
                 continue
             if not content:
                 continue
-            if skip_comments and ('blogger/2008/kind#comment' in content):
+            
+            # Check for comments
+            if skip_comments and (('-comment-' in fname) or ('blogger/2008/kind#comment' in content)):
                 continue
+                
+            # Check for drafts
+            if skip_drafts and (fname.lower().endswith('-draft.md') or ('draft: true' in content)):
+                continue
+
             if written:
                 out.write("\n\n")
                 out.write("---")
@@ -347,9 +392,15 @@ if __name__ == "__main__":
     parser.add_argument("--include-comments", action="store_true", help="Include comment entries (kind#comment) in output")
     parser.add_argument("--bundle", action="store_true", help="After generating posts, bundle all .md files into a single big.md")
     parser.add_argument("--bundle-path", default="big.md", help="Path/name for the bundled Markdown file (default: big.md)")
+    parser.add_argument("--include-drafts-in-bundle", action="store_true", help="Include draft posts in the bundled big.md file")
     args = parser.parse_args()
 
     parse_blogger_xml(args.xml, output_dir=args.out, include_comments=args.include_comments)
     if args.bundle:
-        out_path = bundle_markdown_files(args.out, args.bundle_path, skip_comments=not args.include_comments)
+        out_path = bundle_markdown_files(
+            args.out, 
+            args.bundle_path, 
+            skip_comments=not args.include_comments,
+            skip_drafts=not args.include_drafts_in_bundle
+        )
         print(f"Bundled Markdown written to: {out_path}")

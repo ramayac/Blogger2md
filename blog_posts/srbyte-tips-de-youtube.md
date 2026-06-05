@@ -3,6 +3,7 @@ title: Tips de YouTube
 date: 2008-11-26
 author: Rodrigo Amaya
 tags: tips, guia, youtube
+draft: false
 post_id: blog-3515952828243908885.post-3951349049094925047
 ---
 

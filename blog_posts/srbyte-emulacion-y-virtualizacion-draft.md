@@ -3,6 +3,7 @@ title: Emulacion y Virtualizacion...
 date: 2007-07-16
 author: Rodrigo Amaya
 tags: srbyte
+draft: true
 post_id: blog-3515952828243908885.post-7776553239600484890
 ---
 

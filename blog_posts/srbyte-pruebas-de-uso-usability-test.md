@@ -3,6 +3,7 @@ title: Pruebas de Uso (Usability Test)
 date: 2009-03-04
 author: Rodrigo Amaya
 tags: practicas, util, desarrollo, pruebas, usabilidad
+draft: false
 post_id: blog-3515952828243908885.post-3466889532297221442
 ---
 

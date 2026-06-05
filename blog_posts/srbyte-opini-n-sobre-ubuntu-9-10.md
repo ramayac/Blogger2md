@@ -3,6 +3,7 @@ title: Opinión sobre Ubuntu 9.10
 date: 2009-11-09
 author: Rodrigo Amaya
 tags: opinion, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-5435027524184706691
 ---
 

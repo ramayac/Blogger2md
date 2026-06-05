@@ -3,6 +3,7 @@ title: Número de Versión en el Software
 date: 2007-02-16
 author: Rodrigo Amaya
 tags: libre, gnu, linux, software, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-3385006549121719633
 ---
 

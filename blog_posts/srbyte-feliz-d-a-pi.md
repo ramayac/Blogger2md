@@ -3,6 +3,7 @@ title: Feliz Día PI
 date: 2008-03-14
 author: Robertux
 tags: pi, matematica
+draft: false
 post_id: blog-3515952828243908885.post-6526077740239626451
 ---
 

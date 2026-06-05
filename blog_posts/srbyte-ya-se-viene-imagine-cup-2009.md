@@ -3,6 +3,7 @@ title: ¡Ya se viene Imagine Cup 2009!
 date: 2009-01-02
 author: Wendy Aparicio
 tags: diseño, año nuevo, programador, computadoras, software, internet, programacion, tecnologia
+draft: false
 post_id: blog-3515952828243908885.post-8200463012366721425
 ---
 

@@ -1,10 +1,10 @@
 ---
 title: Formatos de la TV (Parte III)
-date: 2008-10-17
+date: 2008-10-16
 author: Wendy Aparicio
 tags: video, interesante, tv
-draft: false
-post_id: blog-3515952828243908885.post-3383541659723131954
+draft: true
+post_id: blog-3515952828243908885.post-7228264054628245543
 ---
 
 Como todo buen antecesor, el sistema [NTSC](https://www.srbyte.com/2008/09/formatos-de-la-tv-parte-ii.html) poco a poco fue cediendo al natural proceso evolutivo de las tecnologías hasta darle paso a dos nuevos sistemas de transmisión: PAL y SECAM.
@@ -25,4 +25,4 @@ Ambos mellizos (PAL y SECAM) utilizan los mimos formatos de escaneo y velocidade
 
 Tanto el sistema PAL como el sistema SECAM mejoraron con creces a su antecesor NTSC. A pesar de esto, todos y cada uno de ellos guardan una estrecha relación en cuanto a sus fundamentos y al perfeccionamiento de esa caja mágica: la televisión.
 
-Fuentes consultadas: Digitalfotored. Fotografía digital e imagen en la red, diseño gráfico y video digital: [https://www.digitalfotored.com/videodigital/pal.htm](https://www.digitalfotored.com/videodigital/pal.htm)
+Fuentes consultadas: Digitalfotored. Fotografía digital e imagen en la red, diseño gráfico y video digital: [https://www.digitalfotored.com/videodigital/pal.htm](https://www.digitalfotored.com/videodigital/pal.htm) Wikipedia. Enciclopedia libre:[https://es.wikipedia.org/wiki/Secam](https://es.wikipedia.org/wiki/Secam)

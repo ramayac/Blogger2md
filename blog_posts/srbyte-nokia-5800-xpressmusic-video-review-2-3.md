@@ -3,6 +3,7 @@ title: Nokia 5800 XpressMusic - Video review (2/3)
 date: 2009-06-23
 author: Robertux
 tags: video, twitter, iphone, musica, navegador, opinion, 5800, nokia, nokia 5800, gadget, review, herramienta
+draft: false
 post_id: blog-3515952828243908885.post-1669548980520902879
 ---
 

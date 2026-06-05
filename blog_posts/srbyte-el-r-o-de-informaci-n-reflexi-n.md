@@ -3,6 +3,7 @@ title: El Río de Información (Reflexión)
 date: 2008-08-15
 author: Rodrigo Amaya
 tags: opinion, internet, interesante, informacion
+draft: false
 post_id: blog-3515952828243908885.post-5854878211398427562
 ---
 

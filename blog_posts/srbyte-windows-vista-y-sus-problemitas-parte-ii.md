@@ -3,6 +3,7 @@ title: Windows Vista y sus "problemitas" [Parte II]
 date: 2007-02-03
 author: Rodrigo Amaya
 tags: bad, vista, windows
+draft: false
 post_id: blog-3515952828243908885.post-1038926833403809365
 ---
 

@@ -3,6 +3,7 @@ title: XGL para Windows... (Yod'm 3D)
 date: 2007-04-01
 author: Rodrigo Amaya
 tags: free, fantastico, windows
+draft: false
 post_id: blog-3515952828243908885.post-4367936812775147870
 ---
 

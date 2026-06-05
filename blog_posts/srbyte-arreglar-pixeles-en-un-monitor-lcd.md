@@ -3,6 +3,7 @@ title: Arreglar pixeles en un monitor LCD
 date: 2008-02-15
 author: Rodrigo Amaya
 tags: util, lcd, fantastico, tutorial, interesante, tecnologia, geek, curioso
+draft: false
 post_id: blog-3515952828243908885.post-8081549705641177960
 ---
 

@@ -3,6 +3,7 @@ title: Review Nokia 5800 XpressMusic (1/3)
 date: 2009-06-08
 author: Rodrigo Amaya
 tags: nokia, 5800, nokia 5800, review
+draft: false
 post_id: blog-3515952828243908885.post-1695663898913273376
 ---
 

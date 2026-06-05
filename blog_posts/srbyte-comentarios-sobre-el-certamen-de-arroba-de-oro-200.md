@@ -3,6 +3,7 @@ title: Comentarios sobre el certamen de Arroba de Oro 2008 [1/2]
 date: 2008-10-23
 author: Rodrigo Amaya
 tags: el salvador, arroba
+draft: false
 post_id: blog-3515952828243908885.post-4615110713523624372
 ---
 

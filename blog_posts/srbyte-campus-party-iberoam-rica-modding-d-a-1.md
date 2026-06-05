@@ -3,6 +3,7 @@ title: Campus Party Iberoamérica - Modding (Día 1)
 date: 2008-10-29
 author: Rodrigo Amaya
 tags: campus, party, el salvador, iberoamerica
+draft: false
 post_id: blog-3515952828243908885.post-8108114227231887483
 ---
 

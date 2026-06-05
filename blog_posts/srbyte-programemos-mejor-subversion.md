@@ -3,6 +3,7 @@ title: Programemos Mejor: Subversion
 date: 2008-03-26
 author: Robertux
 tags: subversion, programacion, svn, herramienta
+draft: false
 post_id: blog-3515952828243908885.post-5173755952151884031
 ---
 

@@ -3,6 +3,7 @@ title: Calcomanías de Error de Vista
 date: 2007-03-27
 author: Rodrigo Amaya
 tags: propietario, vista, humor, fantastico, windows, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-7127322435579545579
 ---
 

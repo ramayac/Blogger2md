@@ -3,6 +3,7 @@ title: ¿Qué es un CheatSheet?
 date: 2008-12-02
 author: Rodrigo Amaya
 tags: linux, twitter, google, referencia
+draft: false
 post_id: blog-3515952828243908885.post-5770965253038104265
 ---
 

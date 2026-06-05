@@ -3,6 +3,7 @@ title: Redes sociales para programadores
 date: 2008-09-17
 author: Robertux
 tags: srbyte
+draft: true
 post_id: blog-3515952828243908885.post-1963180394814232279
 ---
 

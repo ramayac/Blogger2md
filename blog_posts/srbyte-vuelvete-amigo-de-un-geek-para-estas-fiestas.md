@@ -3,6 +3,7 @@ title: Vuelvete Amigo de un Geek para Estas Fiestas
 date: 2008-12-16
 author: Robertux
 tags: navidad, amistad, año nuevo, fun, humor, charla, hugs, geek
+draft: false
 post_id: blog-3515952828243908885.post-922299627059254879
 ---
 

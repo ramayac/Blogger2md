@@ -3,6 +3,7 @@ title: Villancicos Navideños en 8 Bits
 date: 2008-12-27
 author: Robertux
 tags: divertido, fun, nintendo, juegos, interesante, 8bits, musica, geek
+draft: false
 post_id: blog-3515952828243908885.post-6368577229254448922
 ---
 

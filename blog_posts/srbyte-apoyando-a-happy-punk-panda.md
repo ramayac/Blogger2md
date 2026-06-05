@@ -3,6 +3,7 @@ title: Apoyando a Happy Punk Panda
 date: 2009-10-15
 author: Rodrigo Amaya
 tags: luto, hpp, happy punk panda
+draft: false
 post_id: blog-3515952828243908885.post-1084603112247587829
 ---
 

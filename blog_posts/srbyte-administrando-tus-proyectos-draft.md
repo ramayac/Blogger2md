@@ -3,6 +3,7 @@ title: Administrando tus proyectos
 date: 2008-09-04
 author: Robertux
 tags: srbyte
+draft: true
 post_id: blog-3515952828243908885.post-6176497815728201423
 ---
 

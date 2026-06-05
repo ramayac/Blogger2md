@@ -3,6 +3,7 @@ title: Microsoft y el Software Libre
 date: 2009-09-16
 author: Rodrigo Amaya
 tags: libre, software, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-103832654894430103
 ---
 

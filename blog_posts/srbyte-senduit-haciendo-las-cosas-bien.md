@@ -3,6 +3,7 @@ title: Senduit (haciendo las cosas bien)
 date: 2008-11-05
 author: Rodrigo Amaya
 tags: srbyte
+draft: false
 post_id: blog-3515952828243908885.post-6544694013300982508
 ---
 

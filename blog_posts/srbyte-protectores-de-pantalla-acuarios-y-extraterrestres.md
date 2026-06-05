@@ -3,6 +3,7 @@ title: Protectores de pantalla, acuarios y extraterrestres...
 date: 2007-03-26
 author: Rodrigo Amaya
 tags: libre, gnu, linux, free, energia
+draft: false
 post_id: blog-3515952828243908885.post-6656427961582377854
 ---
 

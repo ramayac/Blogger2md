@@ -3,6 +3,7 @@ title: Flash player 9 para GNU/Linux!
 date: 2007-01-18
 author: Rodrigo Amaya
 tags: gnu, linux
+draft: false
 post_id: blog-3515952828243908885.post-1532044454872538051
 ---
 

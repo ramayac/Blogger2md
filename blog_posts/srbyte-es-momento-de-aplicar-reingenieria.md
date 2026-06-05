@@ -3,6 +3,7 @@ title: Es Momento de Aplicar Reingenieria
 date: 2009-09-15
 author: Robertux
 tags: agil, computadoras, desarrollo, codigo, gmail, calidad, programacion, fox, empresa, productividad
+draft: false
 post_id: blog-3515952828243908885.post-1715549923484754043
 ---
 

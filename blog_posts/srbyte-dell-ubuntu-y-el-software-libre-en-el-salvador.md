@@ -3,6 +3,7 @@ title: Dell, Ubuntu y el Software Libre en El Salvador
 date: 2007-05-01
 author: Rodrigo Amaya
 tags: gnu, dell, linux, free, software, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-430860281738037604
 ---
 

@@ -3,6 +3,7 @@ title: ¿Bittorrent?... (Todo mundo ama Bittorrent!)
 date: 2007-03-19
 author: Rodrigo Amaya
 tags: libre, linux, bittorrent, software
+draft: false
 post_id: blog-3515952828243908885.post-8205011244286664646
 ---
 

@@ -3,6 +3,7 @@ title: Explotando la Web Developer Toolbar
 date: 2009-11-20
 author: Robertux
 tags: firefox, desarrollo, toolbar, web, addon
+draft: false
 post_id: blog-3515952828243908885.post-3871582453194179268
 ---
 

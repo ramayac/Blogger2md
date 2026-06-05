@@ -3,6 +3,7 @@ title: Dell y GNU/Linux
 date: 2007-03-30
 author: Rodrigo Amaya
 tags: libre, gnu, dell, linux, software
+draft: false
 post_id: blog-3515952828243908885.post-7551184420322490235
 ---
 

@@ -3,6 +3,7 @@ title: La importancia de los procedimientos almacenados
 date: 2009-04-13
 author: Rodrigo Amaya
 tags: practicas, programacion, procedimientos almacenados, base de datos
+draft: false
 post_id: blog-3515952828243908885.post-2623115535763463846
 ---
 

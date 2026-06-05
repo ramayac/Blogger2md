@@ -3,6 +3,7 @@ title: Blog, bloggin, blogosfera y Tertulia!
 date: 2007-04-18
 author: Rodrigo Amaya
 tags: luto, tertulia, blog
+draft: false
 post_id: blog-3515952828243908885.post-9187335112997375702
 ---
 

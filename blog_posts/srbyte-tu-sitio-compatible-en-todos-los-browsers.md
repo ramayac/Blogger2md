@@ -3,6 +3,7 @@ title: Tu Sitio, Compatible en Todos los Browsers!
 date: 2009-06-10
 author: Robertux
 tags: javascript, firefox, framework, explorer, safari, chrome, google, Opera, css
+draft: false
 post_id: blog-3515952828243908885.post-8708910136689830358
 ---
 

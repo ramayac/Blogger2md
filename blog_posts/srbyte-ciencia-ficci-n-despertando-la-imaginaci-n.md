@@ -3,6 +3,7 @@ title: Ciencia Ficción: Despertando la imaginación
 date: 2009-09-09
 author: Wendy Aparicio
 tags: cine, animacion, cineastas, bienvenida, entrenamiento
+draft: false
 post_id: blog-3515952828243908885.post-925068168498926825
 ---
 

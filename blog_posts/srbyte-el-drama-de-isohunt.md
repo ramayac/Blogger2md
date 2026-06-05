@@ -3,6 +3,7 @@ title: El Drama de IsoHunt
 date: 2007-10-08
 author: Rodrigo Amaya
 tags: bittorrent
+draft: false
 post_id: blog-3515952828243908885.post-1665240101551360159
 ---
 

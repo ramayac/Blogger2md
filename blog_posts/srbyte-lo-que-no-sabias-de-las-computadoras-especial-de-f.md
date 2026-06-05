@@ -3,6 +3,7 @@ title: Lo que no sabias de las computadoras... (Especial de Fin de Año)
 date: 2007-12-31
 author: Rodrigo Amaya
 tags: año nuevo, computadoras
+draft: false
 post_id: blog-3515952828243908885.post-4800674715142043673
 ---
 

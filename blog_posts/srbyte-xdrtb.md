@@ -3,6 +3,7 @@ title: XDRTB
 date: 2008-10-09
 author: Rodrigo Amaya
 tags: salud
+draft: false
 post_id: blog-3515952828243908885.post-3438877290201396886
 ---
 

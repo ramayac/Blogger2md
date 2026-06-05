@@ -3,6 +3,7 @@ title: 3 reglas al trabajar con Bases de Datos
 date: 2008-05-14
 author: Rodrigo Amaya
 tags: programador, mysql, subversion, programacion, base de datos
+draft: false
 post_id: blog-3515952828243908885.post-9182436290436764077
 ---
 

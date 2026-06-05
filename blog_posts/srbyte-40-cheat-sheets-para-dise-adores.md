@@ -3,6 +3,7 @@ title: 40 Cheat Sheets para Diseñadores
 date: 2008-12-03
 author: Rodrigo Amaya
 tags: diseño, tecnicas, referencia
+draft: false
 post_id: blog-3515952828243908885.post-8981992164940292828
 ---
 

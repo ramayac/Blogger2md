@@ -3,6 +3,7 @@ title: Aprendiendo de "Bing"
 date: 2009-06-16
 author: Rodrigo Amaya
 tags: bing, buscadores, google, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-464786498374165856
 ---
 

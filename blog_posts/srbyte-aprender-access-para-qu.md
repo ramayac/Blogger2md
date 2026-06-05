@@ -3,6 +3,7 @@ title: Aprender ACCESS ¿para qué?...
 date: 2008-08-24
 author: Rodrigo Amaya
 tags: libre, desarrollo, microsoft, base de datos
+draft: false
 post_id: blog-3515952828243908885.post-5235056442898263809
 ---
 

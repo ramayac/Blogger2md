@@ -3,6 +3,7 @@ title: Desvelando Mitos Comunes Sobre los Geeks
 date: 2008-03-28
 author: Robertux
 tags: gadget, internet, interesante, tecnologia, geek, curioso
+draft: false
 post_id: blog-3515952828243908885.post-1967458158855096870
 ---
 

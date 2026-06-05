@@ -3,6 +3,7 @@ title: Es dificil instalar GNU\Linux?!
 date: 2007-04-05
 author: Rodrigo Amaya
 tags: libre, gnu, linux, software, windows, youtube
+draft: false
 post_id: blog-3515952828243908885.post-3561339350036476639
 ---
 

@@ -3,6 +3,7 @@ title: Silvermel, tema recomendado para FireFox.
 date: 2008-07-17
 author: Rodrigo Amaya
 tags: firefox, tema, recomendado
+draft: false
 post_id: blog-3515952828243908885.post-3337714422395313656
 ---
 

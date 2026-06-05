@@ -3,6 +3,7 @@ title: JavaScript, FireBug & JSure
 date: 2009-11-08
 author: Rodrigo Amaya
 tags: javascript, jsure
+draft: false
 post_id: blog-3515952828243908885.post-1113928188051244522
 ---
 

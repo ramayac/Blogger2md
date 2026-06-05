@@ -3,6 +3,7 @@ title: Fecha Establecida. Conteo Iniciado: The Shutdown Day 2008
 date: 2008-04-17
 author: Robertux
 tags: divertido, programador, idea, computadoras, fun, interesante, day, geek, curioso
+draft: false
 post_id: blog-3515952828243908885.post-135227451282870820
 ---
 

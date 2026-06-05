@@ -3,6 +3,7 @@ title: La elegancia de la MacBook Air....
 date: 2008-03-04
 author: Rodrigo Amaya
 tags: bad, mac, apple
+draft: false
 post_id: blog-3515952828243908885.post-2018723737218398849
 ---
 

@@ -3,6 +3,7 @@ title: Día del Informático
 date: 2009-10-05
 author: Rodrigo Amaya
 tags: informatico
+draft: false
 post_id: blog-3515952828243908885.post-6224843781496121440
 ---
 

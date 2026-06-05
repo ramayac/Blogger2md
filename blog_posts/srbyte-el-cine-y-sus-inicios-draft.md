@@ -3,6 +3,7 @@ title: El cine y sus inicios
 date: 2009-09-23
 author: Wendy Aparicio
 tags: srbyte
+draft: true
 post_id: blog-3515952828243908885.post-711281052333226215
 ---
 

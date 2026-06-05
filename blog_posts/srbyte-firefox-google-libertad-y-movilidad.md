@@ -3,6 +3,7 @@ title: Firefox + Google = Libertad ( y Movilidad)
 date: 2007-04-09
 author: Rodrigo Amaya
 tags: last.fm, java, web 2.0, libre, free, fantastico, yahoo, google, musica
+draft: false
 post_id: blog-3515952828243908885.post-2180615378616439992
 ---
 

@@ -3,6 +3,7 @@ title: Windows Vista y sus "problemitas" [Parte III]
 date: 2007-02-07
 author: Rodrigo Amaya
 tags: bad, vista, windows, mac, apple
+draft: false
 post_id: blog-3515952828243908885.post-8195922108950999487
 ---
 

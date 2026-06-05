@@ -3,6 +3,7 @@ title: ¿Sabes que es Blu-ray?
 date: 2008-02-18
 author: Rodrigo Amaya
 tags: Bluray, dvd, tecnologia, hd-dvd
+draft: false
 post_id: blog-3515952828243908885.post-7899316841578283300
 ---
 

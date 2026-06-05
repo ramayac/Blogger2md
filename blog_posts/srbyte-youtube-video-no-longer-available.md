@@ -3,6 +3,7 @@ title: Youtube: "Video No Longer Available"
 date: 2008-08-03
 author: Robertux
 tags: video, cine, limitar, software, internet, musica, youtube, web 2.0, computadoras, propietario, google, tecnologia
+draft: false
 post_id: blog-3515952828243908885.post-6283377512970201251
 ---
 

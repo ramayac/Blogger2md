@@ -3,6 +3,7 @@ title: El Arte y los Fractales (Arte Fractal)
 date: 2008-12-12
 author: Rodrigo Amaya
 tags: fractales, arte, matematica
+draft: false
 post_id: blog-3515952828243908885.post-3465553076980596851
 ---
 

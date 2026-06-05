@@ -3,6 +3,7 @@ title: Big Buck Bunny (Una animacion en Software Libre)
 date: 2008-06-03
 author: Rodrigo Amaya
 tags: libre, divertido, fun, animacion, software, interesante
+draft: false
 post_id: blog-3515952828243908885.post-1729185054356572499
 ---
 

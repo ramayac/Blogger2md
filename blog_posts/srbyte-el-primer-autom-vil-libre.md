@@ -3,6 +3,7 @@ title: El primer Automóvil Libre!
 date: 2007-03-30
 author: Rodrigo Amaya
 tags: libre, free, carro, fantastico
+draft: false
 post_id: blog-3515952828243908885.post-1048434911414980648
 ---
 

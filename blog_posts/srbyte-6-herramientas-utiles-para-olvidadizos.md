@@ -3,6 +3,7 @@ title: 6 Herramientas Utiles Para Olvidadizos
 date: 2008-09-16
 author: Robertux
 tags: administrar, util, free, correo, fun, internet, recomendado, interesante, twitter, iphone, productividad, web 2.0, computadoras, evento, gmail, clave, herramienta, einstein
+draft: false
 post_id: blog-3515952828243908885.post-9056523539031941718
 ---
 

@@ -3,6 +3,7 @@ title: 70 Wallpapers de FireFox...
 date: 2008-07-13
 author: Rodrigo Amaya
 tags: firefox
+draft: false
 post_id: blog-3515952828243908885.post-4901145087790093994
 ---
 

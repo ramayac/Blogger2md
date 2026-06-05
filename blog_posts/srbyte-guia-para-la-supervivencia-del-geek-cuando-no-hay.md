@@ -3,6 +3,7 @@ title: Guia para la supervivencia del geek, cuando no hay internet
 date: 2008-03-11
 author: Robertux
 tags: wikipedia, firefox, internet, guia, geek
+draft: false
 post_id: blog-3515952828243908885.post-1267095790229800157
 ---
 

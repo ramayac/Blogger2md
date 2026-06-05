@@ -3,6 +3,7 @@ title: Productividad en la PC (I Parte)
 date: 2008-08-28
 author: Rodrigo Amaya
 tags: tiempo, productividad
+draft: false
 post_id: blog-3515952828243908885.post-7444345977053035034
 ---
 

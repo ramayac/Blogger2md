@@ -3,6 +3,7 @@ title: Es la gente DESORDENADA más productiva?
 date: 2007-03-22
 author: Rodrigo Amaya
 tags: desorden
+draft: false
 post_id: blog-3515952828243908885.post-5586088093860213971
 ---
 

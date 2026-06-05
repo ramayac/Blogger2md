@@ -3,6 +3,7 @@ title: Diablo III (... y regresamos a la blogosfera)
 date: 2008-06-29
 author: Rodrigo Amaya
 tags: fun
+draft: false
 post_id: blog-3515952828243908885.post-3044314923785535842
 ---
 

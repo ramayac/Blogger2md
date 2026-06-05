@@ -3,6 +3,7 @@ title: Web 2.0 (¿Qué es?)
 date: 2007-04-15
 author: Rodrigo Amaya
 tags: web 2.0, fantastico, Creative Commons, youtube
+draft: false
 post_id: blog-3515952828243908885.post-6406635611974087543
 ---
 

@@ -3,6 +3,7 @@ title: ¿Qué es un PodCast? (Y como escucharlos en Amarok)
 date: 2008-08-17
 author: Rodrigo Amaya
 tags: amarok, podcast, guia
+draft: false
 post_id: blog-3515952828243908885.post-3961326952602142823
 ---
 

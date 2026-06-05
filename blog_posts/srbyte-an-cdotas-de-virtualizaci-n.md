@@ -3,6 +3,7 @@ title: Anécdotas de virtualización ...
 date: 2009-07-11
 author: Rodrigo Amaya
 tags: virtualizacion, ubuntu, svn
+draft: false
 post_id: blog-3515952828243908885.post-6699059275021219764
 ---
 

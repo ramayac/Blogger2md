@@ -3,6 +3,7 @@ title: ¡Feliz BlogDay! (II Parte)
 date: 2008-08-31
 author: Rodrigo Amaya
 tags: happy, divertido, blog, personal, fun, internet, el salvador, interesante, day, geek
+draft: false
 post_id: blog-3515952828243908885.post-1321894934700699377
 ---
 

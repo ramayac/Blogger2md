@@ -3,6 +3,7 @@ title: Tres películas recomendadas de Ciencia Ficción
 date: 2009-09-10
 author: Rodrigo Amaya
 tags: peliculas, sci-fi, ficcion, ciencia
+draft: false
 post_id: blog-3515952828243908885.post-5274004989331331615
 ---
 

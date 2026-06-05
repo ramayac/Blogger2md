@@ -3,6 +3,7 @@ title: LOLCode
 date: 2008-12-17
 author: Robertux
 tags: java, divertido, hoygan, .net, fun, lolcode, codigo, humor, lenguaje, programacion, lolcat, desarrollo, python, funny, curioso
+draft: false
 post_id: blog-3515952828243908885.post-4954368188901091760
 ---
 

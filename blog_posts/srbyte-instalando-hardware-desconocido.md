@@ -3,6 +3,7 @@ title: Instalando Hardware Desconocido
 date: 2007-10-09
 author: Rodrigo Amaya
 tags: divertido, foolish, bad, fun, windows, tonto, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-5998706059379379572
 ---
 

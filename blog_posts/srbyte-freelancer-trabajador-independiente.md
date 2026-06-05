@@ -3,6 +3,7 @@ title: Freelancer = trabajador independiente = $$$
 date: 2008-05-25
 author: Rodrigo Amaya
 tags: dinero, informatico, programador, free, programacion, interesante
+draft: false
 post_id: blog-3515952828243908885.post-7464460030002636026
 ---
 

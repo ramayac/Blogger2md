@@ -3,6 +3,7 @@ title: El poder del usuario (Digg vencido)
 date: 2007-05-04
 author: Rodrigo Amaya
 tags: web 2.0, libre, fantastico, digg
+draft: false
 post_id: blog-3515952828243908885.post-4433045982229097771
 ---
 

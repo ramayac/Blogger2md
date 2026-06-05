@@ -3,6 +3,7 @@ title: Cookies, cookies, cookies... (¿Qué es una Cookie?)
 date: 2009-05-23
 author: Rodrigo Amaya
 tags: cookies, practicas, programacion
+draft: false
 post_id: blog-3515952828243908885.post-7279915234354871735
 ---
 

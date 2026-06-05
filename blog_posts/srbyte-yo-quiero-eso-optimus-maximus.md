@@ -3,6 +3,7 @@ title: Yo quiero ESO! ... OPTIMUS MAXIMUS
 date: 2008-02-24
 author: Rodrigo Amaya
 tags: computadoras, gadget, fantastico, interesante, tecnologia, geek, apple
+draft: false
 post_id: blog-3515952828243908885.post-2657622383134251371
 ---
 

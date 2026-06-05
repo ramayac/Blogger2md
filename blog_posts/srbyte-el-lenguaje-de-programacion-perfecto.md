@@ -3,6 +3,7 @@ title: El lenguaje de programacion perfecto...
 date: 2007-01-12
 author: Rodrigo Amaya
 tags: lenguajes, gnu, linux, programacion
+draft: false
 post_id: blog-3515952828243908885.post-2343216493835742783
 ---
 

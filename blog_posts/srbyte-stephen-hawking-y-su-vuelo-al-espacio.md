@@ -3,6 +3,7 @@ title: Stephen Hawking y su vuelo al espacio...
 date: 2007-04-30
 author: Rodrigo Amaya
 tags: libre, gravedad, free, fantastico, cero
+draft: false
 post_id: blog-3515952828243908885.post-3766757162631034680
 ---
 

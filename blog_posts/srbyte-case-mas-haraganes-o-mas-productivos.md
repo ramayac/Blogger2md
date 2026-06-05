@@ -3,6 +3,7 @@ title: CASE: Mas haraganes o mas productivos?
 date: 2008-07-04
 author: Robertux
 tags: c++, java, personal, lenguajes, diseño, programador, computadoras, .net, codigo, programacion
+draft: false
 post_id: blog-3515952828243908885.post-3951194780353313481
 ---
 

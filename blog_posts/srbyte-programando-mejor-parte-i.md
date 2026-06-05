@@ -3,6 +3,7 @@ title: Programando Mejor [Parte I]
 date: 2007-02-17
 author: Rodrigo Amaya
 tags: lenguajes, software, codigo, programacion
+draft: false
 post_id: blog-3515952828243908885.post-3510358555177172075
 ---
 

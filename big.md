@@ -3,6 +3,7 @@ title: 12:34:56 7/8/9 y el tiempo...
 date: 2009-08-07
 author: Rodrigo Amaya
 tags: tiempo, linux, unix
+draft: false
 post_id: blog-3515952828243908885.post-8334987840556348617
 ---
 
@@ -41,6 +42,7 @@ title: 13 Cosas nuevas en Gmail (usando Gmail Labs)
 date: 2008-07-06
 author: Rodrigo Amaya
 tags: tips, gmail, interesante, google
+draft: false
 post_id: blog-3515952828243908885.post-8372435236899408882
 ---
 
@@ -123,6 +125,7 @@ title: 3 reglas al trabajar con Bases de Datos
 date: 2008-05-14
 author: Rodrigo Amaya
 tags: programador, mysql, subversion, programacion, base de datos
+draft: false
 post_id: blog-3515952828243908885.post-9182436290436764077
 ---
 
@@ -176,6 +179,7 @@ title: 40 Cheat Sheets para Diseñadores
 date: 2008-12-03
 author: Rodrigo Amaya
 tags: diseño, tecnicas, referencia
+draft: false
 post_id: blog-3515952828243908885.post-8981992164940292828
 ---
 
@@ -229,6 +233,7 @@ title: 40 Wallpapers cargados de color
 date: 2008-11-25
 author: Rodrigo Amaya
 tags: wallpaper, color, desktop
+draft: false
 post_id: blog-3515952828243908885.post-8655197723403623517
 ---
 
@@ -281,6 +286,7 @@ title: 5 Juegos de Estrategia (100% libres).
 date: 2009-11-26
 author: Rodrigo Amaya
 tags: games, rts, linux, juegos, estrategia
+draft: false
 post_id: blog-3515952828243908885.post-8790487069912455472
 ---
 
@@ -343,6 +349,7 @@ title: 5 Servicios por los Que Valdria la Pena Pagar
 date: 2008-09-06
 author: Robertux
 tags: blogger, blog, diseño, util, free, flicrk, limitar, voip, software, codigo, recomendado, im, last.fm, wordpress, fotos, web 2.0, skype, rapidshare, google
+draft: false
 post_id: blog-3515952828243908885.post-652981997539278433
 ---
 
@@ -391,6 +398,7 @@ title: 5 Videos Virales del 2008
 date: 2008-12-14
 author: Rodrigo Amaya
 tags: video, viral, youtube
+draft: false
 post_id: blog-3515952828243908885.post-545305937266753616
 ---
 
@@ -428,6 +436,7 @@ title: 6 Herramientas Utiles Para Olvidadizos
 date: 2008-09-16
 author: Robertux
 tags: administrar, util, free, correo, fun, internet, recomendado, interesante, twitter, iphone, productividad, web 2.0, computadoras, evento, gmail, clave, herramienta, einstein
+draft: false
 post_id: blog-3515952828243908885.post-9056523539031941718
 ---
 
@@ -484,6 +493,7 @@ title: 7 Razones para usar FireFox 3.5
 date: 2009-07-05
 author: Rodrigo Amaya
 tags: firefox
+draft: false
 post_id: blog-3515952828243908885.post-8074026752496442616
 ---
 
@@ -535,6 +545,7 @@ title: 70 Wallpapers de FireFox...
 date: 2008-07-13
 author: Rodrigo Amaya
 tags: firefox
+draft: false
 post_id: blog-3515952828243908885.post-4901145087790093994
 ---
 
@@ -547,72 +558,11 @@ los 70 wallpapers"
 ---
 
 ---
-title: 77 comandos utiles de Linux [A-E]
-date: 2007-12-25
-author: Rodrigo Amaya
-tags: srbyte
-post_id: blog-3515952828243908885.post-8685763810750220348
----
-
-Feliz navidad!
-
-alias Permite substituir una cadena larga, por una mas corta y familiar.
-
-apt-get Busca e instala paquetes en distribuciones basadas en Debian.
-
-aspell GNU Aspell es un corrector de palabras conocido por su estelar lista de correxiones.
-
-awk, gawk awk busca por patrones en los archivos y los procesa. Permite que un programador escriba pequeños programas en la forma en forma de scripts para hacer cambios en archivos de texto que contengan las cadenas deseados, o de la misma forma, extraer datos de esos archivos. GNU awk se usa en linux.
-
-bzip2 Reduce el tamaño de archivos de respaldo al comprimirlos con el algoritmo de comprecion bzip2 (de ahi su nombre), este comando tambien se puede usar para descomprimir archivos (usualmente .tar.bz)
-
-cat Abrebiacion de la palabra "conCATenar", que significa: unir dos o mas cosas. cat se usa en Linux para vincular el contenido y salida de un archivo para verlo o imprimirlo.
-
-cd cd cambia de directorio.
-
-chmod comando para cambiar los permisos de un archivo.
-
-chown se usa para cambiar el dueño de un archivo.
-
-cmp Compara archivos para saber si dos o mas archivos son identicos.
-
-comm Compara archivos ordenados y selecciona o rechaza lineas comunes a dos archivos.
-
-cp Copia archivos.
-
-cpio Respalda directorios vacios con cpio, que tambien extrae archivos dentro de archivos (o los crea).
-
-cron cron se usa para programar tareas.
-
-date Comando esencial para establecer la fecha y la hora. Tambien es util si se desea la salida de An essential command to set the date and time. Also a useful way to output current information when working in a script file. More on this command
-
-declare Declare variables and/or give them attributes with this command. More on this command
-
-df The df command reports filesystem disk space usage. More on this command
-
-echo This command lets you echo a string variable to standard output. More on this command
-
-enable Enables or disables a printer. More on this command
-
-env To check environment variables on another account to troubleshoot dotfiles. More on this command
-
-eval This POSIX special built-in command evaluates several arguments by reading them as one concatenated argument, then reports on that argument's status. More on this command
-
-exec Short for "execute," exec replaces the parent process by whatever command is typed. There is more than one use for exec. Learn some new ones in this excerpt from Unix Power Tools, 2nd Edition. More on this command
-
-exit Allows you to exit from a program, shell or UNIX network. More on this command
-
-expect Use expect to automate repetitive tasks. More on this command
-
-export Export sets the value of a variable so it is visible to all sub-processes that belong to the current shell. More on this command
-
----
-
----
 title: ¿A quién seguir en Twitter?
 date: 2008-09-12
 author: Rodrigo Amaya
 tags: web 2.0, el salvador, twitter
+draft: false
 post_id: blog-3515952828243908885.post-7725267303473764154
 ---
 
@@ -696,6 +646,7 @@ title: A usar FireFox 3.5 se ha dicho!
 date: 2009-06-30
 author: Rodrigo Amaya
 tags: firefox, navegador
+draft: false
 post_id: blog-3515952828243908885.post-4246375429280817480
 ---
 
@@ -736,6 +687,7 @@ title: Acerca de Ubuntu 9.10...
 date: 2009-10-29
 author: Rodrigo Amaya
 tags: ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-8699972522184725240
 ---
 
@@ -778,6 +730,7 @@ title: Acerca del MicroManagement
 date: 2009-02-10
 author: Rodrigo Amaya
 tags: administrar, zombie, desarrollo
+draft: false
 post_id: blog-3515952828243908885.post-6864746316166763374
 ---
 
@@ -827,6 +780,7 @@ title: Adiós adiós Windows XP...
 date: 2008-06-30
 author: Rodrigo Amaya
 tags: vista, windows, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-3411014803261389909
 ---
 
@@ -875,6 +829,7 @@ title: Administra Online tus Propósitos Para Año Nuevo
 date: 2009-12-30
 author: Robertux
 tags: administrar, todo, zen, google, iphone
+draft: false
 post_id: blog-3515952828243908885.post-7870303207297160592
 ---
 
@@ -923,6 +878,7 @@ title: Administra tus finanzas online
 date: 2008-12-04
 author: Robertux
 tags: administrar, dinero, web 2.0, economia, internet, recomendado, herramienta, productividad
+draft: false
 post_id: blog-3515952828243908885.post-7956897426457783639
 ---
 
@@ -960,6 +916,7 @@ title: Administrando ancho de banda con Trickle
 date: 2007-10-10
 author: Rodrigo Amaya
 tags: administrar, linux, limitar, trickle, internet, bandwith
+draft: false
 post_id: blog-3515952828243908885.post-8103715126442289826
 ---
 
@@ -997,54 +954,11 @@ PD: ¿Cuanto smiley no? :D
 ---
 
 ---
-title: Administrando tus proyectos
-date: 2008-09-04
-author: Robertux
-tags: srbyte
-post_id: blog-3515952828243908885.post-6176497815728201423
----
-
-https://basecamphq.com/
-
-https://www.devshop.com/
-
-https://projects.zoho.com/jsp/home.jsp
-
-https://goplan.info/
-
-https://www.easyprojects.net/
-
-https://www.projectdesk.net/
-
-https://www.liquidplanner.com/
-
-https://www.projectmanager.com/
-
-https://gforge.org/
-
-https://www.santexq.com/
-
----
-
----
-title: Alarmas y Relojes Despertadores Frikki
-date: 2009-01-03
-author: Robertux
-tags: srbyte
-post_id: blog-3515952828243908885.post-6347082669153448459
----
-
-A todos nos ha costado o nos sigue costando levantarnos temprano. Quizá va en contra de la naturaleza de nuestro cuerpo, especialmente si tenemos la costumbre de quedarnos despiertos hasta tarde realizando cualquier tarea. Debido a esto, se inventaron los famosos relojes despertadores que se encargan de emitir un pitido/pista de audio o sintonizar alguna estación de radio previamente programada para que esta se encargue de despertarnos en la mañana.
-
-Para los que no nos basta con los simples sonidos de los despertadores comunes (como a [ciertas personas](https://queith.com/2009/01/03/%C2%BFcual-es-su-teoria-para-las-alarmas/)) existen otros tipos de despertadores, un tanto fuera de lo común que utilizan medidas un poco mas drásticas para hacernos salir de la cama.
-
----
-
----
 title: Algo de Entrenamiento Mental
 date: 2008-02-07
 author: Robertux
 tags: lisp, c++, puzzle, acertijo, entrenamiento, interesante, vacaciones, matematica, einstein, curioso
+draft: false
 post_id: blog-3515952828243908885.post-2226928118184121742
 ---
 
@@ -1086,6 +1000,7 @@ title: Algunos consejos para el uso de Zoom
 date: 2008-12-11
 author: Wendy Aparicio
 tags: video, divertido, educacion, fotografía, personal, cine, recomendado, informacion, agil, fotos, tecnicas, curioso
+draft: false
 post_id: blog-3515952828243908885.post-3811696505705140241
 ---
 
@@ -1102,6 +1017,7 @@ title: Alianza entre Microsoft y Nokia (Marca, Mercado y Experiencia)
 date: 2009-08-13
 author: Rodrigo Amaya
 tags: firefox, nokia, software, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-2498931069158811361
 ---
 
@@ -1187,33 +1103,11 @@ Experiencia: De Nokia (que [ya tiene sus años](https://en.wikipedia.org/wiki/No
 ---
 
 ---
-title: almacenamiento_imagenes
-date: 2010-01-01
-author: Rodrigo Amaya
-tags: srbyte
-post_id: blog-3515952828243908885.post-2777273700086498230
----
-
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SlnyEZx6pFI/AAAAAAAACHQ/U9RhlmfpG0Y/s200/twitter-icon.png)    
-![image](https://bp2.blogger.com/_ayvorITawE4/R7xVQ7TZHfI/AAAAAAAAAj4/BE4O0cQCM44/s400/Feed-icon.png)    
-![image](https://bp2.blogger.com/_ayvorITawE4/RvPzHFmN2JI/AAAAAAAAAeM/HcOfRkQiKL0/s400/byte.jpg)    
-NO ME BORRES, NO ME TOQUES, NO ME HAGAS NADA!
-![image](https://bp0.blogger.com/_ayvorITawE4/RgFRGMDxhQI/AAAAAAAAAMI/fK03sOI9dkc/s400/firefox.png)    
-![image](https://bp3.blogger.com/_ayvorITawE4/RgFRC8DxhPI/AAAAAAAAAMA/-c22g-rcvHk/s400/button_rss.gif)    
-![image](https://bp0.blogger.com/_ayvorITawE4/ReHKwea0W9I/AAAAAAAAAJY/Amtu0fUnoKQ/s400/firefox_80x15.png)    
-![image](https://bp1.blogger.com/_ayvorITawE4/RdfCJKSA-EI/AAAAAAAAAIc/BAwHQ3a0K34/s400/debian.gif)    
-![image](https://bp0.blogger.com/_ayvorITawE4/RdCAOqSA93I/AAAAAAAAAGA/Ap6XWivxtXg/s400/hgo.png)    
-![image](https://bp2.blogger.com/_ayvorITawE4/Rc9_2aSA92I/AAAAAAAAAFw/cHe7Bi44LX0/s400/SrByteRodrigoLetras88x31.PNG)    
-![image](https://bp1.blogger.com/_ayvorITawE4/Rc9_yKSA91I/AAAAAAAAAFo/YQjbKTyu1_0/s400/SrByteRodrigo88x31.PNG)    
-![image](https://bp3.blogger.com/_ayvorITawE4/RbTLXjD_h3I/AAAAAAAAABI/EQHR_jxOA1c/s400/Angel.jpg)    ![image](https://bp0.blogger.com/_ayvorITawE4/RbVh1jD_h4I/AAAAAAAAABU/cnVYEnUNBYk/s400/alexis-qddg.jpg)
-
----
-
----
 title: Alternativas Libres: Encuentralas Tu Mismo
 date: 2008-10-28
 author: Robertux
 tags: open source, libre, diseño, free, buscar, animacion, 2d, flash, herramienta, anime
+draft: false
 post_id: blog-3515952828243908885.post-399370450977162765
 ---
 
@@ -1244,6 +1138,7 @@ title: Alternativas Libres: GIMP
 date: 2008-02-28
 author: Robertux
 tags: gimp, libre, gnu, linux, photoshop, software, graficos, adobe, google
+draft: false
 post_id: blog-3515952828243908885.post-3667254230756861856
 ---
 
@@ -1288,6 +1183,7 @@ title: Alternativas Libres: Netbeans 6.0
 date: 2008-04-12
 author: Robertux
 tags: srbyte
+draft: false
 post_id: blog-3515952828243908885.post-3748190492575017915
 ---
 
@@ -1323,6 +1219,7 @@ title: Amarok... rocks!
 date: 2007-03-25
 author: Rodrigo Amaya
 tags: last.fm, amarok, web 2.0, libre, linux, free, software, musica
+draft: false
 post_id: blog-3515952828243908885.post-8912245146214367140
 ---
 
@@ -1381,6 +1278,7 @@ title: Amarok2, ahora para Windows tambien ...
 date: 2007-05-14
 author: Rodrigo Amaya
 tags: amarok, libre, linux, free, software, fantastico, windows
+draft: false
 post_id: blog-3515952828243908885.post-215225930204970146
 ---
 
@@ -1403,6 +1301,7 @@ title: Anécdotas de virtualización ...
 date: 2009-07-11
 author: Rodrigo Amaya
 tags: virtualizacion, ubuntu, svn
+draft: false
 post_id: blog-3515952828243908885.post-6699059275021219764
 ---
 
@@ -1460,6 +1359,7 @@ title: Apoyando a GamerSV
 date: 2009-09-20
 author: Rodrigo Amaya
 tags: apoyo, gamer, el salvador, gamersv
+draft: false
 post_id: blog-3515952828243908885.post-1536000646527945718
 ---
 
@@ -1490,6 +1390,7 @@ title: Apoyando a Happy Punk Panda
 date: 2009-10-15
 author: Rodrigo Amaya
 tags: luto, hpp, happy punk panda
+draft: false
 post_id: blog-3515952828243908885.post-1084603112247587829
 ---
 
@@ -1516,6 +1417,7 @@ title: Apple... iLoveyou ! (especial de San Valentin)
 date: 2007-02-14
 author: Rodrigo Amaya
 tags: vista, windows, iloveyou, iphone, apple
+draft: false
 post_id: blog-3515952828243908885.post-4025816935537014639
 ---
 
@@ -1559,6 +1461,7 @@ title: Aprender ACCESS ¿para qué?...
 date: 2008-08-24
 author: Rodrigo Amaya
 tags: libre, desarrollo, microsoft, base de datos
+draft: false
 post_id: blog-3515952828243908885.post-5235056442898263809
 ---
 
@@ -1597,6 +1500,7 @@ title: Aprendiendo de "Bing"
 date: 2009-06-16
 author: Rodrigo Amaya
 tags: bing, buscadores, google, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-464786498374165856
 ---
 
@@ -1632,22 +1536,11 @@ Ahora, hay que aclarar que esta característica de Bing, es la única que me par
 ---
 
 ---
-title: Aptana + Firefox + Firebug + DeveloperToolbar: Quien necesita Dreamweaver?
-date: 2008-07-06
-author: Robertux
-tags: srbyte
-post_id: blog-3515952828243908885.post-8695566939406363170
----
-
-Type the explanation, insert some images and a youtube video here.
-
----
-
----
 title: Arregla la foto LIBRE! ( ... más Creative Commons)
 date: 2007-03-11
 author: Rodrigo Amaya
 tags: libre, Creative Commons
+draft: false
 post_id: blog-3515952828243908885.post-5295736787456130382
 ---
 
@@ -1669,6 +1562,7 @@ title: Arreglar pixeles en un monitor LCD
 date: 2008-02-15
 author: Rodrigo Amaya
 tags: util, lcd, fantastico, tutorial, interesante, tecnologia, geek, curioso
+draft: false
 post_id: blog-3515952828243908885.post-8081549705641177960
 ---
 
@@ -1706,6 +1600,7 @@ title: Asi quiero "navegar" en Google Earth!!!
 date: 2008-07-02
 author: Rodrigo Amaya
 tags: video, interesante, google
+draft: false
 post_id: blog-3515952828243908885.post-8236586324603657450
 ---
 
@@ -1720,6 +1615,7 @@ title: Ayudemos a la Wikipedia!
 date: 2008-11-16
 author: Robertux
 tags: wikipedia, dinero, libre, economia, donar, free, buscar, internet, interesante
+draft: false
 post_id: blog-3515952828243908885.post-3239012981398112830
 ---
 
@@ -1746,6 +1642,7 @@ title: Bienvenido Robertux
 date: 2008-02-01
 author: Rodrigo Amaya
 tags: bienvenida, hola
+draft: false
 post_id: blog-3515952828243908885.post-8700356741849167237
 ---
 
@@ -1764,6 +1661,7 @@ title: Bienvenido sea 2009
 date: 2009-01-01
 author: Wendy Aparicio
 tags: año nuevo, bienvenida
+draft: false
 post_id: blog-3515952828243908885.post-4582126359478961517
 ---
 
@@ -1786,6 +1684,7 @@ title: Big Buck Bunny (Una animacion en Software Libre)
 date: 2008-06-03
 author: Rodrigo Amaya
 tags: libre, divertido, fun, animacion, software, interesante
+draft: false
 post_id: blog-3515952828243908885.post-1729185054356572499
 ---
 
@@ -1814,6 +1713,7 @@ title: Billy G. (Bill Gates) se retira de Microsoft...
 date: 2008-06-16
 author: Rodrigo Amaya
 tags: microsoft
+draft: false
 post_id: blog-3515952828243908885.post-4402734387163061902
 ---
 
@@ -1828,6 +1728,7 @@ title: ¿Bittorrent?... (Todo mundo ama Bittorrent!)
 date: 2007-03-19
 author: Rodrigo Amaya
 tags: libre, linux, bittorrent, software
+draft: false
 post_id: blog-3515952828243908885.post-8205011244286664646
 ---
 
@@ -1891,6 +1792,7 @@ title: Bitwise 2009: Demuestra cuan buen programador eres!
 date: 2009-02-07
 author: Robertux
 tags: premios, c++, gcc, lenguaje, codigo, programacion, matematica
+draft: false
 post_id: blog-3515952828243908885.post-7492151323197734901
 ---
 
@@ -1919,6 +1821,7 @@ title: Blog Action Day: Combatiendo la Pobreza con Tecnologia
 date: 2008-10-15
 author: Robertux
 tags: administrar, blogger, dinero, blog, personal, free, software, pobreza, programacion, day, opinion, economia, computadoras, mac, energia
+draft: false
 post_id: blog-3515952828243908885.post-3183870948219965687
 ---
 
@@ -1957,6 +1860,7 @@ title: Blog, bloggin, blogosfera y Tertulia!
 date: 2007-04-18
 author: Rodrigo Amaya
 tags: luto, tertulia, blog
+draft: false
 post_id: blog-3515952828243908885.post-9187335112997375702
 ---
 
@@ -2014,6 +1918,7 @@ title: Blog para Calificar Blogs
 date: 2008-02-19
 author: Robertux
 tags: happy, blog, fun, el salvador
+draft: false
 post_id: blog-3515952828243908885.post-8603404223804770676
 ---
 
@@ -2033,6 +1938,7 @@ title: Busquedas de Google: Popularidad o Relevancia?
 date: 2008-06-09
 author: Robertux
 tags: firefox, blog, debian, correo, internet, interesante, twitter, computadoras, buscar, email, tecnicas, google
+draft: false
 post_id: blog-3515952828243908885.post-5363505763925015445
 ---
 
@@ -2059,6 +1965,7 @@ title: Café REALMENTE instantaneo...
 date: 2007-03-25
 author: Rodrigo Amaya
 tags: laser, fantastico, youtube
+draft: false
 post_id: blog-3515952828243908885.post-2132743824540570484
 ---
 
@@ -2073,6 +1980,7 @@ title: Calcomanías de Error de Vista
 date: 2007-03-27
 author: Rodrigo Amaya
 tags: propietario, vista, humor, fantastico, windows, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-7127322435579545579
 ---
 
@@ -2100,6 +2008,7 @@ title: Cambia la apariencia de tus aplicaciones Java
 date: 2008-10-02
 author: Robertux
 tags: java, swing, lookandfeel, nimbus, gui, programacion, mac, substance, nimrod, apple
+draft: false
 post_id: blog-3515952828243908885.post-7954172961803422846
 ---
 
@@ -2163,6 +2072,7 @@ title: Campus Party Iberoamérica - Modding (Día 1)
 date: 2008-10-29
 author: Rodrigo Amaya
 tags: campus, party, el salvador, iberoamerica
+draft: false
 post_id: blog-3515952828243908885.post-8108114227231887483
 ---
 
@@ -2221,6 +2131,7 @@ title: Campus Party Iberoamérica - Robótica (Día 1)
 date: 2008-10-29
 author: Rodrigo Amaya
 tags: robotica, campus, party, iberoamerica
+draft: false
 post_id: blog-3515952828243908885.post-6560339885713532551
 ---
 
@@ -2297,6 +2208,7 @@ title: Campus Party Iberoamérica
 date: 2008-10-27
 author: Rodrigo Amaya
 tags: campus, party, iberoamerica
+draft: false
 post_id: blog-3515952828243908885.post-3337212284997880618
 ---
 
@@ -2372,6 +2284,7 @@ title: Campus Party Iberoamerica: Laptops y Robots
 date: 2008-10-30
 author: Robertux
 tags: campus, laptop, party, computadoras, hp, asus, mac, iphone, air
+draft: false
 post_id: blog-3515952828243908885.post-5237282409421313755
 ---
 
@@ -2398,6 +2311,7 @@ title: Campus Party Iberoamerica: Mas Moddings y Charlas
 date: 2008-10-30
 author: Robertux
 tags: case, campus, party, exposicion, astronomia, presentacion, modding, charla
+draft: false
 post_id: blog-3515952828243908885.post-5180251255470010866
 ---
 
@@ -2418,6 +2332,7 @@ title: Campus Party Iberoamerica - Variado 1
 date: 2008-10-30
 author: Rodrigo Amaya
 tags: campus, party, iberoamerica
+draft: false
 post_id: blog-3515952828243908885.post-7919284768551903721
 ---
 
@@ -2459,6 +2374,7 @@ title: Campus Party (Transmisión en Vivo)
 date: 2008-10-28
 author: Rodrigo Amaya
 tags: campus, party, iberoamerica
+draft: false
 post_id: blog-3515952828243908885.post-2708636742182743041
 ---
 
@@ -2479,6 +2395,7 @@ title: Capturas del nuevo Windows 7...
 date: 2008-09-21
 author: Rodrigo Amaya
 tags: windows
+draft: false
 post_id: blog-3515952828243908885.post-9089960249542203216
 ---
 
@@ -2577,6 +2494,7 @@ title: CASE: Mas haraganes o mas productivos?
 date: 2008-07-04
 author: Robertux
 tags: c++, java, personal, lenguajes, diseño, programador, computadoras, .net, codigo, programacion
+draft: false
 post_id: blog-3515952828243908885.post-3951194780353313481
 ---
 
@@ -2607,6 +2525,7 @@ title: Ciencia Ficción: Despertando la imaginación
 date: 2009-09-09
 author: Wendy Aparicio
 tags: cine, animacion, cineastas, bienvenida, entrenamiento
+draft: false
 post_id: blog-3515952828243908885.post-925068168498926825
 ---
 
@@ -2640,6 +2559,7 @@ title: Cine: Juno (2007)
 date: 2008-03-07
 author: Rodrigo Amaya
 tags: cine
+draft: false
 post_id: blog-3515952828243908885.post-2154685893459932339
 ---
 
@@ -2665,6 +2585,7 @@ title: Cine: Paprika (2007)
 date: 2008-02-16
 author: Rodrigo Amaya
 tags: cine, animacion, anime
+draft: false
 post_id: blog-3515952828243908885.post-5704544945200739866
 ---
 
@@ -2690,6 +2611,7 @@ title: Cine: Sweeney Todd (2007)
 date: 2008-03-19
 author: Rodrigo Amaya
 tags: cine
+draft: false
 post_id: blog-3515952828243908885.post-1106342298065289833
 ---
 
@@ -2710,6 +2632,7 @@ title: Clases de Consultoria Profesional
 date: 2008-10-22
 author: Robertux
 tags: srbyte
+draft: false
 post_id: blog-3515952828243908885.post-5434351704423286996
 ---
 
@@ -2777,6 +2700,7 @@ title: Clickjacking Que es? Como protegernos?
 date: 2008-10-08
 author: Robertux
 tags: firefox, java, complementos, network, safari, internet, chrome, clickjacking, iframe, Opera, addon, navegador, computadoras, seguridad
+draft: false
 post_id: blog-3515952828243908885.post-9135386661346630577
 ---
 
@@ -2824,6 +2748,7 @@ title: Clientes de Twitter para todos los gustos y sabores
 date: 2008-07-16
 author: Robertux
 tags: firefox, blog, social, fun, software, internet, interesante, twitter, addon, geek, web 2.0, computadoras, gadget, herramienta
+draft: false
 post_id: blog-3515952828243908885.post-6355890823443189582
 ---
 
@@ -2886,26 +2811,11 @@ fans"
 ---
 
 ---
-title: Cloud Computing: El futuro del software?
-date: 2008-08-06
-author: Robertux
-tags: srbyte
-post_id: blog-3515952828243908885.post-8532140114967269037
----
-
-Ahora todo se orienta a que el software se brinde como un servicio desde un sitio web, el cual pueda ser manejado desde el escritorio el cual haga uso de la API del servicio/sitio web.
-
-https://en.wikipedia.org/wiki/Cloud_application https://en.wikipedia.org/wiki/Software_as_a_service https://en.wikipedia.org/wiki/Software_plus_services
-
-Ej: Twitter Remember The Milk Evernote Needish Last.fm Picasa Google Reader Google Calendar (via webDav)
-
----
-
----
 title: Comentario corto (y geek) de las Elecciones
 date: 2009-03-16
 author: Rodrigo Amaya
 tags: elecciones, bash, prompt
+draft: false
 post_id: blog-3515952828243908885.post-491742759486427477
 ---
 
@@ -2918,6 +2828,7 @@ title: Comentario sobre "QA"...
 date: 2009-05-08
 author: Rodrigo Amaya
 tags: qa, software, humor, calidad
+draft: false
 post_id: blog-3515952828243908885.post-3527604076687658038
 ---
 
@@ -2951,6 +2862,7 @@ title: Comentarios sobre el certamen de Arroba de Oro 2008 [1/2]
 date: 2008-10-23
 author: Rodrigo Amaya
 tags: el salvador, arroba
+draft: false
 post_id: blog-3515952828243908885.post-4615110713523624372
 ---
 
@@ -3067,6 +2979,7 @@ title: Compañías Donde un Geek Sueña Trabajar
 date: 2008-03-28
 author: Robertux
 tags: programacion, interesante, google, tecnologia
+draft: false
 post_id: blog-3515952828243908885.post-804942464225895869
 ---
 
@@ -3093,6 +3006,7 @@ title: Comparando Frameworks Web de Java
 date: 2009-11-18
 author: Rodrigo Amaya
 tags: java, framework, web
+draft: false
 post_id: blog-3515952828243908885.post-331240090611977069
 ---
 
@@ -3142,6 +3056,7 @@ title: Compilando código JavaScript (Closure Compiler)
 date: 2009-11-14
 author: Rodrigo Amaya
 tags: javascript, compiler, google
+draft: false
 post_id: blog-3515952828243908885.post-5276971736983403518
 ---
 
@@ -3178,6 +3093,7 @@ title: Complementos Recomendados Sr. Byte
 date: 2009-08-24
 author: Rodrigo Amaya
 tags: firefox, complementos, addon
+draft: false
 post_id: blog-3515952828243908885.post-4865367397803288776
 ---
 
@@ -3212,6 +3128,7 @@ title: Consejos practicos de desarrollo de software...
 date: 2008-07-25
 author: Rodrigo Amaya
 tags: programador, util, codigo, programacion
+draft: false
 post_id: blog-3515952828243908885.post-374203369363987302
 ---
 
@@ -3272,20 +3189,11 @@ También comparte tus experiencias, a más de alguien le pueden servir :) Y tú,
 ---
 
 ---
-title: Convensiones en Nombres de Variables
-date: 2008-02-15
-author: Robertux
-tags: srbyte
-post_id: blog-3515952828243908885.post-7482159865376444728
----
-
----
-
----
 title: Cookies, cookies, cookies... (¿Qué es una Cookie?)
 date: 2009-05-23
 author: Rodrigo Amaya
 tags: cookies, practicas, programacion
+draft: false
 post_id: blog-3515952828243908885.post-7279915234354871735
 ---
 
@@ -3332,6 +3240,7 @@ title: Cosas que NO debes hacer en una presentación
 date: 2008-11-02
 author: Rodrigo Amaya
 tags: tips, presentacion
+draft: false
 post_id: blog-3515952828243908885.post-3828441697870849947
 ---
 
@@ -3361,6 +3270,7 @@ title: Cosas que todo Desarrollador Web debe saber
 date: 2008-10-24
 author: Rodrigo Amaya
 tags: desarrollo, tips, software, web
+draft: false
 post_id: blog-3515952828243908885.post-2744044547574018779
 ---
 
@@ -3400,22 +3310,11 @@ Y tu, ¿Qué otras cosas crees que debería de saber un Desarrollador Web? ¿Qui
 ---
 
 ---
-title: Creando Software
-date: 2009-09-28
-author: Rodrigo Amaya
-tags: srbyte
-post_id: blog-3515952828243908885.post-2606018243242025497
----
-
-...
-
----
-
----
 title: Creative Commons 3.0
 date: 2007-03-04
 author: Rodrigo Amaya
 tags: drm, libre, Creative Commons
+draft: false
 post_id: blog-3515952828243908885.post-5208485811875435100
 ---
 
@@ -3429,20 +3328,11 @@ Saludos!
 ---
 
 ---
-title: Cumple tus Propósitos Online
-date: 2009-01-03
-author: Robertux
-tags: srbyte
-post_id: blog-3515952828243908885.post-3980590406336482750
----
-
----
-
----
 title: Día del Informático
 date: 2009-10-05
 author: Rodrigo Amaya
 tags: informatico
+draft: false
 post_id: blog-3515952828243908885.post-6224843781496121440
 ---
 
@@ -3519,6 +3409,7 @@ title: Día Pangea (para los cineastas Salvadoreños)
 date: 2007-09-13
 author: Rodrigo Amaya
 tags: Salvadoreños, pangea, fantastico, cineastas, pangea day, day
+draft: false
 post_id: blog-3515952828243908885.post-1870169398367025541
 ---
 
@@ -3533,6 +3424,7 @@ title: Dejame Googlear (buscar) eso para ti....
 date: 2008-11-19
 author: Rodrigo Amaya
 tags: divertido, util, fun, funny, google
+draft: false
 post_id: blog-3515952828243908885.post-6610721532722882957
 ---
 
@@ -3570,6 +3462,7 @@ title: Del Abaco a las Calculadoras
 date: 2007-08-10
 author: Rodrigo Amaya
 tags: abaco, calculadora, pascal, plankalkuel
+draft: false
 post_id: blog-3515952828243908885.post-7524185065725229952
 ---
 
@@ -3624,6 +3517,7 @@ title: Dell, Ubuntu y el Software Libre en El Salvador
 date: 2007-05-01
 author: Rodrigo Amaya
 tags: gnu, dell, linux, free, software, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-430860281738037604
 ---
 
@@ -3700,6 +3594,7 @@ title: Dell y GNU/Linux
 date: 2007-03-30
 author: Rodrigo Amaya
 tags: libre, gnu, dell, linux, software
+draft: false
 post_id: blog-3515952828243908885.post-7551184420322490235
 ---
 
@@ -3715,6 +3610,7 @@ title: Demonoid esta de vuelta!
 date: 2008-04-16
 author: Rodrigo Amaya
 tags: happy, bittorrent, fantastico
+draft: false
 post_id: blog-3515952828243908885.post-7144242287170066197
 ---
 
@@ -3741,6 +3637,7 @@ title: Deprecated Code (Codigo Obsoleto)
 date: 2009-04-18
 author: Rodrigo Amaya
 tags: documentacion, practicas, codigo
+draft: false
 post_id: blog-3515952828243908885.post-1093618359359466506
 ---
 
@@ -3781,6 +3678,7 @@ title: Depurando CSS y Javascript con Internet Explorer
 date: 2008-10-13
 author: Robertux
 tags: firefox, complementos, diseño, safari, internet, chrome, Opera, addon, navegador, desarrollo, microsoft, herramienta
+draft: false
 post_id: blog-3515952828243908885.post-6191280296556684679
 ---
 
@@ -3816,6 +3714,7 @@ title: Desarrollo Agil (Agile Development)
 date: 2008-10-20
 author: Rodrigo Amaya
 tags: opinion, agil, desarrollo, programacion
+draft: false
 post_id: blog-3515952828243908885.post-3190405122650174906
 ---
 
@@ -3859,6 +3758,7 @@ title: Descubriendo Anime Studio Pro v5.5
 date: 2008-10-26
 author: Wendy Aparicio
 tags: divertido, animacion, software, adobe, flash, manga, informacion, anime
+draft: false
 post_id: blog-3515952828243908885.post-8568108239776860512
 ---
 
@@ -3885,6 +3785,7 @@ title: Después de las barras vienen las cortinillas
 date: 2009-01-04
 author: Wendy Aparicio
 tags: video, divertido, diseño, cine, animacion, tv
+draft: false
 post_id: blog-3515952828243908885.post-6726524978148075221
 ---
 
@@ -3915,6 +3816,7 @@ title: Desvelando Mitos Comunes Sobre los Geeks
 date: 2008-03-28
 author: Robertux
 tags: gadget, internet, interesante, tecnologia, geek, curioso
+draft: false
 post_id: blog-3515952828243908885.post-1967458158855096870
 ---
 
@@ -3958,6 +3860,7 @@ title: Diablo III (... y regresamos a la blogosfera)
 date: 2008-06-29
 author: Rodrigo Amaya
 tags: fun
+draft: false
 post_id: blog-3515952828243908885.post-3044314923785535842
 ---
 
@@ -3987,6 +3890,7 @@ title: Diagramación
 date: 2009-01-25
 author: Wendy Aparicio
 tags: blog, diseño, interesante, diagramar, web
+draft: false
 post_id: blog-3515952828243908885.post-6381244369875684970
 ---
 
@@ -4037,6 +3941,7 @@ title: El Arte y los Fractales (Arte Fractal)
 date: 2008-12-12
 author: Rodrigo Amaya
 tags: fractales, arte, matematica
+draft: false
 post_id: blog-3515952828243908885.post-3465553076980596851
 ---
 
@@ -4110,30 +4015,11 @@ Construcción de Antenas Fractales, Estudio de Sismos y como mil cosas más... Q
 ---
 
 ---
-title: El cine y sus inicios
-date: 2009-09-23
-author: Wendy Aparicio
-tags: srbyte
-post_id: blog-3515952828243908885.post-711281052333226215
----
-
-Es imposible hablar de los inicios del cine sin mencionar a los famosos hermanos Lumière.
-
-Louis y Auguste Lumière son considerados los pioneros de la industria del cine gracias a su genialidad en combinar las bondades de la fotografía y de diferentes inventos como el cinematógrafo, el cinetoscopio, el zoótropo y el cronofotógrafo.
-
-Sin embargo, poco o nada sabemos de esos mecanismos que ayudaron a los Lumière a crear el gran fenómeno del cine.
-
-- Cinematógrafo: Invento patentado el 13 de febrero de 1894 que servía como cámara y como proyector. Su funcionamiento se basaba en la retención de las imágenes que ocurre en la retina del ojo humano.
-
-- Cinetoscopio:
-
----
-
----
 title: El colmo de Windows Live...
 date: 2007-10-08
 author: Rodrigo Amaya
 tags: hotmail, bad, email, windows, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-371346792654983943
 ---
 
@@ -4156,6 +4042,7 @@ title: El Drama de IsoHunt
 date: 2007-10-08
 author: Rodrigo Amaya
 tags: bittorrent
+draft: false
 post_id: blog-3515952828243908885.post-1665240101551360159
 ---
 
@@ -4207,6 +4094,7 @@ title: El Fin de Win 3.11 e Ideas Sobre la Vida del Software
 date: 2008-11-07
 author: Rodrigo Amaya
 tags: srbyte
+draft: false
 post_id: blog-3515952828243908885.post-323149589924915319
 ---
 
@@ -4245,6 +4133,7 @@ title: El fin del "impuesto" Microsoft
 date: 2007-05-25
 author: Rodrigo Amaya
 tags: libre, gnu, dell, linux, fantastico, microsoft, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-2191688278241384692
 ---
 
@@ -4271,6 +4160,7 @@ title: El Guinness Record de Firefox 3
 date: 2008-07-04
 author: Rodrigo Amaya
 tags: firefox
+draft: false
 post_id: blog-3515952828243908885.post-1706319273307961120
 ---
 
@@ -4320,6 +4210,7 @@ title: El IDE perfecto... y un pacto.
 date: 2007-01-16
 author: Rodrigo Amaya
 tags: gnu, linux, novell, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-5178716428570510580
 ---
 
@@ -4371,6 +4262,7 @@ title: El lenguaje de programacion perfecto...
 date: 2007-01-12
 author: Rodrigo Amaya
 tags: lenguajes, gnu, linux, programacion
+draft: false
 post_id: blog-3515952828243908885.post-2343216493835742783
 ---
 
@@ -4420,6 +4312,7 @@ title: El poder del usuario (Digg vencido)
 date: 2007-05-04
 author: Rodrigo Amaya
 tags: web 2.0, libre, fantastico, digg
+draft: false
 post_id: blog-3515952828243908885.post-4433045982229097771
 ---
 
@@ -4478,6 +4371,7 @@ title: El primer Automóvil Libre!
 date: 2007-03-30
 author: Rodrigo Amaya
 tags: libre, free, carro, fantastico
+draft: false
 post_id: blog-3515952828243908885.post-1048434911414980648
 ---
 
@@ -4503,6 +4397,7 @@ title: El Río de Información (Reflexión)
 date: 2008-08-15
 author: Rodrigo Amaya
 tags: opinion, internet, interesante, informacion
+draft: false
 post_id: blog-3515952828243908885.post-5854878211398427562
 ---
 
@@ -4547,6 +4442,7 @@ title: El Software Propietario... la realidad
 date: 2007-01-17
 author: Rodrigo Amaya
 tags: gnu, propietario, linux, software
+draft: false
 post_id: blog-3515952828243908885.post-8162242245363997329
 ---
 
@@ -4592,6 +4488,7 @@ title: El video que resume las redes sociales
 date: 2008-05-26
 author: Rodrigo Amaya
 tags: video, social, network, fun
+draft: false
 post_id: blog-3515952828243908885.post-1545889425233184615
 ---
 
@@ -4609,6 +4506,7 @@ title: Elecciones en El Salvador 2009
 date: 2009-03-15
 author: Rodrigo Amaya
 tags: elecciones, politica, twitter, informacion
+draft: false
 post_id: blog-3515952828243908885.post-7987489366654744050
 ---
 
@@ -4663,6 +4561,7 @@ title: Emoticonmanía
 date: 2008-03-06
 author: Robertux
 tags: bad, smiley, messenger, emoticon, ascii
+draft: false
 post_id: blog-3515952828243908885.post-7715256210374718247
 ---
 
@@ -4697,48 +4596,11 @@ Eso es lo que yo opino al respecto pero desearía conocer lo que piensan ustedes
 ---
 
 ---
-title: Emulacion y Virtualizacion...
-date: 2007-07-16
-author: Rodrigo Amaya
-tags: srbyte
-post_id: blog-3515952828243908885.post-7776553239600484890
----
-
-La Emulación es una técnica, que se encarga de duplicar las funciones de un sistema con un sistema diferente, para que el segundo se comporte (y parezca o actúe) como el primero.
-
-Muchos de ustedes ya han tenido "encuentros cercanos" con un emulador...
-
-"Encuentros Cercanos..."
-
-Los usos mas comunes de los emuladores y por los que han ganado mucha popularidad, es en el campo de los videojuegos: para emular un Super Nintendo en nuestra computadora, basta con descargar un buen emulador como el Zsnes (mi favorito) y tener a la mano el ROM del juego que queremos rememorar.
-
-"Captura Zsnes linux"
-
-"Captura The Legend of Zelda, a Link to the past"
-
-Estos emuladores proveen un envoltorio de funcionalidad para que el ROM (en el caso de los juegos de Super Nintendo) se comporte justo de la misma manera a como lo haría en el SNES. Claro que la emulación no se detiene en el software, también se refiere a la habilidad de un dispositivo (hardware) de imitar a otro.
-
-En un sentido teórico, la Tesis de Alonzo Church y Alan Turing (Conjetura de Church y Tesis de Turing) nos dice que:
-
-> "Cualquier modelo 'razonable' computable puede ser
-> eficientemente simulado en una maquina de Turing."
-Ese "modelo 'razonable' de computacion" puede ser tomado en el sentido de Software, y como ya bien sabemos, una computadora es en su esencia una maquina de Turing... o mejor dicho una maquina de Turing, es cualquier computadora que pueda ser construida. Claro, la Tesis Church-Turing no puede ser comprobada matemáticamente, así que es mas una hipótesis o se hace referencia a ella como una ley. En pocas palabras:
-
-> "...esta conjetura es mas facil
-> en teoria que en la practica"
-La Tesis Church-Turing, no habla nada sobre limitantes de tiempo.
-
-> Si el software emulado no se
-> comporta con la suficiente velocidad no hay utilidad en la emulacion.
-Bien, si creen que eso es confuso (?) Virtualizacion es ligeramente peor.
-
----
-
----
 title: En Búsqueda del Reproductor Ideal
 date: 2008-12-19
 author: Robertux
 tags: streaming, amarok, screenlet, firefox, java, complementos, songbird, atunes, musica, addon, apple, last.fm, mpd, linux, winamp, podcast, mozilla
+draft: false
 post_id: blog-3515952828243908885.post-6419389697598290564
 ---
 
@@ -4792,6 +4654,7 @@ title: En una empresa: el codigo es el enemigo.
 date: 2009-01-05
 author: Rodrigo Amaya
 tags: opinion, programador, desarrollo, codigo, programacion, empresa
+draft: false
 post_id: blog-3515952828243908885.post-7306574518742230336
 ---
 
@@ -4849,6 +4712,7 @@ title: Encriptar y "Hashing".
 date: 2007-09-14
 author: Rodrigo Amaya
 tags: debian, hashing, desencriptar, md5, descifrar, cifrado, gcipher, encriptar
+draft: false
 post_id: blog-3515952828243908885.post-7428682289194336522
 ---
 
@@ -4913,6 +4777,7 @@ title: Energia Renovable y Barata Para las Fiestas
 date: 2008-12-15
 author: Robertux
 tags: dinero, economia, año nuevo, luz, buscar, solar, tecnologia, energia, green
+draft: false
 post_id: blog-3515952828243908885.post-1474971236922812077
 ---
 
@@ -4947,6 +4812,7 @@ title: EnergyTree (un árbol... electrónico)
 date: 2007-05-08
 author: Rodrigo Amaya
 tags: arbol, microsoft, energia
+draft: false
 post_id: blog-3515952828243908885.post-3047677923308355199
 ---
 
@@ -4977,6 +4843,7 @@ title: ¿Eres Mac, o eres PC? (Todos somos PC)
 date: 2008-11-29
 author: Rodrigo Amaya
 tags: opinion, linux, windows, mac, apple
+draft: false
 post_id: blog-3515952828243908885.post-1243877703987885461
 ---
 
@@ -5031,6 +4898,7 @@ title: Es dificil instalar GNU\Linux?!
 date: 2007-04-05
 author: Rodrigo Amaya
 tags: libre, gnu, linux, software, windows, youtube
+draft: false
 post_id: blog-3515952828243908885.post-3561339350036476639
 ---
 
@@ -5108,6 +4976,7 @@ title: Es la gente DESORDENADA más productiva?
 date: 2007-03-22
 author: Rodrigo Amaya
 tags: desorden
+draft: false
 post_id: blog-3515952828243908885.post-5586088093860213971
 ---
 
@@ -5136,6 +5005,7 @@ title: Es Momento de Aplicar Reingenieria
 date: 2009-09-15
 author: Robertux
 tags: agil, computadoras, desarrollo, codigo, gmail, calidad, programacion, fox, empresa, productividad
+draft: false
 post_id: blog-3515952828243908885.post-1715549923484754043
 ---
 
@@ -5182,6 +5052,7 @@ title: Especial de San Valentín
 date: 2008-02-13
 author: Robertux
 tags: amistad, homenaje, informatico, programador, valentin, amor, geek, cafe
+draft: false
 post_id: blog-3515952828243908885.post-1319988099680259491
 ---
 
@@ -5212,6 +5083,7 @@ title: ¿Esta versionada tu Base de Datos?
 date: 2008-05-14
 author: Rodrigo Amaya
 tags: subversion, programacion, svn
+draft: false
 post_id: blog-3515952828243908885.post-1925728383852479214
 ---
 
@@ -5287,6 +5159,7 @@ title: ¿Existen las mujeres Geek, o programadoras?
 date: 2008-02-05
 author: Robertux
 tags: fotos, computadoras, programacion, mujeres, futbol, geek
+draft: false
 post_id: blog-3515952828243908885.post-3147181019072289478
 ---
 
@@ -5339,6 +5212,7 @@ title: Explotando la Web Developer Toolbar
 date: 2009-11-20
 author: Robertux
 tags: firefox, desarrollo, toolbar, web, addon
+draft: false
 post_id: blog-3515952828243908885.post-3871582453194179268
 ---
 
@@ -5407,6 +5281,7 @@ title: Fabricantes descontinúan el proyecto Origami de Microsoft
 date: 2007-05-09
 author: Rodrigo Amaya
 tags: bad, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-6539930810951644165
 ---
 
@@ -5426,6 +5301,7 @@ title: Fallo Olímpico (¡Pantallas de la muerte en Beijin!)
 date: 2008-08-12
 author: Rodrigo Amaya
 tags: bad, fun, windows
+draft: false
 post_id: blog-3515952828243908885.post-6118714536713522919
 ---
 
@@ -5449,6 +5325,7 @@ title: Fantastico...
 date: 2007-01-16
 author: Rodrigo Amaya
 tags: fantastico
+draft: false
 post_id: blog-3515952828243908885.post-4280015259701348456
 ---
 
@@ -5461,6 +5338,7 @@ title: Fecha Establecida. Conteo Iniciado: The Shutdown Day 2008
 date: 2008-04-17
 author: Robertux
 tags: divertido, programador, idea, computadoras, fun, interesante, day, geek, curioso
+draft: false
 post_id: blog-3515952828243908885.post-135227451282870820
 ---
 
@@ -5488,6 +5366,7 @@ title: ¡Feliz BlogDay! (I Parte)
 date: 2008-08-31
 author: Robertux
 tags: blog, divertido, personal, diseño, debian, fun, internet, interesante, day, geek, happy, computadoras, linux, desarrollo, el salvador
+draft: false
 post_id: blog-3515952828243908885.post-2484286887758790160
 ---
 
@@ -5528,6 +5407,7 @@ title: ¡Feliz BlogDay! (II Parte)
 date: 2008-08-31
 author: Rodrigo Amaya
 tags: happy, divertido, blog, personal, fun, internet, el salvador, interesante, day, geek
+draft: false
 post_id: blog-3515952828243908885.post-1321894934700699377
 ---
 
@@ -5573,6 +5453,7 @@ title: Feliz Cumpleaños DAMR.NET!
 date: 2008-07-07
 author: Rodrigo Amaya
 tags: curioso
+draft: false
 post_id: blog-3515952828243908885.post-195792457405184704
 ---
 
@@ -5591,6 +5472,7 @@ title: Feliz Cumpleaños Debian!
 date: 2008-08-16
 author: Robertux
 tags: informatico, debian, free, internet, recomendado, interesante, programacion, day, geek, gnu, computadoras, evento, linux, desktop, ubuntu, tecnologia
+draft: false
 post_id: blog-3515952828243908885.post-5743602935186279806
 ---
 
@@ -5629,6 +5511,7 @@ title: Feliz Día PI
 date: 2008-03-14
 author: Robertux
 tags: pi, matematica
+draft: false
 post_id: blog-3515952828243908885.post-6526077740239626451
 ---
 
@@ -5661,6 +5544,7 @@ title: Feliz Navidad 2009
 date: 2009-12-24
 author: Rodrigo Amaya
 tags: navidad
+draft: false
 post_id: blog-3515952828243908885.post-8689703193081144864
 ---
 
@@ -5682,6 +5566,7 @@ title: ¡Feliz Navidad!
 date: 2008-12-25
 author: Rodrigo Amaya
 tags: navidad, nintendo, juegos, geek
+draft: false
 post_id: blog-3515952828243908885.post-3780479075595043745
 ---
 
@@ -5708,6 +5593,7 @@ title: Firefox + Google = Libertad ( y Movilidad)
 date: 2007-04-09
 author: Rodrigo Amaya
 tags: last.fm, java, web 2.0, libre, free, fantastico, yahoo, google, musica
+draft: false
 post_id: blog-3515952828243908885.post-2180615378616439992
 ---
 
@@ -5755,6 +5641,7 @@ title: Firefox Minefield, más rápido que Google Chrome.
 date: 2008-09-29
 author: Rodrigo Amaya
 tags: firefox, google, navegador
+draft: false
 post_id: blog-3515952828243908885.post-6910518111902055537
 ---
 
@@ -5786,6 +5673,7 @@ title: Flash Earth = Google Maps + Yahoo Maps + ...
 date: 2007-04-26
 author: Rodrigo Amaya
 tags: tierra, fantastico, yahoo, google, flash, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-7759728794199761855
 ---
 
@@ -5831,6 +5719,7 @@ title: Flash player 9 para GNU/Linux!
 date: 2007-01-18
 author: Rodrigo Amaya
 tags: gnu, linux
+draft: false
 post_id: blog-3515952828243908885.post-1532044454872538051
 ---
 
@@ -5848,6 +5737,7 @@ title: FlashBlock (Complemento de FireFox recomendada)
 date: 2008-10-07
 author: Rodrigo Amaya
 tags: firefox, complementos, util, recomendado, flash, addon
+draft: false
 post_id: blog-3515952828243908885.post-1848611163059965398
 ---
 
@@ -5876,6 +5766,7 @@ title: FLISOL 2007
 date: 2007-03-22
 author: Rodrigo Amaya
 tags: libre, flisol, linux, free
+draft: false
 post_id: blog-3515952828243908885.post-4295724948883032121
 ---
 
@@ -5895,6 +5786,7 @@ title: FLISOL 2009
 date: 2009-04-12
 author: Rodrigo Amaya
 tags: libre, flisol, linux, software, el salvador
+draft: false
 post_id: blog-3515952828243908885.post-5442908029826623873
 ---
 
@@ -5920,6 +5812,7 @@ title: Fondos de Pantalla Navideños
 date: 2008-12-22
 author: Robertux
 tags: navidad, blog, año nuevo, escritorio, wallpaper, twitter
+draft: false
 post_id: blog-3515952828243908885.post-6704300456622742813
 ---
 
@@ -5943,6 +5836,7 @@ title: Formatos de la TV (I parte)
 date: 2008-09-08
 author: Wendy Aparicio
 tags: video, interesante, tv
+draft: false
 post_id: blog-3515952828243908885.post-3259068103569079829
 ---
 
@@ -5974,6 +5868,7 @@ title: Formatos de la TV (Parte II)
 date: 2008-09-25
 author: Wendy Aparicio
 tags: video, interesante, tv
+draft: false
 post_id: blog-3515952828243908885.post-8503820463254019634
 ---
 
@@ -6000,6 +5895,7 @@ title: Formatos de la TV (Parte III)
 date: 2008-10-17
 author: Wendy Aparicio
 tags: video, interesante, tv
+draft: false
 post_id: blog-3515952828243908885.post-3383541659723131954
 ---
 
@@ -6030,6 +5926,7 @@ title: Free Hugs... as in free speech
 date: 2007-01-23
 author: Rodrigo Amaya
 tags: free, hugs
+draft: false
 post_id: blog-3515952828243908885.post-8976746735875421871
 ---
 
@@ -6045,6 +5942,7 @@ title: Freelancer = trabajador independiente = $$$
 date: 2008-05-25
 author: Rodrigo Amaya
 tags: dinero, informatico, programador, free, programacion, interesante
+draft: false
 post_id: blog-3515952828243908885.post-7464460030002636026
 ---
 
@@ -6083,6 +5981,7 @@ title: Ganador Arroba de Oro 2008
 date: 2008-10-23
 author: Rodrigo Amaya
 tags: premios, happy, el salvador, arroba
+draft: false
 post_id: blog-3515952828243908885.post-8903929084574630147
 ---
 
@@ -6098,6 +5997,7 @@ title: ¡Ganate un Nokia 5800 XpressMusic!
 date: 2009-06-17
 author: Rodrigo Amaya
 tags: nokia, 5800, nokia 5800, el salvador
+draft: false
 post_id: blog-3515952828243908885.post-3909528218121138616
 ---
 
@@ -6123,6 +6023,7 @@ title: Gmail + Video + Audio
 date: 2008-11-12
 author: Rodrigo Amaya
 tags: video, messenger, gmail, google
+draft: false
 post_id: blog-3515952828243908885.post-8705853949413984529
 ---
 
@@ -6147,6 +6048,7 @@ title: Google Moderator
 date: 2008-09-25
 author: Rodrigo Amaya
 tags: web 2.0, servicio, google
+draft: false
 post_id: blog-3515952828243908885.post-8496322193693124791
 ---
 
@@ -6173,6 +6075,7 @@ title: Google Summer of Code Abierto Para Estudiantes!
 date: 2009-03-24
 author: Robertux
 tags: srbyte
+draft: false
 post_id: blog-3515952828243908885.post-3221408087273400056
 ---
 
@@ -6206,6 +6109,7 @@ title: Google tiene 1 Trillon de paginas indexadas... ¿Cuál es el secreto de e
 date: 2008-07-26
 author: Rodrigo Amaya
 tags: opinion, interesante, google
+draft: false
 post_id: blog-3515952828243908885.post-8616924429421049058
 ---
 
@@ -6231,6 +6135,7 @@ title: Google unifica las búsquedas (Google Universal Search)
 date: 2007-05-20
 author: Rodrigo Amaya
 tags: google
+draft: false
 post_id: blog-3515952828243908885.post-178117243481619675
 ---
 
@@ -6280,6 +6185,7 @@ title: Google viaja en el tiempo (al 2001)
 date: 2008-09-30
 author: Rodrigo Amaya
 tags: divertido, fun, google
+draft: false
 post_id: blog-3515952828243908885.post-1308419496838749495
 ---
 
@@ -6305,6 +6211,7 @@ title: Google y su sistema operativo
 date: 2009-11-29
 author: Rodrigo Amaya
 tags: google os, chromium, chrome, google
+draft: false
 post_id: blog-3515952828243908885.post-3063941147229584264
 ---
 
@@ -6350,6 +6257,7 @@ title: Guía de Construcción de un Kernel Personalizado.
 date: 2007-07-12
 author: Rodrigo Amaya
 tags: linux, tutorial, kernel, guia
+draft: false
 post_id: blog-3515952828243908885.post-4817630226343999299
 ---
 
@@ -6517,6 +6425,7 @@ title: Guia para la supervivencia del geek, cuando no hay internet
 date: 2008-03-11
 author: Robertux
 tags: wikipedia, firefox, internet, guia, geek
+draft: false
 post_id: blog-3515952828243908885.post-1267095790229800157
 ---
 
@@ -6568,6 +6477,7 @@ title: Habilitar reinicio de XServer con teclado...
 date: 2009-11-19
 author: Rodrigo Amaya
 tags: xserver, karmic koala, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-7114288344831355383
 ---
 
@@ -6584,6 +6494,7 @@ title: Haciendo Limpieza de Fin de Año
 date: 2008-12-29
 author: Robertux
 tags: administrar, desorden, año nuevo, escritorio, debian, buscar, desktop, ubuntu, herramienta
+draft: false
 post_id: blog-3515952828243908885.post-8676424220067513930
 ---
 
@@ -6621,6 +6532,7 @@ title: Hello Blog World!
 date: 2008-02-02
 author: Robertux
 tags: libre, linux, software, ues, internet, tecnologia, geek
+draft: false
 post_id: blog-3515952828243908885.post-7257690114158789967
 ---
 
@@ -6641,6 +6553,7 @@ title: Herramientas Colaborativas Para Desarrolladores
 date: 2009-11-25
 author: Robertux
 tags: diseño, colaborativo, desarrollo, real time, internet, google, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-7766568471977048028
 ---
 
@@ -6684,6 +6597,7 @@ title: Herramientas del Programador: Unit Testing
 date: 2008-12-11
 author: Robertux
 tags: .net, desarrollo, software, lenguaje, codigo, tecnicas, programacion, herramienta
+draft: false
 post_id: blog-3515952828243908885.post-4202301501316594182
 ---
 
@@ -6744,6 +6658,7 @@ title: Hexagon (BitTorrent Social)
 date: 2009-12-05
 author: Rodrigo Amaya
 tags: hexagon, social, bittorrent, tracker, isohunt, redes sociales
+draft: false
 post_id: blog-3515952828243908885.post-7375509271132513888
 ---
 
@@ -6784,6 +6699,7 @@ title: Hilos y Sincronización...
 date: 2009-10-26
 author: Rodrigo Amaya
 tags: threads, programacion, hilos
+draft: false
 post_id: blog-3515952828243908885.post-3802782752421137828
 ---
 
@@ -6831,6 +6747,7 @@ title: Hola!
 date: 2007-01-12
 author: Rodrigo Amaya
 tags: hola
+draft: false
 post_id: blog-3515952828243908885.post-2263059160031746943
 ---
 
@@ -6849,6 +6766,7 @@ title: HunnaPuh cambia de dirección.
 date: 2009-11-14
 author: Rodrigo Amaya
 tags: hunnapuh
+draft: false
 post_id: blog-3515952828243908885.post-863255915445946821
 ---
 
@@ -6863,6 +6781,7 @@ title: Identidad Digital ( I Parte )
 date: 2008-09-20
 author: Rodrigo Amaya
 tags: identidad
+draft: false
 post_id: blog-3515952828243908885.post-8267799343406552294
 ---
 
@@ -6915,6 +6834,7 @@ title: In Quotes, Politica en Google
 date: 2008-09-24
 author: Rodrigo Amaya
 tags: politica, interesante, google
+draft: false
 post_id: blog-3515952828243908885.post-6583722155229137364
 ---
 
@@ -6940,6 +6860,7 @@ title: Instala aplicaciones de Linux en Mac OS X
 date: 2007-05-12
 author: Rodrigo Amaya
 tags: libre, linux, fantastico, mac, apple
+draft: false
 post_id: blog-3515952828243908885.post-5776432449580002349
 ---
 
@@ -6957,6 +6878,7 @@ title: Instalando Hardware Desconocido
 date: 2007-10-09
 author: Rodrigo Amaya
 tags: divertido, foolish, bad, fun, windows, tonto, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-5998706059379379572
 ---
 
@@ -6983,6 +6905,7 @@ title: Internet a traves del Mail: Es posible?
 date: 2009-02-09
 author: Robertux
 tags: util, internet, twitter, youtube, web 2.0, cloud, email, gmail, tecnicas, empresa, google, tecnologia
+draft: false
 post_id: blog-3515952828243908885.post-7065079011726946705
 ---
 
@@ -7029,30 +6952,27 @@ title: Java EE 6
 date: 2009-12-20
 author: Rodrigo Amaya
 tags: java, netbeans, glassfish, php
-post_id: blog-3515952828243908885.post-4394525861846177374
+draft: false
+post_id: blog-3515952828243908885.post-3246374912932092219
 ---
 
-Casi 10 años han pasado, desde Java EE 1.2, y Sun anuncia ahora que [Java EE 6 esta listo para las empresas](https://java.sun.com/javaee/). En los tres años desde la mas grande actualizacion de la plataforma Java EE, un sin fin de cosas han cambiado en Java, y EE 6 es un reflejo de esos cambios.
+Casi 10 años han pasado, desde Java EE 1.2, y Sun anuncia ahora que [Java EE 6 esta listo para las empresas](https://java.sun.com/javaee/). En los tres años desde la mas grande actualización de la plataforma Java EE, un sin fin de cosas han cambiado en Java, y EE 6 es un reflejo de esos cambios.
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/Sy6uXkRq-zI/AAAAAAAACQg/3Cw8vXKSjiI/s200/5ehhcx.jpg)    
+![image](https://1.bp.blogspot.com/_ayvorITawE4/Sy6uXkRq-zI/AAAAAAAACQg/3Cw8vXKSjiI/s320/5ehhcx.jpg)    
 
-Entre las mejores caracteristicas, es la instalacion del perfil Web, soporte para servicios RESTful, y la inclusion de ultimo minuto de la inyeccion de dependencias. Sun tambien libero [NetBeans 6.8](https://netbeans.org/community/news/show/1449.html) y GlassFish Enterprise Application server 3. Ambos compatibles con EE 6. Lo bueno de esta version, es que quizas en la empresa donde trabajas no necesitas todo el ecosistema de Java EE, asi que solo decides instalar el "perfil Web". Este concepto de perfiles (que es una respuesta a las quejas de los desarrolladores de Java a travez de los años) se emplea para instalaciones con propositos especificos. Inicialmente solo el perfil Web esta disponible, pero Sun liberará más combinaciones en el futuro. Imaginen un perfil solo para servicios u otro para desarrollo, es menos trabajo y mas controls para los encargados de mantener y monitorear los servidores empresariales... o al menos, esa es la idea.
+Entre las mejores características, es la instalación del perfil Web, soporte para servicios RESTful, y la inclusión de ultimo minuto de la inyección de dependencias. Sun también libero [NetBeans 6.8](https://netbeans.org/community/news/show/1449.html) y GlassFish Enterprise Application server 3. Ambos compatibles con EE 6. Lo bueno de esta versión, es que quizás en la empresa donde trabajas no necesitas todo el ecosistema de Java EE, así que solo decides instalar el "perfil Web". Este concepto de perfiles (que es una respuesta a las quejas de los desarrolladores de Java a través de los años) se emplea para instalaciones con propósitos específicos. Inicialmente solo el perfil Web esta disponible, pero Sun liberará más combinaciones en el futuro. Imaginen un perfil solo para servicios u otro para desarrollo, es menos trabajo y mas controles para los encargados de mantener y monitorear los servidores empresariales... o al menos, esa es la idea.
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/Sy6uT3ITfsI/AAAAAAAACQQ/mUEtF1fmNi8/s200/glassfish_front_cover_full.GIF)    
+![image](https://3.bp.blogspot.com/_ayvorITawE4/Sy6uT3ITfsI/AAAAAAAACQQ/mUEtF1fmNi8/s320/glassfish_front_cover_full.GIF)    
 
-Tambien GlassFish se puede "adelagazar" para que cumpla con propositos web especificos, recordemos que la version 3 de GF esta basada en una arquitectura muy modular y flexible, lo que procura obtener mejor rendimiento del hardware.
+Tambien GlassFish se puede "adelgazar" para que cumpla con propósitos web específicos, recordemos que la versión 3 de GF esta basada en una arquitectura muy modular y flexible, lo que procura obtener mejor rendimiento del hardware.
 
-Un detalle interesante es el JSR 330, el tardista a la fiesta de Java EE 6. Esta especificacion se origina en Google, y existe unicamente para proveer la caracteristica de inyeccion de dependencias, caracteristica de la que despues hablaremos con gusto.
+Un detalle interesante es el JSR 330, el tardista a la fiesta de Java EE 6. Esta especificación se origina en Google, y existe unicamente para proveer la característica de inyección de dependencias, característica de la que después hablaremos con gusto.
 
-Por otra parte, una excelente noticia para los desarrolladores de PHP, es que NetBeans 6.8, provee soporte para la versions 5.3 de ese lenguaje. Y tambien mejoraron la integracion de Ant y Maven. A ver si algun "phpero" nos cuenta como esta la integracion de NetBeans con este popular lenguaje.
+Por otra parte, una excelente noticia para los desarrolladores de PHP, es que NetBeans 6.8, provee soporte para la versiones 5.3 de ese lenguaje. Y tambien mejoraron la integración de Ant y Maven. A ver si algún "phpero" nos cuenta como esta la integración de NetBeans con este popular lenguaje.
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/Sy6uWVN-rhI/AAAAAAAACQY/KoZpoCheLvI/s200/2ly2yk10.jpg)    
-
-Asi que... si tu negocio, empresa o lugar donde trabajas, esta usando una version prehistorica de Java, seria bueno de que les comentes de esta nueva version, y tambien seria bueno que aproveches la oportunidad para ponerte al dia con todas estas tecnologias que no tardaran mucho en llegar a los negocios.
+Así que... si tu negocio, empresa o lugar donde trabajas, esta usando una versión prehistórica de Java, seria bueno de que les comentes de esta nueva versión, y también seria bueno que aproveches la oportunidad para ponerte al día con todas estas tecnologías que no tardaran mucho en llegar a los negocios.
 
 Si quieren saber más sobre Java EE 6, recomiendo este genial articulo en  [DevX.com](https://www.devx.com/Java/Article/42351/1763/page/2), y si lo desean descargar [hagan clic acá](https://java.sun.com/javaee/downloads/index.jsp?userOsIndex=6&userOsId=windows&userOsName=Windows).
-
-¡Saludos!
 
 ---
 
@@ -7061,6 +6981,7 @@ title: Java... (en todos lados)
 date: 2007-04-04
 author: Rodrigo Amaya
 tags: java, libre, sun, linux, software, windows
+draft: false
 post_id: blog-3515952828243908885.post-3070148149946133964
 ---
 
@@ -7087,6 +7008,7 @@ title: JavaScript, FireBug & JSure
 date: 2009-11-08
 author: Rodrigo Amaya
 tags: javascript, jsure
+draft: false
 post_id: blog-3515952828243908885.post-1113928188051244522
 ---
 
@@ -7140,6 +7062,7 @@ title: Kernel, Almendras, Ventanas y Circulos Viciosos...
 date: 2007-07-08
 author: Rodrigo Amaya
 tags: libre, gnu, virtualizacion, linux, software, kernel
+draft: false
 post_id: blog-3515952828243908885.post-1172145899024398733
 ---
 
@@ -7208,6 +7131,7 @@ title: La Aquitectura Von Neumann
 date: 2007-12-31
 author: Rodrigo Amaya
 tags: computadoras, arquitectura
+draft: false
 post_id: blog-3515952828243908885.post-8581992345864867649
 ---
 
@@ -7253,6 +7177,7 @@ title: La caducidad de un blog...
 date: 2008-07-15
 author: Rodrigo Amaya
 tags: blog, interesante
+draft: false
 post_id: blog-3515952828243908885.post-1841998442811821649
 ---
 
@@ -7311,32 +7236,11 @@ En fin, esta vez, quiero invitar a los autores de blogs que opinen sobre la cadu
 ---
 
 ---
-title: La cultura digital en El Salvador.
-date: 2007-12-31
-author: Rodrigo Amaya
-tags: srbyte
-post_id: blog-3515952828243908885.post-1676359839806636995
----
-
-¿Cual es la cultura de El Salvador? Pues no parece haber una cultura definida. Es mas bien una cultura trasegada por los ideales norteamericanos, socio-comunistas y "neoliberales", asechada por la falta de indentidad nacional, por el irrespeto a los valores sociales, marcada con la cicatriz de una guerra, ensuciada por el narcotrafico, el labado de dinero, las asociaciones ilicitas (maras, pandillas, secuestradores), y una desvergonzada separacion entre los estratos sociales.
-
-Esta, no es una entrada acerca de los gobiernos de El Salvador, o de alguna institucion en particular. Es una entrada, acerca de la cultura digital, y lo que ella puede hacer por El Salvadoreño comun.
-
-Por favor tomate un par de minutos para pensar sobre la "cultura digital"... y lo que esta implica en el contexto de un pais de tercer mundo.
-
-¿Listo para seguir leyendo?
-
-La cultura como tal en el pais, y como ya mencione, es una cultura trasegada, mezclada y distorcionada, como un gran borron.
-
-¿Que puede hacer la cultura digital por El Salvadoreño comun?
-
----
-
----
 title: La elegancia de la MacBook Air....
 date: 2008-03-04
 author: Rodrigo Amaya
 tags: bad, mac, apple
+draft: false
 post_id: blog-3515952828243908885.post-2018723737218398849
 ---
 
@@ -7355,6 +7259,7 @@ title: La era Zettabyte...
 date: 2009-06-11
 author: Rodrigo Amaya
 tags: cisco, internet, zettabyte
+draft: false
 post_id: blog-3515952828243908885.post-7706356879334824840
 ---
 
@@ -7403,6 +7308,7 @@ title: La estrategia de salida de Bill Gates...
 date: 2008-02-29
 author: Rodrigo Amaya
 tags: bad, interesante, descifrar, microsoft, nerd
+draft: false
 post_id: blog-3515952828243908885.post-8888143693865710740
 ---
 
@@ -7474,6 +7380,7 @@ title: La importancia de los procedimientos almacenados
 date: 2009-04-13
 author: Rodrigo Amaya
 tags: practicas, programacion, procedimientos almacenados, base de datos
+draft: false
 post_id: blog-3515952828243908885.post-2623115535763463846
 ---
 
@@ -7523,6 +7430,7 @@ title: La Maquina de Turing...
 date: 2007-12-31
 author: Rodrigo Amaya
 tags: alan turing, teoria
+draft: false
 post_id: blog-3515952828243908885.post-4607928593943177246
 ---
 
@@ -7558,6 +7466,7 @@ title: La mejor idea que he visto... PlayPumps
 date: 2008-03-03
 author: Rodrigo Amaya
 tags: idea, fantastico, el salvador, interesante, tecnologia
+draft: false
 post_id: blog-3515952828243908885.post-8118566739252648579
 ---
 
@@ -7576,22 +7485,11 @@ Ahora la pregunta del "millón de colones" es...
 ---
 
 ---
-title: La Peor Pesadillla de un Programador
-date: 2008-08-16
-author: Robertux
-tags: srbyte
-post_id: blog-3515952828243908885.post-7435520167864162480
----
-
-No, no es un usuario (aunque si le causa dolores de cabeza). La peor pesadilla de un programador es un administrador de servidores. El es el amo y senior de lo que se hara con tu producto finalizado, de las restricciones de seguridad...
-
----
-
----
 title: La Tecnologia y Yo.
 date: 2007-07-03
 author: Rodrigo Amaya
 tags: personal, tecnologia
+draft: false
 post_id: blog-3515952828243908885.post-7754485078405542476
 ---
 
@@ -7618,6 +7516,7 @@ title: Lanzadores de Aplicaciones en Linux
 date: 2008-12-23
 author: Robertux
 tags: escritorio, linux, buscar, software, desktop, kde, herramienta, gnome, productividad
+draft: false
 post_id: blog-3515952828243908885.post-4266851654623863945
 ---
 
@@ -7666,6 +7565,7 @@ title: Las Pantallas de la Muerte (SOD)
 date: 2008-08-07
 author: Rodrigo Amaya
 tags: linux, windows, mac, ipod, iphone, apple
+draft: false
 post_id: blog-3515952828243908885.post-2342286680349823586
 ---
 
@@ -7740,6 +7640,7 @@ title: Las Súper Comutadoras
 date: 2008-01-04
 author: Rodrigo Amaya
 tags: educacion, computadoras, tecnologia
+draft: false
 post_id: blog-3515952828243908885.post-148895083984491055
 ---
 
@@ -7815,6 +7716,7 @@ title: Last.fm se renueva
 date: 2008-07-08
 author: Robertux
 tags: last.fm, web 2.0, social, personal, diseño, email, internet, gmail, entrenamiento, interesante, musica
+draft: false
 post_id: blog-3515952828243908885.post-4142577855708609661
 ---
 
@@ -7854,6 +7756,7 @@ title: Last.fm, una revolución musical.
 date: 2007-03-21
 author: Rodrigo Amaya
 tags: web 2.0, libre, free, musica
+draft: false
 post_id: blog-3515952828243908885.post-7211448494017383648
 ---
 
@@ -7875,6 +7778,7 @@ title: Leccion para emprendedores (de Steve Jobs)
 date: 2007-04-13
 author: Rodrigo Amaya
 tags: fantastico, mac, ipod, iphone, youtube, apple
+draft: false
 post_id: blog-3515952828243908885.post-7108073391743046373
 ---
 
@@ -7905,6 +7809,7 @@ title: Lennon y las laptops
 date: 2009-01-03
 author: Wendy Aparicio
 tags: video, agil, social, laptop
+draft: false
 post_id: blog-3515952828243908885.post-5299555921824063592
 ---
 
@@ -7923,6 +7828,7 @@ title: Libros, Bittorrent y Google
 date: 2007-03-28
 author: Rodrigo Amaya
 tags: libre, free, bittorrent, Creative Commons, google
+draft: false
 post_id: blog-3515952828243908885.post-7995895727731938541
 ---
 
@@ -7955,32 +7861,11 @@ Así que ya no se tiene excusa para NO buscar información en Internet, todo lo 
 ---
 
 ---
-title: Linkeados
-date: 2008-10-24
-author: Robertux
-tags: srbyte
-post_id: blog-3515952828243908885.post-4149895826063772169
----
-
-https://www.chero07.info/felicidades-sr-byte/
-
-https://hugolfutbolymas.blogspot.com/2008/10/solo-puedo-decir-esto.html
-
-https://marycielocvm.blogspot.com/2008/10/arroba-de-oro-felicidades-al-sr-byte.html
-
-https://hunnapuh.blogcindario.com/2008/10/02692-sr-byte-ganador-de-la-arroba-de-oro-categoria-blog.html
-
-https://damr.net/2008/10/22/felicidades-al-sr-byte
-
-https://arquitecturaenconstruccion.blogspot.com/2008/10/srbyte-y-la-arroba-de-oro.html
-
----
-
----
 title: Linux en todos los Escritorios...
 date: 2007-03-13
 author: Rodrigo Amaya
 tags: libre, gnu, linux, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-2045358435969452212
 ---
 
@@ -8006,6 +7891,7 @@ title: Llamadas gratis desde GizmoCall...
 date: 2007-01-30
 author: Rodrigo Amaya
 tags: free, gizmo
+draft: false
 post_id: blog-3515952828243908885.post-552343952175156722
 ---
 
@@ -8051,6 +7937,7 @@ title: Lo mejor del 2008: Adobe Air
 date: 2008-12-20
 author: Robertux
 tags: escritorio, linux, framework, desktop, twitter, adobe, google, air, youtube
+draft: false
 post_id: blog-3515952828243908885.post-3280988230629330854
 ---
 
@@ -8083,20 +7970,11 @@ Update: Agregados los links para descargar los respectivos archivos .air de cada
 ---
 
 ---
-title: Lo mejor del 2008: Google Chrome
-date: 2008-12-23
-author: Robertux
-tags: srbyte
-post_id: blog-3515952828243908885.post-4933311262854577057
----
-
----
-
----
 title: Lo que no sabias de las computadoras... (Especial de Fin de Año)
 date: 2007-12-31
 author: Rodrigo Amaya
 tags: año nuevo, computadoras
+draft: false
 post_id: blog-3515952828243908885.post-4800674715142043673
 ---
 
@@ -8128,6 +8006,7 @@ title: LOLCode
 date: 2008-12-17
 author: Robertux
 tags: java, divertido, hoygan, .net, fun, lolcode, codigo, humor, lenguaje, programacion, lolcat, desarrollo, python, funny, curioso
+draft: false
 post_id: blog-3515952828243908885.post-4954368188901091760
 ---
 
@@ -8179,6 +8058,7 @@ title: Los 5 recursos que me salvaron la vida en 2009
 date: 2010-01-03
 author: Rodrigo Amaya
 tags: reader, jquery, facebook, gmail, twitter, icefaces, google, svn
+draft: false
 post_id: blog-3515952828243908885.post-493186909061015353
 ---
 
@@ -8223,6 +8103,7 @@ title: Los Crunchies del 2008 - Vota por tu Favorito!
 date: 2009-01-07
 author: Robertux
 tags: premios, blog, facebook, internet, twitter, iphone, techcrunch, web 2.0, evento, gadget, google, android
+draft: false
 post_id: blog-3515952828243908885.post-7320871329116710262
 ---
 
@@ -8249,6 +8130,7 @@ title: Los Geeks Tambien Jugamos al Futbol(Soccer)
 date: 2008-02-08
 author: Robertux
 tags: deportes, ajedrez, blog, evento, futbol, nerd, geek
+draft: false
 post_id: blog-3515952828243908885.post-8897404539260371293
 ---
 
@@ -8276,6 +8158,7 @@ title: Los mejores servicios de Música Online
 date: 2009-12-06
 author: Rodrigo Amaya
 tags: ourstage, musica, myspace, grooveshark
+draft: false
 post_id: blog-3515952828243908885.post-8518844404264250107
 ---
 
@@ -8321,6 +8204,7 @@ title: Los precios de Windows 7
 date: 2009-06-25
 author: Rodrigo Amaya
 tags: windows 7, seven, vista, windows, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-3183391179666201444
 ---
 
@@ -8349,6 +8233,7 @@ title: Lugares donde todos queremos trabajar!
 date: 2008-04-03
 author: Rodrigo Amaya
 tags: administrar, educacion, diseño, util, fantastico, arquitectura, interesante, google
+draft: false
 post_id: blog-3515952828243908885.post-4061665807181981257
 ---
 
@@ -8429,6 +8314,7 @@ title: Luto... [II]
 date: 2008-02-17
 author: Rodrigo Amaya
 tags: luto
+draft: false
 post_id: blog-3515952828243908885.post-3998733890022415845
 ---
 
@@ -8449,6 +8335,7 @@ title: Luto...
 date: 2007-01-20
 author: Rodrigo Amaya
 tags: luto
+draft: false
 post_id: blog-3515952828243908885.post-3993191957906020778
 ---
 
@@ -8462,6 +8349,7 @@ title: Más Creative Commons (¿Cómo funciona?)
 date: 2007-03-09
 author: Rodrigo Amaya
 tags: libre, Creative Commons
+draft: false
 post_id: blog-3515952828243908885.post-2516611726048647156
 ---
 
@@ -8476,6 +8364,7 @@ title: Más de 20 sitios web utiles para Ti...
 date: 2008-03-14
 author: Rodrigo Amaya
 tags: last.fm, educacion, divertido, util, fun, fantastico, guia, curioso
+draft: false
 post_id: blog-3515952828243908885.post-3402231312185141840
 ---
 
@@ -8532,6 +8421,7 @@ title: MacBook Air... he perdido la fascinación.
 date: 2008-02-02
 author: Rodrigo Amaya
 tags: computadoras, bad, mac, tonto, ipod, iphone, tecnologia, apple
+draft: false
 post_id: blog-3515952828243908885.post-6420068430533917985
 ---
 
@@ -8574,6 +8464,7 @@ title: Manifiesto de adhesión, Bloggers El Salvador
 date: 2007-09-16
 author: Rodrigo Amaya
 tags: blog, manifiesto, el salvador
+draft: false
 post_id: blog-3515952828243908885.post-8493833101861730876
 ---
 
@@ -8603,6 +8494,7 @@ title: "Marcas de Agua" en YouTube
 date: 2007-02-26
 author: Rodrigo Amaya
 tags: watermark, youtube
+draft: false
 post_id: blog-3515952828243908885.post-6060185667988253125
 ---
 
@@ -8626,6 +8518,7 @@ title: Mas allá de KDE y Gnome
 date: 2008-02-24
 author: Robertux
 tags: linux, fluxbox, xfce, desktop, kde, gnome, enlightenment
+draft: false
 post_id: blog-3515952828243908885.post-7778046018872413252
 ---
 
@@ -8670,6 +8563,7 @@ title: Mas Alla del Codigo: Escalabilidad
 date: 2009-01-20
 author: Robertux
 tags: elecciones, politica, computadoras, cloud, desarrollo, codigo, el salvador, programacion, twitter, empresa
+draft: false
 post_id: blog-3515952828243908885.post-4883452891109540459
 ---
 
@@ -8699,6 +8593,7 @@ title: Mas Alla del Codigo
 date: 2009-01-19
 author: Robertux
 tags: diseño, desarrollo, codigo, tecnicas, programacion, empresa, tecnologia, productividad
+draft: false
 post_id: blog-3515952828243908885.post-6666859612758395412
 ---
 
@@ -8721,6 +8616,7 @@ title: Matando Aero (de Vista) con XGL y Ubuntu 6.10
 date: 2007-05-25
 author: Rodrigo Amaya
 tags: linux, vista, windows, ubuntu, youtube
+draft: false
 post_id: blog-3515952828243908885.post-2586558032442846776
 ---
 
@@ -8736,6 +8632,7 @@ title: Matando la pantalla de una Laptop
 date: 2007-05-12
 author: Rodrigo Amaya
 tags: bad, fantastico
+draft: false
 post_id: blog-3515952828243908885.post-4551938467014894294
 ---
 
@@ -8751,6 +8648,7 @@ title: Medios Sociales, Sitios Web a lo 2.0
 date: 2008-05-31
 author: Robertux
 tags: web 2.0, social, network, tutorial, internet, interesante
+draft: false
 post_id: blog-3515952828243908885.post-8797746415153448249
 ---
 
@@ -8784,6 +8682,7 @@ title: Mejorando la usabilidad en Ubuntu 9.10
 date: 2009-06-19
 author: Rodrigo Amaya
 tags: desarrollo, karmic koala, usabilidad, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-6409337094501573437
 ---
 
@@ -8812,135 +8711,11 @@ Si esta practica realmente es retomada por otros proyectos de software libre (di
 ---
 
 ---
-title: MEME Musical
-date: 2007-11-07
-author: Rodrigo Amaya
-tags: personal, meme, musica
-post_id: blog-3515952828243908885.post-2660920288559475438
----
-
-Mariolinocopinol autor del blog [Quo Vadis?](https://copinapitli.blogspot.com/2007/11/meme-musical.html) me deja con este "Meme Musical"... y ni modo, por el bien de la interacción en la blogosfera Salvadoreña... hay que hacerlo:
-
-1 ¿Eres hombre o mujer?
-
-Man With Two Hearts
-
-Men At Work
-
-Like a man who has two hearts Both of them worlds apart Both of them play their part you know
-
-2 Descríbete
-
-I Have The Touch
-
-Peter Gabriel
-
-The time I like is the rush hour, cos I like the rush The pushing of the people - I like it all so much Such a mass of motion - do not know where it goes I move with the movement and ... I have the touch
-
-I'm waiting for ignition, I'm looking for a spark Any chance collision and I light up in the dark
-
-Doesn't Remind Me Audioslave
-
-The things that I've loved, things that I've lost Things I've held sacred that I've dropped I won't lie no more you can bet I don't want to learn what I'll need to forget
-
-3 ¿Cómo crees que te catalogan el resto de personas?
-
-Where's Your Head At
-
-Basement Jaxx
-
-Where’s your head at Where’s your head at Where’s your head at
-
-(más o menos eso es todo lo que me dicen... )
-
-4 ¿Cómo describirías tu relación anterior?
-
-The Runaround
-
-Taylor Hicks
-
-You tell me it’s not, fair but I am so gone Oh I loved you, why’d you do me so wrong? And to think that I sat there singing you a love song. I gave you everything All I get from you is you’re a runaround
-
-5 ¿Dónde quisieras estar?
-
-KrazyWorld La Ley
-
-Je rêve de vivre un Krazyworld je rêve pouvoir marcher tout nudans la grande avenue
-
-6 ¿Cómo eres respecto al amor?
-
-Hold on to Your Love Taylor Hicks
-
-If she wants you, then love her If she needs you, then you'll show her If it happens, don't fight it If it's true love, don't hide it
-
-You know what they say,
-"Mmm, well, love will settle the score,
-All's fair in love and war."
-
-Hold on to your love, Hold on to your love.
-
-7 ¿Cómo es tu vida?
-
-Wildest Dreams Iron Maiden
-
-I'm gonna organize some changes in my life I'm gonna exorcise the demons of my past I'm gonna take the car and hit the open road I'm feeling ready to just open up and go
-
-And I just feel I can be anything That I might ever wish to be And fantasize just what I want to be Make my wildest dreams come true.
-
-8 Describe tu juventud o época de joda.
-
-All Star Smashmouth
-
-Well, the years start coming and they don't stop coming Bent to the rules and I hit the ground running Didn't make sense not to live for fun Your brain gets smart but your head gets dumb
-
-9 ¿Dónde te ves de aquí en 20 años?
-
-Pacifique Deep Forest
-
-* Instrumental
-*
-
-10 Tu día perfecto.
-
-Gonna Be A Lovely Day Kirk Franklin
-
-When I wake up in the morning love And my heart is filled with pain The smile I had up on my face is gone Can't see the sunshine from the rain
-
-But when i think of you Then the world is alright with me Lord just one thought of you And I know its gonna be ...A Lovely Day
-
-11 Si la persona que amas leyese esto, ¿qué canción le dedicaras?
-
-Dinner Lady Arms The Darkness
-
-We had a good thing, it was a blast That was a long time in the past You went through changes & I walked away And I have regretted that to this day
-
-I may not always have quite so much hair But what you saw in me will hopefully always be there & I'll never hurt you again, I swear.
-
-So put your arrrrrms around me, your dinner lady arms
-
-12 Dedícale una canción al autor de este post (de este "Meme")
-
-Under Pressure Queen & David Bowie
-
-Pressure pushing down on me Pressing down on you no man ask for Under pressure
-
-13 Ahora despídete.
-
-La Costa del Silencio Mago de Oz
-
-Hagamos una revolución que nuestro lider sea el sol y nuestro ejercito sean mariposas
-
-Por bandera otro amanecer y por conquista comprender que hay que cambiar las espadas por rosas...
-
-Después de este post "sin sentido", le dejo el meme a: [Hugol](https://hugolfutbolymas.blogspot.com/), [Snipe](https://www.snipedia.net/), [D'antrax](https://dantrax.blogspot.com/)
-
----
-
----
 title: Mente Sana en Cuerpo Sano
 date: 2008-03-18
 author: Robertux
 tags: semana santa, playa, vacaciones, geek
+draft: false
 post_id: blog-3515952828243908885.post-7425954172727667777
 ---
 
@@ -8971,6 +8746,7 @@ title: Mercedes-Benz se hace "Verde"...
 date: 2008-07-11
 author: Rodrigo Amaya
 tags: carro, interesante, green
+draft: false
 post_id: blog-3515952828243908885.post-1060480657067090013
 ---
 
@@ -9009,6 +8785,7 @@ title: Metisse + Linux = Productividad
 date: 2007-05-27
 author: Rodrigo Amaya
 tags: mandriva, linux, metisse, youtube
+draft: false
 post_id: blog-3515952828243908885.post-343951421058160238
 ---
 
@@ -9043,6 +8820,7 @@ title: Microsoft esta MUERTO
 date: 2007-04-08
 author: Rodrigo Amaya
 tags: propietario, vista, software, windows, google, microsoft, youtube
+draft: false
 post_id: blog-3515952828243908885.post-8632268147772671493
 ---
 
@@ -9075,6 +8853,7 @@ title: Microsoft Silverlight ( la copia de Flash ) con brillo opaco
 date: 2007-05-03
 author: Rodrigo Amaya
 tags: propietario, bad, software, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-4897511027394864358
 ---
 
@@ -9117,6 +8896,7 @@ title: Microsoft y el Software Libre
 date: 2009-09-16
 author: Rodrigo Amaya
 tags: libre, software, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-103832654894430103
 ---
 
@@ -9151,6 +8931,7 @@ title: Midomi, el buscador de canciones...
 date: 2008-07-12
 author: Rodrigo Amaya
 tags: buscar, musica
+draft: false
 post_id: blog-3515952828243908885.post-3076634438102502473
 ---
 
@@ -9196,6 +8977,7 @@ title: Moblin 2.0 BETA
 date: 2009-05-25
 author: Rodrigo Amaya
 tags: netbook, linux, nettop, moblin
+draft: false
 post_id: blog-3515952828243908885.post-2657765957552908690
 ---
 
@@ -9227,6 +9009,7 @@ title: Modelos, Objetos y UML [ Parte I ]
 date: 2007-04-24
 author: Rodrigo Amaya
 tags: UML, programacion
+draft: false
 post_id: blog-3515952828243908885.post-2637883066431414927
 ---
 
@@ -9273,6 +9056,7 @@ title: Modelos, Objetos y UML [ Parte II ]
 date: 2007-04-24
 author: Rodrigo Amaya
 tags: UML, programacion, youtube
+draft: false
 post_id: blog-3515952828243908885.post-8997891708762868638
 ---
 
@@ -9322,6 +9106,7 @@ title: MoMA, la mamá de los monos...
 date: 2007-07-20
 author: Rodrigo Amaya
 tags: libre, gnu, linux, .net, software, mono
+draft: false
 post_id: blog-3515952828243908885.post-5401259346683657008
 ---
 
@@ -9429,6 +9214,7 @@ title: Musica Legalmente Gratuita
 date: 2008-07-25
 author: Robertux
 tags: last.fm, web 2.0, libre, propietario, util, free, buscar, internet, Creative Commons, interesante, musica
+draft: false
 post_id: blog-3515952828243908885.post-5414898074544847233
 ---
 
@@ -9474,6 +9260,7 @@ title: Número de Versión en el Software
 date: 2007-02-16
 author: Rodrigo Amaya
 tags: libre, gnu, linux, software, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-3385006549121719633
 ---
 
@@ -9530,6 +9317,7 @@ title: NASA encuentra "Materia Oscura"
 date: 2007-05-16
 author: Rodrigo Amaya
 tags: fantastico, universo
+draft: false
 post_id: blog-3515952828243908885.post-2663948825640787179
 ---
 
@@ -9560,6 +9348,7 @@ title: Navegador Web de Google...
 date: 2008-09-01
 author: Rodrigo Amaya
 tags: internet, google, navegador
+draft: false
 post_id: blog-3515952828243908885.post-6755835941121821787
 ---
 
@@ -9587,6 +9376,7 @@ title: No hay internet? usa Gears!
 date: 2008-08-06
 author: Robertux
 tags: firefox, complementos, offline, network, fun, tips, software, internet, interesante, recomendado, addon, web 2.0, computadoras, google, tecnologia, base de datos, herramienta
+draft: false
 post_id: blog-3515952828243908885.post-8504320822733563080
 ---
 
@@ -9631,6 +9421,7 @@ title: Nokia 5800 XpressMusic - Video review (2/3)
 date: 2009-06-23
 author: Robertux
 tags: video, twitter, iphone, musica, navegador, opinion, 5800, nokia, nokia 5800, gadget, review, herramienta
+draft: false
 post_id: blog-3515952828243908885.post-1669548980520902879
 ---
 
@@ -9660,6 +9451,7 @@ title: Nuevo Diseño en FriendFeed
 date: 2008-08-30
 author: Rodrigo Amaya
 tags: web 2.0, social, internet, feed
+draft: false
 post_id: blog-3515952828243908885.post-5781633996282921344
 ---
 
@@ -9698,6 +9490,7 @@ title: Nuevo Look de Google
 date: 2009-11-30
 author: Rodrigo Amaya
 tags: tips, mini, google
+draft: false
 post_id: blog-3515952828243908885.post-7389951230295028930
 ---
 
@@ -9714,6 +9507,7 @@ title: Nuevo sistema de comentarios...
 date: 2009-12-05
 author: Rodrigo Amaya
 tags: comentarios, blog, disqus
+draft: false
 post_id: blog-3515952828243908885.post-325516141034453459
 ---
 
@@ -9726,6 +9520,7 @@ title: Nuevos Temas para el iGoogle
 date: 2008-04-30
 author: Robertux
 tags: hotmail, computadoras, util, interesante, twitter, google, herramienta, youtube
+draft: false
 post_id: blog-3515952828243908885.post-5061763892267912496
 ---
 
@@ -9759,6 +9554,7 @@ title: Obteniendo el "viejo" FaceBook
 date: 2008-09-18
 author: Rodrigo Amaya
 tags: social, tips, trucos
+draft: false
 post_id: blog-3515952828243908885.post-1118772083444441896
 ---
 
@@ -9779,6 +9575,7 @@ title: OK Ya Instale Linux. Y ahora que? (Parte I)
 date: 2008-11-14
 author: Robertux
 tags: metacity, theme, gtk, compiz, linux, fusion, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-2379895716858352709
 ---
 
@@ -9828,6 +9625,7 @@ title: OK Ya Instale Linux. Y ahora que? (Parte II)
 date: 2008-11-28
 author: Robertux
 tags: screenlet, debian, recomendado, gnu, linux, gadget, gmail, tutorial, google, gnome, herramienta, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-7576868522322839364
 ---
 
@@ -9862,24 +9660,11 @@ del Screenlets Manager"
 ---
 
 ---
-title: OK Ya Instale Linux. Y ahora que? (Parte III)
-date: 2008-11-28
-author: Robertux
-tags: srbyte
-post_id: blog-3515952828243908885.post-2641208139494434909
----
-
-Hay algunas aplicaciones que como una amiga me dijo, no deben faltar en la computadora de cada quien, las cuales se consideran esenciales para la vida diaria sea trabajo, estudio o simplemente ocio. Ella misma se encargo de hacerme una lista de estas aplicaciones a la cual tambien adicione otras que personalmente considero imprescindibles:
-
-Programas de oficina: Openoffice.org (ya incluido) Reproductor de audio: amarok, exaile o rythimbox (ya incluido) Reproductor de video: Xine o totem (ya incluido)
-
----
-
----
 title: Opera... una nueva experiencia.
 date: 2007-09-25
 author: Rodrigo Amaya
 tags: software, freeware, Opera
+draft: false
 post_id: blog-3515952828243908885.post-1057178706624432252
 ---
 
@@ -9952,6 +9737,7 @@ title: Opera Unite: La Vision del Futuro, Hoy
 date: 2009-06-17
 author: Robertux
 tags: firefox, internet, google, web, wave, unite, ubiquity, Opera, navegador
+draft: false
 post_id: blog-3515952828243908885.post-4644376070365646645
 ---
 
@@ -9988,6 +9774,7 @@ title: Opinión sobre Ubuntu 9.10
 date: 2009-11-09
 author: Rodrigo Amaya
 tags: opinion, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-5435027524184706691
 ---
 
@@ -10040,6 +9827,7 @@ title: Oracle Compra a Sun Microsystems
 date: 2009-04-20
 author: Robertux
 tags: srbyte
+draft: false
 post_id: blog-3515952828243908885.post-4683499292409589782
 ---
 
@@ -10066,6 +9854,7 @@ title: ¿Otro punto de vista o falta de ideas?
 date: 2008-12-21
 author: Wendy Aparicio
 tags: agil, divertido, cine, presentacion, identidad, cineastas, charla, arte, curioso
+draft: false
 post_id: blog-3515952828243908885.post-7261630493529981303
 ---
 
@@ -10096,6 +9885,7 @@ title: Películas de un click
 date: 2008-12-26
 author: Wendy Aparicio
 tags: agil, cine, fun, cineastas, entrenamiento
+draft: false
 post_id: blog-3515952828243908885.post-6402711549856230782
 ---
 
@@ -10115,6 +9905,7 @@ title: Pero, ¿Qué son las barras?
 date: 2009-01-05
 author: Wendy Aparicio
 tags: video, cine, croma, tv
+draft: false
 post_id: blog-3515952828243908885.post-8666073543668662521
 ---
 
@@ -10142,6 +9933,7 @@ title: ¿Por qué Aprender RPG?
 date: 2009-10-07
 author: Robertux
 tags: java, final fantasy, rpg, lenguaje, programacion, ibm, as400
+draft: false
 post_id: blog-3515952828243908885.post-611953506305124648
 ---
 
@@ -10173,62 +9965,11 @@ Admito que ni el lenguaje ni la plataforma se llevan bien con la filosofía del 
 ---
 
 ---
-title: ¿Por qué uso jQuery?
-date: 2010-06-24
-author: Rodrigo Amaya
-tags: javascript, jquery
-post_id: blog-3515952828243908885.post-8499818573577577942
----
-
-En estos dorados tiempos, la mayoría de aplicaciones web no pueden ser liberadas a la audiencia mundial, sin usar alguna de las millones de librerías de JavaScript que "pululan" en Internet. En un articulo anterior, se mencionaron los beneficios de usar alguna de las librerías más populares para obtener el máximo de compatibilidad en tu sitio web. Si bien todas estas librerías (Prototype, Scriptaculous, Dojo, jQuery) son muy buenas, en esta ocasión quiero escribir de la librería, que a mi me salva todos los días en el trabajo... jQuery.
-
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SkD8ZuQG_JI/AAAAAAAACDg/33VKLTOS9xM/s320/jquery-logo.gif)     jQuery es uno de
-tantos hijos que Prototype tiene regados en Internet, pero no por eso lo vean de menos. Si bien jQuery reusa extensivamente la función $() , también la lleva a niveles que uno no se imagina hasta que trabajas mucho con el. Es más, jQuery básicamente esta basado en el signo $. En jQuery, el $ manda ;) En fin, estas son mis cinco simples razones, por la cual yo prefiero jQuery...
-
-Primera razón: Selectores jQuery soporta muchos "selectores", un selector es una forma de obtener un etiquetas html, div's o elementos CSS, lo que antes tenia que obtener con document.getElementById("idelemento"); ahora lo puedo obtener con $("#identificador") .
-
-Supongamos que tienes un div en tu pagina, asi: <div id="prueba">texto</div>
-
-Y quieres obtener el texto enmarcado en ese div, basta con hacer un $("#prueba").val(); para realizar esta tarea.
-
-### Segunda razón: Atributos
-
-Con jQuery es facil añadir y remover elementos HTML. Con el div del ejemplo anterior, supongamos que deseamos modificar su contenido: $("#prueba").val("nuevo texto");
-
-Y si queremos manipular el tipo de clase CSS al que pertenece... :
-
-$("#prueba").attr("title", "Div de Prueba").addClass("nuevaClaseCSS");
-
-Se puede añadir tantas clases CSS como se deseen. Y si son observadores, habran notado que se hace un uso extensivo del operador ".", eso es porque jQuery usa "objetos", y la concatenacion de varios metodos en jQuery se llama: [Chainability](https://blogs.telerik.com/supportdept/posts/09-02-06/chainability_the_magic_of_jquery.aspx) (Encadenamiento). El encadenamiento, en pocas palabras conciste en que: cada metodo en jQuery, retorna el objeto solicitado, lo que permite que operemos sobre este.
-
-### Tercera razón: Ajax
-
-Con jQuery me olvide de manipular Ajax, para mi eso es cosa del pasado. Usar Ajax es tan facil como escribir 1, 2 y 3...
-
-> $.post class="br0">( class="st0">"https://www.elsitio.com/eltexto",
-> function(data class="br0">){
-> alert("obtuve el
-> siguiente texto: " + data); class="br0">});
-
-Cuarta razón: Documentación y Comunidad
-
-De nada te sirve la mejor libreria de software, si esta no esta documentada, y con jQuery, no solo hay ejemplos de todas sus funciones, tutoriales, presentaciones y ejemplos, sino que tambien hay una comunidad activa, creando constantemente nuevos plugins para extender el uso de jQuery.
-
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SkD8Z2oZCgI/AAAAAAAACDw/FuFLvnTTjXQ/s320/jquery12_colorcharge.png)    
-
-Quinta razón: jQuery UI
-
-jQuery UI, provee una serie de metodos de animacion, interaccion, efectos y controles construidos sobre jQuery. Es facil de usar, aprender e implementar, y ademas, soporta "temas" para una mejor integracion con tu sitio web.
-
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SkD8ZxsxG1I/AAAAAAAACDo/poR6fdeUVlc/s320/jquery_ui_logo.png)
-
----
-
----
 title: ¿Por que aprender Python?
 date: 2009-01-22
 author: Rodrigo Amaya
 tags: python, programacion
+draft: false
 post_id: blog-3515952828243908885.post-7008671535066090185
 ---
 
@@ -10293,6 +10034,7 @@ title: ¿Porque la "i" en los Productos Apple?
 date: 2008-05-07
 author: Robertux
 tags: homenaje, diseño, idea, computadoras, internet, mac, iloveyou, apple
+draft: false
 post_id: blog-3515952828243908885.post-3032186789691031186
 ---
 
@@ -10317,6 +10059,7 @@ title: Productividad en la PC (I Parte)
 date: 2008-08-28
 author: Rodrigo Amaya
 tags: tiempo, productividad
+draft: false
 post_id: blog-3515952828243908885.post-7444345977053035034
 ---
 
@@ -10344,6 +10087,7 @@ title: Productividad en la PC (II Parte)
 date: 2008-08-28
 author: Rodrigo Amaya
 tags: tiempo, productividad
+draft: false
 post_id: blog-3515952828243908885.post-9063969521900927744
 ---
 
@@ -10370,6 +10114,7 @@ title: Productividad en la PC (III Parte)
 date: 2008-08-28
 author: Rodrigo Amaya
 tags: tiempo, firefox, complementos, productividad
+draft: false
 post_id: blog-3515952828243908885.post-4781197020285262341
 ---
 
@@ -10404,6 +10149,7 @@ title: Programando Mejor [Parte I]
 date: 2007-02-17
 author: Rodrigo Amaya
 tags: lenguajes, software, codigo, programacion
+draft: false
 post_id: blog-3515952828243908885.post-3510358555177172075
 ---
 
@@ -10436,6 +10182,7 @@ title: Programando Mejor [Parte II]
 date: 2007-02-21
 author: Rodrigo Amaya
 tags: lenguajes, software, codigo, programacion
+draft: false
 post_id: blog-3515952828243908885.post-2485074696607145136
 ---
 
@@ -10467,6 +10214,7 @@ title: Programando Mejor [Parte III]
 date: 2007-02-22
 author: Rodrigo Amaya
 tags: software, codigo, programacion
+draft: false
 post_id: blog-3515952828243908885.post-3705054267454281057
 ---
 
@@ -10513,6 +10261,7 @@ title: Programemos Mejor: Subversion
 date: 2008-03-26
 author: Robertux
 tags: subversion, programacion, svn, herramienta
+draft: false
 post_id: blog-3515952828243908885.post-5173755952151884031
 ---
 
@@ -10555,6 +10304,7 @@ title: Programemos Mejor
 date: 2008-03-24
 author: Robertux
 tags: codigo, tecnicas, programacion
+draft: false
 post_id: blog-3515952828243908885.post-6113201256585132819
 ---
 
@@ -10577,6 +10327,7 @@ title: Protectores de pantalla, acuarios y extraterrestres...
 date: 2007-03-26
 author: Rodrigo Amaya
 tags: libre, gnu, linux, free, energia
+draft: false
 post_id: blog-3515952828243908885.post-6656427961582377854
 ---
 
@@ -10639,6 +10390,7 @@ title: Pruebas de Uso (Usability Test)
 date: 2009-03-04
 author: Rodrigo Amaya
 tags: practicas, util, desarrollo, pruebas, usabilidad
+draft: false
 post_id: blog-3515952828243908885.post-3466889532297221442
 ---
 
@@ -10717,6 +10469,7 @@ title: Pupusas & Blogs - Lista de asistentes al evento
 date: 2008-12-13
 author: Robertux
 tags: wordpress, blogger, tertulia, campus, blog, social, evento, fun, humor, twitter, charla
+draft: false
 post_id: blog-3515952828243908885.post-8843771815144534157
 ---
 
@@ -10758,6 +10511,7 @@ title: QA&TEST 09 España
 date: 2009-08-11
 author: Rodrigo Amaya
 tags: test, españa, pruebas
+draft: false
 post_id: blog-3515952828243908885.post-3318491809726672013
 ---
 
@@ -10800,6 +10554,7 @@ title: ¿Qué es BumpTop? (Escritorio 3D)
 date: 2008-09-02
 author: Rodrigo Amaya
 tags: escritorio, 3d, desktop, windows
+draft: false
 post_id: blog-3515952828243908885.post-3929799434714832811
 ---
 
@@ -10848,68 +10603,11 @@ Y también pueden seguir los avisos de BumpTop en twitter: [@bumptop](https://tw
 ---
 
 ---
-title: ¿Qué es Cloud Computing? (Re-Editado)
-date: 2008-10-15
-author: Rodrigo Amaya
-tags: computadoras, cloud, internet, programacion, interesante
-post_id: blog-3515952828243908885.post-2193877454688837137
----
-
-[Cloud Computing](https://www.google.com/search?q=Cloud+Computing&ie=utf-8&oe=utf-8&aq=t&rls=org.debian:en-US:unofficial&client=iceweasel-a) - que a duras penas se
-traduce como: "nube de computo" - es una termino muy reciente (2007) que ha ganado gran popularidad en la industria tecnológica para referirse a la solución del problema de "Escalabilidad Horizontal".
-
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SKCd_H-HXJI/AAAAAAAABDU/nmkyUnTvvrk/s320/cloud-question-mark-cloud-computing.JPG)    
-"¿Qué es la nube de
-computo?"
-
-La escalabilidad horizontal conociste en añadir mas nodos a un sistema (una aplicación distribuida por ejemplo) para mejorar su rendimiento, podemos suponer que: una aplicación de bases de datos distribuida aumentará el número de transacciones que maneja añadiendo más servidores redundantes (procesadores, memoria y disco duro). Esta idea es la linea de pensamiento mas lógica, en pocas palabras:
-> "Añadimos mas hardware, para incrementar el rendimiento del
-> servicio (software)".
-Sin embargo, existe un pequeño problema (que es el que viene a solucionar tan heroicamente el concepto de Cloud Computing), este es el problema de la escalabilidad horizontal; que radica en el aumento de la complejidad de la administración del hardware y también del uso de modelos de programación muchos mas complejos que aprovechen al máximo el hardware, y añadimos a esto los problemas normales de una red como: rendimiento(throughput) y la latencia entre los nodos.
-
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SKCd95oXrHI/AAAAAAAABDM/J1mDhp1fu5M/s320/cloud.png)    
-"La
-nube"
-
-Así que, para resolver todos estos inconvenientes surge el Cloud Computing. Lo increíble, es como un concepto tan "simple", cause tanta confusión, quizás la mejor definición de cloud computing que he encontrado es la de Sam Johnston:
-
-> "Cloud Computing es la realización del desarrollo
-> basado en Internet (Cloud) y el uso de la tecnología de computación (Computing) que ofrece un
-> ecosistema de proveedores"
-Las facilidades que el Cloud Computing ofrece se resumen en un común denominador:
-> bold;">accesar a recursos de hardware (o servicios) que son de otra
-> entidad.
-Así, un consumidor (cliente) puede comprar capacidad de computo (procesamiento, espacio) basado en la demanda de su servicio. Cloud computing es accesar los recursos y servicios que se necesitan para realizar funciones con necesidades dinámicas. Un desarrollador de aplicaciones o servicios, pedirá acceso a la nube, en vez de especificar un punto final o recurso especifico.
-
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SKCd_VT_P1I/AAAAAAAABDc/uL1SjBPfJD8/s320/photo_hand_001b.jpg)    
-"La nube no esta tan
-distante como parece..."
-
-Adentremonos en la nube, y usemos un ejemplo practico para explicarlo: Digamos que algún salvadoreño (Ing. Fulano) con un par de tiempo extra (escaso en estos días) desea saber que tan buenos somos los Salvadoreños para predecir (adivinar) como estará el clima. Ing. Fulano usara [Google Apps](https://www.google.com/a/help/intl/en/index.html) (servicio de Cloud Computing de Google), y compra una cuenta, y diseña, codifica y "sube" una aplicación que permite que los usuarios que se registren voten por si lloverá ahora o no, si estará nublado o no, etc. Esta aplicación también mostraría el usuario con mas aciertos, y los margenes de error que tienen los Salvadoreños para predecir el tiempo del día siguiente.
-
-¿Que beneficios le da usar este servicio de Google Apps, que es un servicio de nube?
-
-- La inversión es de $10 por la cuenta estándar.
-- 500 MB de espacio para almacenar su sistema.
-- El poder de procesamiento de los DataCenters de Google.
-- Cero mantenimiento al servidor web.
-- Cero preocupación por la seguridad.
-- Cero preocupaciones por el trafico.
-Utilizar el concepto de Cloud Computing es desarrollar con Internet en mente. Es el próximo "paso" en el desarrollo de software (para las masas), quizás no se convierta en un estándar de la noche a la mañana, pero no es difícil pensar que las aplicación de ofimática poderosas funcionen en este contexto, y ya vemos que vamos por ese camino: Google Documents, Zoho, Google Calendar, etc.
-
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SKCe5FrzWGI/AAAAAAAABDk/LKKbtWDEl8U/s320/google-docs-api.jpg)    
-
-El Cloud Computing: incluye, implementa e integra la nube (Internet) a la aplicación, porque la aplicación descansa sobre la base de la conectividad que brinda Internet y convierte los servicios crudos y básicos, como el mero almacenamiento de datos, en utilidades concretas y útiles.
-
-Espero que este pequeño articulo, les sirva para comprender el concepto de "Cloud Computing", más adelante añadiremos otros ejemplos de Cloud Computing. Ah!, y casi se me olvida: ¿Que servicios usas que utilizan el concepto de Cloud Computing?
-
----
-
----
 title: ¿Qué es Creative Commons?
 date: 2007-03-08
 author: Rodrigo Amaya
 tags: libre, Creative Commons
+draft: false
 post_id: blog-3515952828243908885.post-5373456219335214735
 ---
 
@@ -10946,6 +10644,7 @@ title: ¿Qué es Heurística?
 date: 2009-10-14
 author: Rodrigo Amaya
 tags: algoritmos, heuristica
+draft: false
 post_id: blog-3515952828243908885.post-6943288365160740787
 ---
 
@@ -10990,6 +10689,7 @@ title: ¿Qué es ORM?
 date: 2009-09-02
 author: Rodrigo Amaya
 tags: sql, hibernate, toplink, orm, oracle
+draft: false
 post_id: blog-3515952828243908885.post-7958704684122756259
 ---
 
@@ -11025,6 +10725,7 @@ title: ¿Qué es un CheatSheet?
 date: 2008-12-02
 author: Rodrigo Amaya
 tags: linux, twitter, google, referencia
+draft: false
 post_id: blog-3515952828243908885.post-5770965253038104265
 ---
 
@@ -11077,6 +10778,7 @@ title: ¿Qué es un Complemento/Add-on de FireFox?
 date: 2008-07-09
 author: Rodrigo Amaya
 tags: firefox, complementos, addon
+draft: false
 post_id: blog-3515952828243908885.post-4536594053437362855
 ---
 
@@ -11127,6 +10829,7 @@ title: ¿Qué es un Flop? (y un PetaFlop)
 date: 2008-11-21
 author: Rodrigo Amaya
 tags: simulacion, super, computadoras, unix, flops
+draft: false
 post_id: blog-3515952828243908885.post-5739418024177795492
 ---
 
@@ -11176,6 +10879,7 @@ title: ¿Qué es un PodCast? (Y como escucharlos en Amarok)
 date: 2008-08-17
 author: Rodrigo Amaya
 tags: amarok, podcast, guia
+draft: false
 post_id: blog-3515952828243908885.post-3961326952602142823
 ---
 
@@ -11232,6 +10936,7 @@ title: ¿Qué son los Fractales?
 date: 2008-12-09
 author: Rodrigo Amaya
 tags: fractales, matematica
+draft: false
 post_id: blog-3515952828243908885.post-5783211124789256183
 ---
 
@@ -11290,6 +10995,7 @@ title: ¿Qué son los Servlets? (Java Servlets)
 date: 2008-12-28
 author: Rodrigo Amaya
 tags: java, programacion
+draft: false
 post_id: blog-3515952828243908885.post-8517962772108876376
 ---
 
@@ -11333,6 +11039,7 @@ title: ¿Que es el BlogDay?
 date: 2008-08-31
 author: Rodrigo Amaya
 tags: divertido, blog, day
+draft: false
 post_id: blog-3515952828243908885.post-4390008489845722822
 ---
 
@@ -11355,6 +11062,7 @@ title: ¿Que es el RSS Feed? (RSS/Atom/XML/Syndication)
 date: 2008-03-21
 author: Rodrigo Amaya
 tags: web 2.0, informatico, internet
+draft: false
 post_id: blog-3515952828243908885.post-6461637160100217726
 ---
 
@@ -11422,6 +11130,7 @@ title: ¿Que es FriendFeed?
 date: 2008-08-26
 author: Rodrigo Amaya
 tags: web 2.0, twitter, google, feed
+draft: false
 post_id: blog-3515952828243908885.post-1763223259919519193
 ---
 
@@ -11484,30 +11193,11 @@ En fin, FriendFeed es una nueva (bueno, no tan nueva) forma de interactuar con e
 ---
 
 ---
-title: ¿Que es un EasterEgg? (Huevo de Pascua)
-date: 2008-09-05
-author: Rodrigo Amaya
-tags: srbyte
-post_id: blog-3515952828243908885.post-6331673897727531361
----
-
----
-
----
-title: ¿Que hacen las redes sociales por ti? (Facebook, Hi5, Orkut, MySpace)
-date: 2008-04-03
-author: Rodrigo Amaya
-tags: srbyte
-post_id: blog-3515952828243908885.post-620722124323617640
----
-
----
-
----
 title: ¿Que mata los equipos de desarrollo de Software?
 date: 2009-02-20
 author: Rodrigo Amaya
 tags: equipos, desarrollo, software, patrones
+draft: false
 post_id: blog-3515952828243908885.post-4245530027425592321
 ---
 
@@ -11556,36 +11246,11 @@ A veces, todo lo que se necesita, es darle lugar a las personas para desarrollar
 ---
 
 ---
-title: ¿Que son las redes sociales?
-date: 2008-05-11
-author: Rodrigo Amaya
-tags: srbyte
-post_id: blog-3515952828243908885.post-5696320097380298569
----
-
-Los sitios web de redes sociales, se encargan de prestar un servicio a sus miembros, dicho servicio consiste en permitir la "interacción" con otros miembros (de dicha red) para formar pequeñas comunidades (o grupos) de individuos agrupados con intereses similares.
-
-Veamos un par de ejemplos: Un coleccionista de... insectos voladores (?), puede encontrar a algunas personas que compartan su mismo interes por la "gran" diferencia entre el color de las alas de una cucaracha de casa y otra de madagascar.
-
-Y tambien puede suceder, el caso de un individuo retraído, rechazado e inadaptado socialmente, al entrar en una red social puede encontrar a miles de personas como el.
-
-En todo caso, ¡el beneficio es inmediato!. Muchas personas opinan, que gracias a las redes sociales: "Ya no es necesario arriesgarce a ser rechazado"... al menos no en persona, lo que disque facilita las cosas.
-
-Pues bien, para mi, el objetivo de una red social en linea es servir como un catalizador para promover la interaccion humana, orientado sus resultados a la realidad. Lamentablemente, esto no es lo que sucede en la realidad, por eso es que podemos encontramos a personas en el hi5, en Orkut, o en FaceBook, que tienen 9999 contactos, pero de esos, quizas solo conocen (en la vide REAL) a 99... o a menos.
-
-A social network service uses software to build online social networks for communities of people who share interests and activities or who are interested in exploring the interests and activities of others.
-
-Most services are primarily web-based and provide a collection of various ways for users to interact, such as chat, messaging, email, video, voice chat, file sharing, blogging, discussion groups, and so on. Social networking has revolutionized the way we communicate and share information with one another in today's society. Various social networking websites are being used by millions of people everyday on a regular basis and it now seems that social networking is a part of everyday life. The main types of social networking services are those which contain directories of some categories (such as former classmates), means to connect with friends (usually with self-description pages), and recommender systems linked to trust. Popular methods now combine many of these, with MySpace and Facebook being the most widely used in North America;[1] Bebo,[2] MySpace, Skyrock Blog , Facebook and Hi5 in parts of Europe;[3] Orkut and Hi5 in South America and Central America;[4] and Friendster, Orkut and CyWorld in Asia and the Pacific Islands.[5]
-
-There have been some attempts to standardize these services to avoid the need to duplicate entries of friends and interests(see the FOAF standard and the Open Source Initiative), but this has led to some concerns about privacy.
-
----
-
----
 title: ¿Quien dijo baile?
 date: 2007-01-24
 author: Rodrigo Amaya
 tags: baile
+draft: false
 post_id: blog-3515952828243908885.post-2530025935677560882
 ---
 
@@ -11598,6 +11263,7 @@ title: ¿Quieres enviar tu nombre al espacio? (NASA - Proyecto Glory)
 date: 2008-09-26
 author: Rodrigo Amaya
 tags: divertido, fun, interesante, espacio, nasa
+draft: false
 post_id: blog-3515952828243908885.post-5615465391984056102
 ---
 
@@ -11634,6 +11300,7 @@ title: ¿Quieres ir al Campus Party en México?
 date: 2009-10-25
 author: Rodrigo Amaya
 tags: campus, party
+draft: false
 post_id: blog-3515952828243908885.post-1466532951233472195
 ---
 
@@ -11664,6 +11331,7 @@ title: Árboles Navideños No Tradicionales
 date: 2008-12-24
 author: Robertux
 tags: navidad, lego, proyector, año nuevo, pacman, arbol, solar, matematica, energia
+draft: false
 post_id: blog-3515952828243908885.post-8395457015994463954
 ---
 
@@ -11704,6 +11372,7 @@ title: Recordando...¿Qué es DRM? y una solución
 date: 2007-03-02
 author: Rodrigo Amaya
 tags: drm, libre, Creative Commons
+draft: false
 post_id: blog-3515952828243908885.post-314871073493139665
 ---
 
@@ -11734,6 +11403,7 @@ title: Red de Artistas Sordos (Cátedra de Multimedia)
 date: 2008-11-17
 author: Rodrigo Amaya
 tags: video, lenguaje, señas, musica
+draft: false
 post_id: blog-3515952828243908885.post-184478229985336110
 ---
 
@@ -11762,6 +11432,7 @@ title: Redacción y estilo
 date: 2009-02-14
 author: Wendy Aparicio
 tags: texto, agil, lenguaje, identidad, redacción, herramienta
+draft: false
 post_id: blog-3515952828243908885.post-4864664620498141474
 ---
 
@@ -11800,22 +11471,11 @@ Esta vez, sin prestar mayor atención, hace el viaje en un rato. En su casa le d
 ---
 
 ---
-title: Redes sociales para programadores
-date: 2008-09-17
-author: Robertux
-tags: srbyte
-post_id: blog-3515952828243908885.post-1963180394814232279
----
-
-https://www.ohloh.net/ https://stackoverflow.com/questions/40518/how-to-encourage-more-women-into-it https://stackoverflow.com/questions/79884/best-place-to-meet-female-programmers-for-romance
-
----
-
----
 title: Rendimiento Actual vs. Rendimiento Percibido
 date: 2008-03-05
 author: Rodrigo Amaya
 tags: programador, bad, vista, programacion, interesante, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-2477388422239409630
 ---
 
@@ -11868,6 +11528,7 @@ title: Resumen de Cómo Trabajar con Subversion
 date: 2008-03-26
 author: Robertux
 tags: subversion, programacion, svn, herramienta
+draft: false
 post_id: blog-3515952828243908885.post-5085654374222393901
 ---
 
@@ -11890,6 +11551,7 @@ title: Review Nokia 5800 XpressMusic (1/3)
 date: 2009-06-08
 author: Rodrigo Amaya
 tags: nokia, 5800, nokia 5800, review
+draft: false
 post_id: blog-3515952828243908885.post-1695663898913273376
 ---
 
@@ -11944,6 +11606,7 @@ title: Ruby on Rails Video
 date: 2007-05-16
 author: Rodrigo Amaya
 tags: ruby, libre, free, software, humor, youtube
+draft: false
 post_id: blog-3515952828243908885.post-9106931158752504922
 ---
 
@@ -11959,6 +11622,7 @@ title: ¿Sabes que es Blu-ray?
 date: 2008-02-18
 author: Rodrigo Amaya
 tags: Bluray, dvd, tecnologia, hd-dvd
+draft: false
 post_id: blog-3515952828243908885.post-7899316841578283300
 ---
 
@@ -12004,6 +11668,7 @@ title: Screener, DvdRip, TS, KVCD... ¿Qué es todo eso?
 date: 2008-02-08
 author: Rodrigo Amaya
 tags: Salvadoreños, drm, educacion, propietario, fun, bittorrent, interesante, dvd, guia
+draft: false
 post_id: blog-3515952828243908885.post-1198704883968277654
 ---
 
@@ -12061,6 +11726,7 @@ title: Search Wars...
 date: 2009-06-02
 author: Rodrigo Amaya
 tags: bing, buscadores, buscar, wolfram, google, cuil
+draft: false
 post_id: blog-3515952828243908885.post-8096485242286520046
 ---
 
@@ -12119,6 +11785,7 @@ title: Senduit (haciendo las cosas bien)
 date: 2008-11-05
 author: Rodrigo Amaya
 tags: srbyte
+draft: false
 post_id: blog-3515952828243908885.post-6544694013300982508
 ---
 
@@ -12148,86 +11815,11 @@ Este es un lema vigente, y que se puede aplicar en cualquier situación. Mas des
 ---
 
 ---
-title: Servicios del Web que te Ayudaran a ser mas Productivo
-date: 2008-08-08
-author: Robertux
-tags: srbyte
-post_id: blog-3515952828243908885.post-288302814823895349
----
-
-rescuetime remember the milk evernote ...
-
----
-
----
-title: Session Tracking
-date: 2009-05-02
-author: Rodrigo Amaya
-tags: srbyte
-post_id: blog-3515952828243908885.post-4912755190029257478
----
-
-Supongamos que estas escribiendo haciendo un servlet que implementa sesiones HTTP, al cual se estan conectado tres clientes (navegadores web) diferentes. Para cada cliente, el servlet deberia de ser capaz de determinar a que cliente le pertenece la informacion que se tiene en sesion. La capacidad de un servlet para saber a que cliente le pertenece que información es comúnmente denominada "Session Tracking" (huella o pista de una sesion). Existen tres formas de implementar esta capacidad en un servlet:
-
-- Cookies
-- Re-Escritura de URL (URL Rewriting)
-- Informacion SSL
-Cookies Usar cookies para identificar o distinguir a un cliente, es la forma mas sencilla y comun para mantener la pista de una sesion HTTP, porque no requiere "tecnicas especiales" para funcionar. Cuando un servidor web, o contenedor de aplicaciones, realiza una peticion, el objeto HttpSession es creado y un identificador unico de sesion es generado para el cliente y enviado al navegador como una cookie. En las siguientes peticiones y respuestas que ocurran entre el cliente y el servidor, el navegador web (el cliente) enviara la informacion que contenga la cookie al servidor, y el "Session Manager" usara esta informacion para encontrar el objeto HttpSession asociado con ese cliente. Suena complicado, pero sinceramente no lo es. Mas informacion del cookie monster... de las cookies, aquí.Re-escritura de URL (URL rewriting) Aunque facilón, hay situaciones en que utilizar cookies no funciona. Siguiendo con el juego de suposiciones: te dicen que la aplicación web que estas haciendo, NO debe de usar cookies, que intentes otro método para mantenerle la pista a las sesiones. Eso puede pasar. Y gracias a Dios, existe la "Re-escritura de URL" (URL rewriting), para administrar las sesiones del usuario.
-
-Con la re-escritura de URL, los vinculos que se retoran al navegador web (para las redirecciones) tienen el ID de la sesion adjuntos a el (a ese vinculo). Por ejemplo, para el siguiente vinculo en una pagina web:
-
-```
-
-href="tienda/catalogo"
-```
-se deberia de re-escribir asi:
-
-```
-
-href="tienda/catalogo;jsessionid=DA32242SSGE2"
-```
-Cuando el usuario hace clic en ese vinculo, el URL se envia al servidor como parte del ID de la petición del cliente. El servidor o mejor dicho, el contenedor de la aplicacion reconoce la cadena: ;jsessionid=DA32242SSGE2 como el ID de la sesion de ese cliente y la guarda para obtener el objeto HttpSession correcto para ese usuario/cliente.
-
-Nota de buen programador: Por el amor a Dios, no cometan el terrible error de asumir que el ID de la sesion tiene una longitud o contenido exacto. Un ID de sesion será mucho más largo de lo que presento en este ejemplo.Mi problema, con la re-escritura de URL, es que precisa de ciertas técnicas de programación, o guias mejor dicho, que NO todo programador hará. Estos lineamientos son:
-
-- Los servlets que llevan la sesion, deben utilizar "encode URL".
-- El punto de entrada a la aplicacion Web deberá ser un JSP o un Servlet.
-- Evite usar HTML estatico en la aplicacion.
-Usar "Encode URL" en la aplicación:Si el servlet retorna URL's al navegador, o redirecciones, se deben utilizar los metodos: encodeURL() ó encodeRedirectURL() en el codigo del servlet.
-
-```
-out.println("<a href="unaurl"&mt;catalogo</a&mt;</a&mt;");
-```
-Imagina que le retornas a un cliente, entre otras cosas claro, un vinculo asi:
-
-```
-
-out.println("</a&mt;<a href="unaurl;"&mt;catalogo</a&mt;");
-```
-En este caso usariamos encodeURL(), para retornarle una URL adecuada al cliente:Usar "Encode Redirect URL" en la aplicación:Y si tienes la siguiente declaracion:
-```
-
-response.sendRedirect("https://unhost.com/tienda/catalogo");
-```
-Tendrias que cambiar el servlet para que llame al metodo encodeRedirectURL() antes de enviar la URL al "output stream":
-```
-
-response.sendRedirect(response.encodeRedirectURL("https://unhost.com/tienda/catalogo"));
-```
-Los metodos encodeURL() y encodeRedirectURL() son parte del objeto HttpServletResponse. Estas llamadas verifican que la re-escritura de URL esta configurada antes de enviar el URL codificado (encoded). Si no esta configurada (la re-escritura de URL) esta retorna el URL original.If both cookies and URL rewriting are enabled and response.encodeURL() or encodeRedirectURL() is called, the URL is encoded, even if the browser making the HTTP request processed the session cookie. You can also configure session support to enable protocol switch rewriting. When this option is enabled, the product encodes the URL with the session ID for switching between HTTP and HTTPS protocols. Supply a servlet or JSP file as an entry point The entry point to an application (such as the initial screen presented) may not require the use of sessions. However, if the application in general requires session support (meaning some part of it, such as a servlet, requires session support) then after a session is created, all URLs must be encoded in order to perpetuate the session ID for the servlet (or other application component) requiring the session support. The following example shows how Java code can be embedded within a JSP file:
-
-```
-
-```
-Avoid using plain HTML files in the application Note: To use URL rewriting to maintain session state, do not link to parts of your applications from plain HTML files (files with .html or .htm extensions). The restriction is necessary because URL encoding cannot be used in plain HTML files. To maintain state using URL rewriting, every page that the user requests during the session must have code that can be understood by the Java interpreter. If you have plain HTML files in your application (or Web module) or in portions of the site that the user might access during the session, convert the files to JSP files. This impacts the application writer because maintaining sessions with URL rewriting requires that each servlet in the application must use URL encoding for every HREF attribute on tags, as described previously. Sessions are lost if one or more servlets in an application do not call the encodeURL(String url) or encodeRedirectURL(String url) methods. Session tracking with SSL informationNo special programming is required to track sessions with Secure Sockets Layer (SSL) information. To use SSL information, select Enable SSL ID tracking in the Session Management page of the administrative console. Because the SSL session ID is negotiated between the Web browser and HTTP server, this ID cannot survive an HTTP server failure. SSL tracking is supported by the IBM HTTP Server only. You can control the lifetime of an SSL session ID by configuring options in the Web server. For example, in the IBM HTTP Server, set the configuration variable SSLV3TIMEOUT to provide an adequate lifetime for the SSL session ID. An interval that is too short can cause a premature termination of a session. Also, some Web browsers might have their own timers that affect the lifetime of the SSL session ID. These Web browsers may not leave the SSL session ID active long enough to serve as a useful mechanism for session tracking. The internal HTTP Server of WebSphere Application Server - Express also supports SSL tracking.
-
----
-
----
 title: Si no estas usando un framework...
 date: 2009-03-27
 author: Rodrigo Amaya
 tags: practicas, framework, desarrollo, software
+draft: false
 post_id: blog-3515952828243908885.post-6638478040019983651
 ---
 
@@ -12291,6 +11883,7 @@ title: Silvermel, tema recomendado para FireFox.
 date: 2008-07-17
 author: Rodrigo Amaya
 tags: firefox, tema, recomendado
+draft: false
 post_id: blog-3515952828243908885.post-3337714422395313656
 ---
 
@@ -12352,70 +11945,11 @@ Y tú, amante de Firefox, ¿cuál es tu tema es tu preferido?
 ---
 
 ---
-title: Simulacion y sus implementaciones...
-date: 2007-02-26
-author: Rodrigo Amaya
-tags: srbyte
-post_id: blog-3515952828243908885.post-2232476308539193590
----
-
-Una técnica de simulación interesante radica en el campo de la Inteligencia Artifical, en donde:
-
-> Se intenta la creación de programas para
-> máquinas que simulen y eventualmente imiten el comportamiento y la style="font-weight: bold;">comprensión humana.
-Los sistemas de Inteligencia Artificial actualmente son parte de la rutina en campos como economía, medicina, ingeniería/arquitectura y la milicia, y se ha usado en gran variedad de aplicaciones de software, juegos de estrategia como el ajedrez de computador y otros vídeo juegos. Muchas computadoras actuales pueden vencer (en mi caso despedazar) a un oponente en un juego de ajedrez o inclusive a los grandes maestros del deporte ciencia. En 1949 cuando Claude Shannon planteó la forma de cómo desarrollar una máquina que jugase al ajedrez tomó en cuenta 3 principales aspectos:
-
-1. Representación del juego 2. Cálculo de variantes 3. Evaluación de posiciones En pocas palabras Shannon propuso la idea de representación del juego mediante números y operaciones sobre ellos. Lo que evidentemente es mas fácil de operar para la maquina. ¿Listo el tipo, no? Poco se puede hacer ahora contra las bases de datos de aperturas y finales, tablas históricas, algoritmos MiniMax, Profundidad Iterativa y Fuerza bruta... y el tema es casi otro idioma.
-
-Y no se simula los procesos cognitivos de un hombre, también sus movimientos, como el baile:
-
-Existe un ademas Murata Boy que puede montar una bicicleta:
-
-Y competencia para los "Skaters":
-
-. Tambien existen super computadoras que se usan para simular explociones nucleares, sismos, mareas rojas, huracanes... y casi todo tipo de desastre y plaga apocaliptica conocida.
-
-![image](https://bp1.blogger.com/_ayvorITawE4/ReMShOa0W-I/AAAAAAAAAJk/tmU2BaQzFsg/s400/mitch1.jpg)
-
----
-
----
-title: Singleton
-date: 2009-04-26
-author: Rodrigo Amaya
-tags: srbyte
-post_id: blog-3515952828243908885.post-3548982160569510892
----
-
-Hace más de una semana, se encontraron en la empresa en la que estoy trabajando, con un problema de seguridad bastante particular. La solución (una de cuatro propuestas) que actualmente estoy implementando incluye: clase, con un comportamiento muy especial. Esta clase implementa un patron de diseño de software (de los que muy gustosamente escribiré mañana) llamado: Singleton.
-
-Un Singleton, en poquísimas palabras, es:
-"Una clase diseñada de tal forma, que solo exista una instancia de
-esta en memoria."
-
-Eso es "todo". Un Singleton, una vez en memoria, ya no podrá ser instanciado nuevamente hasta que: explícitamente se destruya (ya sea declarando su destrucción, o cerrando la aplicación que lo creo... y/o reiniciando la computadora/servidor, obvio, no es un poltergeist.
-
-Para los que leen por primera vez sobre el Singleton, debo de aclarar algo antes de que ocurra alguna catástrofe de conceptos:
-
-Un Singleton NO es una "variable objeto de acceso global glorificado".
-
-En lo absoluto. Es más bien, una solución tan particular y especifica, que su simplicidad y conceptualizacion misma, puede resultar en un engaño que se pagara con terribles problemas a la hora de codificar.
-
-REM this: Using this technique solves the issue of global state because "there is no global state at all. Every object only has references to what it needs directly! No passing around of objects which are not directly needed by the code. Dependencies are obvious since each object only asks for what it needs."
-
-Using this technique solves the issue of memory management. All classes will be created and used when needed. No more Singletons sitting around and taking up memory while doing nothing at all.
-
-Using this technique you can extend any of the classes you desire. Static methods are nowhere. No-sir.
-
-https://srbyte.pastebin.com/f7b181adb
-
----
-
----
 title: Skype para Ubuntu de 64bits
 date: 2009-04-11
 author: Rodrigo Amaya
 tags: skype, 64bits, ekiga, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-2361935392325699883
 ---
 
@@ -12457,6 +11991,7 @@ title: Sr Byte @ LMVP podcast
 date: 2008-09-30
 author: Robertux
 tags: wordpress, opinion, blogger, blog, podcast
+draft: false
 post_id: blog-3515952828243908885.post-8540291952728622091
 ---
 
@@ -12479,6 +12014,7 @@ title: Sr. Byte: Resumen del 2008
 date: 2008-12-30
 author: Robertux
 tags: tiempo, blog, campus, tertulia, cine, bienvenida, twitter, iberoamerica, año nuevo, evento, arroba, podcast
+draft: false
 post_id: blog-3515952828243908885.post-4432875059353668500
 ---
 
@@ -12493,6 +12029,7 @@ title: StarCraft 2
 date: 2007-04-28
 author: Rodrigo Amaya
 tags: fantastico, starcraft, youtube
+draft: false
 post_id: blog-3515952828243908885.post-7566703827103607999
 ---
 
@@ -12520,6 +12057,7 @@ title: Stephen Hawking y su vuelo al espacio...
 date: 2007-04-30
 author: Rodrigo Amaya
 tags: libre, gravedad, free, fantastico, cero
+draft: false
 post_id: blog-3515952828243908885.post-3766757162631034680
 ---
 
@@ -12560,6 +12098,7 @@ title: Stop-motion: Fácil y divertido
 date: 2008-11-13
 author: Wendy Aparicio
 tags: fotografía, divertido, diseño, idea, cine, animacion, tips, cineastas, interesante, curioso
+draft: false
 post_id: blog-3515952828243908885.post-2055906736839368493
 ---
 
@@ -12594,6 +12133,7 @@ title: Técnicas de Búsqueda en Google (parte I)
 date: 2008-02-21
 author: Robertux
 tags: buscar, tips, trucos, google, guia, youtube
+draft: false
 post_id: blog-3515952828243908885.post-1127933576842799232
 ---
 
@@ -12646,6 +12186,7 @@ title: Técnicas de Búsqueda en Google (parte II)
 date: 2008-02-26
 author: Robertux
 tags: buscar, tips, trucos, google, guia, youtube
+draft: false
 post_id: blog-3515952828243908885.post-5602083590593905362
 ---
 
@@ -12702,6 +12243,7 @@ title: Técnicas de redacción
 date: 2009-03-15
 author: Wendy Aparicio
 tags: texto, agil, lenguaje, redacción, herramienta
+draft: false
 post_id: blog-3515952828243908885.post-5425327993780056652
 ---
 
@@ -12757,20 +12299,11 @@ Saluditos.
 ---
 
 ---
-title: Tarjetas Navideñas a lo Geek
-date: 2008-12-14
-author: Robertux
-tags: srbyte
-post_id: blog-3515952828243908885.post-806655735167580395
----
-
----
-
----
 title: Tarjetas online: Buena opción
 date: 2008-12-23
 author: Wendy Aparicio
 tags: hotmail, divertido, correo, humor, recomendado, amor, referencia, informacion, amistad, agil, happy, año nuevo, idea, trucos
+draft: false
 post_id: blog-3515952828243908885.post-4189046783346876193
 ---
 
@@ -12799,6 +12332,7 @@ title: & Teller... (humor)
 date: 2008-03-16
 author: Rodrigo Amaya
 tags: divertido, fun, humor
+draft: false
 post_id: blog-3515952828243908885.post-5516314402714026325
 ---
 
@@ -12815,6 +12349,7 @@ title: Tertulia 1.0 (El Salvador)
 date: 2007-04-20
 author: Rodrigo Amaya
 tags: tertulia, blog, humor, fantastico
+draft: false
 post_id: blog-3515952828243908885.post-4541798179714006967
 ---
 
@@ -12852,6 +12387,7 @@ title: Tertulia Iberoamericana
 date: 2008-11-03
 author: Rodrigo Amaya
 tags: blogger, tertulia
+draft: false
 post_id: blog-3515952828243908885.post-3356563084233921536
 ---
 
@@ -12873,25 +12409,11 @@ Excelente experiencia, ¡ojala se repita nuevamente!. ¡Saludos!
 ---
 
 ---
-title: Test
-date: 2009-12-26
-author: Robertux
-tags: srbyte
-post_id: blog-3515952828243908885.post-1183536128997459740
----
-
-Post de prueba escrito desde mi iPod touch usando la app Blogpress
-
-![image](https://lh6.ggpht.com/_jH77WNrMVRA/Szau_u1RLzI/AAAAAAAAIEQ/8JN0pPv7FfA/s288/iphone_photo.jpg)    
-- Posted using BlogPress from my iPhone
-
----
-
----
 title: The Hunt for Gollum (Cine Independiente)
 date: 2009-05-17
 author: Rodrigo Amaya
 tags: hunt, film, LoTR, gollum
+draft: false
 post_id: blog-3515952828243908885.post-2894286069581229619
 ---
 
@@ -12918,6 +12440,7 @@ title: Tips de YouTube
 date: 2008-11-26
 author: Rodrigo Amaya
 tags: tips, guia, youtube
+draft: false
 post_id: blog-3515952828243908885.post-3951349049094925047
 ---
 
@@ -12969,6 +12492,7 @@ title: Trabajando con Google Web Toolkit y Google App Engine
 date: 2009-10-24
 author: Robertux
 tags: ruby, java, linux, framework, ajax, python, google, appengine
+draft: false
 post_id: blog-3515952828243908885.post-3289853482720812936
 ---
 
@@ -13003,6 +12527,7 @@ title: Tres películas recomendadas de Ciencia Ficción
 date: 2009-09-10
 author: Rodrigo Amaya
 tags: peliculas, sci-fi, ficcion, ciencia
+draft: false
 post_id: blog-3515952828243908885.post-5274004989331331615
 ---
 
@@ -13038,6 +12563,7 @@ title: Tu Sitio, Compatible en Todos los Browsers!
 date: 2009-06-10
 author: Robertux
 tags: javascript, firefox, framework, explorer, safari, chrome, google, Opera, css
+draft: false
 post_id: blog-3515952828243908885.post-8708910136689830358
 ---
 
@@ -13080,6 +12606,7 @@ title: Twittas, Twoogle y VisibleTweets
 date: 2009-05-25
 author: Rodrigo Amaya
 tags: twitter
+draft: false
 post_id: blog-3515952828243908885.post-3928495759971467839
 ---
 
@@ -13114,6 +12641,7 @@ title: Twitter + Pidgin
 date: 2008-11-10
 author: Rodrigo Amaya
 tags: pidgin, twitter
+draft: false
 post_id: blog-3515952828243908885.post-6763706832637729990
 ---
 
@@ -13140,6 +12668,7 @@ title: Ubuntu 7.04 Feisty Fawn: libre y salvaje.
 date: 2007-04-19
 author: Rodrigo Amaya
 tags: libre, gnu, linux, bittorrent, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-751141320540897991
 ---
 
@@ -13162,6 +12691,7 @@ title: Un blog puede cambiar tu negocio.
 date: 2008-10-16
 author: Rodrigo Amaya
 tags: opinion, blog, recomendado
+draft: false
 post_id: blog-3515952828243908885.post-1840591703957484055
 ---
 
@@ -13216,6 +12746,7 @@ title: Un breve paseo por Adobe Audition
 date: 2008-11-23
 author: Wendy Aparicio
 tags: opinion, fusion, tutorial, recomendado, adobe, musica, herramienta, informacion, curioso
+draft: false
 post_id: blog-3515952828243908885.post-3956211021153766016
 ---
 
@@ -13245,6 +12776,7 @@ title: Un comienzo nuevo y fresco
 date: 2007-05-19
 author: Rodrigo Amaya
 tags: happy
+draft: false
 post_id: blog-3515952828243908885.post-5488626534291677829
 ---
 
@@ -13267,6 +12799,7 @@ title: Un poco de Software Libre... y cachorros.
 date: 2007-01-28
 author: Rodrigo Amaya
 tags: libre, gnu, software
+draft: false
 post_id: blog-3515952828243908885.post-4190213998999427981
 ---
 
@@ -13308,6 +12841,7 @@ title: Un vistazo al código de Google Chrome (Opinión)
 date: 2008-09-14
 author: Rodrigo Amaya
 tags: open source, opinion, libre, programador, software, codigo, google
+draft: false
 post_id: blog-3515952828243908885.post-8311296546419745089
 ---
 
@@ -13363,32 +12897,11 @@ Ni siquiera Microsoft se ha podido deshacer aún de IE 6, mucho menos Chrome pod
 ---
 
 ---
-title: Videojuegos: Assassins Creed para PC
-date: 2008-04-09
-author: Robertux
-tags: srbyte
-post_id: blog-3515952828243908885.post-1287056596936354776
----
-
-![image](https://bp3.blogger.com/_jH77WNrMVRA/R9R0KNxJyaI/AAAAAAAAAnc/A9LH9AOkqfo/s320/boxshot_uk_large.jpg)    
-"Cover del Videojuego Assassins Creed para
-PC"
-
-Desde su aparición oficial para XBOX 360 y Playstation 3 en noviembre del año pasado, Ubisoft había tenido en incertidumbre an los usuarios de PC acerca de su salida en esta versión...
-
-Pero ahora ya es una realidad. El release para PC está ya a la venta...
-
-La trama nos sitúa en Israel, en el año...
-
-Ahora solo nos faltaría conseguirnos una NVIDIA GeForce 6800, un Intel Pentium D y una memoria RAM de 2GB y listo! podremos jugarlo.
-
----
-
----
 title: Villancicos Navideños en 8 Bits
 date: 2008-12-27
 author: Robertux
 tags: divertido, fun, nintendo, juegos, interesante, 8bits, musica, geek
+draft: false
 post_id: blog-3515952828243908885.post-6368577229254448922
 ---
 
@@ -13410,6 +12923,7 @@ title: Vuelvete Amigo de un Geek para Estas Fiestas
 date: 2008-12-16
 author: Robertux
 tags: navidad, amistad, año nuevo, fun, humor, charla, hugs, geek
+draft: false
 post_id: blog-3515952828243908885.post-922299627059254879
 ---
 
@@ -13435,6 +12949,7 @@ title: Web 2.0 (¿Qué es?)
 date: 2007-04-15
 author: Rodrigo Amaya
 tags: web 2.0, fantastico, Creative Commons, youtube
+draft: false
 post_id: blog-3515952828243908885.post-6406635611974087543
 ---
 
@@ -13487,6 +13002,7 @@ title: WebMail Notifier (Extension de FireFox recomendada)
 date: 2008-07-21
 author: Rodrigo Amaya
 tags: firefox, complementos, addon
+draft: false
 post_id: blog-3515952828243908885.post-2309706133110783938
 ---
 
@@ -13537,6 +13053,7 @@ title: Wikpedia en DVD
 date: 2007-05-02
 author: Rodrigo Amaya
 tags: wikipedia, libre, educacion, free, dvd
+draft: false
 post_id: blog-3515952828243908885.post-8415687457758136752
 ---
 
@@ -13565,6 +13082,7 @@ title: Windows Cloud OS (El Anuncio)
 date: 2008-10-03
 author: Rodrigo Amaya
 tags: opinion, cloud, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-2757394948983613142
 ---
 
@@ -13614,6 +13132,7 @@ title: Windows Cloud OS (Singularity y Midori)
 date: 2008-10-06
 author: Rodrigo Amaya
 tags: cloud, midori, microsoft, singularity
+draft: false
 post_id: blog-3515952828243908885.post-8221122611615572164
 ---
 
@@ -13655,6 +13174,7 @@ title: Windows Vista es la prueba.
 date: 2007-02-10
 author: Rodrigo Amaya
 tags: drm, gnu, linux, bad, vista, windows
+draft: false
 post_id: blog-3515952828243908885.post-1927953540873832768
 ---
 
@@ -13672,6 +13192,7 @@ title: Windows Vista y sus "problemitas" [Parte I]
 date: 2007-02-01
 author: Rodrigo Amaya
 tags: bad, vista, windows
+draft: false
 post_id: blog-3515952828243908885.post-7918910236755948437
 ---
 
@@ -13727,6 +13248,7 @@ title: Windows Vista y sus "problemitas" [Parte II]
 date: 2007-02-03
 author: Rodrigo Amaya
 tags: bad, vista, windows
+draft: false
 post_id: blog-3515952828243908885.post-1038926833403809365
 ---
 
@@ -13776,6 +13298,7 @@ title: Windows Vista y sus "problemitas" [Parte III]
 date: 2007-02-07
 author: Rodrigo Amaya
 tags: bad, vista, windows, mac, apple
+draft: false
 post_id: blog-3515952828243908885.post-8195922108950999487
 ---
 
@@ -13812,6 +13335,7 @@ title: Windows Vista y sus "problemitas" [Parte IV]
 date: 2007-02-08
 author: Rodrigo Amaya
 tags: drm, bad, vista, windows, mac, ipod
+draft: false
 post_id: blog-3515952828243908885.post-592933366420728801
 ---
 
@@ -13862,6 +13386,7 @@ title: XDRTB
 date: 2008-10-09
 author: Rodrigo Amaya
 tags: salud
+draft: false
 post_id: blog-3515952828243908885.post-3438877290201396886
 ---
 
@@ -13891,6 +13416,7 @@ title: XGL para Windows... (Yod'm 3D)
 date: 2007-04-01
 author: Rodrigo Amaya
 tags: free, fantastico, windows
+draft: false
 post_id: blog-3515952828243908885.post-4367936812775147870
 ---
 
@@ -13931,6 +13457,7 @@ title: xkcd ... un comic para geeks :)
 date: 2008-07-07
 author: Rodrigo Amaya
 tags: divertido, fun
+draft: false
 post_id: blog-3515952828243908885.post-8685817943495929934
 ---
 
@@ -13985,6 +13512,7 @@ title: ¿Y para qué te puede servir Twitter?
 date: 2008-09-07
 author: Rodrigo Amaya
 tags: twitter
+draft: false
 post_id: blog-3515952828243908885.post-2148973378421457180
 ---
 
@@ -14045,6 +13573,7 @@ title: ¿Y si la Matrix corriera en Windows?
 date: 2008-11-12
 author: Rodrigo Amaya
 tags: humor, windows, funny, matrix
+draft: false
 post_id: blog-3515952828243908885.post-1930079345954609576
 ---
 
@@ -14062,6 +13591,7 @@ title: ¡Ya se viene Imagine Cup 2009!
 date: 2009-01-02
 author: Wendy Aparicio
 tags: diseño, año nuevo, programador, computadoras, software, internet, programacion, tecnologia
+draft: false
 post_id: blog-3515952828243908885.post-8200463012366721425
 ---
 
@@ -14088,6 +13618,7 @@ title: Yahoo Mail ILIMITADO!
 date: 2007-03-27
 author: Rodrigo Amaya
 tags: correo, yahoo
+draft: false
 post_id: blog-3515952828243908885.post-5066177446388395978
 ---
 
@@ -14111,6 +13642,7 @@ title: Yo Frankie! (Un juego creado con Blender)
 date: 2008-12-21
 author: Rodrigo Amaya
 tags: apricot, 3d, juegos, blender
+draft: false
 post_id: blog-3515952828243908885.post-7537335898152599645
 ---
 
@@ -14160,6 +13692,7 @@ title: Yo quiero ESO! ... OPTIMUS MAXIMUS
 date: 2008-02-24
 author: Rodrigo Amaya
 tags: computadoras, gadget, fantastico, interesante, tecnologia, geek, apple
+draft: false
 post_id: blog-3515952828243908885.post-2657622383134251371
 ---
 
@@ -14204,6 +13737,7 @@ title: YouTorrent, usalo antes de que lo cierren... (BitTorrent)
 date: 2008-04-07
 author: Rodrigo Amaya
 tags: buscar, bittorrent
+draft: false
 post_id: blog-3515952828243908885.post-2287875234791157716
 ---
 
@@ -14234,6 +13768,7 @@ title: Youtube Live!
 date: 2008-11-29
 author: Robertux
 tags: video, streaming, web 2.0, evento, fun, internet, entrenamiento, interesante, live, youtube
+draft: false
 post_id: blog-3515952828243908885.post-7787899773040694351
 ---
 
@@ -14261,6 +13796,7 @@ title: Youtube: "Video No Longer Available"
 date: 2008-08-03
 author: Robertux
 tags: video, cine, limitar, software, internet, musica, youtube, web 2.0, computadoras, propietario, google, tecnologia
+draft: false
 post_id: blog-3515952828243908885.post-6283377512970201251
 ---
 
@@ -14305,6 +13841,7 @@ title: Zen Coding: Una Forma Rápida de Escribir Código HTML
 date: 2009-12-09
 author: Robertux
 tags: wysiwyg, aptana, programacion, zen, html
+draft: false
 post_id: blog-3515952828243908885.post-8972450777597994202
 ---
 

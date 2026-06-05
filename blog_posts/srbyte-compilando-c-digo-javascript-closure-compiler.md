@@ -3,6 +3,7 @@ title: Compilando código JavaScript (Closure Compiler)
 date: 2009-11-14
 author: Rodrigo Amaya
 tags: javascript, compiler, google
+draft: false
 post_id: blog-3515952828243908885.post-5276971736983403518
 ---
 

@@ -3,6 +3,7 @@ title: Fallo Olímpico (¡Pantallas de la muerte en Beijin!)
 date: 2008-08-12
 author: Rodrigo Amaya
 tags: bad, fun, windows
+draft: false
 post_id: blog-3515952828243908885.post-6118714536713522919
 ---
 

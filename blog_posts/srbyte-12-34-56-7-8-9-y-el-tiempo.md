@@ -3,6 +3,7 @@ title: 12:34:56 7/8/9 y el tiempo...
 date: 2009-08-07
 author: Rodrigo Amaya
 tags: tiempo, linux, unix
+draft: false
 post_id: blog-3515952828243908885.post-8334987840556348617
 ---
 

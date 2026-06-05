@@ -3,6 +3,7 @@ title: Las Pantallas de la Muerte (SOD)
 date: 2008-08-07
 author: Rodrigo Amaya
 tags: linux, windows, mac, ipod, iphone, apple
+draft: false
 post_id: blog-3515952828243908885.post-2342286680349823586
 ---
 

@@ -3,6 +3,7 @@ title: Programemos Mejor
 date: 2008-03-24
 author: Robertux
 tags: codigo, tecnicas, programacion
+draft: false
 post_id: blog-3515952828243908885.post-6113201256585132819
 ---
 

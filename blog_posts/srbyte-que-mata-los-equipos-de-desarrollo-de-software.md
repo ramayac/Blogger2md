@@ -3,6 +3,7 @@ title: ¿Que mata los equipos de desarrollo de Software?
 date: 2009-02-20
 author: Rodrigo Amaya
 tags: equipos, desarrollo, software, patrones
+draft: false
 post_id: blog-3515952828243908885.post-4245530027425592321
 ---
 

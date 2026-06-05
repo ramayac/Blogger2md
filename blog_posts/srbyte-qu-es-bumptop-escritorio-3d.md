@@ -3,6 +3,7 @@ title: ¿Qué es BumpTop? (Escritorio 3D)
 date: 2008-09-02
 author: Rodrigo Amaya
 tags: escritorio, 3d, desktop, windows
+draft: false
 post_id: blog-3515952828243908885.post-3929799434714832811
 ---
 

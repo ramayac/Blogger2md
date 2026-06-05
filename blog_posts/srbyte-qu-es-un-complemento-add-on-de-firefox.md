@@ -3,6 +3,7 @@ title: ¿Qué es un Complemento/Add-on de FireFox?
 date: 2008-07-09
 author: Rodrigo Amaya
 tags: firefox, complementos, addon
+draft: false
 post_id: blog-3515952828243908885.post-4536594053437362855
 ---
 

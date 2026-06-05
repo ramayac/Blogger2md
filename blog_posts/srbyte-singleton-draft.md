@@ -3,6 +3,7 @@ title: Singleton
 date: 2009-04-26
 author: Rodrigo Amaya
 tags: srbyte
+draft: true
 post_id: blog-3515952828243908885.post-3548982160569510892
 ---
 

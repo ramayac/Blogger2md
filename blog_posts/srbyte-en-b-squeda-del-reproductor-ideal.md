@@ -3,6 +3,7 @@ title: En Búsqueda del Reproductor Ideal
 date: 2008-12-19
 author: Robertux
 tags: streaming, amarok, screenlet, firefox, java, complementos, songbird, atunes, musica, addon, apple, last.fm, mpd, linux, winamp, podcast, mozilla
+draft: false
 post_id: blog-3515952828243908885.post-6419389697598290564
 ---
 

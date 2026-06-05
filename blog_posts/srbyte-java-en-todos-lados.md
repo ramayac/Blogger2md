@@ -3,6 +3,7 @@ title: Java... (en todos lados)
 date: 2007-04-04
 author: Rodrigo Amaya
 tags: java, libre, sun, linux, software, windows
+draft: false
 post_id: blog-3515952828243908885.post-3070148149946133964
 ---
 

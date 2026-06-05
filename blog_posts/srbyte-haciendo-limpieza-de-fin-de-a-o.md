@@ -3,6 +3,7 @@ title: Haciendo Limpieza de Fin de Año
 date: 2008-12-29
 author: Robertux
 tags: administrar, desorden, año nuevo, escritorio, debian, buscar, desktop, ubuntu, herramienta
+draft: false
 post_id: blog-3515952828243908885.post-8676424220067513930
 ---
 

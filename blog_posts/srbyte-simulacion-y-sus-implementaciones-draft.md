@@ -3,6 +3,7 @@ title: Simulacion y sus implementaciones...
 date: 2007-02-26
 author: Rodrigo Amaya
 tags: srbyte
+draft: true
 post_id: blog-3515952828243908885.post-2232476308539193590
 ---
 

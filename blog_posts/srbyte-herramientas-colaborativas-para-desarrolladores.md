@@ -3,6 +3,7 @@ title: Herramientas Colaborativas Para Desarrolladores
 date: 2009-11-25
 author: Robertux
 tags: diseño, colaborativo, desarrollo, real time, internet, google, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-7766568471977048028
 ---
 

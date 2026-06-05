@@ -3,6 +3,7 @@ title: ¿Qué es Cloud Computing? (Re-Editado)
 date: 2008-10-15
 author: Rodrigo Amaya
 tags: computadoras, cloud, internet, programacion, interesante
+draft: true
 post_id: blog-3515952828243908885.post-2193877454688837137
 ---
 

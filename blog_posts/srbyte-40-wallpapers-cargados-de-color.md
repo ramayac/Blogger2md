@@ -3,6 +3,7 @@ title: 40 Wallpapers cargados de color
 date: 2008-11-25
 author: Rodrigo Amaya
 tags: wallpaper, color, desktop
+draft: false
 post_id: blog-3515952828243908885.post-8655197723403623517
 ---
 

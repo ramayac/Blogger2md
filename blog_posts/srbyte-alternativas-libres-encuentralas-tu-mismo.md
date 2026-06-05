@@ -3,6 +3,7 @@ title: Alternativas Libres: Encuentralas Tu Mismo
 date: 2008-10-28
 author: Robertux
 tags: open source, libre, diseño, free, buscar, animacion, 2d, flash, herramienta, anime
+draft: false
 post_id: blog-3515952828243908885.post-399370450977162765
 ---
 

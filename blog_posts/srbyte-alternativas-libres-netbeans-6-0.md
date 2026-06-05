@@ -3,6 +3,7 @@ title: Alternativas Libres: Netbeans 6.0
 date: 2008-04-12
 author: Robertux
 tags: srbyte
+draft: false
 post_id: blog-3515952828243908885.post-3748190492575017915
 ---
 

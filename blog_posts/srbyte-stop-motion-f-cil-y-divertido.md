@@ -3,6 +3,7 @@ title: Stop-motion: Fácil y divertido
 date: 2008-11-13
 author: Wendy Aparicio
 tags: fotografía, divertido, diseño, idea, cine, animacion, tips, cineastas, interesante, curioso
+draft: false
 post_id: blog-3515952828243908885.post-2055906736839368493
 ---
 

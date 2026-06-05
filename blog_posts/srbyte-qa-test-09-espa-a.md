@@ -3,6 +3,7 @@ title: QA&TEST 09 España
 date: 2009-08-11
 author: Rodrigo Amaya
 tags: test, españa, pruebas
+draft: false
 post_id: blog-3515952828243908885.post-3318491809726672013
 ---
 

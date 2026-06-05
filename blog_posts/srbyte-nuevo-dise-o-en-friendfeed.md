@@ -3,6 +3,7 @@ title: Nuevo Diseño en FriendFeed
 date: 2008-08-30
 author: Rodrigo Amaya
 tags: web 2.0, social, internet, feed
+draft: false
 post_id: blog-3515952828243908885.post-5781633996282921344
 ---
 

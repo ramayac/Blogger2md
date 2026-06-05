@@ -3,6 +3,7 @@ title: La Tecnologia y Yo.
 date: 2007-07-03
 author: Rodrigo Amaya
 tags: personal, tecnologia
+draft: false
 post_id: blog-3515952828243908885.post-7754485078405542476
 ---
 

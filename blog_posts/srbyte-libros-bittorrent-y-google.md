@@ -3,6 +3,7 @@ title: Libros, Bittorrent y Google
 date: 2007-03-28
 author: Rodrigo Amaya
 tags: libre, free, bittorrent, Creative Commons, google
+draft: false
 post_id: blog-3515952828243908885.post-7995895727731938541
 ---
 

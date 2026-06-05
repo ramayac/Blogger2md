@@ -3,6 +3,7 @@ title: StarCraft 2
 date: 2007-04-28
 author: Rodrigo Amaya
 tags: fantastico, starcraft, youtube
+draft: false
 post_id: blog-3515952828243908885.post-7566703827103607999
 ---
 

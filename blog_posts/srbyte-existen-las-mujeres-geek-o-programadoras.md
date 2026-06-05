@@ -3,6 +3,7 @@ title: ¿Existen las mujeres Geek, o programadoras?
 date: 2008-02-05
 author: Robertux
 tags: fotos, computadoras, programacion, mujeres, futbol, geek
+draft: false
 post_id: blog-3515952828243908885.post-3147181019072289478
 ---
 

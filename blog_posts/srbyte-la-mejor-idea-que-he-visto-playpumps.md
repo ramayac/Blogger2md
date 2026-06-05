@@ -3,6 +3,7 @@ title: La mejor idea que he visto... PlayPumps
 date: 2008-03-03
 author: Rodrigo Amaya
 tags: idea, fantastico, el salvador, interesante, tecnologia
+draft: false
 post_id: blog-3515952828243908885.post-8118566739252648579
 ---
 

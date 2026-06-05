@@ -3,6 +3,7 @@ title: Café REALMENTE instantaneo...
 date: 2007-03-25
 author: Rodrigo Amaya
 tags: laser, fantastico, youtube
+draft: false
 post_id: blog-3515952828243908885.post-2132743824540570484
 ---
 

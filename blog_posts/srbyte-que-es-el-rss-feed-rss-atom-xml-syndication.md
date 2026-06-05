@@ -3,6 +3,7 @@ title: ¿Que es el RSS Feed? (RSS/Atom/XML/Syndication)
 date: 2008-03-21
 author: Rodrigo Amaya
 tags: web 2.0, informatico, internet
+draft: false
 post_id: blog-3515952828243908885.post-6461637160100217726
 ---
 

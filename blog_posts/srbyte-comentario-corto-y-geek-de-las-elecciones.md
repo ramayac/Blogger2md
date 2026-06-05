@@ -3,6 +3,7 @@ title: Comentario corto (y geek) de las Elecciones
 date: 2009-03-16
 author: Rodrigo Amaya
 tags: elecciones, bash, prompt
+draft: false
 post_id: blog-3515952828243908885.post-491742759486427477
 ---
 

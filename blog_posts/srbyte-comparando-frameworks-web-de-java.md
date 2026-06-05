@@ -3,6 +3,7 @@ title: Comparando Frameworks Web de Java
 date: 2009-11-18
 author: Rodrigo Amaya
 tags: java, framework, web
+draft: false
 post_id: blog-3515952828243908885.post-331240090611977069
 ---
 

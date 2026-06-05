@@ -3,6 +3,7 @@ title: Asi quiero "navegar" en Google Earth!!!
 date: 2008-07-02
 author: Rodrigo Amaya
 tags: video, interesante, google
+draft: false
 post_id: blog-3515952828243908885.post-8236586324603657450
 ---
 

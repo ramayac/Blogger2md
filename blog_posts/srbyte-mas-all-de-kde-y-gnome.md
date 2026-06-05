@@ -3,6 +3,7 @@ title: Mas allá de KDE y Gnome
 date: 2008-02-24
 author: Robertux
 tags: linux, fluxbox, xfce, desktop, kde, gnome, enlightenment
+draft: false
 post_id: blog-3515952828243908885.post-7778046018872413252
 ---
 

@@ -3,6 +3,7 @@ title: Los precios de Windows 7
 date: 2009-06-25
 author: Rodrigo Amaya
 tags: windows 7, seven, vista, windows, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-3183391179666201444
 ---
 

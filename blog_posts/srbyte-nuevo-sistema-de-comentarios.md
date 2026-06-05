@@ -3,6 +3,7 @@ title: Nuevo sistema de comentarios...
 date: 2009-12-05
 author: Rodrigo Amaya
 tags: comentarios, blog, disqus
+draft: false
 post_id: blog-3515952828243908885.post-325516141034453459
 ---
 

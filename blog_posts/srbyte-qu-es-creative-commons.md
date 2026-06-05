@@ -3,6 +3,7 @@ title: ¿Qué es Creative Commons?
 date: 2007-03-08
 author: Rodrigo Amaya
 tags: libre, Creative Commons
+draft: false
 post_id: blog-3515952828243908885.post-5373456219335214735
 ---
 

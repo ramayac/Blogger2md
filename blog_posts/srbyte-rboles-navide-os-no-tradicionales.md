@@ -3,6 +3,7 @@ title: Árboles Navideños No Tradicionales
 date: 2008-12-24
 author: Robertux
 tags: navidad, lego, proyector, año nuevo, pacman, arbol, solar, matematica, energia
+draft: false
 post_id: blog-3515952828243908885.post-8395457015994463954
 ---
 

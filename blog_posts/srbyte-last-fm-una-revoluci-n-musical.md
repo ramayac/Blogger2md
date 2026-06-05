@@ -3,6 +3,7 @@ title: Last.fm, una revolución musical.
 date: 2007-03-21
 author: Rodrigo Amaya
 tags: web 2.0, libre, free, musica
+draft: false
 post_id: blog-3515952828243908885.post-7211448494017383648
 ---
 

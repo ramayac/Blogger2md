@@ -3,6 +3,7 @@ title: Acerca del MicroManagement
 date: 2009-02-10
 author: Rodrigo Amaya
 tags: administrar, zombie, desarrollo
+draft: false
 post_id: blog-3515952828243908885.post-6864746316166763374
 ---
 

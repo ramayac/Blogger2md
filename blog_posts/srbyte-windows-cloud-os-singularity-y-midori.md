@@ -3,6 +3,7 @@ title: Windows Cloud OS (Singularity y Midori)
 date: 2008-10-06
 author: Rodrigo Amaya
 tags: cloud, midori, microsoft, singularity
+draft: false
 post_id: blog-3515952828243908885.post-8221122611615572164
 ---
 

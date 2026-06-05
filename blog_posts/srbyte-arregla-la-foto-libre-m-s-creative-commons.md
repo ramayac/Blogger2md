@@ -3,6 +3,7 @@ title: Arregla la foto LIBRE! ( ... más Creative Commons)
 date: 2007-03-11
 author: Rodrigo Amaya
 tags: libre, Creative Commons
+draft: false
 post_id: blog-3515952828243908885.post-5295736787456130382
 ---
 

@@ -3,6 +3,7 @@ title: Diagramación
 date: 2009-01-25
 author: Wendy Aparicio
 tags: blog, diseño, interesante, diagramar, web
+draft: false
 post_id: blog-3515952828243908885.post-6381244369875684970
 ---
 

@@ -3,6 +3,7 @@ title: Campus Party Iberoamerica: Laptops y Robots
 date: 2008-10-30
 author: Robertux
 tags: campus, laptop, party, computadoras, hp, asus, mac, iphone, air
+draft: false
 post_id: blog-3515952828243908885.post-5237282409421313755
 ---
 

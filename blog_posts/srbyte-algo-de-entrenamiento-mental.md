@@ -3,6 +3,7 @@ title: Algo de Entrenamiento Mental
 date: 2008-02-07
 author: Robertux
 tags: lisp, c++, puzzle, acertijo, entrenamiento, interesante, vacaciones, matematica, einstein, curioso
+draft: false
 post_id: blog-3515952828243908885.post-2226928118184121742
 ---
 

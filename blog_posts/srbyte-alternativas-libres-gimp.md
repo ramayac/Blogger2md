@@ -3,6 +3,7 @@ title: Alternativas Libres: GIMP
 date: 2008-02-28
 author: Robertux
 tags: gimp, libre, gnu, linux, photoshop, software, graficos, adobe, google
+draft: false
 post_id: blog-3515952828243908885.post-3667254230756861856
 ---
 

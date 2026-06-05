@@ -3,6 +3,7 @@ title: Hilos y Sincronización...
 date: 2009-10-26
 author: Rodrigo Amaya
 tags: threads, programacion, hilos
+draft: false
 post_id: blog-3515952828243908885.post-3802782752421137828
 ---
 

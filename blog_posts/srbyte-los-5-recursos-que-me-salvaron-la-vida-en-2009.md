@@ -3,6 +3,7 @@ title: Los 5 recursos que me salvaron la vida en 2009
 date: 2010-01-03
 author: Rodrigo Amaya
 tags: reader, jquery, facebook, gmail, twitter, icefaces, google, svn
+draft: false
 post_id: blog-3515952828243908885.post-493186909061015353
 ---
 

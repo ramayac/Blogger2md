@@ -3,6 +3,7 @@ title: El Software Propietario... la realidad
 date: 2007-01-17
 author: Rodrigo Amaya
 tags: gnu, propietario, linux, software
+draft: false
 post_id: blog-3515952828243908885.post-8162242245363997329
 ---
 

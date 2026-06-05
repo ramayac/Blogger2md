@@ -3,6 +3,7 @@ title: Día Pangea (para los cineastas Salvadoreños)
 date: 2007-09-13
 author: Rodrigo Amaya
 tags: Salvadoreños, pangea, fantastico, cineastas, pangea day, day
+draft: false
 post_id: blog-3515952828243908885.post-1870169398367025541
 ---
 

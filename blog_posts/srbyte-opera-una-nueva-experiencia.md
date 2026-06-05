@@ -3,6 +3,7 @@ title: Opera... una nueva experiencia.
 date: 2007-09-25
 author: Rodrigo Amaya
 tags: software, freeware, Opera
+draft: false
 post_id: blog-3515952828243908885.post-1057178706624432252
 ---
 

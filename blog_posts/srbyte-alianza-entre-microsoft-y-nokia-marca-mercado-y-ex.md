@@ -3,6 +3,7 @@ title: Alianza entre Microsoft y Nokia (Marca, Mercado y Experiencia)
 date: 2009-08-13
 author: Rodrigo Amaya
 tags: firefox, nokia, software, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-2498931069158811361
 ---
 

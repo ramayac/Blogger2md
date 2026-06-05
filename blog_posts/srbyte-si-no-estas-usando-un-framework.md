@@ -3,6 +3,7 @@ title: Si no estas usando un framework...
 date: 2009-03-27
 author: Rodrigo Amaya
 tags: practicas, framework, desarrollo, software
+draft: false
 post_id: blog-3515952828243908885.post-6638478040019983651
 ---
 

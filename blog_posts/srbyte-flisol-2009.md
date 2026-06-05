@@ -3,6 +3,7 @@ title: FLISOL 2009
 date: 2009-04-12
 author: Rodrigo Amaya
 tags: libre, flisol, linux, software, el salvador
+draft: false
 post_id: blog-3515952828243908885.post-5442908029826623873
 ---
 

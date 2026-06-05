@@ -3,6 +3,7 @@ title: Screener, DvdRip, TS, KVCD... ¿Qué es todo eso?
 date: 2008-02-08
 author: Rodrigo Amaya
 tags: Salvadoreños, drm, educacion, propietario, fun, bittorrent, interesante, dvd, guia
+draft: false
 post_id: blog-3515952828243908885.post-1198704883968277654
 ---
 

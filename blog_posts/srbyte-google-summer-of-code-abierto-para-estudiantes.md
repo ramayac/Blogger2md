@@ -3,6 +3,7 @@ title: Google Summer of Code Abierto Para Estudiantes!
 date: 2009-03-24
 author: Robertux
 tags: srbyte
+draft: false
 post_id: blog-3515952828243908885.post-3221408087273400056
 ---
 

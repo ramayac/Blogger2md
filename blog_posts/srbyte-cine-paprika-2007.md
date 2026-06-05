@@ -3,6 +3,7 @@ title: Cine: Paprika (2007)
 date: 2008-02-16
 author: Rodrigo Amaya
 tags: cine, animacion, anime
+draft: false
 post_id: blog-3515952828243908885.post-5704544945200739866
 ---
 

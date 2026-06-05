@@ -3,6 +3,7 @@ title: ¿Qué son los Fractales?
 date: 2008-12-09
 author: Rodrigo Amaya
 tags: fractales, matematica
+draft: false
 post_id: blog-3515952828243908885.post-5783211124789256183
 ---
 

@@ -3,6 +3,7 @@ title: ¿Que es FriendFeed?
 date: 2008-08-26
 author: Rodrigo Amaya
 tags: web 2.0, twitter, google, feed
+draft: false
 post_id: blog-3515952828243908885.post-1763223259919519193
 ---
 

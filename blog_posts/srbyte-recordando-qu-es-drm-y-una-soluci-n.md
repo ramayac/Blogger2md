@@ -3,6 +3,7 @@ title: Recordando...¿Qué es DRM? y una solución
 date: 2007-03-02
 author: Rodrigo Amaya
 tags: drm, libre, Creative Commons
+draft: false
 post_id: blog-3515952828243908885.post-314871073493139665
 ---
 

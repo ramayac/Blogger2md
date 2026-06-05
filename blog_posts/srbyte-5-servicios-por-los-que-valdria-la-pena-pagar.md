@@ -3,6 +3,7 @@ title: 5 Servicios por los Que Valdria la Pena Pagar
 date: 2008-09-06
 author: Robertux
 tags: blogger, blog, diseño, util, free, flicrk, limitar, voip, software, codigo, recomendado, im, last.fm, wordpress, fotos, web 2.0, skype, rapidshare, google
+draft: false
 post_id: blog-3515952828243908885.post-652981997539278433
 ---
 

@@ -3,6 +3,7 @@ title: Musica Legalmente Gratuita
 date: 2008-07-25
 author: Robertux
 tags: last.fm, web 2.0, libre, propietario, util, free, buscar, internet, Creative Commons, interesante, musica
+draft: false
 post_id: blog-3515952828243908885.post-5414898074544847233
 ---
 

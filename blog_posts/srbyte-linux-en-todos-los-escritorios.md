@@ -3,6 +3,7 @@ title: Linux en todos los Escritorios...
 date: 2007-03-13
 author: Rodrigo Amaya
 tags: libre, gnu, linux, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-2045358435969452212
 ---
 

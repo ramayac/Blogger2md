@@ -3,6 +3,7 @@ title: Un blog puede cambiar tu negocio.
 date: 2008-10-16
 author: Rodrigo Amaya
 tags: opinion, blog, recomendado
+draft: false
 post_id: blog-3515952828243908885.post-1840591703957484055
 ---
 

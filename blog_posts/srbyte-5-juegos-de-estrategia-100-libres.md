@@ -3,6 +3,7 @@ title: 5 Juegos de Estrategia (100% libres).
 date: 2009-11-26
 author: Rodrigo Amaya
 tags: games, rts, linux, juegos, estrategia
+draft: false
 post_id: blog-3515952828243908885.post-8790487069912455472
 ---
 

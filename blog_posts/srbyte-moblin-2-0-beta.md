@@ -3,6 +3,7 @@ title: Moblin 2.0 BETA
 date: 2009-05-25
 author: Rodrigo Amaya
 tags: netbook, linux, nettop, moblin
+draft: false
 post_id: blog-3515952828243908885.post-2657765957552908690
 ---
 

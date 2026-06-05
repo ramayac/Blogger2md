@@ -3,6 +3,7 @@ title: Complementos Recomendados Sr. Byte
 date: 2009-08-24
 author: Rodrigo Amaya
 tags: firefox, complementos, addon
+draft: false
 post_id: blog-3515952828243908885.post-4865367397803288776
 ---
 

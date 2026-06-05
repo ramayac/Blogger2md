@@ -3,6 +3,7 @@ title: Mercedes-Benz se hace "Verde"...
 date: 2008-07-11
 author: Rodrigo Amaya
 tags: carro, interesante, green
+draft: false
 post_id: blog-3515952828243908885.post-1060480657067090013
 ---
 

@@ -3,6 +3,7 @@ title: ¿Quieres enviar tu nombre al espacio? (NASA - Proyecto Glory)
 date: 2008-09-26
 author: Rodrigo Amaya
 tags: divertido, fun, interesante, espacio, nasa
+draft: false
 post_id: blog-3515952828243908885.post-5615465391984056102
 ---
 

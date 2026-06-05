@@ -3,6 +3,7 @@ title: MEME Musical
 date: 2007-11-07
 author: Rodrigo Amaya
 tags: personal, meme, musica
+draft: true
 post_id: blog-3515952828243908885.post-2660920288559475438
 ---
 

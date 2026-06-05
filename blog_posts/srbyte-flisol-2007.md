@@ -3,6 +3,7 @@ title: FLISOL 2007
 date: 2007-03-22
 author: Rodrigo Amaya
 tags: libre, flisol, linux, free
+draft: false
 post_id: blog-3515952828243908885.post-4295724948883032121
 ---
 

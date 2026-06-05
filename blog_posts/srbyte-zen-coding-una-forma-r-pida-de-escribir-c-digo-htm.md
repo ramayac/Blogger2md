@@ -3,6 +3,7 @@ title: Zen Coding: Una Forma Rápida de Escribir Código HTML
 date: 2009-12-09
 author: Robertux
 tags: wysiwyg, aptana, programacion, zen, html
+draft: false
 post_id: blog-3515952828243908885.post-8972450777597994202
 ---
 

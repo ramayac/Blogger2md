@@ -3,6 +3,7 @@ title: ¿Que son las redes sociales?
 date: 2008-05-11
 author: Rodrigo Amaya
 tags: srbyte
+draft: true
 post_id: blog-3515952828243908885.post-5696320097380298569
 ---
 

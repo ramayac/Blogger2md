@@ -3,6 +3,7 @@ title: Modelos, Objetos y UML [ Parte I ]
 date: 2007-04-24
 author: Rodrigo Amaya
 tags: UML, programacion
+draft: false
 post_id: blog-3515952828243908885.post-2637883066431414927
 ---
 

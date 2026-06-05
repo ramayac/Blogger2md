@@ -3,6 +3,7 @@ title: Compañías Donde un Geek Sueña Trabajar
 date: 2008-03-28
 author: Robertux
 tags: programacion, interesante, google, tecnologia
+draft: false
 post_id: blog-3515952828243908885.post-804942464225895869
 ---
 

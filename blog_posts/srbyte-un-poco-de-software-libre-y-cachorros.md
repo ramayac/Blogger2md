@@ -3,6 +3,7 @@ title: Un poco de Software Libre... y cachorros.
 date: 2007-01-28
 author: Rodrigo Amaya
 tags: libre, gnu, software
+draft: false
 post_id: blog-3515952828243908885.post-4190213998999427981
 ---
 

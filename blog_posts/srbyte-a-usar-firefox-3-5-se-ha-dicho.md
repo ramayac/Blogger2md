@@ -3,6 +3,7 @@ title: A usar FireFox 3.5 se ha dicho!
 date: 2009-06-30
 author: Rodrigo Amaya
 tags: firefox, navegador
+draft: false
 post_id: blog-3515952828243908885.post-4246375429280817480
 ---
 

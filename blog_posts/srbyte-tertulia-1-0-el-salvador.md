@@ -3,6 +3,7 @@ title: Tertulia 1.0 (El Salvador)
 date: 2007-04-20
 author: Rodrigo Amaya
 tags: tertulia, blog, humor, fantastico
+draft: false
 post_id: blog-3515952828243908885.post-4541798179714006967
 ---
 

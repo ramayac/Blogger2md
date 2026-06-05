@@ -3,6 +3,7 @@ title: ¿Otro punto de vista o falta de ideas?
 date: 2008-12-21
 author: Wendy Aparicio
 tags: agil, divertido, cine, presentacion, identidad, cineastas, charla, arte, curioso
+draft: false
 post_id: blog-3515952828243908885.post-7261630493529981303
 ---
 

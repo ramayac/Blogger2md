@@ -3,6 +3,7 @@ title: Más Creative Commons (¿Cómo funciona?)
 date: 2007-03-09
 author: Rodrigo Amaya
 tags: libre, Creative Commons
+draft: false
 post_id: blog-3515952828243908885.post-2516611726048647156
 ---
 

@@ -3,6 +3,7 @@ title: Lennon y las laptops
 date: 2009-01-03
 author: Wendy Aparicio
 tags: video, agil, social, laptop
+draft: false
 post_id: blog-3515952828243908885.post-5299555921824063592
 ---
 

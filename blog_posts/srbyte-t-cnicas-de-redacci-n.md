@@ -3,6 +3,7 @@ title: Técnicas de redacción
 date: 2009-03-15
 author: Wendy Aparicio
 tags: texto, agil, lenguaje, redacción, herramienta
+draft: false
 post_id: blog-3515952828243908885.post-5425327993780056652
 ---
 

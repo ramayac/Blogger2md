@@ -3,6 +3,7 @@ title: El Guinness Record de Firefox 3
 date: 2008-07-04
 author: Rodrigo Amaya
 tags: firefox
+draft: false
 post_id: blog-3515952828243908885.post-1706319273307961120
 ---
 

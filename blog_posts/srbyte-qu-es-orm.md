@@ -3,6 +3,7 @@ title: ¿Qué es ORM?
 date: 2009-09-02
 author: Rodrigo Amaya
 tags: sql, hibernate, toplink, orm, oracle
+draft: false
 post_id: blog-3515952828243908885.post-7958704684122756259
 ---
 

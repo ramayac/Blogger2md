@@ -3,6 +3,7 @@ title: Las Súper Comutadoras
 date: 2008-01-04
 author: Rodrigo Amaya
 tags: educacion, computadoras, tecnologia
+draft: false
 post_id: blog-3515952828243908885.post-148895083984491055
 ---
 

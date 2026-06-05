@@ -3,6 +3,7 @@ title: Clickjacking Que es? Como protegernos?
 date: 2008-10-08
 author: Robertux
 tags: firefox, java, complementos, network, safari, internet, chrome, clickjacking, iframe, Opera, addon, navegador, computadoras, seguridad
+draft: false
 post_id: blog-3515952828243908885.post-9135386661346630577
 ---
 

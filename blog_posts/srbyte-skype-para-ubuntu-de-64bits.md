@@ -3,6 +3,7 @@ title: Skype para Ubuntu de 64bits
 date: 2009-04-11
 author: Rodrigo Amaya
 tags: skype, 64bits, ekiga, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-2361935392325699883
 ---
 

@@ -3,6 +3,7 @@ title: Leccion para emprendedores (de Steve Jobs)
 date: 2007-04-13
 author: Rodrigo Amaya
 tags: fantastico, mac, ipod, iphone, youtube, apple
+draft: false
 post_id: blog-3515952828243908885.post-7108073391743046373
 ---
 

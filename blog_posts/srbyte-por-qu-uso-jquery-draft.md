@@ -3,6 +3,7 @@ title: ¿Por qué uso jQuery?
 date: 2010-06-24
 author: Rodrigo Amaya
 tags: javascript, jquery
+draft: true
 post_id: blog-3515952828243908885.post-8499818573577577942
 ---
 

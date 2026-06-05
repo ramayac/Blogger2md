@@ -3,6 +3,7 @@ title: Un comienzo nuevo y fresco
 date: 2007-05-19
 author: Rodrigo Amaya
 tags: happy
+draft: false
 post_id: blog-3515952828243908885.post-5488626534291677829
 ---
 

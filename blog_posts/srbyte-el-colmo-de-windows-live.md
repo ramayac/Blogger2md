@@ -3,6 +3,7 @@ title: El colmo de Windows Live...
 date: 2007-10-08
 author: Rodrigo Amaya
 tags: hotmail, bad, email, windows, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-371346792654983943
 ---
 

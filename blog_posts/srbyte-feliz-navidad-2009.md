@@ -3,6 +3,7 @@ title: Feliz Navidad 2009
 date: 2009-12-24
 author: Rodrigo Amaya
 tags: navidad
+draft: false
 post_id: blog-3515952828243908885.post-8689703193081144864
 ---
 

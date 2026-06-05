@@ -3,6 +3,7 @@ title: Pupusas & Blogs - Lista de asistentes al evento
 date: 2008-12-13
 author: Robertux
 tags: wordpress, blogger, tertulia, campus, blog, social, evento, fun, humor, twitter, charla
+draft: false
 post_id: blog-3515952828243908885.post-8843771815144534157
 ---
 

@@ -3,6 +3,7 @@ title: Ruby on Rails Video
 date: 2007-05-16
 author: Rodrigo Amaya
 tags: ruby, libre, free, software, humor, youtube
+draft: false
 post_id: blog-3515952828243908885.post-9106931158752504922
 ---
 

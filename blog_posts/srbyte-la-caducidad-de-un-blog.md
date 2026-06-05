@@ -3,6 +3,7 @@ title: La caducidad de un blog...
 date: 2008-07-15
 author: Rodrigo Amaya
 tags: blog, interesante
+draft: false
 post_id: blog-3515952828243908885.post-1841998442811821649
 ---
 

@@ -3,6 +3,7 @@ title: Pero, ¿Qué son las barras?
 date: 2009-01-05
 author: Wendy Aparicio
 tags: video, cine, croma, tv
+draft: false
 post_id: blog-3515952828243908885.post-8666073543668662521
 ---
 

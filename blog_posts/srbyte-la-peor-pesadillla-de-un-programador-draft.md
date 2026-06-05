@@ -3,6 +3,7 @@ title: La Peor Pesadillla de un Programador
 date: 2008-08-16
 author: Robertux
 tags: srbyte
+draft: true
 post_id: blog-3515952828243908885.post-7435520167864162480
 ---
 

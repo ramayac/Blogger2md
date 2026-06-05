@@ -3,6 +3,7 @@ title: Cosas que todo Desarrollador Web debe saber
 date: 2008-10-24
 author: Rodrigo Amaya
 tags: desarrollo, tips, software, web
+draft: false
 post_id: blog-3515952828243908885.post-2744044547574018779
 ---
 

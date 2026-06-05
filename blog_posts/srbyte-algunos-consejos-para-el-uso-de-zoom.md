@@ -3,6 +3,7 @@ title: Algunos consejos para el uso de Zoom
 date: 2008-12-11
 author: Wendy Aparicio
 tags: video, divertido, educacion, fotografía, personal, cine, recomendado, informacion, agil, fotos, tecnicas, curioso
+draft: false
 post_id: blog-3515952828243908885.post-3811696505705140241
 ---
 

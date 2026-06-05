@@ -3,6 +3,7 @@ title: Mejorando la usabilidad en Ubuntu 9.10
 date: 2009-06-19
 author: Rodrigo Amaya
 tags: desarrollo, karmic koala, usabilidad, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-6409337094501573437
 ---
 

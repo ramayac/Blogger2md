@@ -3,6 +3,7 @@ title: ¿Porque la "i" en los Productos Apple?
 date: 2008-05-07
 author: Robertux
 tags: homenaje, diseño, idea, computadoras, internet, mac, iloveyou, apple
+draft: false
 post_id: blog-3515952828243908885.post-3032186789691031186
 ---
 

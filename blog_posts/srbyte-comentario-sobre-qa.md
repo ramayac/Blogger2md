@@ -3,6 +3,7 @@ title: Comentario sobre "QA"...
 date: 2009-05-08
 author: Rodrigo Amaya
 tags: qa, software, humor, calidad
+draft: false
 post_id: blog-3515952828243908885.post-3527604076687658038
 ---
 

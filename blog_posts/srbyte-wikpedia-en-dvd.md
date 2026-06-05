@@ -3,6 +3,7 @@ title: Wikpedia en DVD
 date: 2007-05-02
 author: Rodrigo Amaya
 tags: wikipedia, libre, educacion, free, dvd
+draft: false
 post_id: blog-3515952828243908885.post-8415687457758136752
 ---
 

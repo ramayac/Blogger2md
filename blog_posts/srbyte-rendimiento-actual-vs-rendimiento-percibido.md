@@ -3,6 +3,7 @@ title: Rendimiento Actual vs. Rendimiento Percibido
 date: 2008-03-05
 author: Rodrigo Amaya
 tags: programador, bad, vista, programacion, interesante, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-2477388422239409630
 ---
 

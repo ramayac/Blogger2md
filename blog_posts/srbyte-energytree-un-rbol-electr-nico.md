@@ -3,6 +3,7 @@ title: EnergyTree (un árbol... electrónico)
 date: 2007-05-08
 author: Rodrigo Amaya
 tags: arbol, microsoft, energia
+draft: false
 post_id: blog-3515952828243908885.post-3047677923308355199
 ---
 

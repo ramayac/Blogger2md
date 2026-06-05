@@ -3,6 +3,7 @@ title: Desarrollo Agil (Agile Development)
 date: 2008-10-20
 author: Rodrigo Amaya
 tags: opinion, agil, desarrollo, programacion
+draft: false
 post_id: blog-3515952828243908885.post-3190405122650174906
 ---
 

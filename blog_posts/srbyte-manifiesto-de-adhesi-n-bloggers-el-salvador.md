@@ -3,6 +3,7 @@ title: Manifiesto de adhesión, Bloggers El Salvador
 date: 2007-09-16
 author: Rodrigo Amaya
 tags: blog, manifiesto, el salvador
+draft: false
 post_id: blog-3515952828243908885.post-8493833101861730876
 ---
 

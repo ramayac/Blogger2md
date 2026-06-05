@@ -3,6 +3,7 @@ title: Un breve paseo por Adobe Audition
 date: 2008-11-23
 author: Wendy Aparicio
 tags: opinion, fusion, tutorial, recomendado, adobe, musica, herramienta, informacion, curioso
+draft: false
 post_id: blog-3515952828243908885.post-3956211021153766016
 ---
 

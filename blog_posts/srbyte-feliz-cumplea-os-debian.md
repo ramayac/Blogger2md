@@ -3,6 +3,7 @@ title: Feliz Cumpleaños Debian!
 date: 2008-08-16
 author: Robertux
 tags: informatico, debian, free, internet, recomendado, interesante, programacion, day, geek, gnu, computadoras, evento, linux, desktop, ubuntu, tecnologia
+draft: false
 post_id: blog-3515952828243908885.post-5743602935186279806
 ---
 

@@ -3,6 +3,7 @@ title: Ubuntu 7.04 Feisty Fawn: libre y salvaje.
 date: 2007-04-19
 author: Rodrigo Amaya
 tags: libre, gnu, linux, bittorrent, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-751141320540897991
 ---
 

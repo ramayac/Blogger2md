@@ -3,6 +3,7 @@ title: Apple... iLoveyou ! (especial de San Valentin)
 date: 2007-02-14
 author: Rodrigo Amaya
 tags: vista, windows, iloveyou, iphone, apple
+draft: false
 post_id: blog-3515952828243908885.post-4025816935537014639
 ---
 

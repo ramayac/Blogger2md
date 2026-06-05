@@ -3,6 +3,7 @@ title: Billy G. (Bill Gates) se retira de Microsoft...
 date: 2008-06-16
 author: Rodrigo Amaya
 tags: microsoft
+draft: false
 post_id: blog-3515952828243908885.post-4402734387163061902
 ---
 

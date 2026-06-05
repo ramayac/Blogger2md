@@ -3,6 +3,7 @@ title: ¿Eres Mac, o eres PC? (Todos somos PC)
 date: 2008-11-29
 author: Rodrigo Amaya
 tags: opinion, linux, windows, mac, apple
+draft: false
 post_id: blog-3515952828243908885.post-1243877703987885461
 ---
 

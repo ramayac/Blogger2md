@@ -3,6 +3,7 @@ title: Bitwise 2009: Demuestra cuan buen programador eres!
 date: 2009-02-07
 author: Robertux
 tags: premios, c++, gcc, lenguaje, codigo, programacion, matematica
+draft: false
 post_id: blog-3515952828243908885.post-7492151323197734901
 ---
 

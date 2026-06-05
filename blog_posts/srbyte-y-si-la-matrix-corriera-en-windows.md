@@ -3,6 +3,7 @@ title: ¿Y si la Matrix corriera en Windows?
 date: 2008-11-12
 author: Rodrigo Amaya
 tags: humor, windows, funny, matrix
+draft: false
 post_id: blog-3515952828243908885.post-1930079345954609576
 ---
 

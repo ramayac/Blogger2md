@@ -3,6 +3,7 @@ title: Oracle Compra a Sun Microsystems
 date: 2009-04-20
 author: Robertux
 tags: srbyte
+draft: false
 post_id: blog-3515952828243908885.post-4683499292409589782
 ---
 

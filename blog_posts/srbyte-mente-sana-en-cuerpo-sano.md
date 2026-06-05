@@ -3,6 +3,7 @@ title: Mente Sana en Cuerpo Sano
 date: 2008-03-18
 author: Robertux
 tags: semana santa, playa, vacaciones, geek
+draft: false
 post_id: blog-3515952828243908885.post-7425954172727667777
 ---
 

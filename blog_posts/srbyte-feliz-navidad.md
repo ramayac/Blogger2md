@@ -3,6 +3,7 @@ title: ¡Feliz Navidad!
 date: 2008-12-25
 author: Rodrigo Amaya
 tags: navidad, nintendo, juegos, geek
+draft: false
 post_id: blog-3515952828243908885.post-3780479075595043745
 ---
 

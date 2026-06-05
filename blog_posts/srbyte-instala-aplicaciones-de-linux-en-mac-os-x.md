@@ -3,6 +3,7 @@ title: Instala aplicaciones de Linux en Mac OS X
 date: 2007-05-12
 author: Rodrigo Amaya
 tags: libre, linux, fantastico, mac, apple
+draft: false
 post_id: blog-3515952828243908885.post-5776432449580002349
 ---
 

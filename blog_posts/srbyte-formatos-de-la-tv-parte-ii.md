@@ -3,6 +3,7 @@ title: Formatos de la TV (Parte II)
 date: 2008-09-25
 author: Wendy Aparicio
 tags: video, interesante, tv
+draft: false
 post_id: blog-3515952828243908885.post-8503820463254019634
 ---
 

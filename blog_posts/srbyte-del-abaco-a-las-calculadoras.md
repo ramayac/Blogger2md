@@ -3,6 +3,7 @@ title: Del Abaco a las Calculadoras
 date: 2007-08-10
 author: Rodrigo Amaya
 tags: abaco, calculadora, pascal, plankalkuel
+draft: false
 post_id: blog-3515952828243908885.post-7524185065725229952
 ---
 

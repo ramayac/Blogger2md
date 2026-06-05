@@ -3,6 +3,7 @@ title: Test
 date: 2009-12-26
 author: Robertux
 tags: srbyte
+draft: true
 post_id: blog-3515952828243908885.post-1183536128997459740
 ---
 

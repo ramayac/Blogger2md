@@ -3,6 +3,7 @@ title: Feliz Cumpleaños DAMR.NET!
 date: 2008-07-07
 author: Rodrigo Amaya
 tags: curioso
+draft: false
 post_id: blog-3515952828243908885.post-195792457405184704
 ---
 

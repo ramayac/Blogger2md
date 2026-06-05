@@ -3,6 +3,7 @@ title: Yo Frankie! (Un juego creado con Blender)
 date: 2008-12-21
 author: Rodrigo Amaya
 tags: apricot, 3d, juegos, blender
+draft: false
 post_id: blog-3515952828243908885.post-7537335898152599645
 ---
 

@@ -3,6 +3,7 @@ title: Red de Artistas Sordos (Cátedra de Multimedia)
 date: 2008-11-17
 author: Rodrigo Amaya
 tags: video, lenguaje, señas, musica
+draft: false
 post_id: blog-3515952828243908885.post-184478229985336110
 ---
 

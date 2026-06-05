@@ -3,6 +3,7 @@ title: La Maquina de Turing...
 date: 2007-12-31
 author: Rodrigo Amaya
 tags: alan turing, teoria
+draft: false
 post_id: blog-3515952828243908885.post-4607928593943177246
 ---
 

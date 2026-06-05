@@ -3,6 +3,7 @@ title: Cloud Computing: El futuro del software?
 date: 2008-08-06
 author: Robertux
 tags: srbyte
+draft: true
 post_id: blog-3515952828243908885.post-8532140114967269037
 ---
 

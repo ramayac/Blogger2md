@@ -3,6 +3,7 @@ title: Busquedas de Google: Popularidad o Relevancia?
 date: 2008-06-09
 author: Robertux
 tags: firefox, blog, debian, correo, internet, interesante, twitter, computadoras, buscar, email, tecnicas, google
+draft: false
 post_id: blog-3515952828243908885.post-5363505763925015445
 ---
 

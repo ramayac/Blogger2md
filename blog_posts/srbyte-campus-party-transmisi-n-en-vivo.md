@@ -3,6 +3,7 @@ title: Campus Party (Transmisión en Vivo)
 date: 2008-10-28
 author: Rodrigo Amaya
 tags: campus, party, iberoamerica
+draft: false
 post_id: blog-3515952828243908885.post-2708636742182743041
 ---
 

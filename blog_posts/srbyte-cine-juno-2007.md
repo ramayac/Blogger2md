@@ -3,6 +3,7 @@ title: Cine: Juno (2007)
 date: 2008-03-07
 author: Rodrigo Amaya
 tags: cine
+draft: false
 post_id: blog-3515952828243908885.post-2154685893459932339
 ---
 

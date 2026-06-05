@@ -3,6 +3,7 @@ title: FlashBlock (Complemento de FireFox recomendada)
 date: 2008-10-07
 author: Rodrigo Amaya
 tags: firefox, complementos, util, recomendado, flash, addon
+draft: false
 post_id: blog-3515952828243908885.post-1848611163059965398
 ---
 

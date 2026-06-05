@@ -3,6 +3,7 @@ title: ¿A quién seguir en Twitter?
 date: 2008-09-12
 author: Rodrigo Amaya
 tags: web 2.0, el salvador, twitter
+draft: false
 post_id: blog-3515952828243908885.post-7725267303473764154
 ---
 

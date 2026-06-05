@@ -3,6 +3,7 @@ title: Fabricantes descontinúan el proyecto Origami de Microsoft
 date: 2007-05-09
 author: Rodrigo Amaya
 tags: bad, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-6539930810951644165
 ---
 

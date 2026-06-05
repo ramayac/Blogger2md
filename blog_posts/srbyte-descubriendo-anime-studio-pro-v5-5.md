@@ -3,6 +3,7 @@ title: Descubriendo Anime Studio Pro v5.5
 date: 2008-10-26
 author: Wendy Aparicio
 tags: divertido, animacion, software, adobe, flash, manga, informacion, anime
+draft: false
 post_id: blog-3515952828243908885.post-8568108239776860512
 ---
 

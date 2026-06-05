@@ -3,6 +3,7 @@ title: MoMA, la mamá de los monos...
 date: 2007-07-20
 author: Rodrigo Amaya
 tags: libre, gnu, linux, .net, software, mono
+draft: false
 post_id: blog-3515952828243908885.post-5401259346683657008
 ---
 

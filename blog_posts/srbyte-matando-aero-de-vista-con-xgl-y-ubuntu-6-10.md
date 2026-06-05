@@ -3,6 +3,7 @@ title: Matando Aero (de Vista) con XGL y Ubuntu 6.10
 date: 2007-05-25
 author: Rodrigo Amaya
 tags: linux, vista, windows, ubuntu, youtube
+draft: false
 post_id: blog-3515952828243908885.post-2586558032442846776
 ---
 

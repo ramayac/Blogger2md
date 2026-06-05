@@ -3,6 +3,7 @@ title: ¿Qué es Heurística?
 date: 2009-10-14
 author: Rodrigo Amaya
 tags: algoritmos, heuristica
+draft: false
 post_id: blog-3515952828243908885.post-6943288365160740787
 ---
 

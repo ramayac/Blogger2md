@@ -3,6 +3,7 @@ title: Google Moderator
 date: 2008-09-25
 author: Rodrigo Amaya
 tags: web 2.0, servicio, google
+draft: false
 post_id: blog-3515952828243908885.post-8496322193693124791
 ---
 

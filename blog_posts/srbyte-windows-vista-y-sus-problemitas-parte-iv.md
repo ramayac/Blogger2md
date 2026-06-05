@@ -3,6 +3,7 @@ title: Windows Vista y sus "problemitas" [Parte IV]
 date: 2007-02-08
 author: Rodrigo Amaya
 tags: drm, bad, vista, windows, mac, ipod
+draft: false
 post_id: blog-3515952828243908885.post-592933366420728801
 ---
 

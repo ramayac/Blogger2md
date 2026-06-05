@@ -3,6 +3,7 @@ title: Administra Online tus Propósitos Para Año Nuevo
 date: 2009-12-30
 author: Robertux
 tags: administrar, todo, zen, google, iphone
+draft: false
 post_id: blog-3515952828243908885.post-7870303207297160592
 ---
 

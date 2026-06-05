@@ -3,6 +3,7 @@ title: Redacción y estilo
 date: 2009-02-14
 author: Wendy Aparicio
 tags: texto, agil, lenguaje, identidad, redacción, herramienta
+draft: false
 post_id: blog-3515952828243908885.post-4864664620498141474
 ---
 

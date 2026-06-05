@@ -3,6 +3,7 @@ title: Metisse + Linux = Productividad
 date: 2007-05-27
 author: Rodrigo Amaya
 tags: mandriva, linux, metisse, youtube
+draft: false
 post_id: blog-3515952828243908885.post-343951421058160238
 ---
 

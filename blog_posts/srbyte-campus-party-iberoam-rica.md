@@ -3,6 +3,7 @@ title: Campus Party Iberoamérica
 date: 2008-10-27
 author: Rodrigo Amaya
 tags: campus, party, iberoamerica
+draft: false
 post_id: blog-3515952828243908885.post-3337212284997880618
 ---
 

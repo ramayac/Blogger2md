@@ -3,6 +3,7 @@ title: Herramientas del Programador: Unit Testing
 date: 2008-12-11
 author: Robertux
 tags: .net, desarrollo, software, lenguaje, codigo, tecnicas, programacion, herramienta
+draft: false
 post_id: blog-3515952828243908885.post-4202301501316594182
 ---
 

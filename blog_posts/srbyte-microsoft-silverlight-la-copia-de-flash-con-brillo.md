@@ -3,6 +3,7 @@ title: Microsoft Silverlight ( la copia de Flash ) con brillo opaco
 date: 2007-05-03
 author: Rodrigo Amaya
 tags: propietario, bad, software, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-4897511027394864358
 ---
 

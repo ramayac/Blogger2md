@@ -3,6 +3,7 @@ title: Creative Commons 3.0
 date: 2007-03-04
 author: Rodrigo Amaya
 tags: drm, libre, Creative Commons
+draft: false
 post_id: blog-3515952828243908885.post-5208485811875435100
 ---
 

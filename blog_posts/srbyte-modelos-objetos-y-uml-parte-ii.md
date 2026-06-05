@@ -3,6 +3,7 @@ title: Modelos, Objetos y UML [ Parte II ]
 date: 2007-04-24
 author: Rodrigo Amaya
 tags: UML, programacion, youtube
+draft: false
 post_id: blog-3515952828243908885.post-8997891708762868638
 ---
 

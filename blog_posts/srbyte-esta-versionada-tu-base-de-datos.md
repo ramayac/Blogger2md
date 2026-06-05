@@ -3,6 +3,7 @@ title: ¿Esta versionada tu Base de Datos?
 date: 2008-05-14
 author: Rodrigo Amaya
 tags: subversion, programacion, svn
+draft: false
 post_id: blog-3515952828243908885.post-1925728383852479214
 ---
 

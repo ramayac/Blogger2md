@@ -3,6 +3,7 @@ title: ¡Ganate un Nokia 5800 XpressMusic!
 date: 2009-06-17
 author: Rodrigo Amaya
 tags: nokia, 5800, nokia 5800, el salvador
+draft: false
 post_id: blog-3515952828243908885.post-3909528218121138616
 ---
 

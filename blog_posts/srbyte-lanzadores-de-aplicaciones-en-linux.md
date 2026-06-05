@@ -3,6 +3,7 @@ title: Lanzadores de Aplicaciones en Linux
 date: 2008-12-23
 author: Robertux
 tags: escritorio, linux, buscar, software, desktop, kde, herramienta, gnome, productividad
+draft: false
 post_id: blog-3515952828243908885.post-4266851654623863945
 ---
 

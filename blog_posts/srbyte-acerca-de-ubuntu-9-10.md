@@ -3,6 +3,7 @@ title: Acerca de Ubuntu 9.10...
 date: 2009-10-29
 author: Rodrigo Amaya
 tags: ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-8699972522184725240
 ---
 

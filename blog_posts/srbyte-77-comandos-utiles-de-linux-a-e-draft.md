@@ -3,6 +3,7 @@ title: 77 comandos utiles de Linux [A-E]
 date: 2007-12-25
 author: Rodrigo Amaya
 tags: srbyte
+draft: true
 post_id: blog-3515952828243908885.post-8685763810750220348
 ---
 

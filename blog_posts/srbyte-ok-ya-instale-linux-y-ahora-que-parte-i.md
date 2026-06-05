@@ -3,6 +3,7 @@ title: OK Ya Instale Linux. Y ahora que? (Parte I)
 date: 2008-11-14
 author: Robertux
 tags: metacity, theme, gtk, compiz, linux, fusion, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-2379895716858352709
 ---
 

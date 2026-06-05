@@ -3,6 +3,7 @@ title: El video que resume las redes sociales
 date: 2008-05-26
 author: Rodrigo Amaya
 tags: video, social, network, fun
+draft: false
 post_id: blog-3515952828243908885.post-1545889425233184615
 ---
 

@@ -3,6 +3,7 @@ title: ¿Por que aprender Python?
 date: 2009-01-22
 author: Rodrigo Amaya
 tags: python, programacion
+draft: false
 post_id: blog-3515952828243908885.post-7008671535066090185
 ---
 

@@ -3,6 +3,7 @@ title: La estrategia de salida de Bill Gates...
 date: 2008-02-29
 author: Rodrigo Amaya
 tags: bad, interesante, descifrar, microsoft, nerd
+draft: false
 post_id: blog-3515952828243908885.post-8888143693865710740
 ---
 

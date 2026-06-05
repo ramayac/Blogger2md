@@ -3,6 +3,7 @@ title: Tertulia Iberoamericana
 date: 2008-11-03
 author: Rodrigo Amaya
 tags: blogger, tertulia
+draft: false
 post_id: blog-3515952828243908885.post-3356563084233921536
 ---
 

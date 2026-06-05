@@ -3,6 +3,7 @@ title: Windows Cloud OS (El Anuncio)
 date: 2008-10-03
 author: Rodrigo Amaya
 tags: opinion, cloud, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-2757394948983613142
 ---
 

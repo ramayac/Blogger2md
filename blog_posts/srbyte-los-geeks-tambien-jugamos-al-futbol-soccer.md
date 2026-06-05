@@ -3,6 +3,7 @@ title: Los Geeks Tambien Jugamos al Futbol(Soccer)
 date: 2008-02-08
 author: Robertux
 tags: deportes, ajedrez, blog, evento, futbol, nerd, geek
+draft: false
 post_id: blog-3515952828243908885.post-8897404539260371293
 ---
 

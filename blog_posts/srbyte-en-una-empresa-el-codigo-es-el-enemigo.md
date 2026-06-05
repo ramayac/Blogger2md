@@ -3,6 +3,7 @@ title: En una empresa: el codigo es el enemigo.
 date: 2009-01-05
 author: Rodrigo Amaya
 tags: opinion, programador, desarrollo, codigo, programacion, empresa
+draft: false
 post_id: blog-3515952828243908885.post-7306574518742230336
 ---
 

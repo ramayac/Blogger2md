@@ -3,6 +3,7 @@ title: ¿Por qué Aprender RPG?
 date: 2009-10-07
 author: Robertux
 tags: java, final fantasy, rpg, lenguaje, programacion, ibm, as400
+draft: false
 post_id: blog-3515952828243908885.post-611953506305124648
 ---
 

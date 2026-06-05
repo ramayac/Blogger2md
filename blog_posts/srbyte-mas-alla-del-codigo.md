@@ -3,6 +3,7 @@ title: Mas Alla del Codigo
 date: 2009-01-19
 author: Robertux
 tags: diseño, desarrollo, codigo, tecnicas, programacion, empresa, tecnologia, productividad
+draft: false
 post_id: blog-3515952828243908885.post-6666859612758395412
 ---
 

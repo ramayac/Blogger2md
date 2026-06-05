@@ -3,6 +3,7 @@ title: Lo mejor del 2008: Adobe Air
 date: 2008-12-20
 author: Robertux
 tags: escritorio, linux, framework, desktop, twitter, adobe, google, air, youtube
+draft: false
 post_id: blog-3515952828243908885.post-3280988230629330854
 ---
 

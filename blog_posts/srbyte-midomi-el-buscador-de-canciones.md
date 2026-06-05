@@ -3,6 +3,7 @@ title: Midomi, el buscador de canciones...
 date: 2008-07-12
 author: Rodrigo Amaya
 tags: buscar, musica
+draft: false
 post_id: blog-3515952828243908885.post-3076634438102502473
 ---
 

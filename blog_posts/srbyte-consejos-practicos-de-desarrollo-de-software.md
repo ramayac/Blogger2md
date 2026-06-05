@@ -3,6 +3,7 @@ title: Consejos practicos de desarrollo de software...
 date: 2008-07-25
 author: Rodrigo Amaya
 tags: programador, util, codigo, programacion
+draft: false
 post_id: blog-3515952828243908885.post-374203369363987302
 ---
 

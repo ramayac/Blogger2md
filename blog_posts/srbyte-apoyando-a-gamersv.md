@@ -3,6 +3,7 @@ title: Apoyando a GamerSV
 date: 2009-09-20
 author: Rodrigo Amaya
 tags: apoyo, gamer, el salvador, gamersv
+draft: false
 post_id: blog-3515952828243908885.post-1536000646527945718
 ---
 

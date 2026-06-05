@@ -3,6 +3,7 @@ title: Lugares donde todos queremos trabajar!
 date: 2008-04-03
 author: Rodrigo Amaya
 tags: administrar, educacion, diseño, util, fantastico, arquitectura, interesante, google
+draft: false
 post_id: blog-3515952828243908885.post-4061665807181981257
 ---
 

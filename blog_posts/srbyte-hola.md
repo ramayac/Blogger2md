@@ -3,6 +3,7 @@ title: Hola!
 date: 2007-01-12
 author: Rodrigo Amaya
 tags: hola
+draft: false
 post_id: blog-3515952828243908885.post-2263059160031746943
 ---
 

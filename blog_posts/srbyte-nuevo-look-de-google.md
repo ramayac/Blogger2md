@@ -3,6 +3,7 @@ title: Nuevo Look de Google
 date: 2009-11-30
 author: Rodrigo Amaya
 tags: tips, mini, google
+draft: false
 post_id: blog-3515952828243908885.post-7389951230295028930
 ---
 

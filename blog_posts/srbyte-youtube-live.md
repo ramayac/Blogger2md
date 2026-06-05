@@ -3,6 +3,7 @@ title: Youtube Live!
 date: 2008-11-29
 author: Robertux
 tags: video, streaming, web 2.0, evento, fun, internet, entrenamiento, interesante, live, youtube
+draft: false
 post_id: blog-3515952828243908885.post-7787899773040694351
 ---
 

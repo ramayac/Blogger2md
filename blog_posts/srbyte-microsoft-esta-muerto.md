@@ -3,6 +3,7 @@ title: Microsoft esta MUERTO
 date: 2007-04-08
 author: Rodrigo Amaya
 tags: propietario, vista, software, windows, google, microsoft, youtube
+draft: false
 post_id: blog-3515952828243908885.post-8632268147772671493
 ---
 

@@ -3,6 +3,7 @@ title: Un vistazo al código de Google Chrome (Opinión)
 date: 2008-09-14
 author: Rodrigo Amaya
 tags: open source, opinion, libre, programador, software, codigo, google
+draft: false
 post_id: blog-3515952828243908885.post-8311296546419745089
 ---
 

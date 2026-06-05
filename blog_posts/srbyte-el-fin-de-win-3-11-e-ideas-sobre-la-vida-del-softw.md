@@ -3,6 +3,7 @@ title: El Fin de Win 3.11 e Ideas Sobre la Vida del Software
 date: 2008-11-07
 author: Rodrigo Amaya
 tags: srbyte
+draft: false
 post_id: blog-3515952828243908885.post-323149589924915319
 ---
 

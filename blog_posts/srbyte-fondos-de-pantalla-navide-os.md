@@ -3,6 +3,7 @@ title: Fondos de Pantalla Navideños
 date: 2008-12-22
 author: Robertux
 tags: navidad, blog, año nuevo, escritorio, wallpaper, twitter
+draft: false
 post_id: blog-3515952828243908885.post-6704300456622742813
 ---
 

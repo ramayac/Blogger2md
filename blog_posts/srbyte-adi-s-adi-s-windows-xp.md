@@ -3,6 +3,7 @@ title: Adiós adiós Windows XP...
 date: 2008-06-30
 author: Rodrigo Amaya
 tags: vista, windows, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-3411014803261389909
 ---
 

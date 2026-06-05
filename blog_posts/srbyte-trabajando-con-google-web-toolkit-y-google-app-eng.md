@@ -3,6 +3,7 @@ title: Trabajando con Google Web Toolkit y Google App Engine
 date: 2009-10-24
 author: Robertux
 tags: ruby, java, linux, framework, ajax, python, google, appengine
+draft: false
 post_id: blog-3515952828243908885.post-3289853482720812936
 ---
 

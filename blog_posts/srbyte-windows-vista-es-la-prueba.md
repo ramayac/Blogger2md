@@ -3,6 +3,7 @@ title: Windows Vista es la prueba.
 date: 2007-02-10
 author: Rodrigo Amaya
 tags: drm, gnu, linux, bad, vista, windows
+draft: false
 post_id: blog-3515952828243908885.post-1927953540873832768
 ---
 

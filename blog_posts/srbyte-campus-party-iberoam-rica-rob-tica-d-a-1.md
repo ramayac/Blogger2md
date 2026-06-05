@@ -3,6 +3,7 @@ title: Campus Party Iberoamérica - Robótica (Día 1)
 date: 2008-10-29
 author: Rodrigo Amaya
 tags: robotica, campus, party, iberoamerica
+draft: false
 post_id: blog-3515952828243908885.post-6560339885713532551
 ---
 

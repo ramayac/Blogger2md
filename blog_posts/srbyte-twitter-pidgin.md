@@ -3,6 +3,7 @@ title: Twitter + Pidgin
 date: 2008-11-10
 author: Rodrigo Amaya
 tags: pidgin, twitter
+draft: false
 post_id: blog-3515952828243908885.post-6763706832637729990
 ---
 

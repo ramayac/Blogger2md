@@ -3,6 +3,7 @@ title: Free Hugs... as in free speech
 date: 2007-01-23
 author: Rodrigo Amaya
 tags: free, hugs
+draft: false
 post_id: blog-3515952828243908885.post-8976746735875421871
 ---
 

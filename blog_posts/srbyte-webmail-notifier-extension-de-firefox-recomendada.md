@@ -3,6 +3,7 @@ title: WebMail Notifier (Extension de FireFox recomendada)
 date: 2008-07-21
 author: Rodrigo Amaya
 tags: firefox, complementos, addon
+draft: false
 post_id: blog-3515952828243908885.post-2309706133110783938
 ---
 

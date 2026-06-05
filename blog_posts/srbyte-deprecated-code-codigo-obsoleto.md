@@ -3,6 +3,7 @@ title: Deprecated Code (Codigo Obsoleto)
 date: 2009-04-18
 author: Rodrigo Amaya
 tags: documentacion, practicas, codigo
+draft: false
 post_id: blog-3515952828243908885.post-1093618359359466506
 ---
 

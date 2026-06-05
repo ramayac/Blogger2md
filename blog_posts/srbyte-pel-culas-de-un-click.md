@@ -3,6 +3,7 @@ title: Películas de un click
 date: 2008-12-26
 author: Wendy Aparicio
 tags: agil, cine, fun, cineastas, entrenamiento
+draft: false
 post_id: blog-3515952828243908885.post-6402711549856230782
 ---
 

@@ -3,6 +3,7 @@ title: Habilitar reinicio de XServer con teclado...
 date: 2009-11-19
 author: Rodrigo Amaya
 tags: xserver, karmic koala, ubuntu
+draft: false
 post_id: blog-3515952828243908885.post-7114288344831355383
 ---
 

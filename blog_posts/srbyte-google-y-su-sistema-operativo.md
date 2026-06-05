@@ -3,6 +3,7 @@ title: Google y su sistema operativo
 date: 2009-11-29
 author: Rodrigo Amaya
 tags: google os, chromium, chrome, google
+draft: false
 post_id: blog-3515952828243908885.post-3063941147229584264
 ---
 

@@ -3,6 +3,7 @@ title: No hay internet? usa Gears!
 date: 2008-08-06
 author: Robertux
 tags: firefox, complementos, offline, network, fun, tips, software, internet, interesante, recomendado, addon, web 2.0, computadoras, google, tecnologia, base de datos, herramienta
+draft: false
 post_id: blog-3515952828243908885.post-8504320822733563080
 ---
 

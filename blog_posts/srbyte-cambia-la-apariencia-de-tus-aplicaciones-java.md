@@ -3,6 +3,7 @@ title: Cambia la apariencia de tus aplicaciones Java
 date: 2008-10-02
 author: Robertux
 tags: java, swing, lookandfeel, nimbus, gui, programacion, mac, substance, nimrod, apple
+draft: false
 post_id: blog-3515952828243908885.post-7954172961803422846
 ---
 

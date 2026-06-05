@@ -3,6 +3,7 @@ title: In Quotes, Politica en Google
 date: 2008-09-24
 author: Rodrigo Amaya
 tags: politica, interesante, google
+draft: false
 post_id: blog-3515952828243908885.post-6583722155229137364
 ---
 

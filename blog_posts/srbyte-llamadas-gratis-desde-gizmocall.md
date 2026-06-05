@@ -3,6 +3,7 @@ title: Llamadas gratis desde GizmoCall...
 date: 2007-01-30
 author: Rodrigo Amaya
 tags: free, gizmo
+draft: false
 post_id: blog-3515952828243908885.post-552343952175156722
 ---
 

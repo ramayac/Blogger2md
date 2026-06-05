@@ -3,6 +3,7 @@ title: Cosas que NO debes hacer en una presentación
 date: 2008-11-02
 author: Rodrigo Amaya
 tags: tips, presentacion
+draft: false
 post_id: blog-3515952828243908885.post-3828441697870849947
 ---
 

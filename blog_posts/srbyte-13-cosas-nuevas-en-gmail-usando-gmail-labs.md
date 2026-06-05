@@ -3,6 +3,7 @@ title: 13 Cosas nuevas en Gmail (usando Gmail Labs)
 date: 2008-07-06
 author: Rodrigo Amaya
 tags: tips, gmail, interesante, google
+draft: false
 post_id: blog-3515952828243908885.post-8372435236899408882
 ---
 

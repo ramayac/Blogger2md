@@ -3,6 +3,7 @@ title: ¿Qué es un Flop? (y un PetaFlop)
 date: 2008-11-21
 author: Rodrigo Amaya
 tags: simulacion, super, computadoras, unix, flops
+draft: false
 post_id: blog-3515952828243908885.post-5739418024177795492
 ---
 

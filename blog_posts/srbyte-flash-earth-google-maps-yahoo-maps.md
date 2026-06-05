@@ -3,6 +3,7 @@ title: Flash Earth = Google Maps + Yahoo Maps + ...
 date: 2007-04-26
 author: Rodrigo Amaya
 tags: tierra, fantastico, yahoo, google, flash, microsoft
+draft: false
 post_id: blog-3515952828243908885.post-7759728794199761855
 ---
 

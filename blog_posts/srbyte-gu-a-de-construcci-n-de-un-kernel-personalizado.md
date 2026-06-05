@@ -3,6 +3,7 @@ title: Guía de Construcción de un Kernel Personalizado.
 date: 2007-07-12
 author: Rodrigo Amaya
 tags: linux, tutorial, kernel, guia
+draft: false
 post_id: blog-3515952828243908885.post-4817630226343999299
 ---
 

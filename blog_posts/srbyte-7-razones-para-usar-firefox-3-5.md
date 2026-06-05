@@ -3,6 +3,7 @@ title: 7 Razones para usar FireFox 3.5
 date: 2009-07-05
 author: Rodrigo Amaya
 tags: firefox
+draft: false
 post_id: blog-3515952828243908885.post-8074026752496442616
 ---
 

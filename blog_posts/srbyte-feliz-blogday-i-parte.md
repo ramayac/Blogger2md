@@ -3,6 +3,7 @@ title: ¡Feliz BlogDay! (I Parte)
 date: 2008-08-31
 author: Robertux
 tags: blog, divertido, personal, diseño, debian, fun, internet, interesante, day, geek, happy, computadoras, linux, desarrollo, el salvador
+draft: false
 post_id: blog-3515952828243908885.post-2484286887758790160
 ---
 

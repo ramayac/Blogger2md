@@ -3,6 +3,7 @@ title: Blog Action Day: Combatiendo la Pobreza con Tecnologia
 date: 2008-10-15
 author: Robertux
 tags: administrar, blogger, dinero, blog, personal, free, software, pobreza, programacion, day, opinion, economia, computadoras, mac, energia
+draft: false
 post_id: blog-3515952828243908885.post-3183870948219965687
 ---
 

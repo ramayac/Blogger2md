@@ -3,6 +3,7 @@ title: Kernel, Almendras, Ventanas y Circulos Viciosos...
 date: 2007-07-08
 author: Rodrigo Amaya
 tags: libre, gnu, virtualizacion, linux, software, kernel
+draft: false
 post_id: blog-3515952828243908885.post-1172145899024398733
 ---
 
