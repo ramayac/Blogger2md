@@ -433,7 +433,7 @@ def bundle_markdown_files(output_dir: str = "blog_posts", bundle_path: str = "bi
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Convert Blogger XML export to Markdown posts")
-    parser.add_argument("--xml", default="srbyte.xml", help="Path to the Blogger XML file (default: srbyte.xml)")
+    parser.add_argument("--xml", default="feed.atom", help="Path to the Blogger Atom file (default: feed.atom)")
     parser.add_argument("--out", default="blog_posts", help="Output directory for Markdown files (default: blog_posts)")
     parser.add_argument("--include-comments", action="store_true", help="Include comment entries (kind#comment) in output")
     parser.add_argument("--bundle", action="store_true", help="After generating posts, bundle all .md files into a single big.md")
