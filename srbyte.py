@@ -221,7 +221,7 @@ def clean_text_to_markdown(text: str) -> str:
     
     return text.strip()
 
-def parse_blogger_xml(file_path: str, output_dir: str = "blog_posts", include_comments: bool = False):
+def parse_blogger_xml(file_path: str, output_dir: str = "blog_posts", include_comments: bool = False, export_drafts: bool = False):
     """
     Parses the Blogger XML file or Atom feed file and creates individual Markdown files for each entry.
     Supports both the original Blogger export XML format and the newer Google Takeout Blogger 2018 feed.atom format.
@@ -332,6 +332,10 @@ def parse_blogger_xml(file_path: str, output_dir: str = "blog_posts", include_co
             
             tags = ', '.join(filtered_tags) if filtered_tags else 'srbyte'
 
+        # Skip drafts if not exporting them
+        if is_draft and not export_drafts:
+            continue
+
         # Extract title
         title_element = entry.find('atom:title', namespaces)
         title = title_element.text if title_element is not None and title_element.text else entry_id
@@ -435,9 +439,10 @@ if __name__ == "__main__":
     parser.add_argument("--bundle", action="store_true", help="After generating posts, bundle all .md files into a single big.md")
     parser.add_argument("--bundle-path", default="big.md", help="Path/name for the bundled Markdown file (default: big.md)")
     parser.add_argument("--include-drafts-in-bundle", action="store_true", help="Include draft posts in the bundled big.md file")
+    parser.add_argument("--export-drafts", action="store_true", help="Export draft posts as markdown files")
     args = parser.parse_args()
 
-    parse_blogger_xml(args.xml, output_dir=args.out, include_comments=args.include_comments)
+    parse_blogger_xml(args.xml, output_dir=args.out, include_comments=args.include_comments, export_drafts=args.export_drafts)
     if args.bundle:
         out_path = bundle_markdown_files(
             args.out, 
