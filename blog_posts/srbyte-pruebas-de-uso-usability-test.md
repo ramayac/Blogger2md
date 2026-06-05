@@ -19,8 +19,7 @@ Rayos!, esa, si que es una pregunta muy importante, no solo porque tienes que sa
 
 Que este sea el mantra de esta semana:
 
-> "Mi aplicación deberá facilitar la vida del usuario
-> final."
+> "Mi aplicación deberá facilitar la vida del usuario > final."
 La manera para asegurarte de que este mantra se cumpla lo máximo posible es utilizando las [Pruebas de Uso](https://en.wikipedia.org/wiki/Usability_testing). En el sentido técnico una Prueba de Uso consiste en realizar una prueba de "caja negra" a tu software. Es decir, observar a las personas que van a usar el producto, REALMENTE usándolo para descubrir errores y ÁREAS de mejora.
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SbB842QJbyI/AAAAAAAAB58/nNfPj9A50LY/s320/eyetracking_corporate_site_about_us.png)    
@@ -49,24 +48,13 @@ En el [blog de Robin Good](https://www.masternewmedia.org/es/2007/05/02/pruebas_
 
 ##
 
-> ## "A/B
-> split testing
-> style="font-size:85%;">Por Lisa Halabi
-
-> A partir de cualquier estudio de usabilidad de
-> sitio web, generalmente se encuentran un número de href="https://www.masternewmedia.org/es/2006/12/13/pruebas_de_usabilidad_de_sitios.htm">problemas
-> de usabilidad. A menudo puede suscitarse un debate dentro de una organización para
-> hallar la solución a cada problema, sin que nadie conozca realmente la solución óptima.
-> En vez de dejar que
-> prevalezca la opinión de la persona que grita más style="font-size:85%;">, una mejor opción puede ser probar dos soluciones en un entorno en
-> vivo. Aquella que tenga el mejor rendimiento es claramente la solución superior. ¡Bienvenido
-> al A/B split testing! href="https://www.masternewmedia.org/es/2007/05/02/pruebas_de_usabilidad_analisis_del.htm">...
-> click aquí para leer mas."
+> ## "A/B > split testing > style="font-size:85%;">Por Lisa Halabi > A partir de cualquier estudio de usabilidad de > sitio web, generalmente se encuentran un número de href="https://www.masternewmedia.org/es/2006/12/13/pruebas_de_usabilidad_de_sitios.htm">problemas > de usabilidad. A menudo puede suscitarse un debate dentro de una organización para > hallar la solución a cada problema, sin que nadie conozca realmente la solución óptima. > En vez de dejar que > prevalezca la opinión de la persona que grita más style="font-size:85%;">, una mejor opción puede ser probar dos soluciones en un entorno en > vivo. Aquella que tenga el mejor rendimiento es claramente la solución superior. ¡Bienvenido > al A/B split testing! href="https://www.masternewmedia.org/es/2007/05/02/pruebas_de_usabilidad_analisis_del.htm">... > click aquí para leer mas."
 >
 
 Aquí la clave (resaltada en negritas) es no dejar que prevalezca la opinión del que grita mas, sino la mejor opción, pero para el usuario.
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SbB9Vh8ntZI/AAAAAAAAB6M/dlKMuqkiKb8/s320/steveDontMakeMeThink.jpg)     Steve Krug en su libro [Don't Make Me Think!](https://www.amazon.com/Think-Common-Sense-Approach-Usability/dp/0789723107), en el capitulo nueve, plantea una serie de aclaraciones sobre las Pruebas de Uso, que toda persona que este encargada de crear software debe de leer, pueden encontrar el capitulo 9 (en Ingles) de la primera edición de este genial libro [dando clic aquí.](https://sensible.com/Downloads/DMMTchapter09_for_personal_use_only.pdf)
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SbB9Vh8ntZI/AAAAAAAAB6M/dlKMuqkiKb8/s320/steveDontMakeMeThink.jpg)    
+Steve Krug en su libro [Don't Make Me Think!](https://www.amazon.com/Think-Common-Sense-Approach-Usability/dp/0789723107), en el capitulo nueve, plantea una serie de aclaraciones sobre las Pruebas de Uso, que toda persona que este encargada de crear software debe de leer, pueden encontrar el capitulo 9 (en Ingles) de la primera edición de este genial libro [dando clic aquí.](https://sensible.com/Downloads/DMMTchapter09_for_personal_use_only.pdf)
 
 Espero, sinceramente, que la próxima vez que estén en un proyecto de software, que se preocupen constantemente, en la opinión del usuario final, final, final (el que realmente usara tu software todos los dias, para hacer su vida mas fácil). Para que de esta forma, realmente estés produciendo software enfocado al uso o a la "usabilidad".
 

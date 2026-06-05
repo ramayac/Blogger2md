@@ -19,14 +19,9 @@ El Anuncio de Steve Ballmer (hace algunos días) de un nuevo sistema operativo d
 > just call it for the purposes of today ‘Windows Cloud.”
 
 > Sr. Byte traduce:
-> "Necesitamos un nuevo sistema operativo, diseñado para
-> la nube (Internet), y les vamos a presentar uno en aproximadamente cuatro semanas, inclusive
-> tendremos un nombre para entonces. Pero solo llamemos le por ahora 'Windows
-> Cloud'".
+> "Necesitamos un nuevo sistema operativo, diseñado para > la nube (Internet), y les vamos a presentar uno en aproximadamente cuatro semanas, inclusive > tendremos un nombre para entonces. Pero solo llamemos le por ahora 'Windows > Cloud'".
 Esencialmente (como ya dije), seria un sistema que utilizara servicios y productos de Microsoft en una forma simplificada y amigable (ajá). No se ustedes, pero para mi suena como un gran suceso, pero Ballmer lo hace ver como algo casual, natural y trivial:
-> "Necesitamos un nuevo sistema
-> operativo, diseñado para la nube, y les vamos a presentar uno en aproximadamente cuatro
-> semanas".
+> "Necesitamos un nuevo sistema > operativo, diseñado para la nube, y les vamos a presentar uno en aproximadamente cuatro > semanas".
 ¿Solo cuatro semanas? (casualmente para el [Professional Developers Conference](https://www.microsoftpdc.com/) en Los Ángeles). Bueno, fieles creyentes y seguidores de Microsoft, permitan me recordarles que:
 
 > style="font-size:130%;"> ese no es el

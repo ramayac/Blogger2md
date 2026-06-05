@@ -17,7 +17,8 @@ Pueda que algunos solo lo hayan oído mencionar así que solo les brindo una sim
 
 PI es una constante matemática utilizada comúnmente en la geometría que representa la razón (o el cociente) de la longitud del perímetro de un círculo con respecto a la longitud su diámetro. Su valor suele redondearse a 3.1416 o 3.14159 aunque en realidad posee una cantidad infinita de decimales. En la wikipedia se encuentra más información al respecto y una imagen animada que ilustra muy claramente la relación perímetro/diámetro antes mencionada.
 
-[Acá](https://zenwerx.com/pi.php) pueden encontrar una aproximación de PI con al rededor de cuatro millones de decimales.
+[Acá](https://zenwerx.com/pi.php) pueden encontrar una
+aproximación de PI con al rededor de cuatro millones de decimales.
 
 - ¿Porqué se celebra hoy?
 El día PI se celebra comúnmente el día de hoy, 14 de marzo de cada año, de manera que se lea Marzo 3, día 14 las cuales son las primeras tres cifras que forman el número en cuestión: 3.14. Algunas personas lo celebran también el 22 de Julio(22 del 7), debido a que la fracción 22/7 es una aproximación común al valor de PI.

@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-3076634438102502473
 ---
 
-![image](https://bp3.blogger.com/_ayvorITawE4/SHjqYfOgiTI/AAAAAAAAA4k/nodHzATQ9oU/s400/midomi-logo.jpg)    Midomi es un buscador de música, pero no como los que conoces. Midomi implementa un avanzado sistema de búsqueda de música, en el que para encontrar una canción usas el micrófono de tu computadora para cantar o tararear una canción. Cuantas veces no has pasado días con una canción metida en tu cabeza, y no sabes de que canción se trata, y la tarareas a tus amigos para saber si ellos la conocen, y sueñas, con que algún día, puedas buscar música/sonidos en Internet. A mí me pasa muy seguido.
+![image](https://bp3.blogger.com/_ayvorITawE4/SHjqYfOgiTI/AAAAAAAAA4k/nodHzATQ9oU/s400/midomi-logo.jpg)    Midomi es un
+buscador de música, pero no como los que conoces. Midomi implementa un avanzado sistema de búsqueda de música, en el que para encontrar una canción usas el micrófono de tu computadora para cantar o tararear una canción. Cuantas veces no has pasado días con una canción metida en tu cabeza, y no sabes de que canción se trata, y la tarareas a tus amigos para saber si ellos la conocen, y sueñas, con que algún día, puedas buscar música/sonidos en Internet. A mí me pasa muy seguido.
 
 Así que tenia que probar si era cierto, me dispuse a ingresar a la pagina de Midomi, y comencé a cantar una canción algo popular (Best Of You, de los Foo Fighters) para ver si Midomi funciona tan bien como dicen:
 

@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-6419389697598290564
 ---
 
-![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SUhOJgxWFHI/AAAAAAAAFPQ/AQT1AByjnfQ/s400/play.jpg)     Una de las cosas que más hacemos al estar en nuestra computadora es escuchar música. Quizá es de los primeros programas que instalamos si es que acabamos de obtenerla o la hemos formateado ya que nos permite dejarla sonando mientras realizamos otras actividades típicas como chatear, navegar en Internet, hacer tareas, etc.
+![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SUhOJgxWFHI/AAAAAAAAFPQ/AQT1AByjnfQ/s400/play.jpg)    
+Una de las cosas que más hacemos al estar en nuestra computadora es escuchar música. Quizá es de los primeros programas que instalamos si es que acabamos de obtenerla o la hemos formateado ya que nos permite dejarla sonando mientras realizamos otras actividades típicas como chatear, navegar en Internet, hacer tareas, etc.
 
 Hay algunos que lo único que les interesa es escuchar la música, les bastaría nada más tener un reproductor cuya única interfaz sea un botón de Play y que empiece a sonar aleatoriamente alguna lista de archivos seleccionada de una carpeta o la librería completa de música. En cambio, habemos otros un poco más exigentes a la hora de escuchar música y deseamos que nuestro reproductor haga muchas otras cosas aparte de reproducir audio por lo que, a manera personal, les muestro una lista del top de reproductores de audio y las características por las que han sido seleccionados.
 
@@ -42,6 +43,8 @@ aTunes: ([link](https://www.atunes.org/)) Reproductor Open Source basado en Java
 
 MPD: ([link](https://mpd.wikia.com/wiki/Music_Player_Daemon_Wiki)) Este no es un reproductor de música en si, sino mas bien es un servidor (o demonio) de reproducción de audio, el cual es controlado mediante cualquiera de las aplicaciones cliente que existen para el. Estas van desde una basada en comandos de la consola (mpc), applets para el gnome-panel, screenlets para el escritorio o sino uno de mis clientes favoritos, [sonata](https://sonata.berlios.de/).
 
-![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SUsw0Sz8e3I/AAAAAAAAFPw/U9FoJQRs1wk/s400/sonata1.png)    WinAmp: ([link](https://www.winamp.com/)) Quiza el reproductor más popular que existe para Windows, capaz de ser portado a Linux mediante wine. Con la capacidad de competir con los demás listados anteriormente aunque su intefaz no sea tan intuitiva o tan normal como la del resto de reproductores. Aun así es posible cambiarla mediante skins.
+![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SUsw0Sz8e3I/AAAAAAAAFPw/U9FoJQRs1wk/s400/sonata1.png)    WinAmp: ([link](https://www.winamp.com/)) Quiza el reproductor más popular que existe
+para Windows, capaz de ser portado a Linux mediante wine. Con la capacidad de competir con los demás listados anteriormente aunque su intefaz no sea tan intuitiva o tan normal como la del resto de reproductores. Aun así es posible cambiarla mediante skins.
 
-![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SUsx4pjdfmI/AAAAAAAAFQA/W3F6qrasxDE/s400/winamp_screen_large.jpg)     Que reproductor agregarías tu a las lista?
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SUsx4pjdfmI/AAAAAAAAFQA/W3F6qrasxDE/s400/winamp_screen_large.jpg)    
+Que reproductor agregarías tu a las lista?

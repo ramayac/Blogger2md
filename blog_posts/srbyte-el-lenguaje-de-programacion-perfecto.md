@@ -38,10 +38,7 @@ Pues bien, ahora tienen una idea de todo lo que hay y que (MUY probablemente) es
 > ¿Que deseo
 > desarrollar?
 > Y añadimos:
-> italic;">¿Deseo que sea class="blsp-spelling-error"
-> id="SPELLING_ERROR_24">multiplataforma?
-Por que si bien Microsoft nos enseño que TODOS podemos usar una computadora, no nos ha enseñado que el Sistema Operativo debe de ser el que se adapta a mis necesidades y no al revés. Y si bien BASIC (en todas sus horribles metamorfosis) nos demostró que TODOS pueden "programar" (mal la mayoría de las veces) no nos enseño que existe una variedad de lenguajes de programación orientados a funcionalidades especificas y que estos pueden facilitar la vida en ciertas áreas complicadas del desarrollo de soluciones informáticas. Tomemos el caso de la Inteligencia Artificial, área truculenta de la codificación de algoritmos, que seria un suicidio mental implementar con COBOL o FORTRAN... señoras y señores para esos casos existe [LISP](https://en.wikipedia.org/wiki/Lisp_programming_language).
-
-Y es que al final, quizás esa es la primera lección del "programador": aprender a distinguir que lenguaje usar (que en gustos no hay nada escrito, pero por favor sean realistas) y en que caso usarlo ya que "La lógica es la misma, la implementación es la que cambia".
+> italic;">¿Deseo que sea class="blsp-spelling-error" > id="SPELLING_ERROR_24">multiplataforma? Por que si bien Microsoft nos enseño que TODOS podemos usar una computadora, no nos ha enseñado que el Sistema Operativo debe de ser el que se adapta a mis necesidades y no al revés. Y si bien BASIC (en todas sus horribles metamorfosis) nos demostró que TODOS pueden "programar" (mal la mayoría de las veces) no nos enseño que existe una variedad de lenguajes de programación orientados a funcionalidades especificas y que estos pueden facilitar la vida en ciertas áreas complicadas del desarrollo de soluciones informáticas. Tomemos el caso de la Inteligencia Artificial, área truculenta de la codificación de algoritmos, que seria un suicidio mental implementar con COBOL o FORTRAN... señoras y señores para esos casos existe [LISP](https://en.wikipedia.org/wiki/Lisp_programming_language). Y es que al final, quizás esa es la primera lección del "programador": aprender a distinguir que lenguaje usar (que en gustos no hay nada escrito, pero por favor sean realistas) y en que caso usarlo ya que "La lógica es la misma, la
+implementación es la que cambia".
 
 Hasta la proxima!.

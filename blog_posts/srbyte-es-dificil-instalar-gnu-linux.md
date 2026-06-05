@@ -12,7 +12,8 @@ Tienes GNU\Linux en tu sistema?, lo usas a diario? (o al menos semanalmente?)...
 ![image](https://bp2.blogger.com/_ayvorITawE4/RhUD_rQFkFI/AAAAAAAAAQA/jJE4HoWB1lE/s200/happytux.png)    
 "Tux"
 
-Si es asi, de acuerdo a algunas personas (y los que propagan el mito) si tienes GNU\Linux en tu sistema eres un super hombre... ![image](https://bp0.blogger.com/_ayvorITawE4/RhUEJLQFkGI/AAAAAAAAAQI/pYLVinosLSY/s320/superlogo.jpeg)    
+Si es asi, de acuerdo a algunas personas (y los que propagan el mito) si tienes GNU\Linux en tu sistema eres un super hombre...
+![image](https://bp0.blogger.com/_ayvorITawE4/RhUEJLQFkGI/AAAAAAAAAQI/pYLVinosLSY/s320/superlogo.jpeg)    
 "Logo de Superman"
 
 Las distribuciones de GNU\Linux han hecho un sin fin de increíbles malabares para realizar de manera mas sencilla la instalación a través de los años.Hay instalaciones que super sencillas, por ejemplo la instalación de Linspire.
@@ -60,7 +61,8 @@ Les recomiendo que vean este vídeo del Desafio 2.0 Install & GO organizado por 
 
 [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE)
 
-[https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) "[Mas información del desafió aquí](https://www.e-ghost.deusto.es/phpwiki/index.php/Desafio20Blog)
+[https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE) [https://www.youtube.com/v/FFC2Kyfe2EE](https://www.youtube.com/v/FFC2Kyfe2EE)
+"[Mas información del desafió aquí](https://www.e-ghost.deusto.es/phpwiki/index.php/Desafio20Blog)
 "
 
 Pero si algo es seguro, es que Instalar GNU\Linux en una maquina, es tan difícil como instalar y darle mantenimiento a Windows... bueno, instalar GNU\linux siempre es más fácil.

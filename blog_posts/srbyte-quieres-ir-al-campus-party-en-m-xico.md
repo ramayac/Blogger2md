@@ -13,9 +13,7 @@ Lectores, esta breve nota seguramente les interesara: por medio de Twitter, Face
 
 Resulta que Paco Gagageles, el Presidente de Futura Networks, que es la entidad organizadora de la Campus Party a nivel global, contacto al Grupo de Campuseros Salvadoreños en Facebook con una propuesta para los que tenian ganas de ir al CP en Mexico:
 
-> "Si
-> se organiza al menos un bus de campuseros que parta a mexico, se les regala la entrada a la
-> Campus Party México."
+> "Si > se organiza al menos un bus de campuseros que parta a mexico, se les regala la entrada a la > Campus Party México."
 
 Requisitos mínimos:
 

@@ -28,4 +28,5 @@ El sitio web de JScreenFix, ademas, [ofrece vídeos para destrabar pixeles](http
 
 ¡Saludos!
 
-[1] Los Simpsons viendo el programa de TV: "Battling Seizure Robots", capitulo "Thirty Minutes over Tokyo". Creado por Matt Groening, todos los derechos reservados.
+[1] Los Simpsons viendo el programa de TV: "Battling Seizure Robots", capitulo "Thirty Minutes over Tokyo". Creado por Matt Groening, todos los derechos
+reservados.

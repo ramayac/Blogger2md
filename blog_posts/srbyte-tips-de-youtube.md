@@ -14,7 +14,11 @@ Este es una mini guía para aquellas personas que gustan de videos de mayor cali
 
 Pero YouTube ha estado "jugando" tras bambalinas con diversas resoluciones de los videos que los usuarios suben. Por esa razón es que podemos añadir "&fmt=18" a la URL de un video, y obtener un video con una resolución de 480x270 y con audio en stereo. Y en algunos otros videos, si se añade "&fmt=22", estos aparecen aun en mayor calidad, de 1280x720 y también en stereo. Con estas opciones, si vale la pena ver videos en pantalla completa :) Les dejo este claro ejemplo de lo mencionado en el párrafo anterior:
 
-[https://www.youtube.com/watch?v=zlfKdbWwruY](https://www.youtube.com/watch?v=zlfKdbWwruY) (formato estándar - audio en mono, con resolución de 320x180) [https://www.youtube.com/watch?v=zlfKdbWwruY&fmt=18](https://www.youtube.com/watch?v=zlfKdbWwruY&fmt=18) (audio en stereo, resolución 480x270) [https://www.youtube.com/watch?v=zlfKdbWwruY&fmt=22](https://www.youtube.com/watch?v=zlfKdbWwruY&fmt=22) (nuevo formato - audio en stereo, y una resolución de 1280x720)
+[https://www.youtube.com/watch?v=zlfKdbWwruY](https://www.youtube.com/watch?v=zlfKdbWwruY) (formato estándar - audio en mono, con resolución de 320x180)
+[https://www.youtube.com/watch?v=zlfKdbWwruY&fmt=18](https://www.youtube.com/watch?v=zlfKdbWwruY&fmt=18) (audio en stereo,
+resolución 480x270)
+[https://www.youtube.com/watch?v=zlfKdbWwruY&fmt=22](https://www.youtube.com/watch?v=zlfKdbWwruY&fmt=22) (nuevo formato - audio en
+stereo, y una resolución de 1280x720)
 
 La diferencia es clara, y hasta cierto punto un alivio para la vista cansada de los internautas. Además es un paso natural que YouTube tiene que dar si quiere mantener su audiencia. A medida que aumenta el ancho de banda, se puede mejorar la resolución de los videos y agradar a mas "YouTubers".
 

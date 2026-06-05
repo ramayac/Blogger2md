@@ -32,6 +32,7 @@ y el código HTML que este genera:
 
 Este framework puede ser incrustado en diferentes IDEs por medio de plugins como por ejemplo Netbeans, Eclipse (y sus derivados), Textmate (mac), WebIDE, Aptana Studio, entre otros. Todos ellos se pueden descargar desde la [página oficial de Zen Coding](https://code.google.com/p/zen-coding/) en Google Code.
 
-[En ese link](https://zen-coding.ru/demo/) puedes probar un demo versión web, por si no deseas descargar ninguna de sus versiones asociadas a estos IDEs de desarrollo.
+[En ese link](https://zen-coding.ru/demo/) puedes probar un demo versión web,
+por si no deseas descargar ninguna de sus versiones asociadas a estos IDEs de desarrollo.
 
 "Video demostrativo del funcionamiento del framework Zen Coding"

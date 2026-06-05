@@ -11,8 +11,7 @@ Después de una "acalorada" discusión con un internauta de este blog, ciego def
 
 Nacidas de ese trastornado y terriblemente trillado conflicto de:
 
-> "Windows es mejor, Linux es mejor, Windows es
-> mejor, Linux es mejor..."
+> "Windows es mejor, Linux es mejor, Windows es > mejor, Linux es mejor..."
 y de todo esto recordé, que es la tecnología es la que me apasiona y que alimenta los engranajes del mundo y de mi imanación. La tecnología con ímpetu increíble trasciende fronteras, política, raza, religión y atraviesa como una lanza todos los puntos de vista.
 
 La tecnología es como la energía eléctrica, y alimenta cualquier aparato que se pueda conectar a ella.

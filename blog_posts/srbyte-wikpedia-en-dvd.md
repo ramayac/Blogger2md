@@ -18,8 +18,6 @@ Wikipedia, la enciclopedia online más popular (y libre), hará una incursión a
 
 El CD, disponible por catorce dólares desde hoy en la web [wikipediaondvd.com](https://wikipediaondvd.com/), está dirigido a, por ejemplo, colegios que no disponen de acceso a internet. Y claro, tambien puede ser descargado. La fundación señaló que está planeando lanzar más CDs con más artículos y, en el futuro, añadirá más lenguajes. No es la primera vez que Wikipedia se escapa al mundo offline. Con anterioridad lanzó una versión en alemán, y se espera otra versión polaca en las próximas semanas.
 
-> "Esto
-> es lo que cabría esperar de una enciclopedia general con artículos de
-> calidad"
+> "Esto > es lo que cabría esperar de una enciclopedia general con artículos de > calidad"
 
 ...dijo a News.com un portavoz de la empresa, que señaló que el producto pierde la inmediatez que caracteriza a la versión online pero a cambio incluye información más sólida. El CD está diseñado con software de código abierto que funciona con Windows, Mac OS y Linux.

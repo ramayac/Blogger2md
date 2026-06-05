@@ -22,7 +22,8 @@ Entre estos programas tenemos:
 
 Baobab: También conocido como Disk Usage Analyzer. Es un programa que te permite hacer un escaneo de toda la jerarquía de carpetas que compone tu computadora, clasificándola en base al tamaño que ocupa dentro del disco para que puedas saber qué archivos son los más grandes y si no son tan necesarios, borrarlos de una buena vez. La interfaz es muy sencilla e intuitiva, como pueden ver. Este programa viene instalado por defecto en Ubuntu o Debian, o especialmente si utilizas el entorno Gnome. Sino, puedes instalarlo mediante el comando apt-get install baobab como root.
 
-![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SVhWVPmG4hI/AAAAAAAAFnE/9gy2ZnfS_Kw/s400/baobab.png)     "Captura de Pantalla de Baobab, mostrando de forma tabular y gráfica el espacio que ocupan las carpetas y subcarpetas del sistema"
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SVhWVPmG4hI/AAAAAAAAFnE/9gy2ZnfS_Kw/s400/baobab.png)    
+"Captura de Pantalla de Baobab, mostrando de forma tabular y gráfica el espacio que ocupan las carpetas y subcarpetas del sistema"
 
 Cruft: Es un programa para la consola que escanea en busca de archivos innecesarios que alguna vez fueron instalados junto con alguna aplicación pero esta no existe mas. Cabe mencionar que aún se encuentra en versión pre-alfa, pero según las pruebas realizadas de manera personal, demostró ser bastante satisfactorio y efectivo. Para instalarlo, basta ejecutar apt-get install cruft. Luego, nada más ejecutas el comando escribiendo cruft también como root, o sino, cruft -h para ver el resto de opciones disponibles.
 

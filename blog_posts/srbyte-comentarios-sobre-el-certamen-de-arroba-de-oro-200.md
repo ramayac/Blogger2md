@@ -9,7 +9,8 @@ post_id: blog-3515952828243908885.post-4615110713523624372
 
 Como ya saben, gracias a ustedes (y al panel de jurados) somos ganadores en categoría de blogs para el certamen de premiaron de sitios web: Arroba de Oro. Quería comentarles un poco lo que nos pareció el evento, así que, sin mas preámbulo les dejamos con estas pequeñas entradas...
 
-Seminario y Lectura de Nominados (Miércoles 15 de Octubre 2008) ![image](https://2.bp.blogspot.com/_ayvorITawE4/SQCcFjy5JEI/AAAAAAAABW4/w-9WRMjzoDk/s320/hpim1733.jpg)    
+Seminario y Lectura de Nominados (Miércoles 15 de Octubre 2008)
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SQCcFjy5JEI/AAAAAAAABW4/w-9WRMjzoDk/s320/hpim1733.jpg)    
 "Salón Presidente 4 en el Sheraton."
 
 Lo bueno, lo malo y lo "fail"....

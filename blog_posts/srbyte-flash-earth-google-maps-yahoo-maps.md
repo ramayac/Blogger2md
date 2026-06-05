@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-7759728794199761855
 ---
 
-[Flash Earth](https://www.flashearth.com/) es un nuevo sitio experimental que usa imágenes satelitales y aéreas de diversos sitios web de mapas como Google Maps, Yahoo! Maps, Microsoft Virtual Earth, Ask (aerial), OpenLayers y NASA Terra.
+[Flash Earth](https://www.flashearth.com/) es un nuevo sitio experimental que usa imágenes satelitales y aéreas de
+diversos sitios web de mapas como Google Maps, Yahoo! Maps, Microsoft Virtual Earth, Ask (aerial), OpenLayers y NASA Terra.
 
 Lo más interesante es ver la calidad y frecuencia de las imágenes que cada compañía ofrece, la diferencia ES clara entre los diferentes motores...
 

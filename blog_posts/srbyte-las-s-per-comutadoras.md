@@ -34,7 +34,8 @@ Pero los Alemanes no se quedaron de brazos cruzados... así que diseñaron una s
 Colossus fue, definitivamente, la primera y TOTAL computadora electrónica. Colossus ya no usaba engranes, ni relays, ahora estaban de moda: los tubos al vacío.
 
 ![image](https://www.columbia.edu/acis/history/tubes.jpg)    
-"Memoria hecha de tubos al vacío." Los detalles de la existencia, diseño, y uso de Colossus fue mantenido como un secreto hasta 1970. Winston Churchill personalmente ordeno la destrucción de Colossus en piezas no mas grandes que la mano de un hombre. Debido a que su existencia fue mantenida como un secreto durante tanto tiempo, Colossus no fue incluido mucho en la historia de la computación, vaya final para este gigante de hierro.
+"Memoria hecha de tubos al vacío."
+Los detalles de la existencia, diseño, y uso de Colossus fue mantenido como un secreto hasta 1970. Winston Churchill personalmente ordeno la destrucción de Colossus en piezas no mas grandes que la mano de un hombre. Debido a que su existencia fue mantenida como un secreto durante tanto tiempo, Colossus no fue incluido mucho en la historia de la computación, vaya final para este gigante de hierro.
 
 ENIAC
 
@@ -48,7 +49,8 @@ Cuando su diseño fue propuesto, muchos científicos creían que los miles de de
 ![image](https://bp0.blogger.com/_ayvorITawE4/R5nma9p6J3I/AAAAAAAAAic/XbO2jVxCUgI/s320/725682.JPG)    
 "Caricatura: Brain Drain ENIAC"
 
-Lo que ENIAC hizo, por las computadoras, fue validar públicamente el uso de computadoras de larga escala. Esto fue crucial para el desarrollo de la computación moderna. ![image](https://bp3.blogger.com/_ayvorITawE4/R5novtp6J4I/AAAAAAAAAik/wq5hp9UVkIM/s320/eniac_front_new.png)    
+Lo que ENIAC hizo, por las computadoras, fue validar públicamente el uso de computadoras de larga escala. Esto fue crucial para el desarrollo de la computación moderna.
+![image](https://bp3.blogger.com/_ayvorITawE4/R5novtp6J4I/AAAAAAAAAik/wq5hp9UVkIM/s320/eniac_front_new.png)    
 
 "Imagen Álbum ENIAC de Tony Mckenzie, rock contemporáneo instrumental"
 

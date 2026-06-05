@@ -38,10 +38,12 @@ Para los amantes de Amarok, pongo un breve ejemplo para suscribirnos a un podcas
 
 En Amarok (asumo que ya lo tienes abierto), selecciona la viñeta "Listas de Reproducción", te tendría que aparecer una "carpeta" llamada Podcasts, da click derecho sobre ella y selecciona la opción "Añadir un podcast", como aparece en la imagen:
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SKmjPeYy-mI/AAAAAAAABF8/ofdrh00TeyM/s320/amarok.addpodcast.png)     Te aparecerá un pequeño cuadro de dialogo, en donde colocaras la dirección del vinculo (de suscripción) que habías copiado, tal y como lo muestra la imagen:
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SKmjPeYy-mI/AAAAAAAABF8/ofdrh00TeyM/s320/amarok.addpodcast.png)    
+Te aparecerá un pequeño cuadro de dialogo, en donde colocaras la dirección del vinculo (de suscripción) que habías copiado, tal y como lo muestra la imagen:
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SKmjPeJwjcI/AAAAAAAABGE/hzhlsEKnQT4/s320/amarok.podcasturl.png)    
 
 Si todo esta bien, Amarok comenzara a obtener la lista de podcast:
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SKmjPgO4zII/AAAAAAAABGM/rsrgkN8Pg2k/s320/amarok.podcastscnetagregado.png)     ... y ahora todo lo que tienes que hacer es seleccionar el que desees y darle doble click para escucharlos. Por cierto, no conozco muchos Podcasters Salvadoreños, el único es [fafamonge](https://www.fafamonge.com/category/podcast) (advierto que son podcast de una hora aproximadamente). ¿Saben ustedes de otros podcasters Salvadoreños? y ¿A qué podcasts estas suscrito?
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SKmjPgO4zII/AAAAAAAABGM/rsrgkN8Pg2k/s320/amarok.podcastscnetagregado.png)    
+... y ahora todo lo que tienes que hacer es seleccionar el que desees y darle doble click para escucharlos. Por cierto, no conozco muchos Podcasters Salvadoreños, el único es [fafamonge](https://www.fafamonge.com/category/podcast) (advierto que son podcast de una hora aproximadamente). ¿Saben ustedes de otros podcasters Salvadoreños? y ¿A qué podcasts estas suscrito?

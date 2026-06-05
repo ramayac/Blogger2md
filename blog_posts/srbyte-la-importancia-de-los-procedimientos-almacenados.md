@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-2623115535763463846
 ---
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SeDX_5gCwhI/AAAAAAAAB8I/onNy93X3uoo/s320/codecode.jpg)    En esta ocasión, me quiero concentrar en algo muy importante del inmenso mundo (y misterioso para algunos) de las bases de datos, quiero hablarles de: Los Procedimientos Almacenados. Los procedimientos almacenados (conocidos también como proc, sproc, stopro, o SP's por sus siglas en Ingles) son subrutinas que están disponibles para las aplicaciones que acceden a una base de datos relacional. Los procedimientos almacenados están, como su nombre lo indica, almacenados en el diccionario de datos de la base de datos.
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SeDX_5gCwhI/AAAAAAAAB8I/onNy93X3uoo/s320/codecode.jpg)    En esta ocasión, me
+quiero concentrar en algo muy importante del inmenso mundo (y misterioso para algunos) de las bases de datos, quiero hablarles de: Los Procedimientos Almacenados. Los procedimientos almacenados (conocidos también como proc, sproc, stopro, o SP's por sus siglas en Ingles) son subrutinas que están disponibles para las aplicaciones que acceden a una base de datos relacional. Los procedimientos almacenados están, como su nombre lo indica, almacenados en el diccionario de datos de la base de datos.
 
 ¿Para que existen?, ¿para que usarlos, si puedo tener mis consultas bien bonitas metida en mi código (como consultas SQL Ad-hoc)? Esas preguntas exactas me hice yo hace algunos años. Que pena ser tan ingenuo. Gracias a Dios desperté de ese "lapsus ..." y si bien, no lo se todo, lo que se, lo tengo que compartir.
 

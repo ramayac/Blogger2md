@@ -23,12 +23,10 @@ Estos emuladores proveen un envoltorio de funcionalidad para que el ROM (en el c
 
 En un sentido teórico, la Tesis de Alonzo Church y Alan Turing (Conjetura de Church y Tesis de Turing) nos dice que:
 
-> "Cualquier modelo 'razonable' computable puede ser
-> eficientemente simulado en una maquina de Turing."
+> "Cualquier modelo 'razonable' computable puede ser > eficientemente simulado en una maquina de Turing."
 Ese "modelo 'razonable' de computacion" puede ser tomado en el sentido de Software, y como ya bien sabemos, una computadora es en su esencia una maquina de Turing... o mejor dicho una maquina de Turing, es cualquier computadora que pueda ser construida. Claro, la Tesis Church-Turing no puede ser comprobada matemáticamente, así que es mas una hipótesis o se hace referencia a ella como una ley. En pocas palabras:
 
-> "...esta conjetura es mas facil
-> en teoria que en la practica"
+> "...esta conjetura es mas facil > en teoria que en la practica"
 La Tesis Church-Turing, no habla nada sobre limitantes de tiempo.
 
 > Si el software emulado no se

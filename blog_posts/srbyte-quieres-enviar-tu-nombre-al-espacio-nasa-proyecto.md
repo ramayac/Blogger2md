@@ -7,7 +7,9 @@ draft: false
 post_id: blog-3515952828243908885.post-5615465391984056102
 ---
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SNxgVZW2cRI/AAAAAAAABTc/naWakPLGdL8/s320/nasa.png)    Si, leíste bien, ¿quieres enviar tu nombre al espacio?... entonces sigue leyendo: El sitio web "Envía tu nombre al Espacio" (Send your name to Space) permite que cualquier persona participe en un misión científica que consiste en poner su nombre en órbita por años venideros, con el fin de entender los efectos de la radiación que emite el sol, entre otras cosas... El sitio en donde puedes ingresar tu nombre es: [https://polls.nasa.gov/utilities/sendtospace/jsp/sendName.jsp](https://polls.nasa.gov/utilities/sendtospace/jsp/sendName.jsp)
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SNxgVZW2cRI/AAAAAAAABTc/naWakPLGdL8/s320/nasa.png)    Si, leíste bien,
+¿quieres enviar tu nombre al espacio?... entonces sigue leyendo: El sitio web "Envía tu nombre al Espacio" (Send your name to Space) permite que cualquier persona participe en un misión científica que consiste en poner su nombre en órbita por años venideros, con el fin de entender los efectos de la radiación que emite el sol, entre otras cosas... El sitio en donde puedes ingresar tu nombre es:
+[https://polls.nasa.gov/utilities/sendtospace/jsp/sendName.jsp](https://polls.nasa.gov/utilities/sendtospace/jsp/sendName.jsp)
 
 Al ingresarlo, recibirás un certificado de participación de la NASA, y será este sera grabado en un microchip que formara parte del satélite. La fecha final para enviar tu nombre es Noviembre 1 de 2008.
 

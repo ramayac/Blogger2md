@@ -27,20 +27,22 @@ Antes de eso, prácticamente todas las IBM PC y las PC clones (las que no eran I
 Nada divino en las Mac Sin duda alguna los productos de Apple son maravillosos, en el sentido de la consistencia, diseño, eficiencia y fidelidad a sus precios elevados. Pero...
 > la MacBook Air no crece en los arboles, los iPod no salen del
 > trasero a un Fénix mágico y Steve Jobs no es Moisés...
-![image](https://4.bp.blogspot.com/_ayvorITawE4/STFrTHekCrI/AAAAAAAABdg/qDSeLY0KIr0/s320/and062107blog.jpg)     Recuerden, ahora todas las Mac emplean un CPU de Intel, y con Boot Camp, hasta las Mac ejecutan el SO Windows. ¿Me pregunto si la gente que hace eso (usar Boot Camp) se refieren a sus Mac como PC?
+![image](https://4.bp.blogspot.com/_ayvorITawE4/STFrTHekCrI/AAAAAAAABdg/qDSeLY0KIr0/s320/and062107blog.jpg)    
+Recuerden, ahora todas las Mac emplean un CPU de Intel, y con Boot Camp, hasta las Mac ejecutan el SO Windows. ¿Me pregunto si la gente que hace eso (usar Boot Camp) se refieren a sus Mac como PC?
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/STFrTXcclhI/AAAAAAAABdo/ySKcEKYySwU/s320/bootcamp_macbooks2.jpg)    
 "Una MacBook con Windows... que bizarro"
 
 Entiendo perfectamente, que esta serie de videos y campañas no funcionarían con una linea introductoria como:
-> "Yo soy una PC con Windows Vista, y Yo una PC con Mac OS/X
-> 10"
+> "Yo soy una PC con Windows Vista, y Yo una PC con Mac OS/X > 10"
 ...sería una catástrofe, aunque seria la realidad. Las computadoras de Apple ni me vienen, ni me van. En lo personal, creo que son buenas... muy buenas, tan buenas como una:
 
 [Dell XPS ONE](https://www.dell.com/content/products/productdetails.aspx/xpsdt_one?c=us&cs=19&l=en&s=dhs)
 
 ![image](https://2.bp.blogspot.com/_ayvorITawE4/STFtDysbFHI/AAAAAAAABeI/dAt85qU3bUc/s320/desktop-xps-a2420-hero.jpg)    ó [Sony VAIO VGC-LT29U](https://cgi.ebay.com/Sony-VAIO-VGC-LT29U-DesktopPC-Blu-Ray-Burner-1000GB-NIB_W0QQitemZ110310935712QQcmdZViewItem)
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/STFtD-K4veI/AAAAAAAABeA/hNL2Vpeciz0/s320/vaio.JPG)     En lo personal, quiero una PC Mac, pero solo para instalarle Linux :) Todos estamos usando computadoras personales, y depende de las necesidades personales elegir que utilizar para obtener mejor calidad en el entretenimiento, ser más productivo y en general, tener una mejor experiencia digital... sin embargo, y sin importar cuanto lo digan los anuncios y cuanto repitas tu mantra "Think Mac"... al final, todos somos PC.
+![image](https://3.bp.blogspot.com/_ayvorITawE4/STFtD-K4veI/AAAAAAAABeA/hNL2Vpeciz0/s320/vaio.JPG)    
+En lo personal, quiero una PC Mac, pero solo para instalarle Linux :) Todos estamos usando computadoras personales, y depende de las necesidades personales elegir que utilizar para obtener mejor calidad en el entretenimiento, ser más productivo y en general, tener una mejor experiencia digital... sin embargo, y sin importar cuanto lo digan los anuncios y cuanto repitas tu mantra "Think Mac"... al final, todos somos PC.
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/STFrTpFgzMI/AAAAAAAABdw/VVO4qobB4NM/s320/macandpc.jpg)     Yo soy un PC Linux, y tu ¿qué PC eres?
+![image](https://2.bp.blogspot.com/_ayvorITawE4/STFrTpFgzMI/AAAAAAAABdw/VVO4qobB4NM/s320/macandpc.jpg)    
+Yo soy un PC Linux, y tu ¿qué PC eres?

@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-6583722155229137364
 ---
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SNpbqi16Q1I/AAAAAAAABRA/hUbTdBvcfxo/s320/logo_labs_quotes.gif)    Como siempre, Google no deja de sorprendernos con nuevos servicios y proyectos interesantes. El que sale a la luz hoy, quizás no sea el mas productivo, pero si que esta interesante, se llama: "In Quotes". Dicho servicio permite compara frases de políticos. Por el momento hay frases de 20 políticos, entre ellos Barak Obama y Jhon MaCain que son los que aparecen por defecto, seleccionados en la pagina de "In Quotes".
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SNpbqi16Q1I/AAAAAAAABRA/hUbTdBvcfxo/s320/logo_labs_quotes.gif)    Como siempre,
+Google no deja de sorprendernos con nuevos servicios y proyectos interesantes. El que sale a la luz hoy, quizás no sea el mas productivo, pero si que esta interesante, se llama: "In Quotes". Dicho servicio permite compara frases de políticos. Por el momento hay frases de 20 políticos, entre ellos Barak Obama y Jhon MaCain que son los que aparecen por defecto, seleccionados en la pagina de "In Quotes".
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SNpbqkPooMI/AAAAAAAABQ4/u5NRAcNx0h4/s320/googlelabs-inquotes.jpg)    
 

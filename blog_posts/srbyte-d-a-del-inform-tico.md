@@ -9,9 +9,7 @@ post_id: blog-3515952828243908885.post-6224843781496121440
 
 Cuando comencé mi carrera, como a todos, los compañeros solían preguntarme: ¿Porque estudias Sistemas?. Yo usualmente respondía así:
 
-> style="font-size:100%;">"Estudio sistemas, porque cuando ordeno algo a la máquina, esta no
-> se equivoca, y si lo hace, es mi culpa, y no de nadie
-> mas."
+> style="font-size:100%;">"Estudio sistemas, porque cuando ordeno algo a la máquina, esta no > se equivoca, y si lo hace, es mi culpa, y no de nadie > mas."
 
 Simple, practico y directo... yo no quería tener absolutamente nada que ver con personas y "manejarlas" (administrarlas), y por algún tiempo pensé que seria posible hacerlo... y vaya que estaba terriblemente equivocado.
 
@@ -35,7 +33,8 @@ Acordate que por eso: estudiar en grupo es mejor y más divertido, y que hacer "
 
 La informática, en si misma, sin programadores, sin usuarios, sin bloggers, sin gente bayunca que atesta sus paginas de Hi5 con miles de tonterías, y sin los que sueña con cambiar el fondo de su pagina en FaceBook, pues seria terriblemente aburrida (a mi ya me dan risa).
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/Ssqucyv7EcI/AAAAAAAACL4/HUU0aHTr7tA/s320/spamFB.png)    ¡FaceBook Spam!
+![image](https://3.bp.blogspot.com/_ayvorITawE4/Ssqucyv7EcI/AAAAAAAACL4/HUU0aHTr7tA/s320/spamFB.png)    ¡FaceBook
+Spam!
 
 La informática, sin gente, se convierte en simples unos y ceros, "sentados" en un disco duro, inertes.
 
@@ -61,9 +60,7 @@ Muchas de las razones para estudiar Ingeniería de Sistemas, que escuche cuando 
 
 Con el tiempo, los puntos mencionados se vuelven razones obviamente equivocadas para elegir una carrera afín a la informática, y la mía peor. Más sin embargo he acuñando y descubierto mi razón personal para seguir por este caminito digital, y la comparto con el fin de que a alguien le sirva... ahora si alguien me pregunta ¿por qué estudiaste sistemas? yo le respondo:
 
-> "Porque me quería convertir en el comunicador entre las
-> necesidades el usuario y la información de la
-> máquina."
+> "Porque me quería convertir en el comunicador entre las > necesidades el usuario y la información de la > máquina."
 
 Creo que de eso es ser informático, y a todos ustedes, que son un puente entre la carne y el metal, entre neurona y transistor, que unen brechas, entre la creatividad y los cálculos para ayudar a los usuarios, les deseo un feliz día del informático.
 

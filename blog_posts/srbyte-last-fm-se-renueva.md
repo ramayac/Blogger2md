@@ -19,7 +19,8 @@ También pueden acceder a la versión del sitio mediante un vínculo que les apa
 
 La nueva apariencia luce de la siguiente manera:
 
-![image](https://bp3.blogger.com/_jH77WNrMVRA/SHOhLg6okPI/AAAAAAAAA64/XdnO9QxKxHY/s320/PostImg4.png)     "Nueva interfaz beta del sitio web de last.fm (clic para agrandar)"
+![image](https://bp3.blogger.com/_jH77WNrMVRA/SHOhLg6okPI/AAAAAAAAA64/XdnO9QxKxHY/s320/PostImg4.png)    
+"Nueva interfaz beta del sitio web de last.fm (clic para agrandar)"
 
 Lo mas notable: el nuevo diseño minimalista el cual carga mucho mas rápido aunque ha sacrificado la atractiva apariencia que siempre había admirado en su versión anterior (especialmente el "Paint it Black"). La barra amarilla de la parte superior se extiende para mostrar diferentes opciones y el usuario elija en base a ellas, que le parece la nueva interfaz. Algunas de las opciones ahora aparecen en forma de menús de persiana y la clasica paleta de colores blanco/gris/rojo ahora ha sido sustituida por un rojo mas claro y adiciones de celeste, entre otras cosas.
 
@@ -29,4 +30,5 @@ Las novedades: Mayor énfasis en las tareas comunes que realizamos en el sitio (
 
 En mi opinión, no sacrificaría una interfaz tan bien elaborada por una carga mas rápida. Yo me quedo con la versión anterior del sitio. Que opinan los demás usuarios de last.fm?
 
-[1]Feedback: Retroalimentación, experiencia, opinión o información que un usuario brinda a su proveedor acerca de un producto o servicio.
+[1]Feedback: Retroalimentación,
+experiencia, opinión o información que un usuario brinda a su proveedor acerca de un producto o servicio.

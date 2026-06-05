@@ -14,9 +14,12 @@ Google Code: Desde que aprendimos a usar "Code Versioning" (allá por el final d
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SzgebYPZaCI/AAAAAAAACRs/cFwiikRAz2k/s320/git-trunk.jpg)    
 
-IceFaces: [IceFaces](https://www.icefaces.org/main/home/) es el Framework que hizo que dejara de preocuparme por la compatibilidad entre navegadores y de escribir código JavaScript. Es un framework que "simplemente funciona", lo usamos también en la tesis, y después de un par de días de aprender a usarlo, la combinación de este (de IceFaces) con Oracle TopLink, Tomcat 6 y MySQL es una "gloria digital". Con IceFaces aprendimos a preocuparnos por la lógica del negocio, y por hacer las cosas lo mejor posible, y no preocuparnos porque la GUI no se muestra bien en Internet Explorer 7+. Es un framework que recomiendo mucho, que mejora constantemente, y que ya esta en su versión 2.0, y posee soporte para las empresas. Si lo usan, se darán cuenta de que si diseñan bien la logica de su software, hacer proyectos con IceFaces es un paseo por el campo. Quizás el único inconveniente reciente, es que no hay plugin de IceFaces para Netbeans 6.8, solo para la versión 6.7.5.
+IceFaces:
+[IceFaces](https://www.icefaces.org/main/home/) es el Framework que hizo que
+dejara de preocuparme por la compatibilidad entre navegadores y de escribir código JavaScript. Es un framework que "simplemente funciona", lo usamos también en la tesis, y después de un par de días de aprender a usarlo, la combinación de este (de IceFaces) con Oracle TopLink, Tomcat 6 y MySQL es una "gloria digital". Con IceFaces aprendimos a preocuparnos por la lógica del negocio, y por hacer las cosas lo mejor posible, y no preocuparnos porque la GUI no se muestra bien en Internet Explorer 7+. Es un framework que recomiendo mucho, que mejora constantemente, y que ya esta en su versión 2.0, y posee soporte para las empresas. Si lo usan, se darán cuenta de que si diseñan bien la logica de su software, hacer proyectos con IceFaces es un paseo por el campo. Quizás el único inconveniente reciente, es que no hay plugin de IceFaces para Netbeans 6.8, solo para la versión 6.7.5.
 
-jQuery: ![image](https://4.bp.blogspot.com/_ayvorITawE4/SzgeafT8W-I/AAAAAAAACRk/E8kmRQl7b5c/s200/js-lib-logos.png)    
+jQuery:
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SzgeafT8W-I/AAAAAAAACRk/E8kmRQl7b5c/s200/js-lib-logos.png)    
 
 Si bien no me gustaba JavaScript, cuando conocí JQuery la cosa cambio, y cuando comencé a usarlo todos los días en el trabajo, se volvió el mejor amigo para no caer en la locura y demencia de estar en un proyecto que: no usa persistencia (JPA), ni patrones de diseño, ni MVC, ni framework alguno... es bastante traumatico, pero bien, gracias a Dios tengo trabajo ¿no? :) Al menos, yo prefiero jQuery por cinco excelentes razones: Selectores, Atributos, Ajax, Documentación, y jQuery UI. Si no están usando un framework de JavaScript, háganse un favor y aprendan uno de tantos, yo recomiendo jQuery, pero también les puede interesar [MooTools](https://mootools.net/) y [Dojo](https://www.dojotoolkit.org/) (entre otros tantos más).
 
@@ -25,9 +28,7 @@ Delicious Bookmarks: Muchos de ustedes cuando navegan en el trabajo, les filtran
 
 Twitter + Google Reader + Gmail + FaceBook: Trabajar, viajar y llevar la tesis, no es tarea fácil, es una locura que no se la recomiendo a nadie. El principal problema con ese ajetreo... es la vida social, que caduca poco a poco hasta hace un par de meses. Reactivarla, sin salir del trabajo, solo fue posible gracias a Twitter (porque tambien soportar también el protocolo https) para medio "platicar", a Gmail para concretar salidas y mantener la comunicación tradicional y FaceBook para recordarme de cumpleaños, eventos y salidas.
 
-> "La
-> productividad de estos servicios digitales, esta a la orden de: como y para que los usas,
-> simplemente no hay que olvidar que son "la herramienta o el medio", no el propósito"
+> "La > productividad de estos servicios digitales, esta a la orden de: como y para que los usas, > simplemente no hay que olvidar que son "la herramienta o el medio", no el propósito"
 >
 
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SzgeZh9v_KI/AAAAAAAACRc/lhJstG3LYLc/s320/facebook_twitter.jpg)    

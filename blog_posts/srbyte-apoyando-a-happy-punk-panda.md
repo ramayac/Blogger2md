@@ -9,7 +9,8 @@ post_id: blog-3515952828243908885.post-1084603112247587829
 
 Este medio día, me tope con la triste noticia de que Gustavo Gutierrez ([@flugus](https://twitter.com/flugus)) falleció. Gustavo es el fundador de los estudios [Happy Punk Panda](https://happypunkpanda.com/).
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/StfEcTYytUI/AAAAAAAACM4/ZCmAAWE-HlE/s320/hpp.home01_r2_c3.gif)    Happy Punk Panda (HPP), se dedica al diseño de sitios Web, a la animación (2D y 3D) y multimedia en general. Uno de sus proyectos más ambiciosos: "[La Leyenda de la Carreta Bruja](https://www.facebook.com/home.php?#/carretabruja?ref=ts)
+![image](https://1.bp.blogspot.com/_ayvorITawE4/StfEcTYytUI/AAAAAAAACM4/ZCmAAWE-HlE/s320/hpp.home01_r2_c3.gif)    Happy Punk Panda (HPP), se dedica al diseño de
+sitios Web, a la animación (2D y 3D) y multimedia en general. Uno de sus proyectos más ambiciosos: "[La Leyenda de la Carreta Bruja](https://www.facebook.com/home.php?#/carretabruja?ref=ts)
 ", fue el que me hizo ver el espiritu emprededor de Gustavo y del equipo de HPP.
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/StfEbsVpbsI/AAAAAAAACMo/vLbBOua5qjo/s320/carreta.jpg)     [https://laleyendadelacarretabruja.com/](https://laleyendadelacarretabruja.com/)

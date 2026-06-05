@@ -30,10 +30,10 @@ Usualmente un servlet se une en conjunto con un JSP, en un patrón de codificaci
 
 La API para programar Servlets (Java Servlet API) es una parte "estandar" de la plataforma J2EE.
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SVek339_MMI/AAAAAAAAB1A/Vg69jkGx0-8/s320/Wave.png)    La utilidad de conocer que son o como funcionan los Servlets radica en que se utilizan enormemente, tanto en el ámbito empresarial y como en la red. Si estas buscando que tecnología conocer para conseguir trabajo, pues te sugerimos que comiences por aprender a utilizar Servlets y JSP, que es un requerimiento en la mayoría de empresas formales para conseguir trabajo aquí en El Salvador.
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SVek339_MMI/AAAAAAAAB1A/Vg69jkGx0-8/s320/Wave.png)    La utilidad de
+conocer que son o como funcionan los Servlets radica en que se utilizan enormemente, tanto en el ámbito empresarial y como en la red. Si estas buscando que tecnología conocer para conseguir trabajo, pues te sugerimos que comiences por aprender a utilizar Servlets y JSP, que es un requerimiento en la mayoría de empresas formales para conseguir trabajo aquí en El Salvador.
 
 Algunos recursos adicionales sobre los Servlets:
 
-- [Sun's servlet tutorial](https://java.sun.com/j2ee/tutorial/1_3-fcs/doc/Servlets.html)
-- [Sun's servlet product description](https://java.sun.com/products/servlet)
+- [Sun's servlet tutorial](https://java.sun.com/j2ee/tutorial/1_3-fcs/doc/Servlets.html) - [Sun's servlet product description](https://java.sun.com/products/servlet)
 Saludos!

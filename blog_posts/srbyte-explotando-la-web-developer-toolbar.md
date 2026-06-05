@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-3871582453194179268
 ---
 
-![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SwH9HgEsoqI/AAAAAAAAGEg/0VVxCDHkSiQ/s400/fflogo-addons.png)     "Una de las características que destacan a Firefox de los demás navegadores es su gran cantidad de útiles add-ons que se pueden instalar en el"
+![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SwH9HgEsoqI/AAAAAAAAGEg/0VVxCDHkSiQ/s400/fflogo-addons.png)    
+"Una de las características que destacan a Firefox de los demás navegadores es su gran cantidad de útiles add-ons que se pueden instalar en el"
 
 Firefox Addons
 

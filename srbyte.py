@@ -142,6 +142,14 @@ def clean_text_to_markdown(text: str) -> str:
     # Also remove any remaining "Copyleft" lines as backup
     text = re.sub(r'^.*?Copyleft.*?Sr\.\s*Byte.*?$', '', text, flags=re.IGNORECASE | re.MULTILINE)
     
+    # Normalize whitespace inside double and single quotes (excluding code fences) to keep captions intact
+    segments = text.split('\n```')
+    for idx in range(len(segments)):
+        if idx % 2 == 0:
+            segments[idx] = re.compile(r'"[^"]+"', re.DOTALL).sub(lambda m: re.sub(r'\s+', ' ', m.group(0)), segments[idx])
+            segments[idx] = re.compile(r"'[^']+'", re.DOTALL).sub(lambda m: re.sub(r'\s+', ' ', m.group(0)), segments[idx])
+    text = '\n```'.join(segments)
+
     # Improve paragraph formatting by joining fragmented lines
     lines = text.splitlines()
     improved_lines = []
@@ -160,7 +168,7 @@ def clean_text_to_markdown(text: str) -> str:
                 current_paragraph = []
             improved_lines.append('')  # Preserve empty line
         # Lines starting with special markdown (headers, lists, code fences, links, images, quotes, etc.) start new paragraphs
-        elif line.startswith(('#', '-', '*', '+', '>', '```', '|')) or line.strip() in ['---', '***', '___']:
+        elif line.startswith(('#', '-', '*', '+', '>', '```', '|', '[', '!')) or line.strip() in ['---', '***', '___']:
             # Finish current paragraph first
             if current_paragraph:
                 paragraph_text = ' '.join(current_paragraph).strip()

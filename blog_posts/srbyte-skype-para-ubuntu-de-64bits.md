@@ -14,9 +14,7 @@ Hace un par de semanas, finalmente me canse de estar usando Windows en la laptop
 
 Mi única duda, era si ponerle Debian o Ubuntu de 64bits... recordé las palabras de un blogger Hondureño: "Debian es para Desktops, y Ubuntu es para Laptops." Sinceramente, para mi son lo mismo, pero tenia el disco de Ubuntu a la mano. Para no aburrirlos la laptop ya tiene Ubuntu. Y antes de que se haga un flamewar sobre que distro es mejor, dejen me compartir una idea que siempre he tenido bien clara:
 >
-> "Sinceramente, tener una u otra distro NO IMPORTA, lo que importa es que la maquina tenga UN
-> SISTEMA OPERATIVO DE VERDAD (LINUX, HURD, OPENSOLARIS, BSD) y que este sistema sea
-> LIBRE".
+> "Sinceramente, tener una u otra distro NO IMPORTA, lo que importa es que la maquina tenga UN > SISTEMA OPERATIVO DE VERDAD (LINUX, HURD, OPENSOLARIS, BSD) y que este sistema sea > LIBRE".
 ¿Sabían que el disco de Ubuntu de 64bits no tiene modo "live CD"? usa la instalación en modo texto, lo que para mi es fenomenal - personalmente prefiero ese tipo de instalaciones - pero hay que aceptarlo, no es muy "User Friendly".
 
 Uno de los percances que tuve con respecto a esta migración (de 32 bits a 64 bits) fue con un programa muy útil que estoy usando mucho últimamente: Skype. Como no me pagan para hacer publicidad sobre Skype, lo mejor que puedo hacer es dejar que la Wikipedia [lo explique](https://en.wikipedia.org/wiki/Skype), y dejar un vinculo a su [pagina web](https://www.skype.com/).

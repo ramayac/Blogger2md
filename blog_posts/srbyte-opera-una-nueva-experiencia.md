@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-1057178706624432252
 ---
 
-![image](https://bp2.blogger.com/_ayvorITawE4/RvkN0lmN2MI/AAAAAAAAAek/v27t0f9Fmlw/s400/92px-OperaLogo.png)     El Opera es un navegador web multiplataforma (corren en Microsoft Windows, Mac OS X, Linux, FreeBSD y Solaris), que posee una suite de características para manejar tareas comunes en Internet. Algunas de esas tareas comunes realizables desde Opera incluyen enviar y recibir correos, manejar contactos, chatear en linea, ver widgets, descarga de archivos de BitTorrent y leer RSS feeds. Ademas hay una versión "adelgazada" de Opera, llamada Opera Mini, orientada a los dispositivos moviles. Y lo mejor, es que las ultimas versiones de Opera se ofrecen como Freeware (aunque Opera es software propietario).
+![image](https://bp2.blogger.com/_ayvorITawE4/RvkN0lmN2MI/AAAAAAAAAek/v27t0f9Fmlw/s400/92px-OperaLogo.png)    
+El Opera es un navegador web multiplataforma (corren en Microsoft Windows, Mac OS X, Linux, FreeBSD y Solaris), que posee una suite de características para manejar tareas comunes en Internet. Algunas de esas tareas comunes realizables desde Opera incluyen enviar y recibir correos, manejar contactos, chatear en linea, ver widgets, descarga de archivos de BitTorrent y leer RSS feeds. Ademas hay una versión "adelgazada" de Opera, llamada Opera Mini, orientada a los dispositivos moviles. Y lo mejor, es que las ultimas versiones de Opera se ofrecen como Freeware (aunque Opera es software propietario).
 
 > Este sera de aquellos raros casos, en los que recomiendo probar y
 > usar el software propietario (Opera) sobre el sofware libre
@@ -31,7 +32,9 @@ Algunas caracteristicas de Opera son:
 ![image](https://bp2.blogger.com/_ayvorITawE4/RvkPzlmN2OI/AAAAAAAAAe0/x8mm_t-uqx8/s400/content-blocker.png)    
 "Accesa al 'modo' de bloqueo de contenido con Opera"
 
-Para ver una lista de Extensiones Problemáticas para Firefox visita esta pagina: [> https://kb.mozillazine.org/Problematic_extensions](https://kb.mozillazine.org/Problematic_extensions) Opera incluye una herramienta de bloqueo de contenido, y un filtro de URL's, ejecuta mas rápido Java-Script, incluye una poderosa herramienta de desarrollo web ([https://dev.opera.com/tools/](https://dev.opera.com/tools/)), y lo mas importante es que posee caracteristicas "innatas" a el, que no requiere la instalación adicional de componentes.
+Para ver una lista de Extensiones Problemáticas para Firefox visita esta pagina:
+[> https://kb.mozillazine.org/Problematic_extensions](https://kb.mozillazine.org/Problematic_extensions) Opera
+incluye una herramienta de bloqueo de contenido, y un filtro de URL's, ejecuta mas rápido Java-Script, incluye una poderosa herramienta de desarrollo web ([https://dev.opera.com/tools/](https://dev.opera.com/tools/)), y lo mas importante es que posee caracteristicas "innatas" a el, que no requiere la instalación adicional de componentes.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/RvkQSlmN2PI/AAAAAAAAAe8/9Pm3CHchPjA/s400/clock-widget.png)    
 "Widgets para Opera"

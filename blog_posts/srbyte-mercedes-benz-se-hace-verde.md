@@ -25,7 +25,8 @@ Si bien ciertos modelos de carros pueden usar otros combustibles que no sean gas
 
 El Sr. Byte esta esperando por una linea de carros que:
 
-1. utilice combustible renovable 2. que sean hechos 100% de materiales reciclados 3. que produzcan su propia energía 4. y que se guarden en una maleta, como el carro de los Super Sonicos :) ![image](https://bp3.blogger.com/_ayvorITawE4/SHdpsvOgiOI/AAAAAAAAA38/XrxcwGfMs0A/s400/jetsons.jpg)     "Quiero un carro así, para evitar las trabazones de San Salvador."
+1. utilice combustible renovable 2. que sean hechos 100% de materiales reciclados 3. que produzcan su propia energía 4. y que se guarden en una maleta, como el carro de los Super Sonicos :)
+![image](https://bp3.blogger.com/_ayvorITawE4/SHdpsvOgiOI/AAAAAAAAA38/XrxcwGfMs0A/s400/jetsons.jpg)     "Quiero un carro así, para evitar las trabazones de San Salvador."
 
 Quizás pido mucho, al menos los primeros tres espero verlos (en este siglo), para mientras ahorro y y guardo la esperanza.
 

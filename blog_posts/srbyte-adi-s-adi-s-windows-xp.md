@@ -27,7 +27,8 @@ NO, la GUI de Vista NO ESTA UNIFICADA, ¿no me creen?, aquí hay algunos ejemplo
 ![image](https://bp3.blogger.com/_ayvorITawE4/SGj-ufOghfI/AAAAAAAAAyI/dNbl96M1SDM/s400/agregarfuentes.jpg)    
 "Imagen: Este es el SUPER moderno cuadro de dialogo para agregar fuentes al sistema,¿ notan los iconos tipo windows 95 y la disposición moderna y nada confusa de la dichosa ventana?"
 
-Y pueden ver mas inconsistencias (y agregar las suyas) aquí: [https://www.istartedsomething.com/taskforce/](https://www.istartedsomething.com/taskforce/)
+Y pueden ver mas inconsistencias (y agregar las suyas) aquí:
+[https://www.istartedsomething.com/taskforce/](https://www.istartedsomething.com/taskforce/)
 > style="font-size:130%;"> href="https://www.istartedsomething.com/taskforce/">https://www.istartedsomething.com/taskforce/
 ... son un poco más de 800 inconsistencias de diseño de interfaz en todo el sistema, sin contar otro tipo de errores y particularidades. ¿Y por esto la gente paga más de $120 USD?
 

@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-8997891708762868638
 ---
 
-El principal bloque de construcción de todos los sistemas es el objeto o la clase (enfoque orientado a objetos). De manera primitiva, antes el bloque principal de construcción de todo el software era el procedimiento o función (enfoque estructurado). Visualizar, especificar, construir y documentar sistemas orientados a objetos es exactamente e propósito del modelado de sistemas y mas específicamente del Lenguaje Unificado de Modelado (UML por sus siglas en ingles). ![image](https://bp3.blogger.com/_ayvorITawE4/Ri5pOlLpwjI/AAAAAAAAASc/Lhpb3s6S2C0/s400/uml_logo.jpg)    
+El principal bloque de construcción de todos los sistemas es el objeto o la clase (enfoque orientado a objetos). De manera primitiva, antes el bloque principal de construcción de todo el software era el procedimiento o función (enfoque estructurado). Visualizar, especificar, construir y documentar sistemas orientados a objetos es exactamente e propósito del modelado de sistemas y mas específicamente del Lenguaje Unificado de Modelado (UML por sus siglas en ingles).
+![image](https://bp3.blogger.com/_ayvorITawE4/Ri5pOlLpwjI/AAAAAAAAASc/Lhpb3s6S2C0/s400/uml_logo.jpg)    
 "UML"
 
 UML es un lenguaje estándar para escribir planos de software. Puede utilizarse para visualizar, especificar, construir y documentar los artefactos ( información que es utilizada o producida por un proceso de desarrollo de software o por un sistema) de un sistema que involucre gran cantidad de software.
@@ -36,6 +37,7 @@ Ejemplos de diferentes implementaciones de UML:
 
 UML es una herramienta increíblemente didáctica y útil; que servirá para expresar puntualmente nuestras ideas y transmitirlas de manera que sea posible entenderlas por todas las personas que lean nuestro modelo. Les dejo este vídeo de muestra de un ambiente interactivo para realizar diagramas UML...
 
-[https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE) [https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE) [https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE) [https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE) [https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE) "UML Interactivo"
+[https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE) [https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE) [https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE) [https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE) [https://www.youtube.com/v/v3-ozq-ZbHE](https://www.youtube.com/v/v3-ozq-ZbHE)
+"UML Interactivo"
 
 Hasta la

@@ -11,7 +11,8 @@ Recuerdo que hace un par de años, un amigo me comento que hay compañías en Es
 
 Fue tanto el impacto que me causo conocer esa "técnica de selección", que inmediatamente comencé a imaginar una forma de tener mi nombre regado por Internet. Y no es solo por diversión, existe un factor que te da una ventaja competitiva sobre las demás personas que no exponen o publican su trabajo en Internet.
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SNZ0XEL1C6I/AAAAAAAABQw/U7HlrpcNyrA/s320/contratando2.jpg)     "Gana enfoque exponiendo tu trabajo en Internet"
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SNZ0XEL1C6I/AAAAAAAABQw/U7HlrpcNyrA/s320/contratando2.jpg)    
+"Gana enfoque exponiendo tu trabajo en Internet"
 
 Es mas, uno de los principales motivadores para comenzar a bloggear, fue y sigue siendo eso. Este blog, actúa como carta de presentación y como herramienta de conocimiento personal-técnico, y claro, a más de alguien también le ayuda en algo :)
 

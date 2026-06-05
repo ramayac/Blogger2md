@@ -9,11 +9,14 @@ post_id: blog-3515952828243908885.post-3510358555177172075
 
 En el mundo de la programación, existen miles de lenguajes (funcionales o no) que sirven para el único propósito de hacer mas fácil la comunicación con las computadoras... decirles como hacer una tarea, ordenarles que hacer y como hacerlo. Cada lenguaje sirve para propósito diferente, es tarea constante para el programador buscar [el lenguaje perfecto](https://rodrigoamaya.blogspot.com/2007/01/el-lenguaje-de-programacion-perfecto.html) para que se sienta cómodo y sea más productivo. Pero entre mas de 1000 lenguajes, esta tarea es como buscar a la pareja perfecta para trabajar en la torre de Babel...
 
-![image](https://bp3.blogger.com/_ayvorITawE4/RdcMZqSA-AI/AAAAAAAAAHs/Z81B9wSjLj8/s200/babel.jpg)     Muchos no saben quizás que el programador siempre busca que su código se "vea bien". El programador experimentado puede conocerse por su código: los nombres de variables son significativos, utiliza sangrías (tabulación), comenta su código de forma ordenada, entre otras buenas costumbres:
+![image](https://bp3.blogger.com/_ayvorITawE4/RdcMZqSA-AI/AAAAAAAAAHs/Z81B9wSjLj8/s200/babel.jpg)    
+Muchos no saben quizás que el programador siempre busca que su código se "vea bien". El programador experimentado puede conocerse por su código: los nombres de variables son significativos, utiliza sangrías (tabulación), comenta su código de forma ordenada, entre otras buenas costumbres:
 
-![image](https://bp1.blogger.com/_ayvorITawE4/RdcYDKSA-BI/AAAAAAAAAH0/VR4xe_c8YSc/s1600/codepro.jpg)   En cambio el novato deja mucho que desear...
+![image](https://bp1.blogger.com/_ayvorITawE4/RdcYDKSA-BI/AAAAAAAAAH0/VR4xe_c8YSc/s1600/codepro.jpg)  
+En cambio el novato deja mucho que desear...
 
-![image](https://bp2.blogger.com/_ayvorITawE4/RdcYVaSA-CI/AAAAAAAAAH8/qDu57i4f6qA/s400/codenewbie.jpg)   Por algún lado tenemos que empezar, ¿no?. Uno de los problemas principales en la actualidad a la hora de programar, es la falta de modularidad en el código. Muchos (pero muchos) programadores creen que sus clases tienen que hacer de todo. Estas clases todo (o super clases) son en realidad, El Santo Grial del programador... es decir... la búsqueda inalcanzable de:
+![image](https://bp2.blogger.com/_ayvorITawE4/RdcYVaSA-CI/AAAAAAAAAH8/qDu57i4f6qA/s400/codenewbie.jpg)  
+Por algún lado tenemos que empezar, ¿no?. Uno de los problemas principales en la actualidad a la hora de programar, es la falta de modularidad en el código. Muchos (pero muchos) programadores creen que sus clases tienen que hacer de todo. Estas clases todo (o super clases) son en realidad, El Santo Grial del programador... es decir... la búsqueda inalcanzable de:
 
 la ultima clase objeto super abstracta genérica y su jerarquía.
 

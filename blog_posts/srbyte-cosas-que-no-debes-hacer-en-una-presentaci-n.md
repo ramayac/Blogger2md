@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-3828441697870849947
 ---
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SQ3kAhTuM9I/AAAAAAAABZo/fLlVnlcbr9c/s320/120px-Ooo_impress.svg.png)    Nota: este articulo trata sobre sugerir ideas constructivas y ofrecer advertencias sobre lo que no se debe hacer al momento de realizar una presentación. Aquí les comparto una lista de ideas que he recopilado por experiencia personal; espero sugerencias y comentarios.
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SQ3kAhTuM9I/AAAAAAAABZo/fLlVnlcbr9c/s320/120px-Ooo_impress.svg.png)    Nota: este articulo trata sobre sugerir ideas constructivas y
+ofrecer advertencias sobre lo que no se debe hacer al momento de realizar una presentación. Aquí les comparto una lista de ideas que he recopilado por experiencia personal; espero sugerencias y comentarios.
 
 Cosas que NO debes hacer en una presentación: 1. Colocar información personal o profesional en la presentación. Realmente no necesito leer todo tu currículo en una diapositiva. Si eres importante (realmente importante), alguien me lo hará saber (porque alguien te presentara o hablaran de ti). Usualmente, basta con tu nombre al principio de la presentación, y al final de la misma la información de contacto. Recuerda siempre que la presentación no se trata de ti y tus muchos logros, se trata de un tema especifico que intentas dar a conocer.
 

@@ -33,20 +33,17 @@ Jay Adelson, uno de los responsables del sitio, intento [explicar](https://blog.
 
 Esa es la realidad, en china, en El Salvador, en Canadá y en todas partes del mundo. Tal fue el berrinche de los usuarios que incluso hubo quien atacó y dejó el sitio inaccesible durante un tiempo. Al final, y en apenas 48 horas, Kevin Rose, el fundador, ha tenido que [sucumbir](https://blog.digg.com/?p=74) al poder de su comunidad:
 
-> "Los hemos escuchado y, con efecto inmediato, no eliminaremos
-> historias o comentarios que contengan href="https://digg.com/tech_news/Digg_This_09_f9_11_02_9d_74_e3_5b_d8_41_56_c5_63_56_88_c0_4"
-> target="_blank">el código, y cargaremos con las consecuencias sean cuales
-> sean".
+> "Los hemos escuchado y, con efecto inmediato, no eliminaremos > historias o comentarios que contengan href="https://digg.com/tech_news/Digg_This_09_f9_11_02_9d_74_e3_5b_d8_41_56_c5_63_56_88_c0_4" > target="_blank">el código, y cargaremos con las consecuencias sean cuales > sean".
 
 Rose remata su comentario con un heroico:
 
-> "y si
-> perdemos, qué demonios, al menos caímos intentándolo"
+> "y si > perdemos, qué demonios, al menos caímos intentándolo"
 Por el camino quedan ya [más de 300.000 resultados en Google](https://www.google.com/search?q=09+F9+11+02+9D+74+E3+5B+D8+41+56+C5+63+56+88+C0) generados en unas horas, un vídeo/canción:
 
 [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0) [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0) [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0) [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0) [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0) [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0) [https://www.youtube.com/v/L9HaNbsIfp0](https://www.youtube.com/v/L9HaNbsIfp0)
 
-Camisas: ![image](https://bp0.blogger.com/_ayvorITawE4/RjscWEK33yI/AAAAAAAAAV4/JAMN3wXmjyY/s400/09F91102b.jpg)    
+Camisas:
+![image](https://bp0.blogger.com/_ayvorITawE4/RjscWEK33yI/AAAAAAAAAV4/JAMN3wXmjyY/s400/09F91102b.jpg)    
 "Camisa con los 32 dígitos"
 
 Nombres de dominio, noticias falsas con el contenido de la noticia verdadera, anuncios, etc, etc, etc... ¿Y si hay demanda contra Digg? Quizá alguien recuerde la polémica y decida ayudar a costear la ayuda legal (o quizás no) Eso si, esto ha dejado en claro quien manda...

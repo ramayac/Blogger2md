@@ -41,6 +41,8 @@ Que tal si tenias una muy importante tarea que realizar?
 
 Pues, como prevencion, te recomiendo que te descargues la [Wikipedia en DVD.](https://srbyte.blogspot.com/2007/05/wikpedia-en-dvd.html) Te podria ser muy útil. Sino, recuerda que todavia existen las bibliotecas públicas y las bibliotecas universitarias!
 
-[1]IM = Instant Messenger o cliente de mensajeria instantanea, ej. msn messenger, gaim, pidgin, amsn. Los cuales usan protocolos como msn, aim, google talk, etc.
+[1]IM = Instant Messenger o cliente de
+mensajeria instantanea, ej. msn messenger, gaim, pidgin, amsn. Los cuales usan protocolos como msn, aim, google talk, etc.
 
-[2]ISP = Internet Service Provider o proveedor de servicios de internet. O sea, a quien le pagas cada mes por usar inernet, quienes te llegaron a conectar el cable a tu casa o quienes te alquilaron el modem. En mi caso es Cte Antel Telecom, para otros puede ser Amnet o Telefonica.
+[2]ISP = Internet Service Provider o
+proveedor de servicios de internet. O sea, a quien le pagas cada mes por usar inernet, quienes te llegaron a conectar el cable a tu casa o quienes te alquilaron el modem. En mi caso es Cte Antel Telecom, para otros puede ser Amnet o Telefonica.

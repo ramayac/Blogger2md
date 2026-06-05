@@ -16,13 +16,9 @@ En la navidad de 1962 Hawking había notado que se había vuelto más torpe (con
 
 Su estado se deterioró rápidamente y los médicos le pronosticaron que no viviría lo suficiente para acabar su doctorado en física cuántica y relatividad. Sin embargo, Hawking escribió:
 
-> "... aunque había una nube sobre mi futuro, descubrí para mi sorpresa
-> que estaba disfrutando la vida en el presente más de lo que lo había hecho antes. Empecé a
-> avanzar en mi investigación... "
+> "... aunque había una nube sobre mi futuro, descubrí para mi sorpresa > que estaba disfrutando la vida en el presente más de lo que lo había hecho antes. Empecé a > avanzar en mi investigación... "
 La verdadera razón por la que progresó su investigación fue que encontró a una chica con la quería casarse y se dio cuenta que tenía que acabar su doctorado para conseguir un trabajo:
-> " ... por lo tanto comencé a
-> trabajar por primera vez en mi vida. Para mi sorpresa descubrí que me
-> gustaba."
+> " ... por lo tanto comencé a > trabajar por primera vez en mi vida. Para mi sorpresa descubrí que me > gustaba."
 Desde entonces su cuerpo ha sufrido terribles estragos, pero la enfermedad no a tocado su cerebro... en donde habita verdaderamente, una mente brillante. Seguramente todo aquel que lea este articulo o sabe de la historia de Stephen Hawking viajando al espacio se quita el sombrero.
 > El href="https://www.engadget.com/2007/01/08/stephen-hawking-in-space-space-space/">dijo que lo
 > haría, y vaya que lo hizo.

@@ -7,16 +7,11 @@ draft: false
 post_id: blog-3515952828243908885.post-3337212284997880618
 ---
 
-![image](https://farm4.static.flickr.com/3184/2965247835_e6e2fee441.jpg)    Como ya habrán leído, en más [de](https://feedproxy.google.com/%7Er/damrnetblog/%7E3/-3I3AfV6Boo/campus-party-iberoamerica-preparativos-finales) [algún](https://www.aeromental.com/2008/10/26/fotos-y-videos-de-como-se-organiza-el-campus-party-iberoamerica-en-san-salvador/) blog o en los periódicos, este martes muchos Salvadoreños y extranjeros tendremos el honor de asistir a este increíble evento. ¿Qué es el Campus Party? [Citando al sitio oficial](https://iberoamerica.campus-party.org/index.php/elevento.html):
+![image](https://farm4.static.flickr.com/3184/2965247835_e6e2fee441.jpg)    Como ya habrán leído, en más [de](https://feedproxy.google.com/%7Er/damrnetblog/%7E3/-3I3AfV6Boo/campus-party-iberoamerica-preparativos-finales)
+[algún](https://www.aeromental.com/2008/10/26/fotos-y-videos-de-como-se-organiza-el-campus-party-iberoamerica-en-san-salvador/) blog o en los periódicos, este martes muchos Salvadoreños y extranjeros tendremos el honor de asistir a este increíble evento. ¿Qué es el Campus Party?
+[Citando al sitio oficial](https://iberoamerica.campus-party.org/index.php/elevento.html):
 
-> 'Campus Party es
-> reconocida como el mayor evento de tecnología, ocio electrónico y cultura digital en red del
-> mundo. Este encuentro anual reúne durante siete días a miles de participantes con sus
-> ordenadores con el fin de compartir inquietudes, intercambiar experiencias y realizar todo
-> tipo de actividades relacionadas con las comunicaciones y las nuevas tecnologías. El factor
-> humano es el corazón de Campus Party; la pantalla del ordenador cobra vida bajo el lema
-> "Internet no es una red de ordenadores, Internet es una red de
-> personas".'
+> 'Campus Party es > reconocida como el mayor evento de tecnología, ocio electrónico y cultura digital en red del > mundo. Este encuentro anual reúne durante siete días a miles de participantes con sus > ordenadores con el fin de compartir inquietudes, intercambiar experiencias y realizar todo > tipo de actividades relacionadas con las comunicaciones y las nuevas tecnologías. El factor > humano es el corazón de Campus Party; la pantalla del ordenador cobra vida bajo el lema > "Internet no es una red de ordenadores, Internet es una red de > personas".'
 Durante Campus Party Iberoamérica, representantes de cada uno de los 22 países iberoamericanos especializados en cada una de las distintas áreas de contenidos se darán cita en El Salvador. Las Áreas de contenidos de Campus Party Iberoamérica son:
 
 - Creación Digital

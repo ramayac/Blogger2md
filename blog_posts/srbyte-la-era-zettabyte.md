@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-7706356879334824840
 ---
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SjGA9WGaTQI/AAAAAAAACBo/oX17atzc0uQ/s320/Cisco_new_logo-thumb.gif)    Hace poco, [CISCO](https://www33.wolframalpha.com/input/?i=CSCO) publico un [White Paper](https://www.cisco.com/en/US/solutions/collateral/ns341/ns525/ns537/ns705/ns827/white_paper_c11-481360_ns827_Networking_Solutions_White_Paper.html)(documento de reporte o guía) sobre su visión de como se comportara el trafico de Internet en el año 2013. Si lo leen con detenimiento, notaran predicciones de crecimiento exponencial (nada sorprendente), y el uso de "números realmente grandes"(o mejor dicho, unidades de medida) para cuantificar el crecimiento del trafico.
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SjGA9WGaTQI/AAAAAAAACBo/oX17atzc0uQ/s320/Cisco_new_logo-thumb.gif)    Hace poco, [CISCO](https://www33.wolframalpha.com/input/?i=CSCO) publico un [White Paper](https://www.cisco.com/en/US/solutions/collateral/ns341/ns525/ns537/ns705/ns827/white_paper_c11-481360_ns827_Networking_Solutions_White_Paper.html)(documento de reporte o guía) sobre su visión de como se comportara el trafico
+de Internet en el año 2013. Si lo leen con detenimiento, notaran predicciones de crecimiento exponencial (nada sorprendente), y el uso de "números realmente grandes"(o mejor dicho, unidades de medida) para cuantificar el crecimiento del trafico.
 
 La amplitud de los medios estudiados, va desde la televisión digital hasta los teléfonos celulares. Se espera que el trafico en el 2013 llegue hasta los 56 [exabytes](https://es.wikipedia.org/wiki/Exabyte) al mes (eran 8 exabytes en el 2008). 56 exabytes en simple español equivale al "tamaño" de 10,000 millones de DVD's viajando por Internet cada mes... en pocas palabras una cantidad INCREÍBLE de datos.
 
@@ -35,7 +36,8 @@ Cisco ve un (nada extraño) crecimiento en el trafico, que probara verdaderament
 
 1. La realización de alguna profecía Maya 2. Un planeta con órbita irregular 3. [Skynet](https://en.wikipedia.org/wiki/Skynet_%28Terminator%29#Terminator_Salvation) 4. El [LHC](https://en.wikipedia.org/wiki/LHC) 5. Alguna otra tontería Probablemente si nos matara del aburrimiento, navegar en Internet, eso es, sí la infraestructura que se encarga de brindarnos conectividad, no mejora...
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SjGA9Hf18rI/AAAAAAAACBg/Qs821LwkXQU/s320/cisco.jpg)     ¿Que tiene que cambiar, para que en el 2013 no nos destruya la falta de comunicación y las descargas lentas?
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SjGA9Hf18rI/AAAAAAAACBg/Qs821LwkXQU/s320/cisco.jpg)    
+¿Que tiene que cambiar, para que en el 2013 no nos destruya la falta de comunicación y las descargas lentas?
 
 1. Implementar IPv6, para soportar más clientes, que los que soporta IPv4. 2. Mejorar la capacidad de los Switchs y Routers. No solo en cantidad de paquetes ruteados/procesados, sino en eficiencia de consumo de energia. 3. Aumentar la capacidad de almacenamiento de los servidores, usando sistemas de archivos de alto rendimiento como: [ZFS](https://es.wikipedia.org/wiki/ZFS_%28sistema_de_archivos%29) ó [XFS](https://es.wikipedia.org/wiki/XFS) (ambos con soporte para volúmenes de hasta 16 exabytes). 4. Aumento de infraestructura que soporte mayor transporte/consumo de ancho de banda en general. A paso firme y continuo se esta llegando al final de la era de Gigabytes y Terabytes, y poco a poco nos movemos a los Exabytes y finalmente al gigantesco [Zettabyte](https://es.wikipedia.org/wiki/Zettabyte). Pero seguramente todos nos estamos preguntando: ¿Que tipo de información se estará produciendo y almacenando?, ¿sera significativa?, ¿sera solo ruido y nada de señal?
 

@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-6191280296556684679
 ---
 
-![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SPL8VhxKCSI/AAAAAAAADcU/ZczDJlYXCIA/s400/postbanner.png)     "El lienzo de un diseñador web es la pantalla de su monitor"
+![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SPL8VhxKCSI/AAAAAAAADcU/ZczDJlYXCIA/s400/postbanner.png)    
+"El lienzo de un diseñador web es la pantalla de su monitor"
 
 Hay muchas y muy variadas herramientas e IDEs que te permiten diseñar/desarrollar tu sitio web de manera que luzca y funcione exactamente como deseas con un par de simples clics pero al final de cuentas, son los navegadores del web quienes tienen la ultima palabra a la hora de decidir como lucirá y se comportara finalmente tu sitio. Estos navegadores, por cierto, son muy quisquillosos respecto a las funcionalidades que puedes implementar ya que ninguno de ellos soporta los estándares del web al 100% sino que utilizan sus propios estándares por lo que posiblemente tu sitio no se vea ni funcione igual en todos los navegadores.
 

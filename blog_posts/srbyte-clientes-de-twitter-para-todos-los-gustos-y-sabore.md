@@ -10,7 +10,8 @@ post_id: blog-3515952828243908885.post-6355890823443189582
 ![image](https://bp0.blogger.com/_jH77WNrMVRA/SH2Q3udDjkI/AAAAAAAAByg/-wIXCfvrhp4/s400/twitter.jpg)    
 "Logotipo de Twitter"
 
-[Twitter](https://twitter.com/), y el [microblogging](https://es.wikipedia.org/wiki/Microblogging) en general, es una tendencia que se ha puesto de moda en los últimos meses hasta el punto de quizá, ser preferidos como alternativas a algunos blogs o programas de mensajería instantánea. Su idea es facilitarle la vida al usuario de forma que pueda compartir su información de la forma mas simple y rápida posible en no más de 140 caracteres.
+[Twitter](https://twitter.com/), y
+el [microblogging](https://es.wikipedia.org/wiki/Microblogging) en general, es una tendencia que se ha puesto de moda en los últimos meses hasta el punto de quizá, ser preferidos como alternativas a algunos blogs o programas de mensajería instantánea. Su idea es facilitarle la vida al usuario de forma que pueda compartir su información de la forma mas simple y rápida posible en no más de 140 caracteres.
 
 Parte de su popularidad y acogida por parte de los usuarios se debe a la diversidad de formas que existen de tuitear, actualizar tu estado, contarle al mundo lo que estas haciendo o como quieras llamarle a lo que quieras escribir en el.
 

@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-3289853482720812936
 ---
 
-![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SuJ5sYPGDtI/AAAAAAAAGEE/sN8caM4EpFk/s400/gappengine.gif)     "Logotipo del framework Google App Engine"
+![image](https://4.bp.blogspot.com/_jH77WNrMVRA/SuJ5sYPGDtI/AAAAAAAAGEE/sN8caM4EpFk/s400/gappengine.gif)    
+"Logotipo del framework Google App Engine"
 
 Habiendo salido de mi tesis recientemente, me he interesado en buscar hobbies relacionados con programación y en plasmar muchas ideas de software que vinieron a mi cabeza mientras estaba ocupado haciendo el trabajo de grado. Uno de los inconvenientes que tenemos los desarrolladores Java es que no existen en internet tantas alternativas para hosting de aplicaciones así como la gran variedad disponible para el Stack LAMP (Linux/Apache/Mysql/PHP).
 

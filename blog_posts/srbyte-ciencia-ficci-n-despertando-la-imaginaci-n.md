@@ -13,7 +13,8 @@ Entremos ya en materia. El día de hoy hablaremos de uno de los géneros cinemat
 
 En ocasiones sucede que cuando se menciona el término de ciencia ficción, lo primero que nos viene a la mente son entes mitad humanos mitad mecánicos, grandes computadoras con mentalidad propia, ciudades perfectas... En fin, una visión futurista espectacularmente tecnológica.
 
-![image](https://2.bp.blogspot.com/_JbB9KsZ238w/SqXLTSOFaEI/AAAAAAAAAUk/-q8drfB6MHI/s320/cifi1.jpg)   Aún con una forma rústica, ¡los robots sí que nos facilitarían la vida!
+![image](https://2.bp.blogspot.com/_JbB9KsZ238w/SqXLTSOFaEI/AAAAAAAAAUk/-q8drfB6MHI/s320/cifi1.jpg)  
+Aún con una forma rústica, ¡los robots sí que nos facilitarían la vida!
 
 No obstante, la ciencia ficción no es un género de reciente explotación. Alrededor de 1900 ya se hacían algunos esfuerzos por hacer producciones que echaran a volar la imaginación, dar un toque de magia y recrear situaciones que en la realidad serían casi imposibles. Un ejemplo de ello es el corto [Viaje a la Luna](https://es.wikipedia.org/wiki/Viaje_a_la_luna) del francés George Méliès.
 

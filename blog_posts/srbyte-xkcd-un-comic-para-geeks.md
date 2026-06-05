@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-8685817943495929934
 ---
 
-[Xkcd](https://www.xkcd.com/) es una tira cómica que lanzo al estrellato a Randall Munroe (el autor de la tira). El nombre xkcd no significa absolutamente nada, y la tira cómica trata sobre: romance, sarcasmo, matemática y lenguaje. La tira esta dibujada como "hombres de palitos", pero ocasionalmente el autor incluye paisajes o también patrones matemáticos (como fractales) de fondo para sus tiras. Cada nueva tira puede variar mucho de tema. Algunas son declaraciones sobre el amor y la vida, otras son sobre matemáticas y otras chistes científicos. Algunas hacen referencia a humor simple y a la cultura popular... Pero este día (07 Julio 08), xkcd hizo referencia a la entrada sobre "Wood" (madera) en la wikipedia en ingles, haciendo un chiste sobre "el uso de la madera en la cultura popular":
+[Xkcd](https://www.xkcd.com/) es una tira cómica que
+lanzo al estrellato a Randall Munroe (el autor de la tira). El nombre xkcd no significa absolutamente nada, y la tira cómica trata sobre: romance, sarcasmo, matemática y lenguaje. La tira esta dibujada como "hombres de palitos", pero ocasionalmente el autor incluye paisajes o también patrones matemáticos (como fractales) de fondo para sus tiras. Cada nueva tira puede variar mucho de tema. Algunas son declaraciones sobre el amor y la vida, otras son sobre matemáticas y otras chistes científicos. Algunas hacen referencia a humor simple y a la cultura popular... Pero este día (07 Julio 08), xkcd hizo referencia a la entrada sobre "Wood" (madera) en la wikipedia en ingles, haciendo un chiste sobre "el uso de la madera en la cultura popular":
 
 ![image](https://imgs.xkcd.com/comics/in_popular_culture.png)    
 "La tira que causo estragos en la Wikipedia"
@@ -29,14 +30,18 @@ Esto es casi tan gracioso, como cuando otro grupo de fans de xkcd enviaron una k
 
 Todo gracias a la inspiración de esta tira (siempre de xkcd):
 
-![image](https://imgs.xkcd.com/comics/open_source.png)     O también, como la gente que inspirado en esta tira:
+![image](https://imgs.xkcd.com/comics/open_source.png)    
+O también, como la gente que inspirado en esta tira:
 
-![image](https://bp3.blogger.com/_ayvorITawE4/SHLEC_OgiCI/AAAAAAAAA2c/ANrFFTYFZEo/s400/chess+photo.png)     ...se sube a montañas rusas para tomarse fotos jugando ajedrez (¡esto lo tengo que hacer!):
+![image](https://bp3.blogger.com/_ayvorITawE4/SHLEC_OgiCI/AAAAAAAAA2c/ANrFFTYFZEo/s400/chess+photo.png)    
+...se sube a montañas rusas para tomarse fotos jugando ajedrez (¡esto lo tengo que hacer!):
 
 ![image](https://imgs.xkcd.com/chesscoaster/xkcd_logride.jpg)    
 "Gente jugando ajedrez en una montaña rusa, LOL!"
 
-...pueden encontrar más imágenes similares en esta pagina: [> https://xkcd.com/chesscoaster/](https://xkcd.com/chesscoaster/) En fin, xkcd, no deja de sorprenderme y de mostrarme lo que un par de trazos sencillos y una gran imaginación (impulsada por mucha ciencia y un grupo de seguidores dementes) puede hacer. Si aun no te has suscrito a xkcd, puedes hacerlo en:
+...pueden encontrar más imágenes similares en esta pagina:
+[> https://xkcd.com/chesscoaster/](https://xkcd.com/chesscoaster/) En
+fin, xkcd, no deja de sorprenderme y de mostrarme lo que un par de trazos sencillos y una gran imaginación (impulsada por mucha ciencia y un grupo de seguidores dementes) puede hacer. Si aun no te has suscrito a xkcd, puedes hacerlo en:
 
 > href="https://xkcd.com/">https://xkcd.com/
 Y si ya estas suscrito, el Sr. Byte quiere saber: ¿Cual es tu tira de xkcd favorita?

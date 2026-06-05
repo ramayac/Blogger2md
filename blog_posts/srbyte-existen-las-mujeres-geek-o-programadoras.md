@@ -31,14 +31,19 @@ Vagando por la web me he encontrado a algunas féminas clasificadas como geeks, 
 
 Summer Williams: Es una porrista de los Houston Texans y, al mismo tiempo, una ingeniero aeroespacial de la NASA. Aunque Ud. no lo crea!
 
-![image](https://bp1.blogger.com/_jH77WNrMVRA/R6giIO__NII/AAAAAAAAAfc/2HmcfcdQ5lE/s320/p1_summerwilliams1.jpg)     Nikita Kashner: Australiana de 23 años, ha trabajado como modelo y también como diseñadora web.
+![image](https://bp1.blogger.com/_jH77WNrMVRA/R6giIO__NII/AAAAAAAAAfc/2HmcfcdQ5lE/s320/p1_summerwilliams1.jpg)     Nikita Kashner: Australiana de 23 años, ha trabajado como modelo y
+también como diseñadora web.
 
-![image](https://bp1.blogger.com/_jH77WNrMVRA/R6gkuO__NJI/AAAAAAAAAfk/ZpkCuUCGiVs/s320/422939224_2aa28cf073.jpg)     Larissa Meek: Modelo profesional, actriz, finalista de Miss U.S.A. y por si fuera poco, animadora 3D y diseñadora web!
+![image](https://bp1.blogger.com/_jH77WNrMVRA/R6gkuO__NJI/AAAAAAAAAfk/ZpkCuUCGiVs/s320/422939224_2aa28cf073.jpg)    
+Larissa Meek: Modelo profesional, actriz, finalista de Miss U.S.A. y por si fuera poco, animadora 3D y diseñadora web!
 
-![image](https://bp2.blogger.com/_jH77WNrMVRA/R6gm6e__NKI/AAAAAAAAAfs/MtRf_uqtgjY/s320/larissa-01.jpg)     Jade Raymond: se graduó de ciencias de la computación en la universidad de McGill y trabajó como programadora de videojuegos en Sony, productora en EA Games y actualmente es productora del tan esperado videojuego Asassins Creed, de Ubisoft.
+![image](https://bp2.blogger.com/_jH77WNrMVRA/R6gm6e__NKI/AAAAAAAAAfs/MtRf_uqtgjY/s320/larissa-01.jpg)    
+Jade Raymond: se graduó de ciencias de la computación en la universidad de McGill y trabajó como programadora de videojuegos en Sony, productora en EA Games y actualmente es productora del tan esperado videojuego Asassins Creed, de Ubisoft.
 
-![image](https://bp1.blogger.com/_jH77WNrMVRA/R6hp2O__NLI/AAAAAAAAAf0/8ixjOpx9btE/s320/jade-raymond-2.jpg)     Jade es, quizá, una de las las pocas mujeres que encontré a las cuales de verdad le asignan el título de programadoras. Por supuesto, conservo la esperanza que en algún lado de esta gran "Red de Redes" exista y crezca una mayor cantidad mujeres apasionadas por el mundo del desarrollo de software y por supuesto que no dejen de lado su apariencia personal.
+![image](https://bp1.blogger.com/_jH77WNrMVRA/R6hp2O__NLI/AAAAAAAAAf0/8ixjOpx9btE/s320/jade-raymond-2.jpg)    
+Jade es, quizá, una de las las pocas mujeres que encontré a las cuales de verdad le asignan el título de programadoras. Por supuesto, conservo la esperanza que en algún lado de esta gran "Red de Redes" exista y crezca una mayor cantidad mujeres apasionadas por el mundo del desarrollo de software y por supuesto que no dejen de lado su apariencia personal.
 
 La busqúeda continua...
 
-[1]Me imagino que ya sabrán lo que significa el término geek, a groso modo es una persona apasionada por el mundo de la informática o la tecnología, rubro dentro del cual caemos los que nos consideremos programadores, o fanáticos de star treek, star wars, etc.
+[1]Me imagino que ya sabrán lo
+que significa el término geek, a groso modo es una persona apasionada por el mundo de la informática o la tecnología, rubro dentro del cual caemos los que nos consideremos programadores, o fanáticos de star treek, star wars, etc.

@@ -35,4 +35,5 @@ Pero usted, no puede leer todo. No puede estar atento a cada cosa que sucede. Pr
 > tierra.
 No se agobie pensando en los feeds que tiene que leer, ni en los twitts que tiene que contestar. Deje que el caudal pase, todo al final es: "agua bajo el puente"...
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SKXoDbwbX7I/AAAAAAAABEE/JUY3c1Z6pq0/s320/Water+under+west+bridge1.jpg)     Y tú, ¿te ahogas en tus feeds?
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SKXoDbwbX7I/AAAAAAAABEE/JUY3c1Z6pq0/s320/Water+under+west+bridge1.jpg)    
+Y tú, ¿te ahogas en tus feeds?

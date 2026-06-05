@@ -9,8 +9,7 @@ post_id: blog-3515952828243908885.post-5739418024177795492
 
 En las ciencias computacionales un [FLOP (o flops o flop/s](https://es.wikipedia.org/wiki/FLOPS)) es un acrónimo que significa:
 
-> " bold;">FLoating point bold;">Operations Per
-> Second" u Operaciones de punto(o coma)
+> " bold;">FLoating point bold;">Operations Per > Second" u Operaciones de punto(o coma)
 > flotante por segundo.
 Los FLOPS son una medida de rendimiento de una computadora, especialmente en el campo científico, en donde se utiliza mucho las operaciones con datos de tipo flotante, para realizar simulaciones precisas y obtener resultados fidedignos. Podemos equiparar esta medida de rendimiento con los conocidos [MIPS (Millones de instrucciones por segundo)](https://es.wikipedia.org/wiki/MIPS), que es la medida de rendimiento mas usual en las computadoras de escritorio.
 
@@ -31,9 +30,7 @@ Lo importante de conocer este tipo de medidas, es que nos ayuda a tener un indic
 ![image](https://4.bp.blogspot.com/_ayvorITawE4/SSjGAgr7o5I/AAAAAAAABbQ/QuU41fMu2jA/s320/modsim_2.gif)    
 "Simulación de fenómenos naturales: Huracanes"
 
-Basta con leer las especificaciones de una de las supercomputadoras de las que les estoy hablando, la Oak Ridge's Jaguar: con 182,000 procesadores AMD quad-core Opterons de 2.3 gigahertz y 362 terabytes de memoria RAM (eso es 362,000 GB de memoria RAM). Es necesario aclarar que la Jaguar esta formada por una agrupación de varias computadoras con recursos compartidos, que ejecuta un "sabor" de Unix llamado: [UNICOS/lc](https://en.wikipedia.org/wiki/UNICOS).
-
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SSjF_p0K_PI/AAAAAAAABbA/rbSFniD3fF0/s320/jaguar1.jpg)    
+Basta con leer las especificaciones de una de las supercomputadoras de las que les estoy hablando, la Oak Ridge's Jaguar: con 182,000 procesadores AMD quad-core Opterons de 2.3 gigahertz y 362 terabytes de memoria RAM (eso es 362,000 GB de memoria RAM). Es necesario aclarar que la Jaguar esta formada por una agrupación de varias computadoras con recursos compartidos, que ejecuta un "sabor" de Unix llamado: [UNICOS/lc](https://en.wikipedia.org/wiki/UNICOS). ![image](https://3.bp.blogspot.com/_ayvorITawE4/SSjF_p0K_PI/AAAAAAAABbA/rbSFniD3fF0/s320/jaguar1.jpg)    
 "Oak Ridge's Jaguar"
 
 Así que, al tener computadoras mucho mas potentes, pues los científicos pueden modelar problemas mas complejos y - probablemente - encontrarles solución. Y es mas, algunos científicos creen que el cerebro humano tiene un poder de procesamiento de 10 petaflops... ¿parece que nos estamos acercando no?

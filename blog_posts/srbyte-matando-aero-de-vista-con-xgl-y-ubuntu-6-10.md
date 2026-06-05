@@ -7,4 +7,6 @@ draft: false
 post_id: blog-3515952828243908885.post-2586558032442846776
 ---
 
-No es solo un buen vídeo, sino que también demuestra que un Sistema Operativo Libre no tiene nada que envidiar de nadie. [https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN](https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN) [https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN](https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN) [https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN](https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN) "Matando Aero con XGL y Ubuntu"
+No es solo un buen vídeo, sino que también demuestra que un Sistema Operativo Libre no tiene nada que envidiar de nadie.
+[https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN](https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN) [https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN](https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN) [https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN](https://www.dailymotion.com/swf/6zEHy25fxaVBCaAoN)
+"Matando Aero con XGL y Ubuntu"

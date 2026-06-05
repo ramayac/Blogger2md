@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-5401259346683657008
 ---
 
-![image](https://bp3.blogger.com/_ayvorITawE4/Rp-dLMQ69AI/AAAAAAAAAa4/ydMjyGgRhcA/s400/mono.gif)    MoMA o Mono Migration Analyzer, es una herramienta que ayuda a identificar diferentes problemas que se tengan al portar las aplicaciones del Framework .NET al Framework de Mono. Aunque MoMA pueda ayudar a enseñar problemas potenciales, existen muchos factores completos que no pueden ser previstos mediante el uso de una sola herramienta. Pero la utilidad de MoMA es innegable. Si tienes una aplicación hecha en .NET que no pase ninguna prueba de MoMA... entonces ya tienes una idea del trabajo que tendrás que hacer para migrar esa aplicación al Mono Framework.
+![image](https://bp3.blogger.com/_ayvorITawE4/Rp-dLMQ69AI/AAAAAAAAAa4/ydMjyGgRhcA/s400/mono.gif)    MoMA o Mono
+Migration Analyzer, es una herramienta que ayuda a identificar diferentes problemas que se tengan al portar las aplicaciones del Framework .NET al Framework de Mono. Aunque MoMA pueda ayudar a enseñar problemas potenciales, existen muchos factores completos que no pueden ser previstos mediante el uso de una sola herramienta. Pero la utilidad de MoMA es innegable. Si tienes una aplicación hecha en .NET que no pase ninguna prueba de MoMA... entonces ya tienes una idea del trabajo que tendrás que hacer para migrar esa aplicación al Mono Framework.
 > Recordemos que la verdadera prueba
 > resulta al correr tu aplicación sin problemas en Mono.
 Pero para que se acostumbren a codificar bien, y tengan una idea de como usar MoMA, aquí esta una pequeña guia, ¡espero que les sea de utilidad!

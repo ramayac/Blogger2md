@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-2657622383134251371
 ---
 
-![image](https://bp3.blogger.com/_ayvorITawE4/R8G3A7TZHkI/AAAAAAAAAkk/WPQWqofPD3Y/s200/Transformers+Autobot+Shield.jpg)    El Optimus Maximus, si bien tiene nombre de transformer... no lo es. Es, para ser mas preciso, un teclado. Pero no es un teclado cualquiera. Es un teclado muy especial, y seguramente, cuando vean los vídeos y las imágenes, ustedes digan:
+![image](https://bp3.blogger.com/_ayvorITawE4/R8G3A7TZHkI/AAAAAAAAAkk/WPQWqofPD3Y/s200/Transformers+Autobot+Shield.jpg)    El Optimus Maximus,
+si bien tiene nombre de transformer... no lo es. Es, para ser mas preciso, un teclado. Pero no es un teclado cualquiera. Es un teclado muy especial, y seguramente, cuando vean los vídeos y las imágenes, ustedes digan:
 
 ¡Yo quiero ESO!
 

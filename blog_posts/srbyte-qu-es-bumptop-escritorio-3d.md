@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-3929799434714832811
 ---
 
-![image](https://www.bumptop.com/temp_images/logo.gif)    [BumpTop](https://bumptop.com/) es un programa, que como otros tantos han intentado, busca renovar la alianza: entre el aburrido y típico escritorio, y su usuario. Con BumpTop, se propone un cambio completo en la interacción el escritorio que todos conocen. Se puede interactuar con los "iconos" en el escritorio de varias formas:
+![image](https://www.bumptop.com/temp_images/logo.gif)    [BumpTop](https://bumptop.com/) es un programa, que como otros tantos han
+intentado, busca renovar la alianza: entre el aburrido y típico escritorio, y su usuario. Con BumpTop, se propone un cambio completo en la interacción el escritorio que todos conocen. Se puede interactuar con los "iconos" en el escritorio de varias formas:
 
 - Arreglándolos en pilas: pilas de tipos de archivos por ejemplo.
 - Tirándolos: esto es quizás, para los menos ordenados.

@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-3259068103569079829
 ---
 
-![image](https://3.bp.blogspot.com/_JbB9KsZ238w/SMXzBQviuYI/AAAAAAAAAKA/Xsf7gOoBo4w/s320/a236%5B1%5D.jpg)    Al escudriñar en la historia sobre la invención de la televisión, nos encontramos con los nombres de personajes como Paul Nipkow y John Logie Baird. No obstante, la televisión es más que nombres y anécdotas de personas brillantes.
+![image](https://3.bp.blogspot.com/_JbB9KsZ238w/SMXzBQviuYI/AAAAAAAAAKA/Xsf7gOoBo4w/s320/a236%5B1%5D.jpg)    Al escudriñar en la historia sobre la invención de la televisión,
+nos encontramos con los nombres de personajes como Paul Nipkow y John Logie Baird. No obstante, la televisión es más que nombres y anécdotas de personas brillantes.
 
 La televisión es una de las maravillas modernas que, a pesar de tener un poco más de cien años de invención, sigue teniendo vigencia en nuestros hogares y perfeccionándose continuamente. Aunque no tiene aspecto de reliquia, este modelo de tv ya se está defasando. Al igual que todo en esta vida, este singular aparatito ha evolucionado con el tiempo y se ha convertido en un complejo sistema de telecomunicación a distancia, que incluso permite anexarle funciones propias de una computadora. Sin embargo, muy pocos conocen todo el proceso histórico que hizo posible la recepción de la imágenes dentro de esa “cajita mágica”.
 

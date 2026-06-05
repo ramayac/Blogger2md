@@ -40,10 +40,12 @@ URL: [https://nimbus.dev.java.net/](https://nimbus.dev.java.net/) Nombre: org.jd
 - Quaqua
 URL: [https://quaqua.dev.java.net/](https://quaqua.dev.java.net/) Nombre: ch.randelshofer.quaqua.QuaquaLookAndFeel Descripción: Apariencia al estilo Mac OS. Único tema incluido y si adapta el borde de la ventana al tema aunque no aplica las esquinas redondeadas en todos los sistemas operativos donde es ejecutado.
 
-![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SORkuqNhF5I/AAAAAAAADaE/qkyPlTAap-M/s400/java_quaqua.jpg)     "Apariencia de una Aplicación Java con Look & Feel Quaqua"
+![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SORkuqNhF5I/AAAAAAAADaE/qkyPlTAap-M/s400/java_quaqua.jpg)    
+"Apariencia de una Aplicación Java con Look & Feel Quaqua"
 
 - Nimrod
-URL: [https://personales.ya.com/nimrod/index-en.html](https://personales.ya.com/nimrod/index-en.html) Nombre: com.nilo.plaf.nimrod.NimRODLookAndFeel Descripción: Unico tema pero las combinaciones de colores y transparencias son configurables. No modifica el borde de la ventana. ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SORsuRgTA4I/AAAAAAAADaM/nV0J-WVkmd4/s400/java_nimrod.jpg)    
+URL: [https://personales.ya.com/nimrod/index-en.html](https://personales.ya.com/nimrod/index-en.html) Nombre: com.nilo.plaf.nimrod.NimRODLookAndFeel Descripción: Unico tema pero las combinaciones de colores y transparencias son configurables. No modifica el borde de la ventana.
+![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SORsuRgTA4I/AAAAAAAADaM/nV0J-WVkmd4/s400/java_nimrod.jpg)    
 "Apariencia de una Aplicacion Java con Look & Feel Nimrod"
 
 Para aplicar cualquiera de estos temas a nuestras aplicaciones, simplemente hay que descargar el .jar del Look & Feel que deseamos y ubicarlo en la carpeta de nuestro proyecto para después agregarlo a la librería del mismo. Luego, en el constructor de cada una de las clases que componen la vista de cada FrameView o JFrame agregar las siguiente lineas:

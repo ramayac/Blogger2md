@@ -28,12 +28,14 @@ Aunque también existen usos mas útiles (y que cada día se vuelven más popula
 
 Y si de verdad piensan mantener tanto tiempo encendido su monitor LCD y se topan con el [problema de tener un pixel trabado](https://srbyte.blogspot.com/2008/02/arreglar-pixeles-en-un-monitor-lcd.html), pues hay varias cosas que pueden hacer para destrabarlo y que regrese a la normalidad.
 
-Mucha gente enciende su PC y lo tiene horas encendido, incluso cuando no es necesario. A veces nos vamos a tomar un café, o estamos escribiendo algo en un papel, o salimos a pasear al perro, y nuestro PC sigue en marcha, sin realizar ninguna función realmente útil. En esos momentos, cuando el PC no tiene nada que hacer, en vez de tener instalada una estupidez como... un acuario o una fogata... ![image](https://bp3.blogger.com/_ayvorITawE4/RgfiEZ7huQI/AAAAAAAAAN4/pWR9tW5VbDo/s400/aquarium.jpg)    ![image](https://bp0.blogger.com/_ayvorITawE4/RgfiJp7huRI/AAAAAAAAAOA/7QV9qAAq3_w/s400/fireplace-screen-saver.jpg)    
+Mucha gente enciende su PC y lo tiene horas encendido, incluso cuando no es necesario. A veces nos vamos a tomar un café, o estamos escribiendo algo en un papel, o salimos a pasear al perro, y nuestro PC sigue en marcha, sin realizar ninguna función realmente útil. En esos momentos, cuando el PC no tiene nada que hacer, en vez de tener instalada una estupidez como... un acuario o una fogata...
+![image](https://bp3.blogger.com/_ayvorITawE4/RgfiEZ7huQI/AAAAAAAAAN4/pWR9tW5VbDo/s400/aquarium.jpg)    ![image](https://bp0.blogger.com/_ayvorITawE4/RgfiJp7huRI/AAAAAAAAAOA/7QV9qAAq3_w/s400/fireplace-screen-saver.jpg)    
 "SerenScreen Saver y Fireplace Screen Saver"
 
 deberia mejor tener instalado un protector de pantallas que haga algo "util", como el de SETI@home, este protector esta diseñado para que al ser activado, comienze a analizar señales de radio para encontrar vida extraterrestre.
 
-![image](https://bp1.blogger.com/_ayvorITawE4/SG6NjfOghvI/AAAAAAAAA0I/_vxyP9_rWb4/s400/seti_logo.png)     Para conocer mas del proyecto SETI@home, pueden visitar su sitio web siguiente el vinculo:
+![image](https://bp1.blogger.com/_ayvorITawE4/SG6NjfOghvI/AAAAAAAAA0I/_vxyP9_rWb4/s400/seti_logo.png)    
+Para conocer mas del proyecto SETI@home, pueden visitar su sitio web siguiente el vinculo:
 
 > [ style="font-size:130%;">https://setiathome.berkeley.edu/](https://setiathome.berkeley.edu/)
 

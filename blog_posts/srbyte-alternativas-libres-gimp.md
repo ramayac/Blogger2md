@@ -34,6 +34,8 @@ Aca les dejo un vídeo de un SpeedDrawing elaborado con el GIMP:
 
 "Speed Drawing con el GIMP"
 
-[1]Las curvas Bézier son herramientas útiles de modelado, compuestas por curvas paramétricas generada a partir de puntos o líneas de control en cada una de sus secciones o puntas. El tamaño, posición y dirección de cada una de estas líneas de control definen la forma de la curva.
+[1]Las curvas Bézier son herramientas útiles de modelado,
+compuestas por curvas paramétricas generada a partir de puntos o líneas de control en cada una de sus secciones o puntas. El tamaño, posición y dirección de cada una de estas líneas de control definen la forma de la curva.
 
-[2]Una API es una interfaz de programación o una librería de funciones o de objetos que un programa o un sistema operativo provee para que otros programas puedan hacer uso de sus servicios sin necesidad que un usuario final tenga que interactuar con su interfaz original, si es que este la posee.
+[2]Una API es una interfaz de
+programación o una librería de funciones o de objetos que un programa o un sistema operativo provee para que otros programas puedan hacer uso de sus servicios sin necesidad que un usuario final tenga que interactuar con su interfaz original, si es que este la posee.

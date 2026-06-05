@@ -38,7 +38,8 @@ Después de mandar hipotéticamente a Siberia a Steve Jobs, Apple paso al mando 
 Espectacular para Microsoft, sus Fan Boys y sus accionistas. Mejoraría inclusive "[El Retorno del Fundador Prodigo](https://www.wired.com/techbiz/media/news/1996/12/1137)
 " (El Retorno de Steve Jobs) y quizás por eso mismo, este plan no tiene tantas probabilidades de funcionar. Ya [Ted Waitt](https://en.wikipedia.org/wiki/Ted_Waitt) intento hacer lo mismo con [Gateway](https://en.wikipedia.org/wiki/Gateway%2C_Inc.)... y falló miserablemente. Ahora Gateway no es mas que una subsidiaria de [Acer](https://en.wikipedia.org/wiki/Acer_%28company%29), una compañía China (jaja).
 
-![image](https://blogs.itworldcanada.com/insights/files/2007/08/gateway-logo.jpg)     "Imagen: Logo Gateway."
+![image](https://blogs.itworldcanada.com/insights/files/2007/08/gateway-logo.jpg)    
+"Imagen: Logo Gateway."
 
 ¿Y por qué creer que este plan siquiera existe? Simplemente porque Bill, es Bill Gates.
 

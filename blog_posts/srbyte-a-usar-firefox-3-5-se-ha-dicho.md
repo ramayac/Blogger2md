@@ -9,7 +9,8 @@ post_id: blog-3515952828243908885.post-4246375429280817480
 
 Un viejo amigo, renovado: El navegador más querido de todos, acaba de ser liberado en su nueva versión, y este incluye características que Mozilla espera (y que seguramente así será) ayuden a Firefox a separarse de sus rivales.
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/SkpHy0FyOfI/AAAAAAAACFo/lRjcT3VlwmI/s320/firefoxWordMarkVertical.png)     En el centro de Firefox, esta el nuevo motor de ejecución de Javascript, [TraceMonkey](https://wiki.mozilla.org/JavaScript:TraceMonkey), que aumenta el rendimiento de las aplicaciones que hacen uso extensivo de librerías o frameworks como [jQuery, Dojo, etc...](https://www.srbyte.com/2009/06/tu-sitio-compatible-en-todos-los.html), como Gmail, Google Reader, FaceBook, YouTube, entre otros, y que por supuesto, nos hará muy felices. De acuerdo al sitio de Mozilla, Firefox 3.5 es dos veces mas rápido que Firefox 3, y diez veces mas veloz que Firefox 2...
+![image](https://2.bp.blogspot.com/_ayvorITawE4/SkpHy0FyOfI/AAAAAAAACFo/lRjcT3VlwmI/s320/firefoxWordMarkVertical.png)    
+En el centro de Firefox, esta el nuevo motor de ejecución de Javascript, [TraceMonkey](https://wiki.mozilla.org/JavaScript:TraceMonkey), que aumenta el rendimiento de las aplicaciones que hacen uso extensivo de librerías o frameworks como [jQuery, Dojo, etc...](https://www.srbyte.com/2009/06/tu-sitio-compatible-en-todos-los.html), como Gmail, Google Reader, FaceBook, YouTube, entre otros, y que por supuesto, nos hará muy felices. De acuerdo al sitio de Mozilla, Firefox 3.5 es dos veces mas rápido que Firefox 3, y diez veces mas veloz que Firefox 2...
 
 ![image](https://1.bp.blogspot.com/_ayvorITawE4/SkpMZZPbpLI/AAAAAAAACF4/d-qUoFNkP4Q/s320/performance-chart.png)    
 

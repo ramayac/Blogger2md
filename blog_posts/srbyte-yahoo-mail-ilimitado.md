@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-5066177446388395978
 ---
 
-![image](https://bp1.blogger.com/_ayvorITawE4/RgnjW_TPf1I/AAAAAAAAAOo/5GceiJ74MnU/s400/yahoo245x183.jpg)    El décimo aniversario de Yahoo Mail se acerca y nuestros amigos de Yahoo quieren celebrar... DE VERDAD. Todo aquel que tenga una cuenta de correo con Yahoo se le ofrecerá [CAPACIDAD DE CORREO ILIMITADO](https://yodel.yahoo.com/2007/03/27/yahoo-mail-goes-to-infinity-and-beyond) comenzando desde Mayo de 2007 y luego aplicándose a todos los usuarios de Yahoo Mail.
+![image](https://bp1.blogger.com/_ayvorITawE4/RgnjW_TPf1I/AAAAAAAAAOo/5GceiJ74MnU/s400/yahoo245x183.jpg)    El décimo
+aniversario de Yahoo Mail se acerca y nuestros amigos de Yahoo quieren celebrar... DE VERDAD. Todo aquel que tenga una cuenta de correo con Yahoo se le ofrecerá [CAPACIDAD DE CORREO ILIMITADO](https://yodel.yahoo.com/2007/03/27/yahoo-mail-goes-to-infinity-and-beyond) comenzando desde Mayo de 2007 y luego aplicándose a todos los usuarios de Yahoo Mail.
 
 La versión actual de Yahoo Mail comenzó en 1997 cuando Yahoo adquirió RocketMail (casi la misma movida de Microsoft cuando compro Hotmail) y ofreció la cuantiosa cantidad de espacio en el buzón de 4 MB... en ese tiempo si que era mucho. Hmmmm, ¿qué cabría en ese espacio ahora?...
 

@@ -16,7 +16,8 @@ Pues si a ustedes les molesta que la gente te pregunte cosas como: ¿Y donde est
 
 > " href="https://letmegooglethatforyou.com/">Let me Google that for you" ó Dejame
 > Googlear (buscar) eso para ti
-La pagina es de lo mas simple y muy fácil de usar: se digita en un cuadro de texto lo que se desea buscar (lo que la otra persona NO sabe como hacer), y luego aparece un vinculo que se comparte a dicho individuo... este vinculo redirecciona a una pequeña animación que muestra que tan "difícil" es buscar lo que quieres, y finalmente te envia a google mostrándote los resultados. ![image](https://4.bp.blogspot.com/_ayvorITawE4/SSTXWVZ4t_I/AAAAAAAABa4/O91eIHYm5Hs/s320/sooohard.png)    
+La pagina es de lo mas simple y muy fácil de usar: se digita en un cuadro de texto lo que se desea buscar (lo que la otra persona NO sabe como hacer), y luego aparece un vinculo que se comparte a dicho individuo... este vinculo redirecciona a una pequeña animación que muestra que tan "difícil" es buscar lo que quieres, y finalmente te envia a google mostrándote los resultados.
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SSTXWVZ4t_I/AAAAAAAABa4/O91eIHYm5Hs/s320/sooohard.png)    
 "¿Y eso fue difícil?"
 
 ¿Genial no?, para demostrar su funcionalidad respondamos a las preguntas anteriores:
@@ -27,4 +28,6 @@ Si bien parece una broma ligeramente pesada al principio, realmente creo que es 
 
 Y hablando de búsquedas, hace algún tiempo, Robertux escribió sobre las "Técnicas de Búsqueda en Google" ([parte I](https://www.srbyte.com/2008/02/tcnicas-de-bsqueda-en-google-parte-i.html) y [parte II](https://www.srbyte.com/2008/02/tcnicas-de-bsqueda-en-google-parte-ii.html)), si aún tienen dudas sobre como utilizar duda, o quieren refinar la calidad de sus busquedas, no duden en darle una (o varias) leídas.
 
-Visita el sitio oficial de esta graciosa herramienta en: [> https://letmegooglethatforyou.com/](https://letmegooglethatforyou.com/)¿Y a ti qué tipo de preguntas te hacen que estas seguro que cualquiera puede encontrar en Google? (¿y que te sacan de quicio?) ... Si, comparte tu frustracion, ¡queremos saber que preguntas te hacen!
+Visita el sitio oficial de esta graciosa herramienta en:
+[> https://letmegooglethatforyou.com/](https://letmegooglethatforyou.com/)¿Y
+a ti qué tipo de preguntas te hacen que estas seguro que cualquiera puede encontrar en Google? (¿y que te sacan de quicio?) ... Si, comparte tu frustracion, ¡queremos saber que preguntas te hacen!

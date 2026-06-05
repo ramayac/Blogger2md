@@ -33,11 +33,7 @@ Ejemplificando, pueden introducir la búsqueda "Darth Vader". Google entiende qu
 
 Marissa Mayer, vicepresidenta de productos de búsqueda y experiencia de usuario de Google dice:
 
-> "El objetivo
-> último de la búsqueda universal es derribar los silos de información que existen en la Red y
-> proporcionar una mejor respuesta cada vez que un usuario realiza una búsqueda. Aunque todavía
-> tenemos un largo camino por recorrer en este sentido, Google Universal Search es un primer
-> paso en esa dirección"
+> "El objetivo > último de la búsqueda universal es derribar los silos de información que existen en la Red y > proporcionar una mejor respuesta cada vez que un usuario realiza una búsqueda. Aunque todavía > tenemos un largo camino por recorrer en este sentido, Google Universal Search es un primer > paso en esa dirección"
 
 De momento, esta nueva forma de buscar sólo está disponible en la página principal de Google (Google.com, en inglés).
 

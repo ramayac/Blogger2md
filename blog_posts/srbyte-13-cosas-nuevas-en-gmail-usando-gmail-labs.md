@@ -16,7 +16,8 @@ Se asume, de este momento en adelante y por motivos de conveniencia, que usas tu
 
 Si no lo tienes, pues puedes activarlo manualmente así:
 
-1. Ingresa a tu cuenta de Gmail 2. En la barra de direcciones coloca la siguiente linea: > href="https://mail.google.com/mail/?labs=1#settings">https://mail.google.com/mail/?labs=1#settings 3. Ahora verifica la existencia de la viñeta "Labs" en tus "Settings". Al usar cualquier característica de Gmail Labs, veras que en la esquina superior derecha, a un lado de tu nombre de usuario ( "xxxxxx@gmail.com" ) aparece un pequeño icono verde. Este actúa como un acceso directo a la viñeta "Labs" en tus "Settings". ![image](https://bp0.blogger.com/_ayvorITawE4/SHDsWvOgh6I/AAAAAAAAA1k/KxK9u73GCyY/s400/hey+look.jpg)    
+1. Ingresa a tu cuenta de Gmail 2. En la barra de direcciones coloca la siguiente linea: > href="https://mail.google.com/mail/?labs=1#settings">https://mail.google.com/mail/?labs=1#settings 3. Ahora verifica la existencia de la viñeta "Labs" en tus "Settings". Al usar cualquier característica de Gmail Labs, veras que en la esquina superior derecha, a un lado de tu nombre de usuario ( "xxxxxx@gmail.com" ) aparece un pequeño icono verde. Este actúa como un acceso directo a la viñeta "Labs" en tus "Settings".
+![image](https://bp0.blogger.com/_ayvorITawE4/SHDsWvOgh6I/AAAAAAAAA1k/KxK9u73GCyY/s400/hey+look.jpg)    
 "Imagen: Icono de Gmail Labs y Viñeta de "Labs" (Click para ver más grande)"
 
 ¡Y listo!, y ahora te preguntaras, ¿qué gano con esto?, bien, aquí esta una lista de extensiones del "Laboratorio" que puedes usar:

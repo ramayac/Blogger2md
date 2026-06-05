@@ -22,10 +22,11 @@ Vean una maquina de Rube Goldberg en acción:
 Que hace algo, de eso no hay duda (y también nos hace reír un rato), pero de una manera tan complicada que: hay que pensar seriamente si en internar en un hospital siquiátrico a un programador que haga lo mismo con su código. La delgada linea entre la genialidad y la locura es muy difusa sin el sentido común... o se es extremada mente genial y no te entienden... o increíblemente idiota y que tampoco te entienden... O bueno... simplemente idiota, como muchos en El Salvador.
 
 Un ejemplo claro de la perdida del sentido común en el país es:
-> " href="https://www.elsalvador.com/mwedh/nota/nota_opinion.asp?idCat=2892&idArt=1035774">La
-> ley de libre circulación de vehículos en días no feriados en las playas de El
-> Salvador"
-![image](https://bp0.blogger.com/_ayvorITawE4/ReBSfqSA-II/AAAAAAAAAJM/TZsLxRsbYY8/s400/tor.jpg)     Me salí un poco del tema principal, pero estoy seguro que me doy a entender. [Noam Chomsky](https://es.wikipedia.org/wiki/Noam_Chomsky) (una de las personalidades más relevantes en la lingüística y en la ciencia cognitiva contemporánea) nos dice que:
+> " href="https://www.elsalvador.com/mwedh/nota/nota_opinion.asp?idCat=2892&idArt=1035774">La > ley de libre circulación de vehículos en días no feriados en las playas de El > Salvador"
+![image](https://bp0.blogger.com/_ayvorITawE4/ReBSfqSA-II/AAAAAAAAAJM/TZsLxRsbYY8/s400/tor.jpg)    
+Me salí un poco del tema principal, pero estoy seguro que me doy a entender.
+[Noam Chomsky](https://es.wikipedia.org/wiki/Noam_Chomsky) (una de las
+personalidades más relevantes en la lingüística y en la ciencia cognitiva contemporánea) nos dice que:
 
 > “La ciencia trata de cosas muy simples y formula
 > preguntas básicas sobre ellas. Tan pronto como la ciencia se hace más compleja, style="font-weight: bold;">ya no es capaz de responderlas.

@@ -9,7 +9,8 @@ post_id: blog-3515952828243908885.post-6638478040019983651
 
 Si no estas usando un framework para desarrollar software, probablemente estés re-inventando la rueda. La única validez que tiene el proceso de "re-inventar la rueda" es para conocer como funciona. Pero si te están pidiendo elaborar un sistema realmente amplio para una empresa, con una cobertura del 70% de las operaciones, y esa empresa NO se dedica a realizar software... entonces es una seria estupidez desarrollar software sin un framework.
 
-![image](https://2.bp.blogspot.com/_ayvorITawE4/Scz0lLDD-HI/AAAAAAAAB7Y/7SoE7SQI5yg/s320/4359967kid-on-bike-square-wheel.jpg)     "Cuidad, si re-inventas la rueda, podrías terminar así..."
+![image](https://2.bp.blogspot.com/_ayvorITawE4/Scz0lLDD-HI/AAAAAAAAB7Y/7SoE7SQI5yg/s320/4359967kid-on-bike-square-wheel.jpg)    
+"Cuidad, si re-inventas la rueda, podrías terminar así..."
 
 Un framework, es una estructura de soporte definida mediante la cual, se desarrolla y organiza lógicamente una pieza de software. Entonces, el programa, modulo o sistema en cuestión, se apoya en un framework (en el marco de trabajo) para ser desarrollado. Un framework incluirá soporte para generar programas, una serie de librerías organizadas en módulos lógicos, y un lenguaje (que se ejecuta en una maquina virtual usualmente) para ayudar a desarrollar y unificar los módulos que conformen el proyecto. El uso de un framework, es tan obligatorio en un proyecto de grandes magnitudes, como lo son las típicas practicas de desarrollo de software:
 
@@ -44,11 +45,9 @@ Casi a diario, se esta perpetrando este crimen. No solo es una perdida de tiempo
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/Scz4WmEi7DI/AAAAAAAAB7w/yHBh0jXfU48/s320/simio-que-ignoras.jpg)    
 "¡Que pena ser ignorante!"
 
-Empresas, por que rayos ¿no capacitan a sus gerentes de informática?, ¿a sus arquitectos de software?, ¿a sus team leaders?, ¿Por que no escuchan las voces de los programadores, que de cara a semejantes atrocidades, alzan la voz inmediatamente y proponen el cambio? [Ya lo dije antes](https://www.srbyte.com/2009/02/acerca-del-micromanagement.html), pero no me molesta volverlo a repetir...
-> "si un equipo de desarrollo, sumergido hasta el cuello de dificultades técnicas,
-> pretende producir software: simplemente vamos a obtener software que es REFLEJO de las
-> dificultades, problemas, ignorancia, malos requerimientos y mala administración en los que se
-> vio envuelto el mismo".
+Empresas, por que rayos ¿no capacitan a sus gerentes de informática?, ¿a sus arquitectos de software?, ¿a sus team leaders?, ¿Por que no escuchan las voces de los programadores, que de cara a semejantes atrocidades, alzan la voz inmediatamente y proponen el cambio?
+[Ya lo dije antes](https://www.srbyte.com/2009/02/acerca-del-micromanagement.html), pero no me molesta volverlo a repetir...
+> "si un equipo de desarrollo, sumergido hasta el cuello de dificultades técnicas, > pretende producir software: simplemente vamos a obtener software que es REFLEJO de las > dificultades, problemas, ignorancia, malos requerimientos y mala administración en los que se > vio envuelto el mismo".
 Instruyace, no deje de leer, no se estanque, procure estar a la par (o solo un centímetro atrás) de la tecnología, y procure, sobre todas las cosas, escuchar a sus colegas, pero a los que saben.
 
 Pero sobre todas las cosas, por favor, si no estas usando un framework.... ya es hora de que comience a usar uno.

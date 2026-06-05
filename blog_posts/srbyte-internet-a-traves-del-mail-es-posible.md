@@ -16,7 +16,8 @@ Un claro ejemplo de esto es cuando te restringen el acceso a Internet con el sup
 Para lograr dicho cometido, he encontrado los siguientes sitios que te pueden ser de mucha utilidad:
 
 - Twittermail ([https://twittermail.com/](https://twittermail.com/))
-![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SY9A4JYMbJI/AAAAAAAAFpY/Wmoos3b4U2c/s400/twittermail.png)     Este es un sitio desde el cual puedes registrarte con tu usuario y clave de twitter y al momento te asignan una dirección de correo electrónico especial, a la cual puedes escribir y el título o el contenido de dicho correo (depende de como lo hayas configurado) saldrá publicado en tu cuenta de twitter. También puedes enviar comandos especiales en el título del correo, como por ejemplo friends con el cual, el robot te enviará un correo electrónico conteniendo los 20 últimos twitts escritos por tus amigos.
+![image](https://2.bp.blogspot.com/_jH77WNrMVRA/SY9A4JYMbJI/AAAAAAAAFpY/Wmoos3b4U2c/s400/twittermail.png)    
+Este es un sitio desde el cual puedes registrarte con tu usuario y clave de twitter y al momento te asignan una dirección de correo electrónico especial, a la cual puedes escribir y el título o el contenido de dicho correo (depende de como lo hayas configurado) saldrá publicado en tu cuenta de twitter. También puedes enviar comandos especiales en el título del correo, como por ejemplo friends con el cual, el robot te enviará un correo electrónico conteniendo los 20 últimos twitts escritos por tus amigos.
 
 Dicha cuenta, además, te enviará a tu bandeja un mail con los repplies que recibas por parte de tus followers. Entre otras funciones esta la capacidad de publicar fotografías adjuntas en twitpic y programar twitts a futuro.
 
@@ -27,12 +28,12 @@ Las plataformas de blogging también te ofrecen la alternativa de escribir posts
 "Interfaz de los settings de tu cuenta de blogger, donde puedes configurar una cuenta de correo para publicar posts en tu blog (Clic para agrandar)"
 
 - Webinmail ([https://www.webinmail.com](https://www.webinmail.com/))
-![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SY9B3KtRTPI/AAAAAAAAFpg/Qv9Gf5XaMQ8/s400/wimlogo.png)     Este servicio te permite enviar un correo electrónico a una cuenta de correo predeterminada, incluyendo en el título del mensaje la URL de la página que deseas visitar y ellos te envían un correo de respuesta mostrando dicha página web en el contenido del correo. Ejemplo:
+![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SY9B3KtRTPI/AAAAAAAAFpg/Qv9Gf5XaMQ8/s400/wimlogo.png)    
+Este servicio te permite enviar un correo electrónico a una cuenta de correo predeterminada, incluyendo en el título del mensaje la URL de la página que deseas visitar y ellos te envían un correo de respuesta mostrando dicha página web en el contenido del correo. Ejemplo:
 
 ![image](https://1.bp.blogspot.com/_jH77WNrMVRA/SY9CxvVpyjI/AAAAAAAAFpw/CVSKseCr1oU/s400/ComposeMailWebinmail.png)    
-"Ejemplo de mensaje de correo electrónico enviado a webinmail, pidiendo recibir la pagina del Sr Byte (Clic para ver en tamaño completo)
-
-![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SY9DtY6kM6I/AAAAAAAAFqA/soczUUpb6EQ/s400/ReceiveMailWebinmail.png)    
-"Mensaje de correo recibido en respuesta por la consulta enviada anteriormente. (Clic para ver en tamaño completo)"
+"Ejemplo de mensaje de correo electrónico enviado a webinmail, pidiendo recibir la pagina del Sr Byte (Clic para ver en tamaño completo) ![image](https://3.bp.blogspot.com/_jH77WNrMVRA/SY9DtY6kM6I/AAAAAAAAFqA/soczUUpb6EQ/s400/ReceiveMailWebinmail.png)    
+"Mensaje de correo recibido
+en respuesta por la consulta enviada anteriormente. (Clic para ver en tamaño completo)"
 
 Quizá la forma de negación parezca un tanto arcaica y no te permita descargar archivos o recibir transmisiones de audio/vídeo vía streaming para ver vídeos de youtube o entrar a sitios que te piden tu usuario y clave pero por lo menos te puede sacar de apuros si no tienes nada mas que tu cuenta de correo electrónico y necesitas googlear o buscar ayuda en foros.

@@ -25,9 +25,7 @@ Pero no todo es (tan) malo, representantes del Software Libre aplaudieron que Mi
 
 Ray Ozzie, pronto la nueva cabeza de Microsoft, ha criticado con anterioridad la tecnología AJAX, respondiendo a esa critica que argumenta a AJAX como "limitado", el co-fundador de Zend Technologies (la gente de PHP) Andi Gutmans dijo:
 
-> "Mientras AJAX no es necesariamente tecnología eficiente, la razón por
-> la que es tan popular es porque interopera bien con cualquier navegador y sistema
-> operativo."
+> "Mientras AJAX no es necesariamente tecnología eficiente, la razón por > la que es tan popular es porque interopera bien con cualquier navegador y sistema > operativo."
 Es más que evidente que el mercado de las tecnologías web quieran algo que se ejecute en cualquier cosa, un servidor web, un Iceweasel en Debian, en un Arch Linux, en Opera, o en un Safari.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/RjiPhUK33uI/AAAAAAAAAVY/12VhqpUsjFk/s400/manybrowsers.png)    

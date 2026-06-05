@@ -18,8 +18,7 @@ El resultado de este proceso es información encriptada. En muuuuchos contextos,
 
 En resumen, al encriptar se convierte o transforma la información, pero este proceso es reversible. Veamos un ejemplo:
 
-> "Iholc gld gh od lqghshqghfld ohfwruhv
-> Vdoydgruhñrv"
+> "Iholc gld gh od lqghshqghfld ohfwruhv > Vdoydgruhñrv"
 El texto anterior esta encriptado con el "[código Cesar](https://es.wikipedia.org/wiki/Cifrado_C%C3%A9sar)
 ". Este código cesar es la llave para desencriptar el texto: Se cuenta que Julio Cesar invento esta forma de encriptacion por si capturaban a un mensajero que lleva ordenes militares, los capturadores no pudieran leer el mensaje (y claro, solo los generales del Cesar tenian el conocimiento para hacerlo). ¿Y cual es este gran proceso para desencriptar el mensaje anterior? Sencillo, tomemos una letra: h, ahora nos vamos tres letras atras en el abecedario, eso nos da la letra e.
 

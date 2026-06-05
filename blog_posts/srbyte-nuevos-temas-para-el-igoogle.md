@@ -23,6 +23,8 @@ Además de los gadgets, como dije al principio, iGoogle te permite personalizar 
 
 iGoogle con un tema comun:
 
-![image](https://bp2.blogger.com/_jH77WNrMVRA/SBhv9_mVlgI/AAAAAAAAA10/xnjYpXk7JGY/s320/shoot2.png)    iGoogle con un tema artístico:
+![image](https://bp2.blogger.com/_jH77WNrMVRA/SBhv9_mVlgI/AAAAAAAAA10/xnjYpXk7JGY/s320/shoot2.png)    iGoogle con un tema
+artístico:
 
-![image](https://bp2.blogger.com/_jH77WNrMVRA/SBhw7_mVlhI/AAAAAAAAA18/rXTxuQ1tqos/s320/shoot3.png)     Cabe destacar que tanto los temas personalizados como el exeso de widgets harán el sitio web más lento a la hora de cargar la información.
+![image](https://bp2.blogger.com/_jH77WNrMVRA/SBhw7_mVlhI/AAAAAAAAA18/rXTxuQ1tqos/s320/shoot3.png)    
+Cabe destacar que tanto los temas personalizados como el exeso de widgets harán el sitio web más lento a la hora de cargar la información.

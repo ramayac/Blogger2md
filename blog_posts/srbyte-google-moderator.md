@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-8496322193693124791
 ---
 
-![image](https://3.bp.blogspot.com/_ayvorITawE4/SNxBagN2w_I/AAAAAAAABTM/xKW8uRhxbSQ/s320/moderator_logo.jpg)    Por si no les bastó con [Google InQuotes,](https://www.srbyte.com/2008/09/in-quotes-politica-en-google.html) ahora Google lanza otro (si, otro) nuevo servicio ahora, llamado [Google Moderator](https://moderator.appspot.com/), que es una herramienta para determinar que preguntas deberían de ser realizadas en una reunión, conferencia, entrevista o lo que sea. Como su nombre lo indica, este interesante servicio va orientado a Moderadores, es decir, a la persona que realiza una entrevista: Reporteros, Bloggers, Video-Bloggers, PodCasters, etc...
+![image](https://3.bp.blogspot.com/_ayvorITawE4/SNxBagN2w_I/AAAAAAAABTM/xKW8uRhxbSQ/s320/moderator_logo.jpg)    Por si no les bastó
+con [Google InQuotes,](https://www.srbyte.com/2008/09/in-quotes-politica-en-google.html) ahora Google lanza otro (si, otro) nuevo servicio ahora, llamado [Google Moderator](https://moderator.appspot.com/), que es una herramienta para determinar que preguntas deberían de ser realizadas en una reunión, conferencia, entrevista o lo que sea. Como su nombre lo indica, este interesante servicio va orientado a Moderadores, es decir, a la persona que realiza una entrevista: Reporteros, Bloggers, Video-Bloggers, PodCasters, etc...
 
 Así que, si eres uno de ellos, o deseas aprender a realizar preguntas, pues utiliza este servicio para ver que tan bien las formulas y que tan probable es que te las contesten.
 

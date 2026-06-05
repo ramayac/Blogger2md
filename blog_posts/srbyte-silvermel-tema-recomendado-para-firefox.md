@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-3337714422395313656
 ---
 
-[Silvermel](https://www.silvermel.net/) (creado por Pardal Freudenthal) es un tema sobrio y minimalista para el navegador web [Mozilla Firefox](https://srbyte.blogspot.com/2008/07/el-guiness-record-de-firefox-3.html), posee un perfecto esquema de grises suaves y bien degradados. Sigue el estilo de diseño moderno de temas usando bordes redondeados y sombras en las pestañas y barras de desplazamiento, utiliza un suave contraste de azul para resaltar los botones debajo del cursor, incluye un grupo de iconos agradables a la vista, y muchos y agradables detalles que hacen de este, un tema MUY profesional.
+[Silvermel](https://www.silvermel.net/) (creado por
+Pardal Freudenthal) es un tema sobrio y minimalista para el navegador web [Mozilla Firefox](https://srbyte.blogspot.com/2008/07/el-guiness-record-de-firefox-3.html), posee un perfecto esquema de grises suaves y bien degradados. Sigue el estilo de diseño moderno de temas usando bordes redondeados y sombras en las pestañas y barras de desplazamiento, utiliza un suave contraste de azul para resaltar los botones debajo del cursor, incluye un grupo de iconos agradables a la vista, y muchos y agradables detalles que hacen de este, un tema MUY profesional.
 
 ![image](https://bp2.blogger.com/_ayvorITawE4/SIAT8yO1vkI/AAAAAAAAA6M/Y_cPOtQHGqY/s400/silver-lookgeneral.jpg)    
 "Vista general del tema, haga click para ver más grande"

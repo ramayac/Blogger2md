@@ -22,7 +22,8 @@ Más o menos, las preguntas van así:
 Un "Si" a CUALQUIERA de estas preguntas, e inclusive un dudoso "tal vez",significa que posiblemente estas convirtiendo a tus empleados en:
 > "Micromanagement"
 > Zombies
-[Micromanagement](https://en.wikipedia.org/wiki/Micromanagement) o Micro-administración es un tipo de administración que consiste en que un líder (administrador) observa y controla detenidamente todo el trabajo de sus subordinados o empleados. Usualmente esta asociado con términos negativos, como en el artículo de ahora ^_^ Mi problema con el Micromanagement, como ya se expuso con el cuestionario de Katy Sierra, es que la gente que es micro-administrada, lentamente se convierten ende Zombies....
+[Micromanagement](https://en.wikipedia.org/wiki/Micromanagement)
+o Micro-administración es un tipo de administración que consiste en que un líder (administrador) observa y controla detenidamente todo el trabajo de sus subordinados o empleados. Usualmente esta asociado con términos negativos, como en el artículo de ahora ^_^ Mi problema con el Micromanagement, como ya se expuso con el cuestionario de Katy Sierra, es que la gente que es micro-administrada, lentamente se convierten ende Zombies....
 
 ![image](https://3.bp.blogspot.com/_ayvorITawE4/SY-Mnih_TmI/AAAAAAAAB48/w6BV266zlwE/s320/6a00d83451b44369e200e54f5d9d3b8834-800wi.jpg)    
 "La Función Zombie"

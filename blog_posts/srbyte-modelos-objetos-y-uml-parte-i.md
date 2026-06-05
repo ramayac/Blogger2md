@@ -29,15 +29,5 @@ Se construyen modelos de un sistema porque no se puede comprender un sistema en 
 aplicada al desarrollo de software.
 
 ![image](https://bp0.blogger.com/_ayvorITawE4/Ri5sA1LpwlI/AAAAAAAAASs/IlHqR3v8X2Q/s400/DivideConquer.JPG)    
-"Portada del libro: "Divide y Venceras""
-
-Algo importante que se tiene que mencionar es que:
-
-> La elección acerca de qué modelos crear tiene
-> una profunda influencia sobre cómo se acomete un problema y cómo se le da forma a una
-> solución.
-Y algo más importante que lo anterior es que:
-
-> Los mejores modelos están ligados a la
-> "realidad"
-Cualquier sistema informático no trivial se aborda mejor a través de un pequeño conjunto de modelos casi independientes con múltiples puntos de vista para asegurar el éxito del sistema.
+"Portada del libro: "Divide
+y Venceras"" Algo importante que se tiene que mencionar es que: > La elección acerca de qué modelos crear tiene > una profunda influencia sobre cómo se acomete un problema y cómo se le da forma a una > solución. Y algo más importante que lo anterior es que: > Los mejores modelos están ligados a la > "realidad" Cualquier sistema informático no trivial se aborda mejor a través de un pequeño conjunto de modelos casi independientes con múltiples puntos de vista para asegurar el éxito del sistema.

@@ -13,9 +13,9 @@ No, XGL no se hizo multiplataforma, lo que sucede es que a [Christian Salmon](ht
 
 Estamos hablando de la aplicación llamada de [Yod’m 3D](https://chsalmon.club.fr/index.php?en/) que significa:
 
-> "Yet
-> anOther Desktop Manager 3D"
-![image](https://bp0.blogger.com/_ayvorITawE4/RhBig_TPf8I/AAAAAAAAAPg/hr6dMocNryg/s400/yodm3Dlogo.png)     [https://chsalmon.club.fr/index.php?en/](https://chsalmon.club.fr/index.php?en/) Yod'm 3D es un programa gratuito que intenta ofrecer a los usuarios de Windows un sistema "parecido" (y nótese las comillas) al que se ofrece con XGL en GNU/Linux en cuanto a la posibilidad de distribuir más de un escritorio en las caras de un gran cubo 3D. Este es un vídeo de Yod'm 3D...
+> "Yet > anOther Desktop Manager 3D"
+![image](https://bp0.blogger.com/_ayvorITawE4/RhBig_TPf8I/AAAAAAAAAPg/hr6dMocNryg/s400/yodm3Dlogo.png)    
+[https://chsalmon.club.fr/index.php?en/](https://chsalmon.club.fr/index.php?en/) Yod'm 3D es un programa gratuito que intenta ofrecer a los usuarios de Windows un sistema "parecido" (y nótese las comillas) al que se ofrece con XGL en GNU/Linux en cuanto a la posibilidad de distribuir más de un escritorio en las caras de un gran cubo 3D. Este es un vídeo de Yod'm 3D...
 
 "Yod'm 3D trabajando..."
 

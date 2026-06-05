@@ -11,7 +11,8 @@ Voy a escribir un par de artículos a la semana, hace poco conseguí trabajo y m
 
 El código en exceso es malo. Requiere mantenimiento periódico. Posee errores ... que deben ser encontrados, depurados y mitigados. Añadir funcionalidad extra, implica que el código antiguo se tiene que adaptar.
 
-![image](https://4.bp.blogspot.com/_ayvorITawE4/SWJiacLyU8I/AAAAAAAAB1o/USpq7NJkZjs/s320/iStock_000000237891XSmall_3.jpg)     Mientras hay mas código escrito:
+![image](https://4.bp.blogspot.com/_ayvorITawE4/SWJiacLyU8I/AAAAAAAAB1o/USpq7NJkZjs/s320/iStock_000000237891XSmall_3.jpg)    
+Mientras hay mas código escrito:
 
 - Existen mas lugares en donde se esconden[los infames bugs (que se combaten depurando o escribiendo más código)](https://www.srbyte.com/2008/12/herramientas-del-programador-unit.html)
 - El proceso de compilación tarda mas tiempo
@@ -42,9 +43,9 @@ Después de todo, una buena empresa debe ser eficiente y eficaz, ¿no?. Si algo 
 
 La comodidad de un desarrollador de software no puede ser discutida. Estos merecen buenas sillas, estar cómodos en sus cubículos o escritorios, café cerca y como máximo, ocho horas de trabajo diarias. El trabajo de un desarrollador de software, no solo es uno de los mas estresantes, sino también es uno de los mejor remunerados. Y si no trata bien a sus desarrolladores, estos producen código enmarañado, descuidado e irresponsable, hackeado para que funcione (ley del llegue)... malo en pocas palabras. Codificar mal, siempre es producir mas código del que se necesita.
 
-![image](https://1.bp.blogspot.com/_ayvorITawE4/SWJian06lYI/AAAAAAAAB1w/dl6B-PcG_OM/s320/no_hacking.gif)     Repitan conmigo:
-> style="font-size:130%;">"desarrolladores infelices, producen mal código, que aumenta mis
-> costos".
+![image](https://1.bp.blogspot.com/_ayvorITawE4/SWJian06lYI/AAAAAAAAB1w/dl6B-PcG_OM/s320/no_hacking.gif)    
+Repitan conmigo:
+> style="font-size:130%;">"desarrolladores infelices, producen mal código, que aumenta mis > costos".
 En la empresa en la que estoy trabajando, la mayoría de desarrolladores piensan que los "usuarios" son los enemigos. Para mi, el código es el enemigo, y para la empresa también.
 
 Una cosa más, para los desarrolladores que leen este articulo... sigan como consejo la sabiduría innegable de xkcd: ![image](https://2.bp.blogspot.com/_ayvorITawE4/SWJiaF7V27I/AAAAAAAAB1g/KJwtCBX2VU8/s320/goto.png)

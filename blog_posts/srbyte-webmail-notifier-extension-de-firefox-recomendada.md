@@ -7,7 +7,8 @@ draft: false
 post_id: blog-3515952828243908885.post-2309706133110783938
 ---
 
-![image](https://bp3.blogger.com/_ayvorITawE4/SIVsUetrGlI/AAAAAAAAA7E/Ai09Gf7rn58/s400/4490.png)    [WebMail Notifier](https://addons.mozilla.org/en-US/firefox/addon/4490), es una [complemento/add-on](https://srbyte.blogspot.com/2008/07/qu-es-un-complementoadd-on-de-firefox.html) de [Firefox 3.0](https://srbyte.blogspot.com/2008/07/el-guiness-record-de-firefox-3.html) que revisa periódicamente diversas cuentas de correo y notifica ademas el numero de emails que tienes sin leer cada cuenta que configures. Así que si posees varias cuentas de correo electrónico, como una yahoo, otra hotmail y otra en gmail ( como yo :P ) y pasas revisando compulsivamente cada una de tus cuentas, esperando que llegue un emocionante correo...solo para darte cuenta que es una "Alerta" de Google... este complemento es definitivamente para ti. Las cuentas de correo que WebMail Notifier soporta son:
+![image](https://bp3.blogger.com/_ayvorITawE4/SIVsUetrGlI/AAAAAAAAA7E/Ai09Gf7rn58/s400/4490.png)    [WebMail Notifier](https://addons.mozilla.org/en-US/firefox/addon/4490), es
+una [complemento/add-on](https://srbyte.blogspot.com/2008/07/qu-es-un-complementoadd-on-de-firefox.html) de [Firefox 3.0](https://srbyte.blogspot.com/2008/07/el-guiness-record-de-firefox-3.html) que revisa periódicamente diversas cuentas de correo y notifica ademas el numero de emails que tienes sin leer cada cuenta que configures. Así que si posees varias cuentas de correo electrónico, como una yahoo, otra hotmail y otra en gmail ( como yo :P ) y pasas revisando compulsivamente cada una de tus cuentas, esperando que llegue un emocionante correo...solo para darte cuenta que es una "Alerta" de Google... este complemento es definitivamente para ti. Las cuentas de correo que WebMail Notifier soporta son:
 
 - mail.google.com(Gmail)
 - mail.yahoo.com (yahoo.com, ymail.com, rocketmail.com)
@@ -37,6 +38,9 @@ Algunos de esos archivos javascripts soportan los siguientes proveedores:
 - www.orkut.com
 - freemail.web.de
 - poczta.fm(poczta.interia.pl)
-Y si no esta el proveedor que utilizas y conoces javascript: puedes realizar tu propio script para tu cuenta de correo. Si deseas más información sobre esta extensión este es el sitio oficial (en algún lenguaje asiático que ignoro por completo): [https://tobwithu.tistory.com/category/WebMailNotifier](https://tobwithu.tistory.com/category/WebMailNotifier)
+Y si no esta el proveedor que utilizas y conoces javascript: puedes realizar tu propio script para tu cuenta de correo. Si deseas más información sobre esta extensión este es el sitio oficial (en algún lenguaje asiático que ignoro por completo):
+[https://tobwithu.tistory.com/category/WebMailNotifier](https://tobwithu.tistory.com/category/WebMailNotifier)
 > href="https://tobwithu.tistory.com/category/WebMailNotifier">https://tobwithu.tistory.com/category/WebMailNotifier
-Y nuevamente, el sitio para descargar el complemento es: [> https://addons.mozilla.org/en-US/firefox/addon/4490](https://addons.mozilla.org/en-US/firefox/addon/4490)¿Y tu que usas para revisar todas las cuentas de correo que posees?
+Y nuevamente, el sitio para descargar el complemento es:
+[> https://addons.mozilla.org/en-US/firefox/addon/4490](https://addons.mozilla.org/en-US/firefox/addon/4490)¿Y
+tu que usas para revisar todas las cuentas de correo que posees?
