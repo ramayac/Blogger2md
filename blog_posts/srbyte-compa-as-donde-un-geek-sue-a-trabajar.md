@@ -1,10 +1,10 @@
 ---
 title: Compañías Donde un Geek Sueña Trabajar
 date: 2008-03-28
-author: Robertux
-tags: programacion, interesante, google, tecnologia
+author: Rodrigo A.
+tags: tecnologia, programacion, google, interesante
 draft: false
-post_id: blog-3515952828243908885.post-804942464225895869
+post_id: blog-3515952828243908885.post-2562861556598501622
 ---
 
 En estos días, ya que tuvimos que estudiar para Recursos Humanos y como no me llevo muy bien con la lectura de la teoría, decidí realizar un par de investigaciones para desaburrirme. Aprovechando el tema de los recursos humanos he realizado una recopilación sobre las compañías mejor calificadas con respecto a recursos humanos, en las que todo programador soñaría trabajar.

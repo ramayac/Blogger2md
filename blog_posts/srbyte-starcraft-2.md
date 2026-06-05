@@ -1,14 +1,14 @@
 ---
 title: StarCraft 2
 date: 2007-04-28
-author: Rodrigo Amaya
-tags: fantastico, starcraft, youtube
+author: Rodrigo A.
+tags: youtube, fantastico, starcraft
 draft: false
 post_id: blog-3515952828243908885.post-7566703827103607999
 ---
 
-![image](https://bp0.blogger.com/_ayvorITawE4/RjOaqEK33nI/AAAAAAAAAUg/6lY0Aa1gqow/s400/StarcraftBox.jpg)    Después de 9 largos
-(muuuuy largos) años, millones de horas gastadas por muchos niños Koreanos (y de todas partes del mundo... pero los torneos de StarLeague son lo maximo) que han jugado día y noche el titulo original de StarCraft... Blizzard anuncia que ya tienen rato de trabajar en Star Craft 2 y que debutara l 19 de Mayo (el día mas hermoso del añ ) en el: Blizzard World Wide Invitation en Seoul. Al fin! ya era hora de que Blizzard admitiera que trabajaban en StarCraft 2, después de todo ya habían reservado el nombre de dominio desde hacia rato... Ja! ¿ creían que no sabíamos ?
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhRFRHkBbis7r8avEzy1P1m4SWa9k5bOZGU4GThefpwLGMgyrwIXfSCxijR6m9ddhgAAzB6CA6ol2RTsDlXn5llHFNyn1CCWs2rcE8jbwl_-HnI7paSuZFfkBVMatzOfF0yDzbUyXKCxwE/s400/StarcraftBox.jpg)    Después de 9 largos (muuuuy largos) años, millones de horas gastadas por muchos niños Koreanos (y de todas partes del mundo... pero los torneos de StarLeague son lo maximo) que han jugado día y noche el titulo original de StarCraft... Blizzard anuncia que ya tienen rato de trabajar en Star Craft 2 y que debutara l 19 de Mayo (el día mas hermoso del añ ) en el:
+Blizzard World Wide Invitation en Seoul. Al fin! ya era hora de que Blizzard admitiera que trabajaban en StarCraft 2, después de todo ya habían reservado el nombre de dominio desde hacia rato... Ja! ¿ creían que no sabíamos ?
 [
 > https://www.starcraft2.com/
 ](https://www.starcraft2.com/) Estoy realmente emocionado acerca de esta noticia, solo espero que no suceda como con StarCraft Ghost... aunque si va por ese camino ... y es multiplayer y usan el motor de WOW... y... exigen procesadores Intel Quad Core... ¡Oh Dios! ¡ Ya quiero ver las primeras imágenes, el arte y la siempre fantástica historia de SC2!

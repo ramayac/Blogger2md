@@ -1,27 +1,23 @@
 ---
 title: MEME Musical
 date: 2007-11-07
-author: Rodrigo Amaya
-tags: personal, meme, musica
+author: Rodrigo A.
+tags: meme, musica, personal
 draft: true
-post_id: blog-3515952828243908885.post-2660920288559475438
+post_id: blog-3515952828243908885.post-2829042312024598971
 ---
 
 Mariolinocopinol autor del blog [Quo Vadis?](https://copinapitli.blogspot.com/2007/11/meme-musical.html) me deja con este "Meme Musical"... y ni modo, por el bien de la interacción en la blogosfera Salvadoreña... hay que hacerlo:
 
 1 ¿Eres hombre o mujer?
 
-Man With Two Hearts
-
-Men At Work
+Man With Two Hearts Men At Work
 
 Like a man who has two hearts Both of them worlds apart Both of them play their part you know
 
 2 Descríbete
 
-I Have The Touch
-
-Peter Gabriel
+I Have The Touch Peter Gabriel
 
 The time I like is the rush hour, cos I like the rush The pushing of the people - I like it all so much Such a mass of motion - do not know where it goes I move with the movement and ... I have the touch
 
@@ -53,8 +49,7 @@ Well, the years start coming and they don't stop coming Bent to the rules and I 
 
 Pacifique Deep Forest
 
-* Instrumental
-*
+* Instrumental *
 
 10 Tu día perfecto.
 

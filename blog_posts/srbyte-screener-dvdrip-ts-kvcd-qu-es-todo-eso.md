@@ -1,10 +1,10 @@
 ---
 title: Screener, DvdRip, TS, KVCD... ¿Qué es todo eso?
-date: 2008-02-08
-author: Rodrigo Amaya
-tags: Salvadoreños, drm, educacion, propietario, fun, bittorrent, interesante, dvd, guia
+date: 2008-02-09
+author: Rodrigo A.
+tags: dvd, Salvadoreños, propietario, guia, educacion, bittorrent, fun, drm, interesante
 draft: false
-post_id: blog-3515952828243908885.post-1198704883968277654
+post_id: blog-3515952828243908885.post-3864991394385198814
 ---
 
 Esta es una pequeña guía para todo aquel pobre internauta confundido, que visita [sitios de torrents](https://srbyte.blogspot.com/2007/03/bittorrent-todo-mundo-ama-bittorrent.html) para descargar "respaldos" de vídeos musicales u de películas, en donde es probable que se haya encontrado con este tipo de jerga: TS, CAM, SCREENER, DVDRIP, etc...
@@ -48,4 +48,4 @@ Así que, eso es todo, estas son las abreviaturas más comunes para determinar e
 
 ¡Saludos y hasta la próxima!
 
-Aclaración del niño bueno: Sr. Byte no se hace responsable por el uso de esta información, ni de lo que sus lectores hagan con ella, esta entrada en el blog es meramente de carácter informativo, de ninguna forma se realiza con la intención de incentivar la violación de las leyes internacionales de derechos de autor. Se exhorta a los lectores a
+Aclaración del niño bueno: Sr. Byte no se hace responsable por el uso de esta información, ni de lo que sus lectores hagan con ella, esta entrada en el blog es meramente de carácter informativo, de ninguna forma se realiza con la intención de incentivar la violación de las leyes internacionales de derechos de autor. Se exhorta a los lectores a respetar las leyes contra la piratería y la propiedad intelectual.

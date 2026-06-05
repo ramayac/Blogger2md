@@ -1,10 +1,10 @@
 ---
 title: ¿Que es el BlogDay?
 date: 2008-08-31
-author: Rodrigo Amaya
+author: Rodrigo A.
 tags: divertido, blog, day
 draft: false
-post_id: blog-3515952828243908885.post-4390008489845722822
+post_id: blog-3515952828243908885.post-7254401207092491172
 ---
 
 ![image](https://www.blogday.org/images/badge_blue.gif)    

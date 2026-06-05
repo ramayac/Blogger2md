@@ -1,7 +1,7 @@
 ---
-title: 77 comandos utiles de Linux [A-E]
+title: 77 comandos utiles de Linux  [A-E]
 date: 2007-12-25
-author: Rodrigo Amaya
+author: Rodrigo A.
 tags: srbyte
 draft: true
 post_id: blog-3515952828243908885.post-8685763810750220348
@@ -21,9 +21,7 @@ bzip2 Reduce el tamaño de archivos de respaldo al comprimirlos con el algoritmo
 
 cat Abrebiacion de la palabra "conCATenar", que significa: unir dos o mas cosas. cat se usa en Linux para vincular el contenido y salida de un archivo para verlo o imprimirlo.
 
-cd cd cambia de directorio.
-
-chmod comando para cambiar los permisos de un archivo.
+cd cd cambia de directorio. chmod comando para cambiar los permisos de un archivo.
 
 chown se usa para cambiar el dueño de un archivo.
 

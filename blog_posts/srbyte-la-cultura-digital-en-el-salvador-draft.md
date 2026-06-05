@@ -1,7 +1,7 @@
 ---
 title: La cultura digital en El Salvador.
 date: 2007-12-31
-author: Rodrigo Amaya
+author: Rodrigo A.
 tags: srbyte
 draft: true
 post_id: blog-3515952828243908885.post-1676359839806636995

@@ -1,10 +1,10 @@
 ---
 title: El cine y sus inicios
 date: 2009-09-23
-author: Wendy Aparicio
+author: Rodrigo A.
 tags: srbyte
 draft: true
-post_id: blog-3515952828243908885.post-711281052333226215
+post_id: blog-3515952828243908885.post-6497538628526046357
 ---
 
 Es imposible hablar de los inicios del cine sin mencionar a los famosos hermanos Lumière.

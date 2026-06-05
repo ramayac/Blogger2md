@@ -1,8 +1,8 @@
 ---
 title: Sr Byte @ LMVP podcast
-date: 2008-09-30
+date: 2008-10-01
 author: Robertux
-tags: wordpress, opinion, blogger, blog, podcast
+tags: blogger, blog, wordpress, opinion, podcast
 draft: false
 post_id: blog-3515952828243908885.post-8540291952728622091
 ---

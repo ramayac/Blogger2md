@@ -1,10 +1,10 @@
 ---
 title: La Maquina de Turing...
 date: 2007-12-31
-author: Rodrigo Amaya
-tags: alan turing, teoria
+author: Rodrigo A.
+tags: teoria, alan turing
 draft: false
-post_id: blog-3515952828243908885.post-4607928593943177246
+post_id: blog-3515952828243908885.post-8978933511008269033
 ---
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/b/b8/Alan_Turing_Memorial_Closer.jpg)     "Imagen de Memorial de Alan Turing"
@@ -21,9 +21,7 @@ Si bien la máquina de Turing no es ficticia (puede ser construida), esta sirve 
 El estudio de sus propiedades abstractas permitió que esta maquina evolucionara (en cierto sentido) en una maquina universal, es decir, aquella que puede simular el comportamiento de otra maquina de Turing.
 
 En 1947, Alan Turing indicó:
-> Se puede demostrar que es
-> posible construir una máquina especial de este tipo que pueda realizar el trabajo de todas las
-> demás. Esta máquina especial puede ser denominada máquina universal.
+> Se puede demostrar que es posible construir una máquina especial de este tipo que pueda realizar el trabajo de todas las demás. Esta máquina especial puede ser denominada máquina universal.
 
 Si una maquina Turing puede operar una función parcial de carácter definido (realizar una operación matemática), en ese sentido, una maquina de Turing se puede considerar como un equivalente a un programa o a un algoritmo. Y si una maquina universal, puede en efecto realizar el trabajo de otras, las implicaciones de esta idea son, probablemente, la idea germinal del concepto de un programa maestro, que supervisa, controla y ejecuta otros programas, es decir, un Sistema Operativo.
 

@@ -1,8 +1,8 @@
 ---
 title: Medios Sociales, Sitios Web a lo 2.0
-date: 2008-05-31
+date: 2008-06-01
 author: Robertux
-tags: web 2.0, social, network, tutorial, internet, interesante
+tags: social, tutorial, web 2.0, internet, interesante, network
 draft: false
 post_id: blog-3515952828243908885.post-8797746415153448249
 ---

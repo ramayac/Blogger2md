@@ -1,13 +1,13 @@
 ---
 title: Fecha Establecida. Conteo Iniciado: The Shutdown Day 2008
 date: 2008-04-17
-author: Robertux
-tags: divertido, programador, idea, computadoras, fun, interesante, day, geek, curioso
+author: Rodrigo A.
+tags: divertido, geek, curioso, idea, programador, day, fun, interesante, computadoras
 draft: false
-post_id: blog-3515952828243908885.post-135227451282870820
+post_id: blog-3515952828243908885.post-4844741908420403216
 ---
 
-![image](https://bp3.blogger.com/_jH77WNrMVRA/SAZSAvKZm8I/AAAAAAAAA1c/iNCjTcaUeC0/s320/logo.gif)    
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmSctgsFlYdIfoDVpG3gEZqCWK8fPWuxfRDgCxa3-8iATcIk57CEzGK3IxW20TMwoZ6ems-Lm8D0felfX8J-kbZqj8288eyoGwNzlVUCcGmYbsAfds3vDNrBtXiviIdDyHXAGXM21W-oM/s320/logo.gif)    
 "Logo Oficial del Sitio y Evento ShutdownDay 2008"
 
 ¿Eres capaz de sobrevivir 24 horas sin utilizar tu computadora?

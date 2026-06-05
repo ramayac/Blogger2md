@@ -1,8 +1,8 @@
 ---
 title: Microsoft esta MUERTO
 date: 2007-04-08
-author: Rodrigo Amaya
-tags: propietario, vista, software, windows, google, microsoft, youtube
+author: Rodrigo A.
+tags: youtube, software, propietario, google, microsoft, windows, vista
 draft: false
 post_id: blog-3515952828243908885.post-8632268147772671493
 ---
@@ -13,8 +13,7 @@ Existen muy pocos autores/escritores de respeto en el mundo de la tecnología, y
 > "[Microsoft is Dead"](https://www.paulgraham.com/microsoft.html)
 Lo interesante del ensayo es que Paul Graham no propone una teoría ridícula (por el momento), como OpenOffice.org destituyendo a Microsoft Office 2007 del reino de las aplicaciones de oficina en todos los escritorios (con plataforma propietaria) o GNU\Linux o Solaris remplazando Windows en todos los escritorios, sino que, el ensayo apunta a la perdida de presencia de Microsoft como compañía en el mundo de la tecnología.
 
-> La verdad es que
-> a nadie le importa lo que Microsoft esta haciendo.
+> La verdad es que a nadie le importa lo que Microsoft esta haciendo.
 El ejemplo perfecto es [Live.com](https://www2.blogger.com/live.com) (WTF?!), que no es nada más que el patético esfuerzo de motor de búsqueda con una apariencia descaradamente similar a la del ya famoso y casi en todas las paginas de inicio de navegadores: Google. O acaso antes de ver este blog, ¿sabias que existía Live.com?... yo no sabia hasta que leí el ensayo que les estoy mencionando. Esto simplemente significa que la atemorizante sombra que Microsoft proyecto sobre el mundo del Software (siguiendo la linea del gigante azul IBM) se esta desvaneciendo. Solo al ver a Bill Gates retirándose en el 2008 para dedicarse a su fundación y el fiasco llamado Office 2007 y ver a este retrasado mental (con dinero, pero sigue siendo retrasado) saltando por ahí:
 
 [https://www.youtube.com/v/Nc4MzqBFxZE](https://www.youtube.com/v/Nc4MzqBFxZE) [https://www.youtube.com/v/Nc4MzqBFxZE](https://www.youtube.com/v/Nc4MzqBFxZE) [https://www.youtube.com/v/Nc4MzqBFxZE](https://www.youtube.com/v/Nc4MzqBFxZE) [https://www.youtube.com/v/Nc4MzqBFxZE](https://www.youtube.com/v/Nc4MzqBFxZE) [https://www.youtube.com/v/Nc4MzqBFxZE](https://www.youtube.com/v/Nc4MzqBFxZE)

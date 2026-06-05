@@ -1,10 +1,10 @@
 ---
 title: Linkeados
 date: 2008-10-24
-author: Robertux
+author: Rodrigo A.
 tags: srbyte
 draft: true
-post_id: blog-3515952828243908885.post-4149895826063772169
+post_id: blog-3515952828243908885.post-5103940157639501218
 ---
 
 https://www.chero07.info/felicidades-sr-byte/

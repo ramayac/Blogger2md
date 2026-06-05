@@ -1,10 +1,10 @@
 ---
 title: Campus Party Iberoamerica: Laptops y Robots
 date: 2008-10-30
-author: Robertux
-tags: campus, laptop, party, computadoras, hp, asus, mac, iphone, air
+author: Rodrigo A.
+tags: campus, hp, air, laptop, asus, iphone, party, mac, computadoras
 draft: false
-post_id: blog-3515952828243908885.post-5237282409421313755
+post_id: blog-3515952828243908885.post-5810110637892896077
 ---
 
 Aca les traemos una muestra de las bellezas que tuvimos el honor de conocer durante el evento. Entre ellas, las Asus Eee PC 701, HP Mini, Macbook Air, Macbook Pro (+ iPhone 3G) y el OLPC.

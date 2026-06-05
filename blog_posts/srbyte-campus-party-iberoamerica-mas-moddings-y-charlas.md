@@ -2,7 +2,7 @@
 title: Campus Party Iberoamerica: Mas Moddings y Charlas
 date: 2008-10-30
 author: Robertux
-tags: case, campus, party, exposicion, astronomia, presentacion, modding, charla
+tags: modding, exposicion, campus, presentacion, astronomia, charla, case, party
 draft: false
 post_id: blog-3515952828243908885.post-5180251255470010866
 ---

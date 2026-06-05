@@ -1,15 +1,14 @@
 ---
 title: Linux en todos los Escritorios...
 date: 2007-03-13
-author: Rodrigo Amaya
-tags: libre, gnu, linux, ubuntu
+author: Rodrigo A.
+tags: ubuntu, linux, libre, gnu
 draft: false
-post_id: blog-3515952828243908885.post-2045358435969452212
+post_id: blog-3515952828243908885.post-8495973040200282155
 ---
 
-[Linux Foundation](https://www.linux-foundation.org/en/Main_Page), es una organización sin fines de lucro, que lucha desde hace tiempito
-por promover la estandarización entre las diversas [distribuciones](https://es.wikipedia.org/wiki/Distribuci%C3%B3n_Linux) de GNU/Linux para mantenerlo avanzando en ese camino tan dificil de los sistemas operativos, lleno de vidrios por las "ventanas" rotas...
-![image](https://bp3.blogger.com/_ayvorITawE4/Rfa2oMU_3YI/AAAAAAAAAK4/pZcbBlZF9EA/s400/vista-cracked-possibly.jpg)    
+[Linux Foundation](https://www.linux-foundation.org/en/Main_Page), es una organización sin fines de lucro, que lucha desde hace tiempito por promover la estandarización entre las diversas [distribuciones](https://es.wikipedia.org/wiki/Distribuci%C3%B3n_Linux) de GNU/Linux para mantenerlo avanzando en ese camino tan dificil de los sistemas operativos, lleno de vidrios por las "ventanas" rotas...
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgO8P97J1Q9OADUcPsaoJiXtUHJ29TwfhShewJvxj4bbeKzrtatkbsl4AdJ4Tla0ZgQmpDjeXdiwjUmXHlnURIu6tXF2SjOrdbuUXON67G3fyKfh-zi0DO87pa2e0uklGJ8X3aZlgEsjuw/s400/vista-cracked-possibly.jpg)    
 Hace poco [Mark Shuttleworth](https://es.wikipedia.org/wiki/Mark_Shuttleworth) se unio a la junta directiva del Linux Foundation. Y claro... Shuttleworth, ademas de viajar al espacio sideral:
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Shuttleworth_big_NASA.jpg/610px-Shuttleworth_big_NASA.jpg)    
@@ -19,4 +18,4 @@ Hace poco [Mark Shuttleworth](https://es.wikipedia.org/wiki/Mark_Shuttleworth) s
 
 Y claro que Linux ya esta en ese camino... más cerca de lo que creen.
 
-Mas información de Ubuntu [aquí](https://ubuntu.com.es/), y no te olvides de visitar la [página oficial de Ubuntu](https://www.ubuntu.com/). Hasta
+Mas información de Ubuntu [aquí](https://ubuntu.com.es/), y no te olvides de visitar la [página oficial de Ubuntu](https://www.ubuntu.com/). Hasta luego!

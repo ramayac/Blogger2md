@@ -2,7 +2,7 @@
 title: Especial de San Valentín
 date: 2008-02-13
 author: Robertux
-tags: amistad, homenaje, informatico, programador, valentin, amor, geek, cafe
+tags: amor, cafe, geek, valentin, amistad, programador, homenaje, informatico
 draft: false
 post_id: blog-3515952828243908885.post-1319988099680259491
 ---

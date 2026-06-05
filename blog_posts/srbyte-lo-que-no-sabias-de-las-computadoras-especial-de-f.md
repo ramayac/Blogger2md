@@ -1,10 +1,10 @@
 ---
 title: Lo que no sabias de las computadoras... (Especial de Fin de Año)
-date: 2007-12-31
-author: Rodrigo Amaya
+date: 2008-01-01
+author: Rodrigo A.
 tags: año nuevo, computadoras
 draft: false
-post_id: blog-3515952828243908885.post-4800674715142043673
+post_id: blog-3515952828243908885.post-6806206835893854178
 ---
 
 Nos han robado la vida social, y nos han dado nuevas formas de interactuar como sociedad. Tendremos que interactuar con ellas, de alguna u otra forma, querramos o no.

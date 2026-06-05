@@ -1,10 +1,10 @@
 ---
 title: Vuelvete Amigo de un Geek para Estas Fiestas
 date: 2008-12-16
-author: Robertux
-tags: navidad, amistad, año nuevo, fun, humor, charla, hugs, geek
+author: Rodrigo A.
+tags: navidad, humor, geek, hugs, año nuevo, amistad, charla, fun
 draft: false
-post_id: blog-3515952828243908885.post-922299627059254879
+post_id: blog-3515952828243908885.post-5526597239110071261
 ---
 
 Cuantos geeks pasaran estas fiestas encerrados en sus casas frente a sus computadoras viendo alguna vieja película, jugando videojuegos o simplemente perdiendo el tiempo en Internet mientras todo mundo se encuentra celebrando con sus amigos de alguna otra manera?

@@ -1,6 +1,6 @@
 ---
 title: La Peor Pesadillla de un Programador
-date: 2008-08-16
+date: 2008-08-17
 author: Robertux
 tags: srbyte
 draft: true

@@ -1,6 +1,6 @@
 ---
 title: Administrando tus proyectos
-date: 2008-09-04
+date: 2008-09-05
 author: Robertux
 tags: srbyte
 draft: true

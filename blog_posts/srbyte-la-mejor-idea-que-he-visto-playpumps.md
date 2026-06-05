@@ -1,8 +1,8 @@
 ---
 title: La mejor idea que he visto... PlayPumps
 date: 2008-03-03
-author: Rodrigo Amaya
-tags: idea, fantastico, el salvador, interesante, tecnologia
+author: Rodrigo A.
+tags: el salvador, tecnologia, fantastico, idea, interesante
 draft: false
 post_id: blog-3515952828243908885.post-8118566739252648579
 ---
@@ -15,5 +15,4 @@ El concepto es tan simple, y sin embargo tan genial: un grupo de niños (hiperac
 
 Ahora la pregunta del "millón de colones" es...
 
-> ¿Cuando vendrá el PlayPump
-> a El Salvador?
+> ¿Cuando vendrá el PlayPump a El Salvador?

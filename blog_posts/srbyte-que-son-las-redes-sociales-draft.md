@@ -1,21 +1,13 @@
 ---
 title: ¿Que son las redes sociales?
 date: 2008-05-11
-author: Rodrigo Amaya
+author: Rodrigo A.
 tags: srbyte
 draft: true
 post_id: blog-3515952828243908885.post-5696320097380298569
 ---
 
-Los sitios web de redes sociales, se encargan de prestar un servicio a sus miembros, dicho servicio consiste en permitir la "interacción" con otros miembros (de dicha red) para formar pequeñas comunidades (o grupos) de individuos agrupados con intereses similares.
-
-Veamos un par de ejemplos: Un coleccionista de... insectos voladores (?), puede encontrar a algunas personas que compartan su mismo interes por la "gran" diferencia entre el color de las alas de una cucaracha de casa y otra de madagascar.
-
-Y tambien puede suceder, el caso de un individuo retraído, rechazado e inadaptado socialmente, al entrar en una red social puede encontrar a miles de personas como el.
-
-En todo caso, ¡el beneficio es inmediato!. Muchas personas opinan, que gracias a las redes sociales: "Ya no es necesario arriesgarce a ser rechazado"... al menos no en persona, lo que disque facilita las cosas.
-
-Pues bien, para mi, el objetivo de una red social en linea es servir como un catalizador para promover la interaccion humana, orientado sus resultados a la realidad. Lamentablemente, esto no es lo que sucede en la realidad, por eso es que podemos encontramos a personas en el hi5, en Orkut, o en FaceBook, que tienen 9999 contactos, pero de esos, quizas solo conocen (en la vide REAL) a 99... o a menos.
+Los sitios web de redes sociales, se encargan de prestar un servicio a sus miembros. Este servicio consiste en permitir la "interaccion"
 
 A social network service uses software to build online social networks for communities of people who share interests and activities or who are interested in exploring the interests and activities of others.
 

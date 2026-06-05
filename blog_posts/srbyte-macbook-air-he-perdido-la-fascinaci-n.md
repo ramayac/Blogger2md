@@ -1,8 +1,8 @@
 ---
 title: MacBook Air... he perdido la fascinación.
 date: 2008-02-02
-author: Rodrigo Amaya
-tags: computadoras, bad, mac, tonto, ipod, iphone, tecnologia, apple
+author: Rodrigo A.
+tags: apple, tecnologia, bad, tonto, iphone, ipod, mac, computadoras
 draft: false
 post_id: blog-3515952828243908885.post-6420068430533917985
 ---

@@ -1,8 +1,8 @@
 ---
 title: Navegador Web de Google...
 date: 2008-09-01
-author: Rodrigo Amaya
-tags: internet, google, navegador
+author: Rodrigo A.
+tags: navegador, google, internet
 draft: false
 post_id: blog-3515952828243908885.post-6755835941121821787
 ---

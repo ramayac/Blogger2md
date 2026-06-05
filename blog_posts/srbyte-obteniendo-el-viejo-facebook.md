@@ -1,7 +1,7 @@
 ---
 title: Obteniendo el "viejo" FaceBook
 date: 2008-09-18
-author: Rodrigo Amaya
+author: Rodrigo A.
 tags: social, tips, trucos
 draft: false
 post_id: blog-3515952828243908885.post-1118772083444441896

@@ -1,8 +1,8 @@
 ---
 title: La estrategia de salida de Bill Gates...
 date: 2008-02-29
-author: Rodrigo Amaya
-tags: bad, interesante, descifrar, microsoft, nerd
+author: Rodrigo A.
+tags: nerd, descifrar, bad, microsoft, interesante
 draft: false
 post_id: blog-3515952828243908885.post-8888143693865710740
 ---
@@ -14,9 +14,7 @@ La idea de que Bill Gates deje su corporación para dedicar "todo su tiempo" a l
 
 Déjenme decirles porque: La fundación esta tan bien hecha que podría funcionar sin que Bill nunca se acerque a ella. Y todo mundo sabe que Melinda puede manejar la fundación tan bien como Bill maneja Microsoft (y hasta mejor quizás). Aunque Bill provea una importante figura estratégica y será valorada en la fundación, les pregunto a ustedes:
 
-> ¿Por que un icono de los negocios y la
-> tecnología piensa en dejar su monopólico negocio para asistir a las aburridas reuniones de una
-> institución de caridad?
+> ¿Por que un icono de los negocios y la tecnología piensa en dejar su monopólico negocio para asistir a las aburridas reuniones de una institución de caridad?
 ![image](https://uk.gizmodo.com/bill%20gates.jpg)    
 "Imagen: Bill Gates."
 
@@ -32,7 +30,7 @@ Después de mandar hipotéticamente a Siberia a Steve Jobs, Apple paso al mando 
 
 "Video: El Retorno de Steve Jobs" No tomaría mucho tiempo para ver esos mismos estragos en Microsoft. Luego, de acuerdo con el -supuesto- plan,el Sr. Gates no tendría más opción que regresar como el héroe a salvar la compañía. Y aunque no hay nada de original en esta idea, si Bill lo hace, pues seria ESPECTACULAR.......
 
-![image](https://bp1.blogger.com/_ayvorITawE4/R8jgDzAI-nI/AAAAAAAAAlI/W39ehfpEZrU/s320/funny-pictures-the-bill-gates-empire-xFw.jpg)    
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzInDkkLneOt1133wYnANvsDGJx-W_iYQrjvG1-0kiQm_rpJds9soJ3zfYAIb-N3S-7to9VCDj8RGO6VmKohAzVOY8zigVMyUYpU4JRRnKikrOnX1MdqVPHcblGEzdid3TAS-0f0SeaKM/s320/funny-pictures-the-bill-gates-empire-xFw.jpg)    
 "Si a Bill le saliera la jugada, fuera espectacular."
 
 Espectacular para Microsoft, sus Fan Boys y sus accionistas. Mejoraría inclusive "[El Retorno del Fundador Prodigo](https://www.wired.com/techbiz/media/news/1996/12/1137)
@@ -52,10 +50,9 @@ Si Bill se queda en Microsoft, pues llega a un callejón sin salida. Así que Bi
 
 Así que, después de todo esto, todavía piensas que Bill realmente se quiere retirar... solo hay que pensar en Bill: aplastando a Borland, peleando contra Sun, consumiendo a Netscape y buscando como erradicar Linux.
 
-> ¡Bill Gates es como un nerd salido del
-> infierno!
+> ¡Bill Gates es como un nerd salido del infierno!
 
-![image](https://bp1.blogger.com/_ayvorITawE4/R8jhKzAI-oI/AAAAAAAAAlQ/fs_futLfDDc/s320/BillGates1977.jpg)    
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjUjU1o9a8yzDB2x__bAWUXGqA_pO_JIRdtZCex_Lpo5R4e1HmkFExYiSprUBXK-KLeWR2N-YFbTbKNTMiYhprWqDqJavXoGGTRt6n8F9H3l7vBH3Qhc5FBp4KsGU1S4b6NiR44pQgzWLE/s320/BillGates1977.jpg)    
 "Imagen: Bill Gates en sus días de rebeldía."
 
 ¿Y todavía piensan que Bill quiere perder el tiempo suplicándole a la gente por dinero? ¡No lo creo! Y bien, ¿Qué piensan los lectores? ¡el Sr. Byte quiere saber tu opinión!

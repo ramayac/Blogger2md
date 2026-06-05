@@ -1,7 +1,7 @@
 ---
 title: Session Tracking
 date: 2009-05-02
-author: Rodrigo Amaya
+author: Rodrigo A.
 tags: srbyte
 draft: true
 post_id: blog-3515952828243908885.post-4912755190029257478
@@ -17,13 +17,11 @@ Cookies Usar cookies para identificar o distinguir a un cliente, es la forma mas
 Con la re-escritura de URL, los vinculos que se retoran al navegador web (para las redirecciones) tienen el ID de la sesion adjuntos a el (a ese vinculo). Por ejemplo, para el siguiente vinculo en una pagina web:
 
 ```
-
 href="tienda/catalogo"
 ```
 se deberia de re-escribir asi:
 
 ```
-
 href="tienda/catalogo;jsessionid=DA32242SSGE2"
 ```
 Cuando el usuario hace clic en ese vinculo, el URL se envia al servidor como parte del ID de la petición del cliente. El servidor o mejor dicho, el contenedor de la aplicacion reconoce la cadena: ;jsessionid=DA32242SSGE2 como el ID de la sesion de ese cliente y la guarda para obtener el objeto HttpSession correcto para ese usuario/cliente.
@@ -41,21 +39,17 @@ out.println("<a href="unaurl"&mt;catalogo</a&mt;</a&mt;");
 Imagina que le retornas a un cliente, entre otras cosas claro, un vinculo asi:
 
 ```
-
 out.println("</a&mt;<a href="unaurl;"&mt;catalogo</a&mt;");
 ```
 En este caso usariamos encodeURL(), para retornarle una URL adecuada al cliente:Usar "Encode Redirect URL" en la aplicación:Y si tienes la siguiente declaracion:
 ```
-
 response.sendRedirect("https://unhost.com/tienda/catalogo");
 ```
 Tendrias que cambiar el servlet para que llame al metodo encodeRedirectURL() antes de enviar la URL al "output stream":
 ```
-
 response.sendRedirect(response.encodeRedirectURL("https://unhost.com/tienda/catalogo"));
 ```
 Los metodos encodeURL() y encodeRedirectURL() son parte del objeto HttpServletResponse. Estas llamadas verifican que la re-escritura de URL esta configurada antes de enviar el URL codificado (encoded). Si no esta configurada (la re-escritura de URL) esta retorna el URL original.If both cookies and URL rewriting are enabled and response.encodeURL() or encodeRedirectURL() is called, the URL is encoded, even if the browser making the HTTP request processed the session cookie. You can also configure session support to enable protocol switch rewriting. When this option is enabled, the product encodes the URL with the session ID for switching between HTTP and HTTPS protocols. Supply a servlet or JSP file as an entry point The entry point to an application (such as the initial screen presented) may not require the use of sessions. However, if the application in general requires session support (meaning some part of it, such as a servlet, requires session support) then after a session is created, all URLs must be encoded in order to perpetuate the session ID for the servlet (or other application component) requiring the session support. The following example shows how Java code can be embedded within a JSP file:
-
 ```
 
 ```
