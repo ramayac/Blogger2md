@@ -60,6 +60,7 @@ python3 blogger2md.py [options]
 | `--bundle` | *None* | Flag to bundle all exported `.md` files into a single `.md` file. |
 | `--bundle-path` | `big.md` | Path/filename for the bundled Markdown file (if `--bundle` is active). |
 | `--include-drafts-in-bundle` | *None* | Flag to include draft posts in the bundled file. |
+| `--replace-domains` | *None* | Comma-separated list of domains to rewrite to relative paths (e.g. `myblog.blogspot.com,olddomain.com`). |
 
 ### Examples
 
@@ -68,8 +69,35 @@ Export only published posts (skipping drafts and comments) into the default `blo
 ```bash
 python3 blogger2md.py --xml feed.atom
 ```
-#### 2. Export and Bundle into a Single File
+
+#### 2. Export and Rewrite Domains to Relative Paths
+Replace any absolute links pointing to your old Blogger domains with relative paths:
+```bash
+python3 blogger2md.py --xml feed.atom --replace-domains "myblog.blogspot.com,myblog.com"
+```
+
+#### 3. Export and Bundle into a Single File
 Export all published posts and generate a single combined `big.md` file:
 ```bash
 python3 blogger2md.py --xml feed.atom --bundle --bundle-path my_blog_archive.md
+```
+
+---
+
+## Makefile
+
+A `Makefile` is included for convenience. The `DOMAINS` variable controls which domains are rewritten to `/` during export and defaults to the srbyte.com family of domains.
+
+```bash
+# Export using the default DOMAINS list
+make process
+
+# Override the domain list
+make process DOMAINS="myblog.blogspot.com,olddomain.com"
+
+# Disable domain rewriting entirely
+make process DOMAINS=""
+
+# Fetch the raw XML of a specific post (useful for debugging)
+make get-post id=<post_id>
 ```
