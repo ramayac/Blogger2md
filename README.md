@@ -1,8 +1,10 @@
-# SrByte Blogger backup
+# Blogger2md
 
-SrByte was a blog I had when blogger was a thing.
+Blogger2md is created by nostalgia. I had this blog "Sr. Byte" (Like Mr. Byte but in Spanish) that I had when blogger was a thing, I lost the domain and archive the blog, but I remember the post / content fondly.
 
-This repo and Python script is used to convert Blogger Google Takeout Atom feeds into clean, structured, and individual Markdown files. It parses Blogger posts, pages, and comments, cleans up HTML markup into strict Markdown syntax, formats metadata into YAML frontmatter, and offers options to bundle the resulting files into a single document.
+So I build this tool (script) to parse the Blogger Google Takeout Atom feeds into clean, structured, and individual Markdown files. 
+
+It parses Blogger posts, pages, and comments, cleans up HTML markup into strict Markdown syntax, formats metadata into YAML frontmatter, and offers options to bundle the resulting files into a single document.
 
 And that's it! curious why I did it and where are these .md files now? well check out my personal blog [ramayac.com](https://ramayac.com) where I have published all the posts from this backup in my own blog engine called [MDBlog](https://github.com/ramayac/mdblog).
 
