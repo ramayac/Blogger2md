@@ -13,7 +13,7 @@ Want to use it, still interested? keep reading:
 - **Multi-Format XML/Atom Support**: Works with both classic Blogger export XML files and the newer Google Takeout Blogger 2018 `feed.atom` format. But I'm only supporting the `feed.atom` format for now, since that's what Google Takeout provides.
 
 - **Robust HTML-to-Markdown Parser**:
-  - Converts headings (`<h1>` to `<h6>`), lists (`<ul>`, `<ol>`, `<li>`), blockquotes, code blocks (`<pre><code>`), links, and images.
+  - Converts headings (`<h1>` to `<h6>`), lists (`<ul>`, `<ol>`, `<li>`), blockquotes, code blocks (`<pre><code>`), links, images, and iframe/video embeds.
   - Automatically normalizes double/single quotes in captions.
   - Standardizes all image alt tags and handles linked images.
   - Converts all HTTP URLs to HTTPS for secure linking.

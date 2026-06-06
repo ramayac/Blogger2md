@@ -103,6 +103,22 @@ def clean_text_to_markdown(text: str) -> str:
     text = re.sub(r'<\s*a[^>]*href\s*=\s*"([^"]*)"[^>]*>(.*?)</\s*a\s*>', lambda m: _a_repl(m), text, flags=re.IGNORECASE | re.DOTALL)
     text = re.sub(r"<\s*a[^>]*href\s*=\s*'([^']*)'[^>]*>(.*?)</\s*a\s*>", lambda m: _a_repl(m), text, flags=re.IGNORECASE | re.DOTALL)
 
+    # iframe -> [title or Video/Embed](src)
+    def _iframe_repl(m):
+        attrs = m.group(1)
+        src_match = re.search(r'src\s*=\s*(["\'])(.*?)\1', attrs, flags=re.IGNORECASE)
+        title_match = re.search(r'title\s*=\s*(["\'])(.*?)\1', attrs, flags=re.IGNORECASE)
+        src = src_match.group(2) if src_match else ''
+        title = title_match.group(2) if title_match else ''
+        if not title:
+            if src and ('youtube' in src.lower() or 'vimeo' in src.lower()):
+                title = 'Video'
+            else:
+                title = 'Video/Embed'
+        return f'[{title}]({src})' if src else ''
+    text = re.sub(r'<\s*iframe\b([^>]*?)(?:/>|>(?:.*?<\s*/\s*iframe\s*>)?)', _iframe_repl, text, flags=re.IGNORECASE | re.DOTALL)
+
+
     # Blockquote
     def _blockquote_repl(m):
         inner = m.group(1).strip()
@@ -200,24 +216,26 @@ def clean_text_to_markdown(text: str) -> str:
     # Remove trailing whitespace from lines
     text = '\n'.join(line.rstrip() for line in text.splitlines())
     
+    url_pattern = r'(?:[^()]*\([^()]*\)[^()]*|[^()]+)'
+
     # Fix image captions: add newline between image links and quotes that follow them
     # This handles cases like [![...](...)!](...)"Caption" -> [![...](...)!](...)\n"Caption"
-    text = re.sub(r'(\]\([^)]+\))(")', r'\1\n\2', text)
+    text = re.sub(rf'(\]\({url_pattern}\))(")', r'\1\n\2', text)
     
     # Convert ALL linked images to simple images with "image" as alt text
     # This handles cases like [![anything](image_url)](any_link_url) -> ![image](image_url)
-    text = re.sub(r'\[!\[[^\]]*\]\(([^)]+)\)\]\([^)]+\)', r'![image](\1)  ', text)
+    text = re.sub(rf'\[!\[[^\]]*\]\(({url_pattern})\)\]\({url_pattern}\)', r'![image](\1)  ', text)
     
     # Also handle any remaining simple images to ensure they all use "image" as alt text
     # This handles cases like ![anything](url) -> ![image](url)
-    text = re.sub(r'!\[[^\]]*\]\(([^)]+)\)', r'![image](\1)  ', text)
+    text = re.sub(rf'!\[[^\]]*\]\(({url_pattern})\)', r'![image](\1)  ', text)
     
     # Convert ALL HTTP URLs to HTTPS
     text = re.sub(r'http://', r'https://', text)
     
     # Fix spacing between images and following text
     # Add space after image markdown when immediately followed by text/links
-    text = re.sub(r'(\]\([^)]+\))([A-Za-z\[])', r'\1 \2', text)
+    text = re.sub(rf'(\]\({url_pattern}\))([A-Za-z\[])', r'\1 \2', text)
     
     return text.strip()
 
