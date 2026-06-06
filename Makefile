@@ -6,7 +6,7 @@ XML ?= $(shell if [ -f feed.xml ]; then echo feed.xml; else echo feed.atom; fi)
 all: process
 
 process:
-	python3 srbyte.py --xml $(XML)
+	python3 blogger2md.py --xml $(XML)
 
 change-domain:
 	python3 -c "import glob, re; [open(f, 'w', encoding='utf-8').write(re.sub(r'https?://(?:www\.)?srbyte\.com/?', '/', c)) for f in glob.glob('blog_posts/*.md') for c in [open(f, 'r', encoding='utf-8').read()]]"

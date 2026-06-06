@@ -32,7 +32,7 @@ Want to use it, still interested? keep reading:
 
 ## File Structure
 
-- [srbyte.py](./srbyte.py): The main converter script containing all HTML parsing, XML extraction, and bundling logic.
+- [blogger2md.py](./blogger2md.py): The main converter script containing all HTML parsing, XML extraction, and bundling logic.
 - `feed.atom`: Input Blogger export files (XML format).
 - `blog_posts/`: Default output directory containing individual generated markdown files.
 - `big.md`: Optional bundled file containing all generated posts concatenated.
@@ -44,7 +44,7 @@ Want to use it, still interested? keep reading:
 You can run the script using Python 3.
 
 ```bash
-python3 srbyte.py [options]
+python3 blogger2md.py [options]
 ```
 
 ### CLI Arguments
@@ -64,10 +64,10 @@ python3 srbyte.py [options]
 #### 1. Export Published Posts (Default)
 Export only published posts (skipping drafts and comments) into the default `blog_posts/` directory:
 ```bash
-python3 srbyte.py --xml feed.atom
+python3 blogger2md.py --xml feed.atom
 ```
 #### 2. Export and Bundle into a Single File
 Export all published posts and generate a single combined `big.md` file:
 ```bash
-python3 srbyte.py --xml feed.atom --bundle --bundle-path my_blog_archive.md
+python3 blogger2md.py --xml feed.atom --bundle --bundle-path my_blog_archive.md
 ```
