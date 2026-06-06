@@ -44,3 +44,14 @@ The codebase consists of a single python script: [srbyte.py](./srbyte.py).
 
 4. **[bundle_markdown_files(output_dir, bundle_path, skip_comments, skip_drafts)](./srbyte.py#L389)**:
    - Merges all `.md` files in a folder into a single file (like `big.md`), separated by `---`.
+
+---
+
+## Makefile Targets
+
+A [Makefile](./Makefile) is provided to simplify common tasks:
+
+- **`make process`**: Parses the feed XML file (automatically uses `feed.xml` if present, otherwise falls back to `feed.atom`).
+- **`make change-domain`**: Replaces the `srbyte.com` and `www.srbyte.com` domains with relative paths (`/`) inside all generated markdown files.
+- **`make get-post id=<post_id>`**: Extracts and outputs the raw XML for a specific post based on its ID parameter (extremely useful for debugging).
+
