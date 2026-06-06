@@ -1,18 +1,18 @@
 # Blogger2md
 
-Blogger2md is created by nostalgia. I had this blog "Sr. Byte" (Like Mr. Byte but in Spanish) that I had when blogger was a thing, I lost the domain and archive the blog, but I remember the post / content fondly.
+Blogger2md was created out of nostalgia. I had a blog called "Sr. Byte" (short for *Señor Byte*) back when Blogger was popular. I eventually lost the domain and archived the blog, but I still remember the posts and content fondly.
 
-So I build this tool (script) to parse the Blogger Google Takeout Atom feeds into clean, structured, and individual Markdown files. 
+So I built this tool to parse Blogger Google Takeout Atom feeds into clean, structured, and individual Markdown files. 
 
 It parses Blogger posts, pages, and comments, cleans up HTML markup into strict Markdown syntax, formats metadata into YAML frontmatter, and offers options to bundle the resulting files into a single document.
 
-And that's it! curious why I did it and where are these .md files now? well check out my personal blog [ramayac.com](https://ramayac.com) where I have published all the posts from this backup in my own blog engine called [MDBlog](https://github.com/ramayac/mdblog).
+Curious about why I did it and where these `.md` files are now? Check out my personal blog at [ramayac.com](https://ramayac.com), where I have published all the posts from this backup using my own blog engine, [MDBlog](https://github.com/ramayac/mdblog).
 
-Want to use it, still interested? keep reading:
+If you would like to use this tool, keep reading:
 
 ## Features
 
-- **Multi-Format XML/Atom Support**: Works with both classic Blogger export XML files and the newer Google Takeout Blogger 2018 `feed.atom` format. But I'm only supporting the `feed.atom` format for now, since that's what Google Takeout provides.
+- **Multi-Format XML/Atom Support**: Works with both classic Blogger export XML files and the newer Google Takeout Blogger `feed.atom` format (primarily optimized for the Google Takeout schema).
 
 - **Robust HTML-to-Markdown Parser**:
   - Converts headings (`<h1>` to `<h6>`), lists (`<ul>`, `<ol>`, `<li>`), blockquotes, code blocks (`<pre><code>`), links, images, and iframe/video embeds.
