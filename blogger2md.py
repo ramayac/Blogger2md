@@ -35,7 +35,7 @@ def create_slug(text: str) -> str:
     
     return slug
 
-def clean_text_to_markdown(text: str) -> str:
+def clean_text_to_markdown(text: str, replace_domains: list = None) -> str:
     """
     Convert Blogger HTML content to strict Markdown.
     - Strip all HTML tags and inline styles/scripts
@@ -254,9 +254,14 @@ def clean_text_to_markdown(text: str) -> str:
             
     text = re.sub(rf'!\[image\]\({url_pattern}\)', _ensure_blank_line_before_image, text)
     
+    if replace_domains:
+        for domain in replace_domains:
+            escaped_domain = re.escape(domain.strip())
+            text = re.sub(rf'https?://(?:www\.)?{escaped_domain}/?', '/', text)
+            
     return text.strip()
 
-def parse_blogger_xml(file_path: str, output_dir: str = "blog_posts", include_comments: bool = False, export_drafts: bool = False):
+def parse_blogger_xml(file_path: str, output_dir: str = "blog_posts", include_comments: bool = False, export_drafts: bool = False, replace_domains: list = None):
     """
     Parses the Blogger XML file or Atom feed file and creates individual Markdown files for each entry.
     Supports both the original Blogger export XML format and the newer Google Takeout Blogger 2018 feed.atom format.
@@ -396,7 +401,7 @@ def parse_blogger_xml(file_path: str, output_dir: str = "blog_posts", include_co
         if content is None:
             continue
         content_text = content.text or ''
-        content_text = clean_text_to_markdown(content_text)
+        content_text = clean_text_to_markdown(content_text, replace_domains=replace_domains)
         
         # Create YAML frontmatter
         frontmatter = f"""---
@@ -476,9 +481,20 @@ if __name__ == "__main__":
     parser.add_argument("--bundle-path", default="big.md", help="Path/name for the bundled Markdown file (default: big.md)")
     parser.add_argument("--include-drafts-in-bundle", action="store_true", help="Include draft posts in the bundled big.md file")
     parser.add_argument("--export-drafts", action="store_true", help="Export draft posts as markdown files")
+    parser.add_argument("--replace-domains", help="Comma-separated list of domains to replace with relative paths (e.g., srbyte.com,rodrigoamaya.blogspot.com)")
     args = parser.parse_args()
 
-    parse_blogger_xml(args.xml, output_dir=args.out, include_comments=args.include_comments, export_drafts=args.export_drafts)
+    replace_domains_list = None
+    if args.replace_domains:
+        replace_domains_list = [d.strip() for d in args.replace_domains.split(',') if d.strip()]
+
+    parse_blogger_xml(
+        args.xml, 
+        output_dir=args.out, 
+        include_comments=args.include_comments, 
+        export_drafts=args.export_drafts,
+        replace_domains=replace_domains_list
+    )
     if args.bundle:
         out_path = bundle_markdown_files(
             args.out, 

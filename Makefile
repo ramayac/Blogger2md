@@ -9,7 +9,7 @@ process:
 	python3 blogger2md.py --xml $(XML)
 
 change-domain:
-	python3 -c "import glob, re; [open(f, 'w', encoding='utf-8').write(re.sub(r'https?://(?:www\.)?srbyte\.com/?', '/', c)) for f in glob.glob('blog_posts/*.md') for c in [open(f, 'r', encoding='utf-8').read()]]"
+	python3 -c "import glob, re; [open(f, 'w', encoding='utf-8').write(re.sub(r'https?://(?:www\.)?(?:srbyte|rodrigoamaya)\.(?:com|blogspot\.com|blogger\.com)/?', '/', c)) for f in glob.glob('blog_posts/*.md') for c in [open(f, 'r', encoding='utf-8').read()]]"
 
 
 
@@ -24,5 +24,5 @@ get-post:
 help:
 	@echo "Usage:"
 	@echo "  make process                 - Process the Atom/XML feed file (defaults to feed.xml if present, else feed.atom)"
-	@echo "  make change-domain           - Replace srbyte.com / www.srbyte.com domains with relative path (/) in generated files"
+	@echo "  make change-domain           - Replace srbyte and rodrigoamaya domains with relative path (/) in generated files"
 	@echo "  make get-post id=<post_id>   - Output the raw XML of a single post based on id (useful for debugging)"

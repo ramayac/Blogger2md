@@ -54,6 +54,6 @@ The codebase consists of a single python script: [blogger2md.py](./blogger2md.py
 A [Makefile](./Makefile) is provided to simplify common tasks:
 
 - **`make process`**: Parses the feed XML file (automatically uses `feed.xml` if present, otherwise falls back to `feed.atom`).
-- **`make change-domain`**: Replaces the `srbyte.com` and `www.srbyte.com` domains with relative paths (`/`) inside all generated markdown files.
+- **`make change-domain`**: Replaces the `srbyte.com`, `srbyte.blogspot.com`, `srbyte.blogger.com`, and `rodrigoamaya.blogspot.com` domains with relative paths (`/`) inside all generated markdown files.
 - **`make get-post id=<post_id>`**: Extracts and outputs the raw XML for a specific post based on its ID parameter (extremely useful for debugging).
 
