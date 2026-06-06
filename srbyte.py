@@ -357,6 +357,7 @@ def parse_blogger_xml(file_path: str, output_dir: str = "blog_posts", include_co
         # Extract title
         title_element = entry.find('atom:title', namespaces)
         title = title_element.text if title_element is not None and title_element.text else entry_id
+        title = html.unescape(title)
         
         # Extract published date
         published_element = entry.find('atom:published', namespaces)
