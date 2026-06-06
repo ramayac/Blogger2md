@@ -18,6 +18,8 @@ Don't assume, don't over-engineer, and don't add unnecessary complexity. The goa
 - **Drafts Excluded by Default**: Modified the XML parser to skip exporting drafts by default.
 - **Added `--export-drafts` Flag**: Added a CLI argument `--export-drafts` to allow optional export of draft posts if requested.
 - **Verified Functionality**: Ran test exports and confirmed that `0` drafts are exported without the flag, and exactly `32` drafts are exported when the flag is present in the `feed.atom` dataset.
+- **Ensure Blank Line Before Images**: Added logic to ensure a blank line is formatted before every `![image](url)` markdown image.
+
 
 ---
 

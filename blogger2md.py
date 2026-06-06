@@ -240,6 +240,20 @@ def clean_text_to_markdown(text: str) -> str:
     # Add newline (and trailing spaces for line break) after image markdown when immediately followed by text/links
     text = re.sub(rf'(\]\({url_pattern}\))([A-Za-z\[])', r'\1  \n\2', text)
     
+    # Ensure there is a blank line before every image markdown (unless it's at the start)
+    def _ensure_blank_line_before_image(match):
+        preceding = match.string[:match.start()].rstrip(' \t')
+        if not preceding:
+            return match.group(0)
+        if preceding.endswith('\n\n'):
+            return match.group(0)
+        elif preceding.endswith('\n'):
+            return '\n' + match.group(0)
+        else:
+            return '\n\n' + match.group(0)
+            
+    text = re.sub(rf'!\[image\]\({url_pattern}\)', _ensure_blank_line_before_image, text)
+    
     return text.strip()
 
 def parse_blogger_xml(file_path: str, output_dir: str = "blog_posts", include_comments: bool = False, export_drafts: bool = False):
